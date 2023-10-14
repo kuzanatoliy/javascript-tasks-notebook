@@ -1,0 +1,12 @@
+{
+  "name": "@kuzanatoliorg/javascript-tasks-notebook",
+  "version": "1.0.0",
+  "description": "List of practical tasks in javascript",
+  "main": "index.js",
+  "repository": "https://github.com/kuzanatoliy/javascript-tasks-notebook.git",
+  "bugs": "https://github.com/kuzanatoliy/javascript-tasks-notebook/issues",
+  "homepage": "https://github.com/kuzanatoliy/javascript-tasks-notebook#readme",
+  "author": "kuzanatoliy <njkznu@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
