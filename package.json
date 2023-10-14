@@ -8,5 +8,12 @@
   "homepage": "https://github.com/kuzanatoliy/javascript-tasks-notebook#readme",
   "author": "kuzanatoliy <njkznu@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@commitlint/cli": "^17.8.0",
+    "@commitlint/config-conventional": "^17.8.0",
+    "@kuzanatoliorg/commitlint-config": "^1.0.0",
+    "@kuzanatoliorg/prettier-config": "^1.10.0",
+    "prettier": "^3.0.3"
+  }
 }
