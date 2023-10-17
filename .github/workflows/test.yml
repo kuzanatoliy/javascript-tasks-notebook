@@ -1,4 +1,4 @@
-name: quality gates
+name: test
 on:
   workflow_dispatch:
     inputs:
