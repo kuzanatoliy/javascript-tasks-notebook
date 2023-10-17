@@ -9,7 +9,7 @@ on:
       task:
         description: 'The task number'
         required: true
-        type: boolean
+        type: string
 jobs:
   pipeline:
     runs-on: ubuntu-latest
