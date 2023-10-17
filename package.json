@@ -10,6 +10,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "test": "jest src",
     "prettier:write": "prettier --write .",
     "prettier:check": "prettier --check .",
     "commitlint": "commitlint --edit"
@@ -23,6 +24,7 @@
     "@kuzanatoliorg/commitlint-config": "^1.0.0",
     "@kuzanatoliorg/prettier-config": "^1.10.0",
     "husky": "^8.0.3",
+    "jest": "^29.7.0",
     "prettier": "^3.0.3"
   }
 }
