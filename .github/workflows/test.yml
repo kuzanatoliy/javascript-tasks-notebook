@@ -25,4 +25,4 @@ jobs:
       - name: install
         run: yarn install
       - name: test
-        run: npx jest src/${{ inputs.battle }}/${{ inputs.task }}.js
+        run: npx jest src/${{ inputs.battle }}/${{ inputs.task }}
