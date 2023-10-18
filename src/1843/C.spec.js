@@ -9,7 +9,7 @@ describe('1843C. Apple Tree', () => {
     ${1n}                 | ${1n}
     ${10000000000000000n} | ${19999999999999980n}
     ${15n}                | ${26n}
-  `('input $node output $result', ({ node, result }) => {
+  `('Base test: input $node output $result', ({ node, result }) => {
     expect(binaryTreeSum(node)).toBe(result);
   });
 });
