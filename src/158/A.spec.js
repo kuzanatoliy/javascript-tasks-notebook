@@ -1,6 +1,6 @@
 const { checkPlayersForNextRound } = require('./A');
 
-describe('A. Next Round', () => {
+describe('158A. Next Round', () => {
   it.each`
     n    | place | array                        | result
     ${1} | ${5}  | ${[10, 9, 8, 7, 7, 7, 5, 5]} | ${6}

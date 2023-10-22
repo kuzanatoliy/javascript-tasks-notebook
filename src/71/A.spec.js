@@ -8,6 +8,6 @@ describe('71A. Way Too Long Words', () => {
     ${3} | ${'internationalization'}                          | ${'i18n'}
     ${4} | ${'pneumonoultramicroscopicsilicovolcanoconiosis'} | ${'p43s'}
   `('Base test: $n', ({ word, result }) => {
-    expect(checkEvenPices(word)).toBe(result);
+    expect(convertLongWord(word)).toBe(result);
   });
 });

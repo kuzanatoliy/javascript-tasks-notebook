@@ -1,6 +1,6 @@
 const { checkBitPlusPlusValue } = require('./A');
 
-describe('231A. Team', () => {
+describe('282A. Bit++', () => {
   it.each`
     n    | operations        | result
     ${1} | ${['++X']}        | ${1}
