@@ -1,4 +1,4 @@
-# Codeforces Round 12313 (Div. 2)
+# Codeforces Round 143 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/231)
 
