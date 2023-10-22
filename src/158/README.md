@@ -4,7 +4,7 @@
 
 [A. Next Round](https://codeforces.com/contest/158/problem/A) - Done
 
-[B. Taxi](https://codeforces.com/contest/158/problem/B)
+[B. Taxi](https://codeforces.com/contest/158/problem/B) - Done
 
 [C. Cd and pwd commands](https://codeforces.com/contest/158/problem/C)
 
