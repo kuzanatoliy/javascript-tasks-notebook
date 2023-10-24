@@ -12,7 +12,7 @@ describe('4A. Watermelon', () => {
     n    | weight | result
     ${1} | ${2}   | ${'NO'}
     ${2} | ${3}   | ${'NO'}
-    ${2} | ${6}   | ${'YES'}
+    ${3} | ${6}   | ${'YES'}
   `('Special test: $n', ({ weight, result }) => {
     expect(checkEvenPices(weight)).toBe(result);
   });

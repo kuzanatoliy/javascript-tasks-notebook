@@ -4,7 +4,7 @@ describe('231A. Team', () => {
   it.each`
     n    | matrix                               | result
     ${1} | ${[[1, 1, 0], [1, 1, 1], [1, 0, 0]]} | ${2}
-    ${1} | ${[[1, 0, 0], [0, 1, 1]]}            | ${1}
+    ${2} | ${[[1, 0, 0], [0, 1, 1]]}            | ${1}
   `('Base test: $n', ({ matrix, result }) => {
     expect(checkTasksCount(matrix)).toBe(result);
   });
