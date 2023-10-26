@@ -1,6 +1,6 @@
 const { capitalizeWord } = require('./A');
 
-describe('282A. Word Capitalization', () => {
+describe('281A. Word Capitalization', () => {
   it.each`
     n    | word        | result
     ${1} | ${'ApPLe'}  | ${'ApPLe'}
