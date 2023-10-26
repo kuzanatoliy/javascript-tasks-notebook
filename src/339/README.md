@@ -4,7 +4,7 @@
 
 [A. Helpful Maths](https://codeforces.com/contest/339/problem/A) - Done
 
-[B. Xenia and Ringroad](https://codeforces.com/contest/339/problem/B)
+[B. Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) - Done
 
 [C. Xenia and Weights](https://codeforces.com/contest/339/problem/C)
 
