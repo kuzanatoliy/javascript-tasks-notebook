@@ -6,7 +6,7 @@
 
 [B. Vanya and Food Processor](https://codeforces.com/contest/677/problem/B) - Done
 
-[C. Vanya and Label](https://codeforces.com/contest/677/problem/C)
+[C. Vanya and Label](https://codeforces.com/contest/677/problem/C) - Done
 
 [D. Vanya and Treasure](https://codeforces.com/contest/677/problem/D)
 
