@@ -4,7 +4,7 @@
 
 [A. George and Accommodation](https://codeforces.com/contest/467/problem/A) - Done
 
-[B. Fedor and New Game](https://codeforces.com/contest/467/problem/B)
+[B. Fedor and New Game](https://codeforces.com/contest/467/problem/B) - Done
 
 [C. George and Job](https://codeforces.com/contest/467/problem/C)
 
