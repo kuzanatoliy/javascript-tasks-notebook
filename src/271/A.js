@@ -1,5 +1,6 @@
 module.exports = {
   checkBeautifulYear: (year) => {
+    // eslint-disable-next-line no-constant-condition
     while (true) {
       year++;
       const temp = year.toString().split('').sort();
