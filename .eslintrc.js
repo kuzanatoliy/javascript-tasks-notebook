@@ -5,7 +5,8 @@ module.exports = {
     commonjs: true,
     es2021: true,
   },
-  extends: 'eslint:recommended',
+  extends: ['eslint:recommended', 'prettier'],
+  plugins: ['prettier'],
   overrides: [
     {
       env: {
@@ -21,6 +22,6 @@ module.exports = {
     ecmaVersion: 'latest',
   },
   rules: {
-    'prettier/prettier': [2, require('./.prettierrc.cjs')],
+    'prettier/prettier': [2, require('./.prettierrc.js')],
   },
 };
