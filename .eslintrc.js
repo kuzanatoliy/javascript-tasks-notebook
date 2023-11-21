@@ -24,6 +24,7 @@ module.exports = {
   rules: {
     'prettier/prettier': [2, require('./.prettierrc.js')],
 
+    // Possible problems
     'array-callback-return': [
       'error',
       { allowImplicit: false, checkForEach: false, allowVoid: false },
@@ -57,5 +58,44 @@ module.exports = {
     'no-inner-declarations': ['error', 'functions'],
     'no-invalid-regexp': 'error',
     'no-irregular-whitespace': 'error',
+    'no-loss-of-precision': 'error',
+    'no-misleading-character-class': 'error',
+    'no-new-native-nonconstructor': 'error',
+    'no-new-symbol': 'error',
+    'no-obj-calls': 'error',
+    'no-promise-executor-return': 'error',
+    'no-prototype-builtins': 'error',
+    'no-self-assign': ['error', { props: true }],
+    'no-self-compare': 'error',
+    'no-setter-return': 'error',
+    'no-sparse-arrays': 'error',
+    'no-template-curly-in-string': 'error',
+    'no-this-before-super': 'error',
+    'no-undef': ['error', { typeof: true }],
+    'no-unexpected-multiline': 'error',
+    'no-unmodified-loop-condition': 'error',
+    'no-unreachable': 'error',
+    'no-unreachable-loop': 'error',
+    'no-unsafe-finally': 'error',
+    'no-unsafe-negation': ['error', { enforceForOrderingRelations: true }],
+    'no-unsafe-optional-chaining': 'error',
+    'no-unused-private-class-members': 'error',
+    'no-unused-vars': 'error',
+    'no-use-before-define': [
+      'error',
+      {
+        functions: true,
+        classes: true,
+        variables: true,
+        allowNamedExports: false,
+      },
+    ],
+    'no-useless-backreference': 'error',
+    'require-atomic-updates': ['error', { allowProperties: false }],
+    'use-isnan': [
+      'error',
+      { enforceForSwitchCase: true, enforceForIndexOf: false },
+    ],
+    'valid-typeof': ['error', { requireStringLiterals: true }],
   },
 };
