@@ -97,5 +97,40 @@ module.exports = {
       { enforceForSwitchCase: true, enforceForIndexOf: false },
     ],
     'valid-typeof': ['error', { requireStringLiterals: true }],
+
+    // Suggestions
+    'accessor-pairs': [
+      'error',
+      {
+        setWithoutGet: true,
+        getWithoutSet: true,
+        enforceForClassMembers: true,
+      },
+    ],
+    'arrow-body-style': [
+      'error',
+      'as-needed',
+      { requireReturnForObjectLiteral: false },
+    ],
+    'block-scoped-var': 'error',
+    camelcase: [
+      'error',
+      {
+        properties: 'always',
+        ignoreDestructuring: false,
+        ignoreImports: false,
+        ignoreGlobals: false,
+        allow: [],
+      },
+    ],
+    'capitalized-comments': [
+      'error',
+      'always',
+      {
+        ignorePattern: '',
+        ignoreInlineComments: false,
+        ignoreConsecutiveComments: false,
+      },
+    ],
   },
 };

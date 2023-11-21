@@ -6,7 +6,7 @@ module.exports = {
   checkLabelCount: (string) => {
     let count = 0;
     let result = 1;
-    for (var i = 0; i < string.length; i++) {
+    for (let i = 0; i < string.length; i++) {
       let ans = ALPHABET.indexOf(string[i]);
       let j = 0;
       while (ans > 0) {
@@ -16,7 +16,7 @@ module.exports = {
       }
       count += 6 - j;
     }
-    for (i = 0; i < count; i++) {
+    for (let i = 0; i < count; i++) {
       result *= 3;
       if (result > MOD) {
         result %= MOD;
