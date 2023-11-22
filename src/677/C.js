@@ -10,7 +10,9 @@ module.exports = {
       let ans = ALPHABET.indexOf(string[i]);
       let j = 0;
       while (ans > 0) {
-        if (ans % 2 == 0) count++;
+        if (ans % 2 === 0) {
+          count++;
+        }
         j++;
         ans = ans >> 1;
       }

@@ -5,6 +5,7 @@ module.exports = {
       year++;
       const temp = year.toString().split('').sort();
       let i;
+      // eslint-disable-next-line curly
       for (i = 1; i < temp.length && temp[i - 1] !== temp[i]; i++);
       if (i === temp.length) {
         break;
