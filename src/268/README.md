@@ -4,7 +4,7 @@
 
 [A. Games](https://codeforces.com/contest/268/problem/A) - Done
 
-[B. Buttons](https://codeforces.com/contest/268/problem/B)
+[B. Buttons](https://codeforces.com/contest/268/problem/B) - Done
 
 [C. Beautiful Sets of Points](https://codeforces.com/contest/268/problem/C)
 
