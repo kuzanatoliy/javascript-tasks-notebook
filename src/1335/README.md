@@ -1,10 +1,10 @@
-# Codeforces Round 404 (Div. 2)
+# Codeforces Round 634 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1335)
 
 [A. Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) - Done
 
-[B. Construct the String](https://codeforces.com/contest/1335/problem/B)
+[B. Construct the String](https://codeforces.com/contest/1335/problem/B) - Done
 
 [C. Two Teams Composing](https://codeforces.com/contest/1335/problem/C)
 
