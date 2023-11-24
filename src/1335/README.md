@@ -6,7 +6,7 @@
 
 [B. Construct the String](https://codeforces.com/contest/1335/problem/B) - Done
 
-[C. Two Teams Composing](https://codeforces.com/contest/1335/problem/C)
+[C. Two Teams Composing](https://codeforces.com/contest/1335/problem/C) - Done
 
 [D. Anti-Sudoku](https://codeforces.com/contest/1335/problem/D)
 

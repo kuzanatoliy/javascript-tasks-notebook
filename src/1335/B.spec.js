@@ -1,6 +1,6 @@
 const { custruclString } = require('./B');
 
-describe('1335A. Candies and Two Sisters', () => {
+describe('1335B. Construct the String', () => {
   it.each`
     n    | length | sublength1 | sublength2 | result
     ${1} | ${7}   | ${5}       | ${3}       | ${'abcabca'}
