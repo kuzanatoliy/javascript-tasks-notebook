@@ -1,4 +1,4 @@
-const { checkJuicePice } = require('./B');
+﻿const { checkJuicePice } = require('./B');
 
 describe('200B. Drinks', () => {
   it.each`

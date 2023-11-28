@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkMagnetsGroups: (magnets) => {
     let count = 1;
     for (let i = 1; i < magnets.length; i++) {

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkStringEquivalence: (str1, str2) => {
     const lstr1 = str1.toLowerCase();
     const lstr2 = str2.toLowerCase();

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfGuestUniforms: (uniforms) => {
     let count = 0;
     for (let i = 0; i < uniforms.length; i++) {

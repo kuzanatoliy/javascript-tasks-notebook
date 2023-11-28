@@ -1,4 +1,4 @@
-const { checkStringEquivalence } = require('./A');
+﻿const { checkStringEquivalence } = require('./A');
 
 describe('112A. Petya and Strings', () => {
   it.each`

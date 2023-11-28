@@ -1,4 +1,4 @@
-const { checkPermution } = require('./A');
+﻿const { checkPermution } = require('./A');
 
 describe('136A. Presentss', () => {
   it.each`

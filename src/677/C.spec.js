@@ -1,4 +1,4 @@
-const { checkLabelCount } = require('./C');
+﻿const { checkLabelCount } = require('./C');
 
 describe('677C. Vanya and Label', () => {
   it.each`

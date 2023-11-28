@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfPermutations: (line) => {
     let min = 0;
     let max = 0;

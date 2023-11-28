@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   changeQueue: (ticks, queue) => {
     const order = queue.split('');
     while (ticks > 0) {

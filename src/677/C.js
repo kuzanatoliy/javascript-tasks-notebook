@@ -1,4 +1,4 @@
-const ALPHABET =
+﻿const ALPHABET =
   '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_';
 const MOD = 1000000007;
 

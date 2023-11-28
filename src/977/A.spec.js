@@ -1,4 +1,4 @@
-const { getNumber } = require('./A');
+﻿const { getNumber } = require('./A');
 
 describe('977A. Wrong Subtraction', () => {
   it.each`

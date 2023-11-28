@@ -1,4 +1,4 @@
-const { shouldFirstWin } = require('./A');
+﻿const { shouldFirstWin } = require('./A');
 
 describe('1879A. Rigged!', () => {
   it.each`

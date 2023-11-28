@@ -1,4 +1,4 @@
-const { checkCountOfFriends } = require('./B');
+﻿const { checkCountOfFriends } = require('./B');
 
 describe('467B. Fedor and New Game', () => {
   it.each`

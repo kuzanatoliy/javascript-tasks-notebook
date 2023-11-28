@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   binaryTreeSum: (nodeNumber) => {
     let sum = BigInt(nodeNumber);
     let tmp = sum;

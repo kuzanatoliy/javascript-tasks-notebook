@@ -1,4 +1,4 @@
-const { checkPlayersForNextRound } = require('./A');
+﻿const { checkPlayersForNextRound } = require('./A');
 
 describe('158A. Next Round', () => {
   it.each`

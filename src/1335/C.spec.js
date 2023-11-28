@@ -1,4 +1,4 @@
-const { getLength } = require('./C');
+﻿const { getLength } = require('./C');
 
 describe('1335C. Two Teams Composing', () => {
   it.each`

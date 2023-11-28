@@ -1,4 +1,4 @@
-const { checkFriendsPresents } = require('./A');
+﻿const { checkFriendsPresents } = require('./A');
 
 describe('136A. Presentss', () => {
   it.each`

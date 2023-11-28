@@ -1,4 +1,4 @@
-const MIN = 'a'.charCodeAt(0);
+﻿const MIN = 'a'.charCodeAt(0);
 const MAX = 'z'.charCodeAt(0);
 
 module.exports = {

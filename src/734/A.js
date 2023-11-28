@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkWinner: (playList) => {
     let ca = 0;
     let cd = 0;

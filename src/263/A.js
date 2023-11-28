@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfStepsToCreateBeautifulMatrix: (matrix) => {
     const findCallback = (item) => item === 1;
     for (let i = 0; i < matrix.length; i++) {

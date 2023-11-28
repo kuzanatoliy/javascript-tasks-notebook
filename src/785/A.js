@@ -1,4 +1,4 @@
-const MAP = {
+﻿const MAP = {
   Cube: 6,
   Dodecahedron: 12,
   Icosahedron: 20,

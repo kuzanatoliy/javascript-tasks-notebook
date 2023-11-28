@@ -1,4 +1,4 @@
-const { capitalizeWord } = require('./A');
+﻿const { capitalizeWord } = require('./A');
 
 describe('281A. Word Capitalization', () => {
   it.each`

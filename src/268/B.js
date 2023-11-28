@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfCombination: (buttonsCount) => {
     const arr1 = [0, 1, 3];
     if (buttonsCount < 3) {

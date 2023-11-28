@@ -1,4 +1,4 @@
-const { checkDivisibilityProblem } = require('./A');
+﻿const { checkDivisibilityProblem } = require('./A');
 
 describe('1328A. Divisibility Problem', () => {
   it.each`

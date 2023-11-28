@@ -1,4 +1,4 @@
-const { checkCountOfPermutations } = require('./A');
+﻿const { checkCountOfPermutations } = require('./A');
 
 describe('144A. Arrival of the General', () => {
   it.each`

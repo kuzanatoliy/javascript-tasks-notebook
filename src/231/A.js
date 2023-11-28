@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkTasksCount: (matrix) => {
     let count = 0;
     const findCallback = (item) => item === 1;

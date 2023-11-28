@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfFriends: (players, types, dif) => {
     let count = 0;
     for (let i = 0; i < players.length - 1; i++) {

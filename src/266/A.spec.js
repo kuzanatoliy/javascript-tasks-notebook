@@ -1,4 +1,4 @@
-const { stayUniqueStones } = require('./A');
+﻿const { stayUniqueStones } = require('./A');
 
 describe('266A. Stones on the Table', () => {
   it.each`

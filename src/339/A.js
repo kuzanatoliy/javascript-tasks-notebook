@@ -1,3 +1,3 @@
-module.exports = {
+﻿module.exports = {
   checkEquation: (equation) => equation.split('+').sort().join('+'),
 };

@@ -1,4 +1,4 @@
-const { isPalindrom } = require('./A');
+﻿const { isPalindrom } = require('./A');
 
 describe('41A. Translation', () => {
   it.each`

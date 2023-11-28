@@ -281,6 +281,10 @@ module.exports = {
     'symbol-description': 'error',
     'vars-on-top': 'error',
     yoda: ['error', 'never'],
+
+    // Layout & Formatting
+    'line-comment-position': 'off',
+    'unicode-bom': 'off',
   },
   overrides: [
     {

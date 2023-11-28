@@ -1,4 +1,4 @@
-const BILL_TYPES = [100, 20, 10, 5, 1];
+﻿const BILL_TYPES = [100, 20, 10, 5, 1];
 
 module.exports = {
   checkCountOfBills: (money) => {

@@ -1,4 +1,4 @@
-const { checkEquation } = require('./A');
+﻿const { checkEquation } = require('./A');
 
 describe('339A. Helpful Maths', () => {
   it.each`

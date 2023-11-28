@@ -1,4 +1,4 @@
-const { getCountOfAmazingPerformances } = require('./A');
+﻿const { getCountOfAmazingPerformances } = require('./A');
 
 describe('155A. I love %username%', () => {
   it.each`

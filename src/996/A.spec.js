@@ -1,4 +1,4 @@
-const { checkCountOfBills } = require('./A');
+﻿const { checkCountOfBills } = require('./A');
 
 describe('996A. Hit the Lottery', () => {
   it.each`

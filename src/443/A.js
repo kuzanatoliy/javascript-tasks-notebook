@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkUniqueLetters: (letters) => {
     switch (letters.length) {
       case 2:

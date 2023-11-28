@@ -1,4 +1,4 @@
-const BASE = 'a'.charCodeAt();
+﻿const BASE = 'a'.charCodeAt();
 
 module.exports = {
   custruclString: (length, _sublength1, sublength2) => {

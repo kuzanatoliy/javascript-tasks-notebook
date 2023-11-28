@@ -1,4 +1,4 @@
-const { checkFreeSpace } = require('./A');
+﻿const { checkFreeSpace } = require('./A');
 
 describe('467A. George and Accommodation', () => {
   it.each`

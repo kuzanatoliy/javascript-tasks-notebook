@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   shouldFirstWin: ([first, ...others]) => {
     let i;
     for (i = 0; i < others.length; i++) {

@@ -1,4 +1,4 @@
-const { checkBitPlusPlusValue } = require('./A');
+﻿const { checkBitPlusPlusValue } = require('./A');
 
 describe('282A. Bit++', () => {
   it.each`

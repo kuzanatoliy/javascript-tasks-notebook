@@ -1,4 +1,4 @@
-const { checkCountOfDamagedDragons } = require('./A');
+﻿const { checkCountOfDamagedDragons } = require('./A');
 
 describe('148A. Insomnia cure', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { checkMinStepCount } = require('./A');
+﻿const { checkMinStepCount } = require('./A');
 
 describe('617A. Elephant', () => {
   it.each`

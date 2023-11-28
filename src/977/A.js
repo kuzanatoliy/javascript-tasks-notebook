@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   getNumber: (number, count) => {
     let num = number.toString();
     while (count > 0 && num > 0) {

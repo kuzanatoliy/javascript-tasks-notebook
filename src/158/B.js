@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkTaxisCount: (groups) => {
     const counts = [0, 0, 0, 0];
     for (let i = 0; i < groups.length; i++) {

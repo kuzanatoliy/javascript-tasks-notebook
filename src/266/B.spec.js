@@ -1,4 +1,4 @@
-const { changeQueue } = require('./B');
+﻿const { changeQueue } = require('./B');
 
 describe('266B. Queue at the School', () => {
   it.each`

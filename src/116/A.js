@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkTramCapacity: (plan) => {
     let sum = 0;
     let max = 0;

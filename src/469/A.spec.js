@@ -1,4 +1,4 @@
-const { isPossibleToWin } = require('./A');
+﻿const { isPossibleToWin } = require('./A');
 
 describe('469A. I Wanna Be the Guy', () => {
   it.each`

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfDamagedDragons: (dragons) => {
     const arr = [dragons[0], dragons[1], dragons[2], dragons[3]];
     const f = new Array(dragons[4]).fill(0);

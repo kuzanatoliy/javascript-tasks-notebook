@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkFriendsPresents: (friends) => {
     const result = [];
     for (let i = 0; i < friends.length; i++) {

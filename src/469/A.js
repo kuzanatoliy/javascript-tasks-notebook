@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   isPossibleToWin: (levels, firstWins, secondWins) => {
     const set = new Set(firstWins);
     for (let i = 0; i < secondWins.length; i++) {

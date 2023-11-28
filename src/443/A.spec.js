@@ -1,4 +1,4 @@
-const { checkUniqueLetters } = require('./A');
+﻿const { checkUniqueLetters } = require('./A');
 
 describe('443A. Anton and Letters', () => {
   it.each`

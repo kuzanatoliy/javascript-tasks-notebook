@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   getCountOfAmazingPerformances: (performances) => {
     let [min] = performances;
     let [max] = performances;
