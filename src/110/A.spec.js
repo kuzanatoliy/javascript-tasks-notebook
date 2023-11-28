@@ -1,4 +1,4 @@
-const { checkLuckyNumber } = require('./A');
+﻿const { checkLuckyNumber } = require('./A');
 
 describe('110A. Nearly Lucky Number', () => {
   it.each`

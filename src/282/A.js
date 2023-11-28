@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkBitPlusPlusValue: (operations) => {
     let count = 0;
     for (let i = 0; i < operations.length; i++) {

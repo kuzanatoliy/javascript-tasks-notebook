@@ -1,4 +1,4 @@
-const { checkCount } = require('./A');
+﻿const { checkCount } = require('./A');
 
 describe('677A. Vanya and Fence', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { getCommonFaces } = require('./A');
+﻿const { getCommonFaces } = require('./A');
 
 describe('785A. Anton and Polyhedrons', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { checkMagnetsGroups } = require('./A');
+﻿const { checkMagnetsGroups } = require('./A');
 
 describe('344A. Magnets', () => {
   it.each`

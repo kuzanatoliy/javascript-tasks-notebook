@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   getCountOfSolvedProblems: (problems, wayTime) => {
     let i = 0;
     let time = 240 - wayTime;

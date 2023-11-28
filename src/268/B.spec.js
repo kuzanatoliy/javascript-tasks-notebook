@@ -1,4 +1,4 @@
-const { checkCountOfCombination } = require('./B');
+﻿const { checkCountOfCombination } = require('./B');
 
 describe('268B. Buttons', () => {
   it.each`

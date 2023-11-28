@@ -1,4 +1,4 @@
-const { getYears } = require('./A');
+﻿const { getYears } = require('./A');
 
 describe('791A. Bear and Big Brother', () => {
   it.each`

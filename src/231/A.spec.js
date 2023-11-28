@@ -1,4 +1,4 @@
-const { checkTasksCount } = require('./A');
+﻿const { checkTasksCount } = require('./A');
 
 describe('231A. Team', () => {
   it.each`

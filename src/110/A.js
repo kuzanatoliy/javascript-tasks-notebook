@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkLuckyNumber: (numberStr) => {
     let num = numberStr;
     let count = 0;

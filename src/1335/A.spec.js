@@ -1,4 +1,4 @@
-const { getCountOfWays } = require('./A');
+﻿const { getCountOfWays } = require('./A');
 
 describe('1335A. Candies and Two Sisters', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { getCountOfSolvedProblems } = require('./A');
+﻿const { getCountOfSolvedProblems } = require('./A');
 
 describe('750A. New Year and Hurry', () => {
   it.each`

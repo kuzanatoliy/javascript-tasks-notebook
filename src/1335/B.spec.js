@@ -1,4 +1,4 @@
-const { custruclString } = require('./B');
+﻿const { custruclString } = require('./B');
 
 describe('1335B. Construct the String', () => {
   it.each`

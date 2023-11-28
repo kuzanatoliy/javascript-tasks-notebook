@@ -1,4 +1,4 @@
-const { canChat } = require('./A');
+﻿const { canChat } = require('./A');
 
 describe('236A. Boy or Girl', () => {
   it.each`

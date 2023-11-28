@@ -1,4 +1,4 @@
-const { checkMinHorseshoes } = require('./A');
+﻿const { checkMinHorseshoes } = require('./A');
 
 describe('228A. Is your horseshoe on the other hoof?', () => {
   it.each`

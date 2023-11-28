@@ -1,4 +1,4 @@
-const { getLowerCaseOrUpperCase } = require('./A');
+﻿const { getLowerCaseOrUpperCase } = require('./A');
 
 describe('59A. Word', () => {
   it.each`

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   canChat: (word) => {
     const set = new Set();
     for (let i = 0; i < word.length; i++) {

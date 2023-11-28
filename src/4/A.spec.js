@@ -1,4 +1,4 @@
-const { checkEvenPices } = require('./A');
+﻿const { checkEvenPices } = require('./A');
 
 describe('4A. Watermelon', () => {
   it.each`

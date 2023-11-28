@@ -1,4 +1,4 @@
-const { printSnake } = require('./A');
+﻿const { printSnake } = require('./A');
 
 describe('136A. Fox And Snake', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { getCountOfOccuredCrimes } = require('./A');
+﻿const { getCountOfOccuredCrimes } = require('./A');
 
 describe('427A. Police Recruits', () => {
   it.each`

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkPathInRingroad: (number, array) => {
     let temp = 0;
     let sum = 0;

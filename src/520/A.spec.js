@@ -1,4 +1,4 @@
-const { checkPangram } = require('./A');
+﻿const { checkPangram } = require('./A');
 
 describe('520A. Pangram', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { checkTramCapacity } = require('./A');
+﻿const { checkTramCapacity } = require('./A');
 
 describe('116A. Tram', () => {
   it.each`

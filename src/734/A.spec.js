@@ -1,4 +1,4 @@
-const { checkWinner } = require('./A');
+﻿const { checkWinner } = require('./A');
 
 describe('734A. Anton and Danik', () => {
   it.each`

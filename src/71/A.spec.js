@@ -1,4 +1,4 @@
-const { convertLongWord } = require('./A');
+﻿const { convertLongWord } = require('./A');
 
 describe('71A. Way Too Long Words', () => {
   it.each`

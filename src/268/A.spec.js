@@ -1,4 +1,4 @@
-const { checkCountOfGuestUniforms } = require('./A');
+﻿const { checkCountOfGuestUniforms } = require('./A');
 
 describe('268A. Games', () => {
   it.each`

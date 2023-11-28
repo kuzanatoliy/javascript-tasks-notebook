@@ -1,4 +1,4 @@
-const { checkCountOfStepsToCreateBeautifulMatrix } = require('./A');
+﻿const { checkCountOfStepsToCreateBeautifulMatrix } = require('./A');
 
 describe('263A. Beautiful Matrix', () => {
   it.each`

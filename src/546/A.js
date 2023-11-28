@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkBananasCount: (price, money, count) => {
     let sum = 0;
     for (let si = count; si > 0; si--) {

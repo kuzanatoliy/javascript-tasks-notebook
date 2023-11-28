@@ -1,4 +1,4 @@
-const { checkBeautifulYear } = require('./A');
+﻿const { checkBeautifulYear } = require('./A');
 
 describe('271A. Beautiful Year', () => {
   it.each`

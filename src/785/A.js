@@ -1,9 +1,9 @@
-const MAP = {
-  Tetrahedron: 4,
+﻿const MAP = {
   Cube: 6,
-  Octahedron: 8,
   Dodecahedron: 12,
   Icosahedron: 20,
+  Octahedron: 8,
+  Tetrahedron: 4,
 };
 
 module.exports = {

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkPlayersForNextRound: (place, array) => {
     let count = 0;
     if (array[place - 1] === 0) {

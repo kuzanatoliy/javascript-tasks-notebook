@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   getCountOfOccuredCrimes: (order) => {
     let sum = 0;
     let count = 0;

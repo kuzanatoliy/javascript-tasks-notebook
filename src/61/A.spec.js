@@ -1,4 +1,4 @@
-const { checkDoubleNumbers } = require('./A');
+﻿const { checkDoubleNumbers } = require('./A');
 
 describe('61A. Ultra-Fast Mathematician', () => {
   it.each`

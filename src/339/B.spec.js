@@ -1,4 +1,4 @@
-const { checkPathInRingroad } = require('./B');
+﻿const { checkPathInRingroad } = require('./B');
 
 describe('339B. Xenia and Ringroad', () => {
   it.each`

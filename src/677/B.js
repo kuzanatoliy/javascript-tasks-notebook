@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkCountOfPotato: (height, step, potatoes) => {
     let value = 0;
     let count = 0;

@@ -1,4 +1,4 @@
-const MIN = 'a'.charCodeAt(0);
+﻿const MIN = 'a'.charCodeAt(0);
 const MAX = 'z'.charCodeAt(0);
 
 module.exports = {
@@ -6,7 +6,7 @@ module.exports = {
     let count1 = 0;
     let count2 = 0;
     for (let i = 0; i < word.length; i++) {
-      var code = word.charCodeAt(i);
+      const code = word.charCodeAt(i);
       if (MIN <= code && code <= MAX) {
         count1++;
       } else {

@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkDoubleNumbers: (doubleNumber1, doubleNumber2) => {
     const temp = [];
     for (let i = 0; i < doubleNumber1.length; i++) {

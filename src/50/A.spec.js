@@ -1,4 +1,4 @@
-const { checkDominoPiling } = require('./A');
+﻿const { checkDominoPiling } = require('./A');
 
 describe('50A. Domino piling', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { calc } = require('./A');
+﻿const { calc } = require('./A');
 
 describe('486A. Calculating Function', () => {
   it.each`

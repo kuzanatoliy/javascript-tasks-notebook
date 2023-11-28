@@ -1,4 +1,4 @@
-const { binaryTreeSum } = require('./C');
+﻿const { binaryTreeSum } = require('./C');
 
 describe('1843C. Apple Tree', () => {
   it.each`

@@ -1,4 +1,4 @@
-const { checkCountOfPotato } = require('./B');
+﻿const { checkCountOfPotato } = require('./B');
 
 describe('677B. Vanya and Food Processor', () => {
   it.each`

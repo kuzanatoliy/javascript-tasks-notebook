@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   checkTaxisCount: (groups) => {
     const counts = [0, 0, 0, 0];
     for (let i = 0; i < groups.length; i++) {
@@ -12,7 +12,7 @@ module.exports = {
       counts[0] = 0;
     }
     sum += Math.floor(counts[0] / 4);
-    counts[0] = counts[0] % 4;
+    counts[0] %= 4;
     if (counts[0] === 3) {
       sum++;
     } else if (counts[0] > 0) {
