@@ -8,7 +8,7 @@ module.exports = {
         if (k % 2 > 0) {
           c++;
         }
-        k = k >> 1;
+        k >>= 1;
       }
       if (c <= dif) {
         count++;

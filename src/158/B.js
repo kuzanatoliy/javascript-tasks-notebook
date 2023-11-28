@@ -12,7 +12,7 @@ module.exports = {
       counts[0] = 0;
     }
     sum += Math.floor(counts[0] / 4);
-    counts[0] = counts[0] % 4;
+    counts[0] %= 4;
     if (counts[0] === 3) {
       sum++;
     } else if (counts[0] > 0) {

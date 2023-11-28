@@ -14,7 +14,7 @@ module.exports = {
           count++;
         }
         j++;
-        ans = ans >> 1;
+        ans >>= 1;
       }
       count += 6 - j;
     }

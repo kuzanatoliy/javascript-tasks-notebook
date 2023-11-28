@@ -6,7 +6,7 @@ module.exports = {
     let count1 = 0;
     let count2 = 0;
     for (let i = 0; i < word.length; i++) {
-      let code = word.charCodeAt(i);
+      const code = word.charCodeAt(i);
       if (MIN <= code && code <= MAX) {
         count1++;
       } else {

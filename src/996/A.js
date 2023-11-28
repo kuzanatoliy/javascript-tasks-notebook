@@ -5,7 +5,7 @@ module.exports = {
     let count = 0;
     for (let i = 0; i < BILL_TYPES.length; i++) {
       count += Math.floor(money / BILL_TYPES[i]);
-      money = money % BILL_TYPES[i];
+      money %= BILL_TYPES[i];
     }
     return count;
   },

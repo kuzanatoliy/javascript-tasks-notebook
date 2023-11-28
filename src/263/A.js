@@ -1,6 +1,5 @@
 module.exports = {
   checkCountOfStepsToCreateBeautifulMatrix: (matrix) => {
-    let count = 0;
     const findCallback = (item) => item === 1;
     for (let i = 0; i < matrix.length; i++) {
       let el = matrix[i].findIndex(findCallback);
@@ -10,6 +9,6 @@ module.exports = {
       el = el / 2 + 1;
       return i < 3 ? 3 - i : i - 3 + el < 3 ? 3 - el : el - 3;
     }
-    return count;
+    return 0;
   },
 };

@@ -1,12 +1,12 @@
 module.exports = {
   getLength: (students) => {
     let max = 1;
-    let map = new Map();
+    const map = new Map();
     for (let j = 0; j < students.length; j++) {
       if (!map.has(students[j])) {
         map.set(students[j], 1);
       } else {
-        let c = map.get(students[j]) + 1;
+        const c = map.get(students[j]) + 1;
         if (max < c) {
           max = c;
         }
