@@ -6,8 +6,8 @@ describe('1399A. Remove Smallest', () => {
     ${1} | ${[1, 2, 2]}    | ${'YES'}
     ${2} | ${[5, 5, 5, 5]} | ${'YES'}
     ${3} | ${[1, 2, 4]}    | ${'NO'}
-    ${3} | ${[1, 3, 4, 4]} | ${'NO'}
-    ${3} | ${[100]}        | ${'YES'}
+    ${4} | ${[1, 3, 4, 4]} | ${'NO'}
+    ${5} | ${[100]}        | ${'YES'}
   `('Base test: $n', ({ numbers, result }) => {
     expect(isPossibleStayOnlyOneElement(numbers)).toBe(result);
   });
