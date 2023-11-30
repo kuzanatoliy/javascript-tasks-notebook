@@ -4,7 +4,7 @@
 
 [A. Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) - Done
 
-[B. Minimum Product](https://codeforces.com/contest/1409/problem/B)
+[B. Minimum Product](https://codeforces.com/contest/1409/problem/B) - Done
 
 [C. Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C)
 
