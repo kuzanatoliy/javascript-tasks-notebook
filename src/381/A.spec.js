@@ -1,6 +1,6 @@
 ﻿const { getPoints } = require('./A');
 
-describe('344A. Magnets', () => {
+describe('381A. Magnets', () => {
   it.each`
     n    | cards                    | result
     ${1} | ${[4, 1, 2, 10]}         | ${[12, 5]}
