@@ -1,6 +1,6 @@
 ﻿const { getParts } = require('./A');
 
-describe('469A. I Wanna Be the Guy', () => {
+describe('472A. Design Tutorial: Learn from Math', () => {
   it.each`
     n    | number     | result
     ${1} | ${12}      | ${[4, 8]}

@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/472)
 
-[A. I Wanna Be the Guy](https://codeforces.com/contest/472/problem/A) - Done
+[A. Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) - Done
 
 [B. Design Tutorial: Learn from Life](https://codeforces.com/contest/472/problem/B)
 
