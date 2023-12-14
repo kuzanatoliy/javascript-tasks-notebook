@@ -4,7 +4,7 @@
 
 [A. Short Substrings](https://codeforces.com/contest/1367/problem/A) - Done
 
-[B. Even Array](https://codeforces.com/contest/1367/problem/B)
+[B. Even Array](https://codeforces.com/contest/1367/problem/B) - Done
 
 [C. Social Distance](https://codeforces.com/contest/1367/problem/C)
 
