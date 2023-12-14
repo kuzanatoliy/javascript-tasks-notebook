@@ -1,17 +1,17 @@
-# Codeforces Round 806 (Div. 4)
+# Codeforces Round 739 (Div. 3)
 
-[Dashboard](https://codeforces.com/contest/1512)
+[Dashboard](https://codeforces.com/contest/1560)
 
-[A. Dislike of Threes](https://codeforces.com/contest/1512/problem/A) - Done
+[A. Dislike of Threes](https://codeforces.com/contest/1560/problem/A) - Done
 
-[B. Who's Opposite?](https://codeforces.com/contest/1512/problem/B)
+[B. Who's Opposite?](https://codeforces.com/contest/1560/problem/B)
 
-[C. Infinity Table](https://codeforces.com/contest/1512/problem/C)
+[C. Infinity Table](https://codeforces.com/contest/1560/problem/C)
 
-[D. Make a Power of Two](https://codeforces.com/contest/1512/problem/D)
+[D. Make a Power of Two](https://codeforces.com/contest/1560/problem/D)
 
-[E. Polycarp and String Transformation](https://codeforces.com/contest/1512/problem/E)
+[E. Polycarp and String Transformation](https://codeforces.com/contest/1560/problem/E)
 
-[F1. Nearest Beautiful Number (easy version)](https://codeforces.com/contest/1512/problem/F1)
+[F1. Nearest Beautiful Number (easy version)](https://codeforces.com/contest/1560/problem/F1)
 
-[F2. Nearest Beautiful Number (hard version)](https://codeforces.com/contest/1512/problem/F2)
+[F2. Nearest Beautiful Number (hard version)](https://codeforces.com/contest/1560/problem/F2)
