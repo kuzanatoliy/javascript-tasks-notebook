@@ -4,7 +4,7 @@
 
 [A. Lucky?](https://codeforces.com/contest/1676/problem/A) - Done
 
-[B. Equal Candies](https://codeforces.com/contest/1676/problem/B)
+[B. Equal Candies](https://codeforces.com/contest/1676/problem/B) - Done
 
 [C. Most Similar Words](https://codeforces.com/contest/1676/problem/C)
 
