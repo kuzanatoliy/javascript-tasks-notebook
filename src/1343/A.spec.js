@@ -1,6 +1,6 @@
 ﻿const { getCountOfDays } = require('./A');
 
-describe('1335A. Candies and Two Sisters', () => {
+describe('1343A. Candies and Two Sisters', () => {
   it.each`
     n    | count        | result
     ${1} | ${3}         | ${1}
