@@ -4,9 +4,9 @@
 
 [A. Required Remainder](https://codeforces.com/contest/1374/problem/A) - Done
 
-[B. Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B)
+[B. Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) - Done
 
-[C. Move Brackets](https://codeforces.com/contest/1374/problem/C)
+[C. Move Brackets](https://codeforces.com/contest/1374/problem/C) - Done
 
 [D. Zero Remainder Array](https://codeforces.com/contest/1374/problem/D)
 
