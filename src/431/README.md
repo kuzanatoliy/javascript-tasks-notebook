@@ -4,7 +4,7 @@
 
 [A. Black Square](https://codeforces.com/contest/431/problem/A) - Done
 
-[B. Shower Line](https://codeforces.com/contest/431/problem/B)
+[B. Shower Line](https://codeforces.com/contest/431/problem/B) - Done
 
 [C. k-Tree](https://codeforces.com/contest/431/problem/C)
 
