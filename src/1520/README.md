@@ -4,9 +4,9 @@
 
 [A. Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) - Done
 
-[B. Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)
+[B. Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) - Done
 
-[C. Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C)
+[C. Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) - Done
 
 [D. Same Differences](https://codeforces.com/contest/1520/problem/D)
 
