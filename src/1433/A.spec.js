@@ -1,6 +1,6 @@
 ﻿const { getCountOfDigitsCharacter } = require('./A');
 
-describe('1560A. Dislike of Threes', () => {
+describe('1433A. Boring Apartments', () => {
   it.each`
     n    | number  | result
     ${1} | ${22}   | ${13}
