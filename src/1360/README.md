@@ -4,7 +4,7 @@
 
 [A. Minimal Square](https://codeforces.com/contest/1360/problem/A) - Done
 
-[B. Honest Coach](https://codeforces.com/contest/1360/problem/B)
+[B. Honest Coach](https://codeforces.com/contest/1360/problem/B) - Done
 
 [C. Similar Pairs](https://codeforces.com/contest/1360/problem/C)
 
