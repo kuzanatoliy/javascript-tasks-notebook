@@ -6,7 +6,7 @@
 
 [B. Honest Coach](https://codeforces.com/contest/1360/problem/B) - Done
 
-[C. Similar Pairs](https://codeforces.com/contest/1360/problem/C)
+[C. Similar Pairs](https://codeforces.com/contest/1360/problem/C) - Done
 
 [D. Buying Shovels](https://codeforces.com/contest/1360/problem/D)
 
