@@ -1,6 +1,6 @@
 ﻿const { getCountOfRedItems } = require('./B1');
 
-describe('1551A. Polycarp and str', () => {
+describe('1551B1. Wonderful Coloring - 1', () => {
   it.each`
     n    | str             | result
     ${1} | ${'kzaaa'}      | ${2}
@@ -9,6 +9,6 @@ describe('1551A. Polycarp and str', () => {
     ${4} | ${'y'}          | ${0}
     ${5} | ${'xxxxxx'}     | ${1}
   `('Base test: $n', ({ str, result }) => {
-    expect(getCountOfRedItems(str)).toStrictEqual(result);
+    expect(getCountOfRedItems(str)).toBe(result);
   });
 });
