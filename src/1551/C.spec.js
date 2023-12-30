@@ -10,6 +10,6 @@ describe('1551C. Interesting Story', () => {
     ${5} | ${['cbdca', 'd', 'a', 'd', 'e']} | ${3}
     ${6} | ${['b', 'c', 'ca']}              | ${2}
   `('Base test: $n', ({ strings, result }) => {
-    expect(getCountOfWordsInInterestingStory(strings)).toStrictEqual(result);
+    expect(getCountOfWordsInInterestingStory(strings)).toBe(result);
   });
 });
