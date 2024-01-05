@@ -4,7 +4,7 @@
 
 [A. Cards for Friends](https://codeforces.com/contest/1472/problem/A) - Done
 
-[B. Fair Division](https://codeforces.com/contest/1472/problem/B)
+[B. Fair Division](https://codeforces.com/contest/1472/problem/B) - Done
 
 [C. Long Jumps](https://codeforces.com/contest/1472/problem/C)
 
