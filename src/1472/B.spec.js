@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToSplit } = require('./B');
 
-describe('1472A. Cards for Friends', () => {
+describe('1472B. Fair Division', () => {
   it.each`
     n    | candies         | result
     ${1} | ${[1, 1]}       | ${'YES'}

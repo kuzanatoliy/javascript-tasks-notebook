@@ -6,7 +6,7 @@
 
 [B. Fair Division](https://codeforces.com/contest/1472/problem/B) - Done
 
-[C. Long Jumps](https://codeforces.com/contest/1472/problem/C)
+[C. Long Jumps](https://codeforces.com/contest/1472/problem/C) - Done
 
 [D. Even-Odd Game](https://codeforces.com/contest/1472/problem/D)
 
