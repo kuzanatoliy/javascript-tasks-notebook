@@ -1,4 +1,4 @@
-# Codeforces Round 827 (Div. 4)
+# Codeforces Round 839 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1772)
 
@@ -6,7 +6,7 @@
 
 [B. Matrix Rotation](https://codeforces.com/contest/1772/problem/B) - Done
 
-[C. Different Differences](https://codeforces.com/contest/1772/problem/C)
+[C. Different Differences](https://codeforces.com/contest/1772/problem/C) - Done
 
 [D. Absolute Sorting](https://codeforces.com/contest/1772/problem/D)
 
