@@ -1,6 +1,6 @@
 ﻿const { isBeautifulMatrix } = require('./B');
 
-describe('1772A. A+B?', () => {
+describe('1772B. Matrix Rotation', () => {
   it.each`
     n    | matrix               | result
     ${1} | ${[[1, 3], [5, 7]]}  | ${'YES'}
