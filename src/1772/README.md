@@ -4,7 +4,7 @@
 
 [A. A+B?](https://codeforces.com/contest/1772/problem/A) - Done
 
-[B. Matrix Rotation](https://codeforces.com/contest/1772/problem/B)
+[B. Matrix Rotation](https://codeforces.com/contest/1772/problem/B) - Done
 
 [C. Different Differences](https://codeforces.com/contest/1772/problem/C)
 
