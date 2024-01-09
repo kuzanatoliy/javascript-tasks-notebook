@@ -4,9 +4,9 @@
 
 [A. Three Piles of Candies](https://codeforces.com/contest/1196/problem/A) - Done
 
-[B. Odd Sum Segments](https://codeforces.com/contest/1196/problem/B)
+[B. Odd Sum Segments](https://codeforces.com/contest/1196/problem/B) - Done
 
-[C. Robot Breakout](https://codeforces.com/contest/1196/problem/C)
+[C. Robot Breakout](https://codeforces.com/contest/1196/problem/C) - Done
 
 [D1. RGB Substring (easy version)](https://codeforces.com/contest/1196/problem/D1)
 
