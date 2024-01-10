@@ -4,7 +4,7 @@
 
 [A. Bad Triangle](https://codeforces.com/contest/1398/problem/A) - Done
 
-[B. Substring Removal Game](https://codeforces.com/contest/1398/problem/B)
+[B. Substring Removal Game](https://codeforces.com/contest/1398/problem/B) - Done
 
 [C. Good Subarrays](https://codeforces.com/contest/1398/problem/C)
 
