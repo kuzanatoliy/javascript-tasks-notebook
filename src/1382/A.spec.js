@@ -1,6 +1,6 @@
 ﻿const { isSolutionExisted } = require('./A');
 
-describe('1398A. Common Subsequence', () => {
+describe('1382A. Common Subsequence', () => {
   it.each`
     n    | number1               | number2            | result
     ${1} | ${[10, 8, 6, 4]}      | ${[1, 2, 3, 4, 5]} | ${['YES', [1, 4]]}

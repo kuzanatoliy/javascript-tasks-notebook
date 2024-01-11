@@ -4,7 +4,7 @@
 
 [A. Common Subsequence](https://codeforces.com/contest/1382/problem/A) - Done
 
-[B. Sequential Nim](https://codeforces.com/contest/1382/problem/B)
+[B. Sequential Nim](https://codeforces.com/contest/1382/problem/B) - Done
 
 [C1. Prefix Flip (Easy Version)](https://codeforces.com/contest/1382/problem/C1)
 
