@@ -6,7 +6,7 @@
 
 [B. Substring Removal Game](https://codeforces.com/contest/1398/problem/B) - Done
 
-[C. Good Subarrays](https://codeforces.com/contest/1398/problem/C)
+[C. Good Subarrays](https://codeforces.com/contest/1398/problem/C) - Done
 
 [D. Colored Rectangles](https://codeforces.com/contest/1398/problem/D)
 
