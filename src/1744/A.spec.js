@@ -1,4 +1,4 @@
-﻿const { checkIfOneIsSum } = require('./A');
+﻿const { isPossibleToGetString } = require('./A');
 
 describe('1744A. Number Replacement', () => {
   it.each`
@@ -10,7 +10,7 @@ describe('1744A. Number Replacement', () => {
     ${5} | ${[1, 2, 3, 2, 1]}       | ${'aaaaa'}   | ${'YES'}
     ${6} | ${[1, 10, 2, 9, 3, 8]}   | ${'azzfdb'}  | ${'YES'}
     ${7} | ${[1, 2, 3, 4, 1, 1, 2]} | ${'abababb'} | ${'NO'}
-  `('Base test: $n', ({ numbers, result }) => {
-    expect(checkIfOneIsSum(numbers)).toBe(result);
+  `('Base test: $n', ({ numbers, string, result }) => {
+    expect(isPossibleToGetString(numbers, string)).toBe(result);
   });
 });
