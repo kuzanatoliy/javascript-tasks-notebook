@@ -4,9 +4,9 @@
 
 [A. Number Replacement](https://codeforces.com/contest/1744/problem/A) - Done
 
-[B. Even-Odd Increments](https://codeforces.com/contest/1744/problem/B)
+[B. Even-Odd Increments](https://codeforces.com/contest/1744/problem/B) - Done
 
-[C. Traffic Light](https://codeforces.com/contest/1744/problem/C)
+[C. Traffic Light](https://codeforces.com/contest/1744/problem/C) - Done
 
 [D. Divisibility by 2^n](https://codeforces.com/contest/1744/problem/D)
 
