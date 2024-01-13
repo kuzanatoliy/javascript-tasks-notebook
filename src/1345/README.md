@@ -4,7 +4,7 @@
 
 [A. Puzzle Pieces](https://codeforces.com/contest/1345/problem/A) - Done
 
-[B. Card Constructions](https://codeforces.com/contest/1345/problem/B)
+[B. Card Constructions](https://codeforces.com/contest/1345/problem/B) - Done
 
 [C. Hilbert's Hotel](https://codeforces.com/contest/1345/problem/C)
 
