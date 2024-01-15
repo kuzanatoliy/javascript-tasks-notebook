@@ -4,9 +4,9 @@
 
 [A. Cipher Shifer](https://codeforces.com/contest/1840/problem/A) - Done
 
-[B. Binary Cafe](https://codeforces.com/contest/1840/problem/B) - Done
+[B. Binary Cafe](https://codeforces.com/contest/1840/problem/B)
 
-[C. Ski Resort](https://codeforces.com/contest/1840/problem/C) - Done
+[C. Ski Resort](https://codeforces.com/contest/1840/problem/C)
 
 [D. Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D)
 
