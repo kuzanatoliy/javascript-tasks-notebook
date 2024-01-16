@@ -4,7 +4,7 @@
 
 [A. Technical Support](https://codeforces.com/contest/1754/problem/A) - Done
 
-[B. Kevin and Permutation](https://codeforces.com/contest/1754/problem/B)
+[B. Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) - Done
 
 [C1. Make Nonzero Sum (easy version)](https://codeforces.com/contest/1754/problem/C1)
 
