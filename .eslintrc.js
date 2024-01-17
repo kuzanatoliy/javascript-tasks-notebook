@@ -122,7 +122,7 @@ module.exports = {
       },
     ],
     'class-methods-use-this': 'off',
-    complexity: 'off',
+    complexity: ['error', 15],
     'consistent-return': 'error',
     'consistent-this': 'off',
     curly: ['error', 'all'],
