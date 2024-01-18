@@ -4,7 +4,7 @@
 
 [A. Working Week](https://codeforces.com/contest/1735/problem/A) - Done
 
-[B. Tea with Tangerines](https://codeforces.com/contest/1735/problem/B)
+[B. Tea with Tangerines](https://codeforces.com/contest/1735/problem/B) - Done
 
 [C. Phase Shift](https://codeforces.com/contest/1735/problem/C)
 
