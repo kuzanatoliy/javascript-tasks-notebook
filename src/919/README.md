@@ -4,7 +4,7 @@
 
 [A. Supermarket](https://codeforces.com/contest/919/problem/A) - Done
 
-[B. Perfect Number](https://codeforces.com/contest/919/problem/B)
+[B. Perfect Number](https://codeforces.com/contest/919/problem/B) - Done
 
 [C. Seat Arrangements](https://codeforces.com/contest/919/problem/C)
 
