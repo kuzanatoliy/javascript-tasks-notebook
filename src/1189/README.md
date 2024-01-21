@@ -4,7 +4,7 @@
 
 [A. Keanu Reeves](https://codeforces.com/contest/1189/problem/A) - Done
 
-[](https://codeforces.com/contest/1189/problem/B)
+[B. Number Circle](https://codeforces.com/contest/1189/problem/B) - Done
 
 [](https://codeforces.com/contest/1189/problem/C)
 
