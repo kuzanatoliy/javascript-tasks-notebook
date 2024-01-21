@@ -8,7 +8,7 @@
 
 [C. Candies!](https://codeforces.com/contest/1189/problem/C) - Done
 
-[](https://codeforces.com/contest/1189/problem/D1)
+[D1. Add on a Tree](https://codeforces.com/contest/1189/problem/D1) - Done
 
 [D2. Add on a Tree: Revolution](https://codeforces.com/contest/1189/problem/D2)
 
