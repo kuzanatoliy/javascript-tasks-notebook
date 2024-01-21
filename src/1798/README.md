@@ -6,7 +6,7 @@
 
 [B. Three Sevens](https://codeforces.com/contest/1798/problem/B) - Done
 
-[C. Candy Store](https://codeforces.com/contest/1798/problem/C)
+[C. Candy Store](https://codeforces.com/contest/1798/problem/C) - Done
 
 [D. Shocking Arrangement](https://codeforces.com/contest/1798/problem/D)
 
