@@ -8,7 +8,7 @@
 
 [C. Candy Store](https://codeforces.com/contest/1798/problem/C) - Done
 
-[D. Shocking Arrangement](https://codeforces.com/contest/1798/problem/D)
+[D. Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) - Done
 
 [E. Multitest Generator](https://codeforces.com/contest/1798/problem/E)
 

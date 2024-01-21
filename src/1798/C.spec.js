@@ -1,6 +1,6 @@
 ﻿const { getMinNumberOfPriceTags } = require('./C');
 
-describe('1730A. Planets', () => {
+describe('1798C. Candy Store', () => {
   it.each`
     n    | participants                                                        | result
     ${1} | ${[[20, 3], [6, 2], [14, 5], [20, 7]]}                              | ${2}

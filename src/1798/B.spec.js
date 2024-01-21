@@ -1,6 +1,6 @@
 ﻿const { getLotteryWinners } = require('./B');
 
-describe('1730A. Planets', () => {
+describe('1798B. Three Sevens', () => {
   it.each`
     n    | participants                         | result
     ${1} | ${[[1, 2, 4, 8], [2, 9, 1], [1, 4]]} | ${[8, 2, 1]}

@@ -1,6 +1,6 @@
 ﻿const { couldBeSatisfied } = require('./A');
 
-describe('1730A. Planets', () => {
+describe('1798A. Showstopper', () => {
   it.each`
     n    | numbers1                       | numbers2                       | result
     ${1} | ${[7, 9, 7]}                   | ${[7, 6, 9]}                   | ${'Yes'}
