@@ -6,7 +6,7 @@
 
 [B. Number Circle](https://codeforces.com/contest/1189/problem/B) - Done
 
-[](https://codeforces.com/contest/1189/problem/C)
+[C. Candies!](https://codeforces.com/contest/1189/problem/C) - Done
 
 [](https://codeforces.com/contest/1189/problem/D1)
 
