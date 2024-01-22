@@ -4,7 +4,7 @@
 
 [A1. Non-alternating Deck (easy version)](https://codeforces.com/contest/1791/problem/A1) - Done
 
-[A2. Alternating Deck (hard version)](https://codeforces.com/contest/1791/problem/A2)
+[A2. Alternating Deck (hard version)](https://codeforces.com/contest/1791/problem/A2) - Done
 
 [B. Cake Assembly Line](https://codeforces.com/contest/1791/problem/B)
 
