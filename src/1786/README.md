@@ -1,4 +1,4 @@
-# Codeforces Round 849 (Div. 4)
+# Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)
 
 [Dashboard](https://codeforces.com/contest/1791)
 
