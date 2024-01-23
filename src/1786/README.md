@@ -6,7 +6,7 @@
 
 [A2. Alternating Deck (hard version)](https://codeforces.com/contest/1791/problem/A2) - Done
 
-[B. Cake Assembly Line](https://codeforces.com/contest/1791/problem/B)
+[B. Cake Assembly Line](https://codeforces.com/contest/1791/problem/B) - Done
 
 [C. Monsters (easy version)](https://codeforces.com/contest/1791/problem/C)
 
