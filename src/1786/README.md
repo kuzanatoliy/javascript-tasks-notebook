@@ -8,7 +8,7 @@
 
 [B. Cake Assembly Line](https://codeforces.com/contest/1791/problem/B) - Done
 
-[C. Monsters (easy version)](https://codeforces.com/contest/1791/problem/C)
+[C. Monsters (easy version)](https://codeforces.com/contest/1791/problem/C) - Done
 
 [D. Letter Exchange](https://codeforces.com/contest/1791/problem/D)
 
