@@ -4,7 +4,7 @@
 
 [A. Nicholas and Permutation](https://codeforces.com/contest/676/problem/A) - Done
 
-[B. Pyramid of Glasses](https://codeforces.com/contest/676/problem/B)
+[B. Pyramid of Glasses](https://codeforces.com/contest/676/problem/B) - Done
 
 [C. Vasya and String](https://codeforces.com/contest/676/problem/C)
 
