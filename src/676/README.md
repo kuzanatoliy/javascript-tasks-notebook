@@ -10,4 +10,4 @@
 
 [D. Theseus and labyrinth](https://codeforces.com/contest/676/problem/D) - Done
 
-[E. The Last Fight Between Human and AI](https://codeforces.com/contest/676/problem/E)
+[E. The Last Fight Between Human and AI](https://codeforces.com/contest/676/problem/E) - Done
