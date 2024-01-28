@@ -4,7 +4,7 @@
 
 [A. Bear and Five Cards](https://codeforces.com/contest/680/problem/A) - Done
 
-[B. Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B)
+[B. Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) - Done
 
 [C. Bear and Prime 100](https://codeforces.com/contest/680/problem/C)
 
