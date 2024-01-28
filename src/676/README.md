@@ -6,7 +6,7 @@
 
 [B. Pyramid of Glasses](https://codeforces.com/contest/676/problem/B) - Done
 
-[C. Vasya and String](https://codeforces.com/contest/676/problem/C)
+[C. Vasya and String](https://codeforces.com/contest/676/problem/C) - Done
 
 [D. Theseus and labyrinth](https://codeforces.com/contest/676/problem/D)
 
