@@ -4,7 +4,7 @@
 
 [A. Square](https://codeforces.com/contest/1921/problem/A) - Done
 
-[B. Arranging Cats](https://codeforces.com/contest/1921/problem/B)
+[B. Arranging Cats](https://codeforces.com/contest/1921/problem/B) - Done
 
 [C. Sending Messages](https://codeforces.com/contest/1921/problem/C)
 
