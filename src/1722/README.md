@@ -4,7 +4,7 @@
 
 [A. Spell Check](https://codeforces.com/contest/1722/problem/A) - Done
 
-[B. Colourblindness](https://codeforces.com/contest/1722/problem/B)
+[B. Colourblindness](https://codeforces.com/contest/1722/problem/B) - Done
 
 [C. Word Game](https://codeforces.com/contest/1722/problem/C)
 
