@@ -4,7 +4,7 @@
 
 [A. Short Sort](https://codeforces.com/contest/1873/problem/A) - Done
 
-[B. Good Kid](https://codeforces.com/contest/1873/problem/B)
+[B. Good Kid](https://codeforces.com/contest/1873/problem/B) - Done
 
 [C. Target Practice](https://codeforces.com/contest/1873/problem/C)
 
