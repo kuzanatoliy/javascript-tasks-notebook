@@ -4,7 +4,7 @@
 
 [A. Sum](https://codeforces.com/contest/1742/problem/A) - Done
 
-[B. Increasing](https://codeforces.com/contest/1742/problem/B)
+[B. Increasing](https://codeforces.com/contest/1742/problem/B) - Done
 
 [C. Stripes](https://codeforces.com/contest/1742/problem/C)
 
