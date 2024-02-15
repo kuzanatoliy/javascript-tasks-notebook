@@ -1,4 +1,4 @@
-﻿const { getMaxProducts } = require('./A');
+﻿const { getMaxProducts } = require('./B');
 
 describe('1873B. Good Kid', () => {
   it.each`
