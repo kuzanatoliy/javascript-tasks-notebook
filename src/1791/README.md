@@ -4,7 +4,7 @@
 
 [A. Codeforces Checking](https://codeforces.com/contest/1791/problem/A) - Done
 
-[B. Following Directions](https://codeforces.com/contest/1791/problem/B)
+[B. Following Directions](https://codeforces.com/contest/1791/problem/B) - Done
 
 [C. Prepend and Append](https://codeforces.com/contest/1791/problem/C)
 
