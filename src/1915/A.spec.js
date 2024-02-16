@@ -1,6 +1,6 @@
 ﻿const { getUniqueNumber } = require('./A');
 
-describe('1915A. Rigged!', () => {
+describe('1915A. Odd One Out', () => {
   it.each`
     n     | numbers      | result
     ${1}  | ${[1, 2, 2]} | ${1}

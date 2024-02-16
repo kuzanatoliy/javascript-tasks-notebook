@@ -4,7 +4,7 @@
 
 [A. Remove Smallest](https://codeforces.com/contest/1399/problem/A) - Done
 
-[B. Gifts Fixing](https://codeforces.com/contest/1399/problem/B)
+[B. Gifts Fixing](https://codeforces.com/contest/1399/problem/B) - Done
 
 [C. Boats Competition](https://codeforces.com/contest/1399/problem/C)
 
