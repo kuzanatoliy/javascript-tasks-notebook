@@ -6,7 +6,7 @@
 
 [B. Following Directions](https://codeforces.com/contest/1791/problem/B) - Done
 
-[C. Prepend and Append](https://codeforces.com/contest/1791/problem/C)
+[C. Prepend and Append](https://codeforces.com/contest/1791/problem/C) - Done
 
 [D. Distinct Split](https://codeforces.com/contest/1791/problem/D)
 
