@@ -1,6 +1,6 @@
 ﻿const { getMods } = require('./C');
 
-describe('1932C', () => {
+describe('1932C. LR-remainders', () => {
   it.each`
     n    | mod      | array                 | operations  | result
     ${1} | ${6}     | ${[3, 1, 4, 2]}       | ${'LRRL'}   | ${[0, 2, 4, 1]}

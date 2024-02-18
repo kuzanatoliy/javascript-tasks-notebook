@@ -1,6 +1,6 @@
 ﻿const { getYear } = require('./B');
 
-describe('1932B', () => {
+describe('1932B. Chaya Calendar', () => {
   it.each`
     n    | array                            | result
     ${1} | ${[3, 2, 4, 5, 9, 18]}           | ${36}

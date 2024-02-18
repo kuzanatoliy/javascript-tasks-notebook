@@ -1,6 +1,6 @@
 ﻿const { getCountOfCoins } = require('./A');
 
-describe('1932A', () => {
+describe('1932A. Thorns and Coins', () => {
   it.each`
     n    | string               | result
     ${1} | ${'.@@*@.**@@'}      | ${3}
