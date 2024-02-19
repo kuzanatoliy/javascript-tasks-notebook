@@ -4,7 +4,7 @@
 
 [A. Medium Number](https://codeforces.com/contest/1760/problem/A) - Done
 
-[B. Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B)
+[B. Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) - Done
 
 [C. Advantage](https://codeforces.com/contest/1760/problem/C)
 
