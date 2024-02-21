@@ -4,7 +4,7 @@
 
 [A. Plus or Minus](https://codeforces.com/contest/1807/problem/A) - Done
 
-[B. Grab the Candies](https://codeforces.com/contest/1807/problem/B)
+[B. Grab the Candies](https://codeforces.com/contest/1807/problem/B) - Done
 
 [C. Find and Replace](https://codeforces.com/contest/1807/problem/C)
 
