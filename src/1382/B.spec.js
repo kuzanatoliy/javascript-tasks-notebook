@@ -1,4 +1,4 @@
-﻿const { isSolutionExisted } = require('./B');
+﻿const { getWinner } = require('./B');
 
 describe('1382B. Sequential Nim', () => {
   it.each`
@@ -10,7 +10,7 @@ describe('1382B. Sequential Nim', () => {
     ${5} | ${[1000000000]}             | ${'First'}
     ${6} | ${[1, 2, 2, 1, 1]}          | ${'Second'}
     ${7} | ${[1, 1, 1]}                | ${'First'}
-  `('Base test: $n', ({ number1, number2, result }) => {
-    expect(isSolutionExisted(number1, number2)).toStrictEqual(result);
+  `('Base test: $n', ({ stones, result }) => {
+    expect(getWinner(stones)).toStrictEqual(result);
   });
 });
