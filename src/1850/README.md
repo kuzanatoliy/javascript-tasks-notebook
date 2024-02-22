@@ -6,7 +6,7 @@
 
 [B. Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) - Done
 
-[C. Word on the Paper](https://codeforces.com/contest/1850/problem/C)
+[C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) - Done
 
 [D. Balanced Round](https://codeforces.com/contest/1850/problem/D)
 
