@@ -4,7 +4,7 @@
 
 [A. Love Story](https://codeforces.com/contest/1829/problem/A) - Done
 
-[B. Blank Space](https://codeforces.com/contest/1829/problem/B)
+[B. Blank Space](https://codeforces.com/contest/1829/problem/B) - Done
 
 [C. Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C)
 
