@@ -4,7 +4,7 @@
 
 [A. Division?](https://codeforces.com/contest/1669/problem/A) - Done
 
-[B. Triple](https://codeforces.com/contest/1669/problem/B)
+[B. Triple](https://codeforces.com/contest/1669/problem/B) - Done
 
 [C. Odd/Even Increments](https://codeforces.com/contest/1669/problem/C)
 
