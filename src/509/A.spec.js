@@ -1,6 +1,6 @@
 ﻿const { getMaxValueInTheTable } = require('./A');
 
-describe('136A. Maximum in Table', () => {
+describe('509A. Maximum in Table', () => {
   it.each`
     n    | number | result
     ${1} | ${1}   | ${1}
