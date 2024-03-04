@@ -1,6 +1,6 @@
 ﻿const { printSnake } = require('./A');
 
-describe('136A. Fox And Snake', () => {
+describe('510A. Fox And Snake', () => {
   it.each`
     n    | rows | columns | result
     ${1} | ${3} | ${3}    | ${['###', '..#', '###']}
