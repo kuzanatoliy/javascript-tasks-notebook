@@ -4,7 +4,7 @@
 
 [A. Odd One Out](https://codeforces.com/contest/1915/problem/A) - Done
 
-[B. Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B)
+[B. Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) - Done
 
 [C. Can I Square?](https://codeforces.com/contest/1915/problem/C)
 
