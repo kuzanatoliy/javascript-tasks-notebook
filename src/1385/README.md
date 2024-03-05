@@ -4,7 +4,7 @@
 
 [A. Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) - Done
 
-[B. Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B)
+[B. Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B) - Done
 
 [C. Make It Good](https://codeforces.com/contest/1385/problem/C)
 
