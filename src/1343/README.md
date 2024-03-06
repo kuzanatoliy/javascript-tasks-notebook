@@ -4,7 +4,7 @@
 
 [A. Candies](https://codeforces.com/contest/1343/problem/A) - Done
 
-[B. Balanced Array](https://codeforces.com/contest/1343/problem/B)
+[B. Balanced Array](https://codeforces.com/contest/1343/problem/B) - Done
 
 [C. Alternating Subsequence](https://codeforces.com/contest/1343/problem/C)
 
