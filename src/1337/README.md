@@ -4,7 +4,7 @@
 
 [A. Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) - Done
 
-[B. Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B)
+[B. Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) - Done
 
 [C. Linova and Kingdom](https://codeforces.com/contest/1337/problem/C)
 
