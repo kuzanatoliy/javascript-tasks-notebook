@@ -14,6 +14,6 @@
 
 [F. Range Update Point Query](https://codeforces.com/contest/1791/problem/F)
 
-[G1. Teleporters (Easy Version)s](https://codeforces.com/contest/1791/problem/G1)
+[G1. Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1)
 
 [G2. Teleporters (Hard Version)](https://codeforces.com/contest/1791/problem/G2)
