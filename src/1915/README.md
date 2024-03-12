@@ -6,7 +6,7 @@
 
 [B. Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) - Done
 
-[C. Can I Square?](https://codeforces.com/contest/1915/problem/C)
+[C. Can I Square?](https://codeforces.com/contest/1915/problem/C) - Done
 
 [D. Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D)
 
