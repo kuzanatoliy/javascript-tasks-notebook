@@ -4,7 +4,7 @@
 
 [A. EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) - Done
 
-[B. CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B)
+[B. CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) - Done
 
 [C. Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C)
 
