@@ -4,7 +4,7 @@
 
 [A. Dislike of Threes](https://codeforces.com/contest/1560/problem/A) - Done
 
-[B. Who's Opposite?](https://codeforces.com/contest/1560/problem/B)
+[B. Who's Opposite?](https://codeforces.com/contest/1560/problem/B) - Done
 
 [C. Infinity Table](https://codeforces.com/contest/1560/problem/C)
 
