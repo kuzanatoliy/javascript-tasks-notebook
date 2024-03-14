@@ -5,7 +5,7 @@ describe('996A. Hit the Lottery', () => {
     n    | letters       | result
     ${1} | ${125}        | ${3}
     ${2} | ${43}         | ${5}
-    ${2} | ${1000000000} | ${10000000}
+    ${3} | ${1000000000} | ${10000000}
   `('Base test: $n', ({ letters, result }) => {
     expect(checkCountOfBills(letters)).toBe(result);
   });
