@@ -6,7 +6,7 @@
 
 [B. Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) - Done
 
-[C. Advantage](https://codeforces.com/contest/1760/problem/C)
+[C. Advantage](https://codeforces.com/contest/1760/problem/C) - Done
 
 [D. Challenging Valleys](https://codeforces.com/contest/1760/problem/D)
 
