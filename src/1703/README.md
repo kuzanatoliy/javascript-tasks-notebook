@@ -6,7 +6,7 @@
 
 [B. ICPC Balloons](https://codeforces.com/contest/1703/problem/B) - Done
 
-[C. Cypher](https://codeforces.com/contest/1703/problem/C)
+[C. Cypher](https://codeforces.com/contest/1703/problem/C) - Done
 
 [D. Double Strings](https://codeforces.com/contest/1703/problem/D)
 
