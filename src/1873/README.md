@@ -6,7 +6,7 @@
 
 [B. Good Kid](https://codeforces.com/contest/1873/problem/B) - Done
 
-[C. Target Practice](https://codeforces.com/contest/1873/problem/C)
+[C. Target Practice](https://codeforces.com/contest/1873/problem/C) - Done
 
 [D. 1D Eraser](https://codeforces.com/contest/1873/problem/D)
 
