@@ -4,7 +4,7 @@
 
 [A. Pangram](https://codeforces.com/contest/520/problem/A) - Done
 
-[B. Two Buttons](https://codeforces.com/contest/520/problem/B)
+[B. Two Buttons](https://codeforces.com/contest/520/problem/B) - Done
 
 [C. DNA Alignment](https://codeforces.com/contest/520/problem/C)
 
