@@ -4,7 +4,7 @@
 
 [A. SwapSort](https://codeforces.com/contest/489/problem/A) - Done
 
-[B. BerSU Ball](https://codeforces.com/contest/489/problem/B)
+[B. BerSU Ball](https://codeforces.com/contest/489/problem/B) - Done
 
 [C. Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C)
 
