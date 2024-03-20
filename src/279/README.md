@@ -4,7 +4,7 @@
 
 [A. Point on Spiral](https://codeforces.com/contest/279/problem/A) - Done
 
-[B. Books](https://codeforces.com/contest/279/problem/B)
+[B. Books](https://codeforces.com/contest/279/problem/B) - Done
 
 [C. Ladder](https://codeforces.com/contest/279/problem/C)
 
