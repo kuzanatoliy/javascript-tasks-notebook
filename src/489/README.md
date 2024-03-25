@@ -6,7 +6,7 @@
 
 [B. BerSU Ball](https://codeforces.com/contest/489/problem/B) - Done
 
-[C. Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C)
+[C. Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) - Done
 
 [D. Unbearable Controversy of Being](https://codeforces.com/contest/489/problem/D)
 
