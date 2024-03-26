@@ -8,6 +8,6 @@ describe('479A. Expression', () => {
     ${3} | ${1} | ${1}  | ${1} | ${3}
     ${4} | ${6} | ${7}  | ${1} | ${48}
   `('Base test: $n', ({ x, y, z, result }) => {
-    expect(getMaxValueOfExpression(x, y, z)).toStrictEqual(result);
+    expect(getMaxValueOfExpression(x, y, z)).toBe(result);
   });
 });
