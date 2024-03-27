@@ -4,9 +4,9 @@
 
 [A. Expression](https://codeforces.com/contest/479/problem/A) - Done
 
-[B. Towers](https://codeforces.com/contest/479/problem/B)
+[B. Towers](https://codeforces.com/contest/479/problem/B) - Done
 
-[C. Exams](https://codeforces.com/contest/479/problem/C)
+[C. Exams](https://codeforces.com/contest/479/problem/C) - Done
 
 [D. Long Jumps](https://codeforces.com/contest/479/problem/D)
 
