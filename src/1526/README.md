@@ -4,7 +4,7 @@
 
 [A. Mean Inequality](https://codeforces.com/contest/1512/problem/A) - Done
 
-[B. I Hate 1111](https://codeforces.com/contest/1512/problem/B)
+[B. I Hate 1111](https://codeforces.com/contest/1512/problem/B) - Done
 
 [C1. Potions (Easy Version)](https://codeforces.com/contest/1512/problem/C1)
 
