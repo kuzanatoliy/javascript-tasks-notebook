@@ -8,7 +8,7 @@
 
 [C. Frog Jumps](https://codeforces.com/contest/1324/problem/C) - Done
 
-[D. Pair of Topics](https://codeforces.com/contest/1324/problem/D)
+[D. Pair of Topics](https://codeforces.com/contest/1324/problem/D) - Done
 
 [E. Sleeping Schedule](https://codeforces.com/contest/1324/problem/E)
 
