@@ -4,7 +4,7 @@
 
 [A. Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) - Done
 
-[B. Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B)
+[B. Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) - Done
 
 [C. Frog Jumps](https://codeforces.com/contest/1324/problem/C)
 

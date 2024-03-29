@@ -1,6 +1,6 @@
 ﻿const { itItPossibleToClear } = require('./A');
 
-describe('1311A. Yet Another Tetris Problem', () => {
+describe('1324A. Yet Another Tetris Problem', () => {
   it.each`
     n    | array           | result
     ${1} | ${[1, 1, 3]}    | ${'YES'}
