@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToMakeAllFriendsHappy } = require('./B');
 
-describe('515A. Drazil and Date', () => {
+describe('515B. Drazil and His Happy Friends', () => {
   it.each`
     n    | m    | mm   | men       | women     | result
     ${1} | ${2} | ${3} | ${[0]}    | ${[1, 0]} | ${'YES'}
