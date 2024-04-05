@@ -4,7 +4,7 @@
 
 [A. Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) - Done
 
-[B. Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B)
+[B. Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B) - Done
 
 [C. Phoenix and Distribution](https://codeforces.com/contest/1348/problem/C)
 
