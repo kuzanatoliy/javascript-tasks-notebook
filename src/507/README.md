@@ -4,7 +4,7 @@
 
 [A. Amr and Music](https://codeforces.com/contest/507/problem/A) - Done
 
-[B. Amr and Pins](https://codeforces.com/contest/507/problem/B)
+[B. Amr and Pins](https://codeforces.com/contest/507/problem/B) - Done
 
 [C. Guess Your Way Out!](https://codeforces.com/contest/507/problem/C)
 
