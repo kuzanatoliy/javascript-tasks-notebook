@@ -6,7 +6,7 @@
 
 [B. GCD Compression](https://codeforces.com/contest/1370/problem/B) - Done
 
-[C. Number Game](https://codeforces.com/contest/1370/problem/C)
+[C. Number Game](https://codeforces.com/contest/1370/problem/C) - Done
 
 [D. Odd-Even Subsequence](https://codeforces.com/contest/1370/problem/D)
 
