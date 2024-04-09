@@ -4,7 +4,7 @@
 
 [A. Maximum GCD](https://codeforces.com/contest/1370/problem/A) - Done
 
-[B. GCD Compression](https://codeforces.com/contest/1370/problem/B)
+[B. GCD Compression](https://codeforces.com/contest/1370/problem/B) - Done
 
 [C. Number Game](https://codeforces.com/contest/1370/problem/C)
 
