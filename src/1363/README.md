@@ -4,7 +4,7 @@
 
 [A. Odd Selection](https://codeforces.com/contest/1363/problem/A) - Done
 
-[B. Subsequence Hate](https://codeforces.com/contest/1363/problem/B)
+[B. Subsequence Hate](https://codeforces.com/contest/1363/problem/B) - Done
 
 [C. Game On Leaves](https://codeforces.com/contest/1363/problem/C)
 
