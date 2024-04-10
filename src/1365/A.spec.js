@@ -1,6 +1,6 @@
 ﻿const { getWinner } = require('./A');
 
-describe('1368A. C+=', () => {
+describe('1365A. C+=', () => {
   it.each`
     n    | matrix                               | result
     ${1} | ${[[0, 0], [0, 0]]}                  | ${'Vivek'}

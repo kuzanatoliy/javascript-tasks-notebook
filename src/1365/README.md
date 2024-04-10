@@ -1,17 +1,17 @@
-# Codeforces Global Round 8
+# Codeforces Round 648 (Div. 2)
 
-[Dashboard](https://codeforces.com/contest/1368)
+[Dashboard](https://codeforces.com/contest/1365)
 
-[A. Matrix Game](https://codeforces.com/contest/1368/problem/A) - Done
+[A. Matrix Game](https://codeforces.com/contest/1365/problem/A) - Done
 
-[B. Trouble Sort](https://codeforces.com/contest/1368/problem/B)
+[B. Trouble Sort](https://codeforces.com/contest/1365/problem/B) - Done
 
-[C. Rotation Matching](https://codeforces.com/contest/1368/problem/C)
+[C. Rotation Matching](https://codeforces.com/contest/1365/problem/C)
 
-[D. Solve The Maze](https://codeforces.com/contest/1368/problem/D)
+[D. Solve The Maze](https://codeforces.com/contest/1365/problem/D)
 
-[E. Maximum Subsequence Value](https://codeforces.com/contest/1368/problem/E)
+[E. Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E)
 
-[F. Swaps Again](https://codeforces.com/contest/1368/problem/F)
+[F. Swaps Again](https://codeforces.com/contest/1365/problem/F)
 
-[G. Secure Password](https://codeforces.com/contest/1368/problem/G)
+[G. Secure Password](https://codeforces.com/contest/1365/problem/G)
