@@ -1,11 +1,12 @@
-﻿const { getResult } = require('./A');
+﻿const { getMinNumberOfDays } = require('./A');
 
-describe('686A. Free Ice Cream', () => {
+describe('698A. Vacations', () => {
   it.each`
-    n    | initCount | iterations                                                 | result
-    ${1} | ${7}      | ${[['+', 5], ['-', 10], ['-', 20], ['+', 40], ['-', 20]]}  | ${[22, 1]}
-    ${2} | ${17}     | ${[['-', 16], ['-', 2], ['-', 98], ['+', 100], ['-', 98]]} | ${[3, 2]}
-  `('Base test: $n', ({ initCount, iterations, result }) => {
-    expect(getResult(initCount, iterations)).toStrictEqual(result);
+    n    | array                    | result
+    ${1} | ${[1, 3, 2, 0]}          | ${2}
+    ${2} | ${[1, 3, 3, 2, 1, 2, 3]} | ${0}
+    ${3} | ${[2, 2]}                | ${1}
+  `('Base test: $n', ({ array, result }) => {
+    expect(getMinNumberOfDays(array)).toStrictEqual(result);
   });
 });

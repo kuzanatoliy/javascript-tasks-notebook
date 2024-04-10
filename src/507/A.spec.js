@@ -1,6 +1,6 @@
 ﻿const { getMaxNumberOfInstruments } = require('./A');
 
-describe('492A. Vanya and Cubes', () => {
+describe('507A. Amr and Music', () => {
   it.each`
     n    | count | array              | result
     ${1} | ${10} | ${[4, 3, 1, 2]}    | ${[3, 4, 2, 1]}
