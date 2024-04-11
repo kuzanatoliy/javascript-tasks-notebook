@@ -8,7 +8,7 @@
 
 [C. Move Brackets](https://codeforces.com/contest/1374/problem/C) - Done
 
-[D. Zero Remainder Array](https://codeforces.com/contest/1374/problem/D)
+[D. Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) - Done
 
 [E1. Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1)
 
