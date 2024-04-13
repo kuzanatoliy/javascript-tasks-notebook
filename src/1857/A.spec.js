@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToColor } = require('./A');
 
-describe('1850A. To My Critics', () => {
+describe('1857A. To My Critics', () => {
   it.each`
     n    | array                       | result
     ${1} | ${[1, 2, 4, 3, 2, 3, 5, 4]} | ${'YES'}
