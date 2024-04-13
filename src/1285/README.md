@@ -4,7 +4,7 @@
 
 [A. Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) - Done
 
-[B. Just Eat It!](https://codeforces.com/contest/1285/problem/B)
+[B. Just Eat It!](https://codeforces.com/contest/1285/problem/B) - Done
 
 [C. Fadi and LCM](https://codeforces.com/contest/1285/problem/C)
 
