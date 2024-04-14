@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1843)
 
-[A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A)
+[A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) - Done
 
 [B. Long Long](https://codeforces.com/contest/1843/problem/B)
 
