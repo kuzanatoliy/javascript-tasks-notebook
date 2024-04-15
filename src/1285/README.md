@@ -6,7 +6,7 @@
 
 [B. Just Eat It!](https://codeforces.com/contest/1285/problem/B) - Done
 
-[C. Fadi and LCM](https://codeforces.com/contest/1285/problem/C)
+[C. Fadi and LCM](https://codeforces.com/contest/1285/problem/C) - Done
 
 [D. Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D)
 
