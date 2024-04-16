@@ -4,7 +4,7 @@
 
 [A. Strange Table](https://codeforces.com/contest/1506/problem/A) - Done
 
-[B. Partial Replacement](https://codeforces.com/contest/1506/problem/B)
+[B. Partial Replacement](https://codeforces.com/contest/1506/problem/B) - Done
 
 [C. Double-ended Strings](https://codeforces.com/contest/1506/problem/C)
 
