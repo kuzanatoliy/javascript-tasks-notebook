@@ -6,7 +6,7 @@
 
 [B. Partial Replacement](https://codeforces.com/contest/1506/problem/B) - Done
 
-[C. Double-ended Strings](https://codeforces.com/contest/1506/problem/C)
+[C. Double-ended Strings](https://codeforces.com/contest/1506/problem/C) - Done
 
 [D. Epic Transformation](https://codeforces.com/contest/1506/problem/D)
 
