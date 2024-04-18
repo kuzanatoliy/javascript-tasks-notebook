@@ -8,7 +8,7 @@
 
 [C. Double-ended Strings](https://codeforces.com/contest/1506/problem/C) - Done
 
-[D. Epic Transformation](https://codeforces.com/contest/1506/problem/D)
+[D. Epic Transformation](https://codeforces.com/contest/1506/problem/D) - Done
 
 [E. Restoring the Permutation](https://codeforces.com/contest/1506/problem/E)
 
