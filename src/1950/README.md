@@ -4,7 +4,7 @@
 
 [A. Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) - Done
 
-[B. Upscaling](https://codeforces.com/contest/1950/problem/B)
+[B. Upscaling](https://codeforces.com/contest/1950/problem/B) - Done
 
 [C. Clock Conversion](https://codeforces.com/contest/1950/problem/C)
 
