@@ -1,4 +1,4 @@
-# Codeforces Round 933 (Div. 3)
+# Codeforces Round 937 (Div. 4)
 
 [Dashboard](https://codeforces.com/contest/1950)
 
@@ -6,7 +6,7 @@
 
 [B. Upscaling](https://codeforces.com/contest/1950/problem/B) - Done
 
-[C. Clock Conversion](https://codeforces.com/contest/1950/problem/C)
+[C. Clock Conversion](https://codeforces.com/contest/1950/problem/C) - Done
 
 [D. Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D)
 
