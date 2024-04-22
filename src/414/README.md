@@ -4,7 +4,7 @@
 
 [A. Mashmokh and Numbers](https://codeforces.com/contest/414/problem/A) - Done
 
-[B. Mashmokh and ACM](https://codeforces.com/contest/414/problem/B)
+[B. Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) - Done
 
 [C. Mashmokh and Reverse Operation](https://codeforces.com/contest/414/problem/C)
 
