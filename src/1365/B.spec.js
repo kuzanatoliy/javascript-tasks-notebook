@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToSort } = require('./B');
 
-describe('1365A. C+=', () => {
+describe('1365B. Trouble Sort', () => {
   it.each`
     n    | elems                | types           | result
     ${1} | ${[10, 20, 20, 30]}  | ${[0, 1, 0, 1]} | ${'YES'}

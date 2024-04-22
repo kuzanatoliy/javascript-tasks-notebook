@@ -6,7 +6,7 @@
 
 [B. Trouble Sort](https://codeforces.com/contest/1365/problem/B) - Done
 
-[C. Rotation Matching](https://codeforces.com/contest/1365/problem/C)
+[C. Rotation Matching](https://codeforces.com/contest/1365/problem/C) - Done
 
 [D. Solve The Maze](https://codeforces.com/contest/1365/problem/D)
 
