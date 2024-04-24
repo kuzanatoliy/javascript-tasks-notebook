@@ -4,7 +4,7 @@
 
 [A. Orac and Factors](https://codeforces.com/contest/1350/problem/A) - Done
 
-[B. Orac and Models](https://codeforces.com/contest/1350/problem/B)
+[B. Orac and Models](https://codeforces.com/contest/1350/problem/B) - Done
 
 [C. Orac and LCM](https://codeforces.com/contest/1350/problem/C)
 
