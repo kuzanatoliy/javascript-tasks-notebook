@@ -4,7 +4,7 @@
 
 [A. Sign Flipping](https://codeforces.com/contest/1375/problem/A) - Done
 
-[B. Neighbor Grid](https://codeforces.com/contest/1375/problem/B)
+[B. Neighbor Grid](https://codeforces.com/contest/1375/problem/B) - Done
 
 [C. Element Extermination](https://codeforces.com/contest/1375/problem/C)
 
