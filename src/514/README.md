@@ -4,7 +4,7 @@
 
 [A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) - Done
 
-[B. Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B)
+[B. Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) - Done
 
 [C. Watto and Mechanism](https://codeforces.com/contest/514/problem/C)
 
