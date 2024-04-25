@@ -6,7 +6,7 @@
 
 [B. Neighbor Grid](https://codeforces.com/contest/1375/problem/B) - Done
 
-[C. Element Extermination](https://codeforces.com/contest/1375/problem/C)
+[C. Element Extermination](https://codeforces.com/contest/1375/problem/C) - Done
 
 [D. Replace by MEX](https://codeforces.com/contest/1375/problem/D)
 
