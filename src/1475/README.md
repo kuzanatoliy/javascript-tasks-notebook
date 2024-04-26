@@ -1,10 +1,10 @@
-# Educational Codeforces Round 102 (Rated for Div. 2)
+# Codeforces Round 697 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1475)
 
 [A. Odd Divisor](https://codeforces.com/contest/1475/problem/A) - Done
 
-[B. New Year's Number](https://codeforces.com/contest/1475/problem/B)
+[B. New Year's Number](https://codeforces.com/contest/1475/problem/B) - Done
 
 [C. Ball in Berland](https://codeforces.com/contest/1475/problem/C)
 
