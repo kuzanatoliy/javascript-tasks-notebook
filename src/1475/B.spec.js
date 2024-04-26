@@ -1,6 +1,6 @@
 ﻿const { isItRepresentableAsTheSumOf2020 } = require('./B');
 
-describe('1475A. Odd Divisor', () => {
+describe("1475B. New Year's Number", () => {
   it.each`
     n    | number  | result
     ${1} | ${1}    | ${'NO'}

@@ -6,7 +6,7 @@
 
 [B. New Year's Number](https://codeforces.com/contest/1475/problem/B) - Done
 
-[C. Ball in Berland](https://codeforces.com/contest/1475/problem/C)
+[C. Ball in Berland](https://codeforces.com/contest/1475/problem/C) - Done
 
 [D. Cleaning the Phone](https://codeforces.com/contest/1475/problem/D)
 
