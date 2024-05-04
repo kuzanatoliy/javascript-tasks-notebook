@@ -4,7 +4,7 @@
 
 [A. Marathon](https://codeforces.com/contest/1692/problem/A) - Done
 
-[B. All Distinct](https://codeforces.com/contest/1692/problem/B)
+[B. All Distinct](https://codeforces.com/contest/1692/problem/B) - Done
 
 [C. Where's the Bishop?](https://codeforces.com/contest/1692/problem/C)
 
