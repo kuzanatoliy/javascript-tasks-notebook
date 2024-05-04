@@ -6,7 +6,7 @@
 
 [B. Triple](https://codeforces.com/contest/1669/problem/B) - Done
 
-[C. Odd/Even Increments](https://codeforces.com/contest/1669/problem/C)
+[C. Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) - Done
 
 [D. Colorful Stamp](https://codeforces.com/contest/1669/problem/D)
 
