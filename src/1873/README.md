@@ -8,7 +8,7 @@
 
 [C. Target Practice](https://codeforces.com/contest/1873/problem/C) - Done
 
-[D. 1D Eraser](https://codeforces.com/contest/1873/problem/D)
+[D. 1D Eraser](https://codeforces.com/contest/1873/problem/D) - Done
 
 [E. Building an Aquarium](https://codeforces.com/contest/1873/problem/E)
 
