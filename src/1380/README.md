@@ -4,7 +4,7 @@
 
 [A. Three Indices](https://codeforces.com/contest/1380/problem/A) - Done
 
-[B. Universal Solution](https://codeforces.com/contest/1380/problem/B)
+[B. Universal Solution](https://codeforces.com/contest/1380/problem/B) - Done
 
 [C. Create The Teams](https://codeforces.com/contest/1380/problem/C)
 
