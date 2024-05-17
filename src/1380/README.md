@@ -6,7 +6,7 @@
 
 [B. Universal Solution](https://codeforces.com/contest/1380/problem/B) - Done
 
-[C. Create The Teams](https://codeforces.com/contest/1380/problem/C)
+[C. Create The Teams](https://codeforces.com/contest/1380/problem/C) - Done
 
 [D. Berserk And Fireball](https://codeforces.com/contest/1380/problem/D)
 
