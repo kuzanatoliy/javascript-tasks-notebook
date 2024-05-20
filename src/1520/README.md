@@ -8,7 +8,7 @@
 
 [C. Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) - Done
 
-[D. Same Differences](https://codeforces.com/contest/1520/problem/D)
+[D. Same Differences](https://codeforces.com/contest/1520/problem/D) - Done
 
 [E. Arranging The Sheep](https://codeforces.com/contest/1520/problem/E)
 
