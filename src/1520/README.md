@@ -10,7 +10,7 @@
 
 [D. Same Differences](https://codeforces.com/contest/1520/problem/D) - Done
 
-[E. Arranging The Sheep](https://codeforces.com/contest/1520/problem/E)
+[E. Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) - Done
 
 [F1. Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1)
 
