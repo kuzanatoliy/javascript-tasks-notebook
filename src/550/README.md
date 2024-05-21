@@ -1,10 +1,10 @@
-# Codeforces Round 322 (Div. 2)
+# Codeforces Round 306 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/550)
 
 [A. Two Substrings](https://codeforces.com/contest/550/problem/A) - Done
 
-[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)
+[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B) - Done
 
 [C. Divisibility by Eight](https://codeforces.com/contest/550/problem/C)
 
