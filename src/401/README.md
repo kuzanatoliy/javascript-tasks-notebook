@@ -6,7 +6,7 @@
 
 [B. Sereja and Contests](https://codeforces.com/contest/401/problem/B)
 
-[C. Team](https://codeforces.com/contest/401/problem/C)
+[C. Team](https://codeforces.com/contest/401/problem/C) - Done
 
 [D. Roman and Numbers](https://codeforces.com/contest/401/problem/D)
 
