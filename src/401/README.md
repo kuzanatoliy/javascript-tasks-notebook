@@ -4,7 +4,7 @@
 
 [A. Vanya and Cards](https://codeforces.com/contest/401/problem/A) - Done
 
-[B. Sereja and Contests](https://codeforces.com/contest/401/problem/B)
+[B. Sereja and Contests](https://codeforces.com/contest/401/problem/B) - Done
 
 [C. Team](https://codeforces.com/contest/401/problem/C) - Done
 
