@@ -4,7 +4,7 @@
 
 [A. FashionabLee](https://codeforces.com/contest/1369/problem/A) - Done
 
-[B. AccurateLee](https://codeforces.com/contest/1369/problem/B)
+[B. AccurateLee](https://codeforces.com/contest/1369/problem/B) - Done
 
 [C. RationalLee](https://codeforces.com/contest/1369/problem/C) - Done
 
