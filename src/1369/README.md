@@ -6,7 +6,7 @@
 
 [B. AccurateLee](https://codeforces.com/contest/1369/problem/B)
 
-[C. RationalLee](https://codeforces.com/contest/1369/problem/C)
+[C. RationalLee](https://codeforces.com/contest/1369/problem/C) - Done
 
 [D. TediousLee](https://codeforces.com/contest/1369/problem/D)
 
