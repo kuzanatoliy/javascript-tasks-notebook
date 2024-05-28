@@ -6,7 +6,7 @@
 
 [B. All Distinct](https://codeforces.com/contest/1692/problem/B) - Done
 
-[C. Where's the Bishop?](https://codeforces.com/contest/1692/problem/C)
+[C. Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) - Done
 
 [D. The Clock](https://codeforces.com/contest/1692/problem/D)
 
