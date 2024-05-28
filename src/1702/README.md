@@ -14,6 +14,6 @@
 
 [F. Equate Multisets](https://codeforces.com/contest/1702/problem/F)
 
-[G1. Passable Paths (easy version)](https://codeforces.com/contest/1702/problem/1)
+[G1. Passable Paths (easy version)](https://codeforces.com/contest/1702/problem/G1)
 
 [G2. Passable Paths (hard version)](https://codeforces.com/contest/1702/problem/G2)
