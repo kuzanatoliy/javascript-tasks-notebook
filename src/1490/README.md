@@ -1,4 +1,4 @@
-# Educational Codeforces Round 102 (Rated for Div. 2)
+# Codeforces Round 702 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1490)
 
@@ -6,7 +6,7 @@
 
 [B. Balanced Remainders](https://codeforces.com/contest/1490/problem/B)
 
-[C. Sum of Cubes](https://codeforces.com/contest/1490/problem/C)
+[C. Sum of Cubes](https://codeforces.com/contest/1490/problem/C) - Done
 
 [D. Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
 
