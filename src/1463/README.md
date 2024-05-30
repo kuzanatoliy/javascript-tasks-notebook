@@ -4,7 +4,7 @@
 
 [A. Dungeon](https://codeforces.com/contest/1462/problem/A) - Done
 
-[B. Find The Array](https://codeforces.com/contest/1462/problem/B)
+[B. Find The Array](https://codeforces.com/contest/1462/problem/B) - Done
 
 [C. Busy Robot](https://codeforces.com/contest/1462/problem/C)
 
