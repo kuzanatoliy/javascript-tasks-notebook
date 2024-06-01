@@ -4,7 +4,7 @@
 
 [A. Print a Pedestal (Codeforces logo?)](https://codeforces.com/contest/1690/problem/A) - Done
 
-[B. Array Decrements](https://codeforces.com/contest/1690/problem/B)
+[B. Array Decrements](https://codeforces.com/contest/1690/problem/B) - Done
 
 [C. Restoring the Duration of Tasks](https://codeforces.com/contest/1690/problem/C)
 
