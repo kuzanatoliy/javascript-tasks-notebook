@@ -6,7 +6,7 @@
 
 [B. Array Decrements](https://codeforces.com/contest/1690/problem/B) - Done
 
-[C. Restoring the Duration of Tasks](https://codeforces.com/contest/1690/problem/C)
+[C. Restoring the Duration of Tasks](https://codeforces.com/contest/1690/problem/C) - Done
 
 [D. Black and White Stripe](https://codeforces.com/contest/1690/problem/D)
 

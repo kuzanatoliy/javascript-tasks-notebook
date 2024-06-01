@@ -10,6 +10,6 @@ describe('1690B. Array Decrements', () => {
     ${5} | ${[8]}             | ${[0]}             | ${'YES'}
     ${6} | ${[4]}             | ${[6]}             | ${'NO'}
   `('Base test: $n', ({ arrayA, arrayB, result }) => {
-    expect(isItPossibleToTransform(arrayA, arrayB)).toStrictEqual(result);
+    expect(isItPossibleToTransform(arrayA, arrayB)).toBe(result);
   });
 });
