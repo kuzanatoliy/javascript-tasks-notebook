@@ -4,7 +4,7 @@
 
 [A. Dense Array](https://codeforces.com/contest/1490/problem/A) - Done
 
-[B. Balanced Remainders](https://codeforces.com/contest/1490/problem/B)
+[B. Balanced Remainders](https://codeforces.com/contest/1490/problem/B) - Done
 
 [C. Sum of Cubes](https://codeforces.com/contest/1490/problem/C) - Done
 
