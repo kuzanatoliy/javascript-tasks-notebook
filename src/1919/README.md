@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1919)
 
-[A. Wallet Exchange](https://codeforces.com/contest/1919/problem/A)
+[A. Wallet Exchange](https://codeforces.com/contest/1919/problem/A) - Done
 
 [B. Plus-Minus Split](https://codeforces.com/contest/1919/problem/B) - Done
 
