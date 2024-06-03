@@ -8,7 +8,7 @@
 
 [C. Sum of Cubes](https://codeforces.com/contest/1490/problem/C) - Done
 
-[D. Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
+[D. Permutation Transformation](https://codeforces.com/contest/1490/problem/D) - Done
 
 [E. Accidental Victory](https://codeforces.com/contest/1490/problem/E)
 
