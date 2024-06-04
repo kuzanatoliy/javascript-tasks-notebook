@@ -10,7 +10,7 @@
 
 [D. Permutation Transformation](https://codeforces.com/contest/1490/problem/D) - Done
 
-[E. Accidental Victory](https://codeforces.com/contest/1490/problem/E)
+[E. Accidental Victory](https://codeforces.com/contest/1490/problem/E) - Done
 
 [F. Equalize the Array](https://codeforces.com/contest/1490/problem/F)
 
