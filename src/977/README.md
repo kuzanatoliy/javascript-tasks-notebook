@@ -6,7 +6,7 @@
 
 [B. Two-gram](https://codeforces.com/contest/977/problem/B) - Done
 
-[C. Less or Equal](https://codeforces.com/contest/977/problem/C)
+[C. Less or Equal](https://codeforces.com/contest/977/problem/C) - Done
 
 [D. Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D)
 
