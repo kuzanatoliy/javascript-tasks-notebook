@@ -4,7 +4,7 @@
 
 [A. Wrong Subtraction](https://codeforces.com/contest/977/problem/A) - Done
 
-[B. Two-gram](https://codeforces.com/contest/977/problem/B)
+[B. Two-gram](https://codeforces.com/contest/977/problem/B) - Done
 
 [C. Less or Equal](https://codeforces.com/contest/977/problem/C)
 
