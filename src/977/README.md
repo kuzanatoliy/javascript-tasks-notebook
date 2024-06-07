@@ -8,7 +8,7 @@
 
 [C. Less or Equal](https://codeforces.com/contest/977/problem/C) - Done
 
-[D. Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D)
+[D. Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D) - Done
 
 [E. Cyclic Components](https://codeforces.com/contest/977/problem/E)
 
