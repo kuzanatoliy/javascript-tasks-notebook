@@ -1,4 +1,4 @@
-# Codeforces Round 876 (Div. 2)
+# Codeforces Round 874 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1833)
 
