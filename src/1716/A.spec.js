@@ -1,6 +1,6 @@
 ﻿const { getCountOfOperations } = require('./A');
 
-describe('1714A. Round Down the Price', () => {
+describe('1714A. 2-3 Moves', () => {
   it.each`
     n    | origin       | result
     ${1} | ${1}         | ${2}
