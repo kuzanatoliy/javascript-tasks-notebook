@@ -4,7 +4,7 @@
 
 [A. Cutting Banner](https://codeforces.com/contest/538/problem/A) - Done
 
-[B. Quasi Binary](https://codeforces.com/contest/538/problem/B)
+[B. Quasi Binary](https://codeforces.com/contest/538/problem/B) - Done
 
 [C. Tourist's Notes](https://codeforces.com/contest/538/problem/C)
 

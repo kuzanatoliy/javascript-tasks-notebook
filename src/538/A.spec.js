@@ -8,6 +8,6 @@ describe('538A. Cutting Banner', () => {
     ${3} | ${'DECODEFORCES'}        | ${'YES'}
     ${4} | ${'DOGEFORCES'}          | ${'NO'}
   `('Base test: $n', ({ string, result }) => {
-    expect(isItPossibleToCut(string)).toStrictEqual(result);
+    expect(isItPossibleToCut(string)).toBe(result);
   });
 });
