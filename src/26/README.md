@@ -4,7 +4,7 @@
 
 [A. Almost Prime](https://codeforces.com/contest/26/problem/A) - Done
 
-[B. Regular Bracket Sequence](https://codeforces.com/contest/26/problem/B)
+[B. Regular Bracket Sequence](https://codeforces.com/contest/26/problem/B) - Done
 
 [C. Parquet](https://codeforces.com/contest/26/problem/C)
 
