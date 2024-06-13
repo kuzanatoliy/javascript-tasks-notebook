@@ -1,6 +1,6 @@
 ﻿const { getCountOfTasks } = require('./A');
 
-describe('1980A. My First Sorting Proroundslem', () => {
+describe('1980A. Problem Generator', () => {
   it.each`
     n    | tasks           | rounds | result
     ${1} | ${'BGECDCBDED'} | ${1}   | ${2}
