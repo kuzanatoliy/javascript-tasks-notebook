@@ -4,7 +4,7 @@
 
 [A. Stone Game](https://codeforces.com/contest/1538/problem/A) - Done
 
-[B. Friends and Candies](https://codeforces.com/contest/1538/problem/B)
+[B. Friends and Candies](https://codeforces.com/contest/1538/problem/B) - Done
 
 [C. Number of Pairs](https://codeforces.com/contest/1538/problem/C)
 
