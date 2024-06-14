@@ -4,7 +4,7 @@
 
 [A. My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) - Done
 
-[B. Different String](https://codeforces.com/contest/1971/problem/B)
+[B. Different String](https://codeforces.com/contest/1971/problem/B) - Done
 
 [C. Clock and Strings](https://codeforces.com/contest/1971/problem/C)
 
