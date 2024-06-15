@@ -4,7 +4,7 @@
 
 [A. Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) - Done
 
-[B. Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B)
+[B. Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) - Done
 
 [C. Turtle Fingers: Count the Values of k](https://codeforces.com/contest/1933/problem/C)
 
