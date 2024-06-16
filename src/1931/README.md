@@ -4,7 +4,7 @@
 
 [A. Recovering a Small String](https://codeforces.com/contest/1931/problem/A) - Done
 
-[B. Make Equal](https://codeforces.com/contest/1931/problem/B)
+[B. Make Equal](https://codeforces.com/contest/1931/problem/B) - Done
 
 [C. Make Equal Again](https://codeforces.com/contest/1931/problem/C)
 
