@@ -6,7 +6,7 @@
 
 [B. Young Explorers](https://codeforces.com/contest/1355/problem/B) - Done
 
-[C. Count Triangles](https://codeforces.com/contest/1355/problem/C)
+[C. Count Triangles](https://codeforces.com/contest/1355/problem/C) - Done
 
 [D. Game With Array](https://codeforces.com/contest/1355/problem/D)
 
