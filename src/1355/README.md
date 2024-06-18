@@ -4,7 +4,7 @@
 
 [A. Sequence with Digits](https://codeforces.com/contest/1355/problem/A) - Done
 
-[B. Young Explorers](https://codeforces.com/contest/1355/problem/B)
+[B. Young Explorers](https://codeforces.com/contest/1355/problem/B) - Done
 
 [C. Count Triangles](https://codeforces.com/contest/1355/problem/C)
 
