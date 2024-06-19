@@ -8,7 +8,7 @@
 
 [C. Count Triangles](https://codeforces.com/contest/1355/problem/C) - Done
 
-[D. Game With Array](https://codeforces.com/contest/1355/problem/D)
+[D. Game With Array](https://codeforces.com/contest/1355/problem/D) - Done
 
 [E. Restorer Distance](https://codeforces.com/contest/1355/problem/E)
 
