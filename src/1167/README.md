@@ -4,7 +4,7 @@
 
 [A. Telephone Number](https://codeforces.com/contest/1167/problem/A) - Done
 
-[B. Lost Numbers](https://codeforces.com/contest/1167/problem/B)
+[B. Lost Numbers](https://codeforces.com/contest/1167/problem/B) - Done
 
 [C. News Distribution](https://codeforces.com/contest/1167/problem/C)
 
