@@ -4,7 +4,7 @@
 
 [A. Creating Words](https://codeforces.com/contest/1985/problem/A) - Done
 
-[B. Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B)
+[B. Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) - Done
 
 [C. Good Prefixes](https://codeforces.com/contest/1985/problem/C)
 
