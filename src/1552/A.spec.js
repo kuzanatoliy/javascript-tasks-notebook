@@ -1,6 +1,6 @@
 ﻿const { getCountOfPermutes } = require('./A');
 
-describe('1560A. Dislike of Threes', () => {
+describe('1552A. Dislike of Threes', () => {
   it.each`
     n    | string          | result
     ${1} | ${'lol'}        | ${2}
