@@ -6,7 +6,7 @@
 
 [B. Lost Numbers](https://codeforces.com/contest/1167/problem/B) - Done
 
-[C. News Distribution](https://codeforces.com/contest/1167/problem/C)
+[C. News Distribution](https://codeforces.com/contest/1167/problem/C) - Done
 
 [D. Bicolored RBS](https://codeforces.com/contest/1167/problem/D)
 
