@@ -4,7 +4,7 @@
 
 [A. How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) - Done
 
-[B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B)
+[B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) - Done
 
 [C. Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C)
 
