@@ -4,7 +4,7 @@
 
 [A. Problem Generator](https://codeforces.com/contest/1980/problem/A) - Done
 
-[B. Choosing Cubes](https://codeforces.com/contest/1980/problem/B)
+[B. Choosing Cubes](https://codeforces.com/contest/1980/problem/B) - Done
 
 [C. Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C)
 
