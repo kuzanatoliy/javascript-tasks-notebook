@@ -4,7 +4,7 @@
 
 [A. Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) - Done
 
-[B. Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B)
+[B. Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B) - Done
 
 [C. Johnny and Another Rating Drop](https://codeforces.com/contest/1362/problem/C)
 
