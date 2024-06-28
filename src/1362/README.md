@@ -6,7 +6,7 @@
 
 [B. Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B) - Done
 
-[C. Johnny and Another Rating Drop](https://codeforces.com/contest/1362/problem/C)
+[C. Johnny and Another Rating Drop](https://codeforces.com/contest/1362/problem/C) - Done
 
 [D. Johnny and Contribution](https://codeforces.com/contest/1362/problem/D)
 
