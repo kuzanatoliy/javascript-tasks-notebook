@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1332)
 
-[A. Exercising Walk](https://codeforces.com/contest/1332/problem/A)
+[A. Exercising Walk](https://codeforces.com/contest/1332/problem/A) - Done
 
 [B. Composite Coloring](https://codeforces.com/contest/1332/problem/B) - Done
 
