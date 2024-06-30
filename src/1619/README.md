@@ -4,7 +4,7 @@
 
 [A. Square String?](https://codeforces.com/contest/1619/problem/A) - Done
 
-[B. Squares and Cubes](https://codeforces.com/contest/1619/problem/B)
+[B. Squares and Cubes](https://codeforces.com/contest/1619/problem/B) - Done
 
 [C. Wrong Addition](https://codeforces.com/contest/1619/problem/C)
 
