@@ -6,7 +6,7 @@
 
 [B. Plus-Minus Split](https://codeforces.com/contest/1919/problem/B) - Done
 
-[C. Grouping Increases](https://codeforces.com/contest/1919/problem/C)
+[C. Grouping Increases](https://codeforces.com/contest/1919/problem/C) - Done
 
 [D. 01 Tree](https://codeforces.com/contest/1919/problem/D)
 
