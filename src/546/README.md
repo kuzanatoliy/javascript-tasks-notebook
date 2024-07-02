@@ -6,7 +6,7 @@
 
 [B. Soldier and Badges](https://codeforces.com/contest/546/problem/B) - Done
 
-[C. Soldier and Cards](https://codeforces.com/contest/546/problem/C)
+[C. Soldier and Cards](https://codeforces.com/contest/546/problem/C) - Done
 
 [D. Soldier and Number Game](https://codeforces.com/contest/546/problem/D)
 
