@@ -1,4 +1,4 @@
-# Technocup 2019 - Elimination Round 1
+# Codeforces Round 529 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1095)
 
