@@ -4,7 +4,7 @@
 
 [A. Red and Blue Beans](https://codeforces.com/contest/1519/problem/A) - Done
 
-[B. The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B)
+[B. The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) - Done
 
 [C. Berland Regional](https://codeforces.com/contest/1519/problem/C)
 
