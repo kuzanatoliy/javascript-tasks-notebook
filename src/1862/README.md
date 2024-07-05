@@ -4,7 +4,7 @@
 
 [A. Gift Carpet](https://codeforces.com/contest/1862/problem/A) - Done
 
-[B. Sequence Game](https://codeforces.com/contest/1862/problem/B)
+[B. Sequence Game](https://codeforces.com/contest/1862/problem/B) - Done
 
 [C. Flower City Fence](https://codeforces.com/contest/1862/problem/C)
 
