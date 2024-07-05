@@ -6,7 +6,7 @@
 
 [B. Colourblindness](https://codeforces.com/contest/1722/problem/B) - Done
 
-[C. Word Game](https://codeforces.com/contest/1722/problem/C)
+[C. Word Game](https://codeforces.com/contest/1722/problem/C) - Done
 
 [D. Line](https://codeforces.com/contest/1722/problem/D)
 
