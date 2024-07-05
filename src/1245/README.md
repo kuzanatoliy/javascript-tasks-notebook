@@ -4,7 +4,7 @@
 
 [A. Good ol' Numbers Coloring](https://codeforces.com/contest/1245/problem/A) - Done
 
-[B. Restricted RPS](https://codeforces.com/contest/1245/problem/B)
+[B. Restricted RPS](https://codeforces.com/contest/1245/problem/B) - Done
 
 [C. Constanze's Machine](https://codeforces.com/contest/1245/problem/C)
 

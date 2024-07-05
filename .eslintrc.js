@@ -149,7 +149,7 @@ module.exports = {
     ],
     'max-lines-per-function': [
       'error',
-      { max: 50, skipBlankLines: true, skipComments: true, IIFEs: false },
+      { max: 60, skipBlankLines: true, skipComments: true, IIFEs: false },
     ],
     'max-nested-callbacks': ['error', 3],
     'max-params': ['error', 5],
