@@ -4,7 +4,7 @@
 
 [A. Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A)
 
-[B. Remove Prefix](https://codeforces.com/contest/1714/problem/B)
+[B. Remove Prefix](https://codeforces.com/contest/1714/problem/B) - Done
 
 [C. Minimum Varied Number](https://codeforces.com/contest/1714/problem/C) - Done
 
