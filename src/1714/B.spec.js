@@ -1,4 +1,4 @@
-﻿const { getPrefixLength } = require('./C');
+﻿const { getPrefixLength } = require('./B');
 
 describe('1714B. Remove Prefix', () => {
   it.each`
