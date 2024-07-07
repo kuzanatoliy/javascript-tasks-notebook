@@ -6,6 +6,7 @@ module.exports = {
       .toLowerCase()
       .replace(/(m|M)+/, 'm')
       .replace(/(e|E)+/, 'e')
+      .replace(/(o|O)+/, 'o')
       .replace(/(w|W)+/, 'w') === 'meow'
       ? 'YES'
       : 'NO',
