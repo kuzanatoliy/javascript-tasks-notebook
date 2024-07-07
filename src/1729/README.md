@@ -4,7 +4,7 @@
 
 [A. Two Elevators](https://codeforces.com/contest/1729/problem/A) - Done
 
-[B. Decode String](https://codeforces.com/contest/1729/problem/B)
+[B. Decode String](https://codeforces.com/contest/1729/problem/B) - Done
 
 [C. Jumping on Tiles](https://codeforces.com/contest/1729/problem/C)
 
