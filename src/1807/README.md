@@ -6,7 +6,7 @@
 
 [B. Grab the Candies](https://codeforces.com/contest/1807/problem/B) - Done
 
-[C. Find and Replace](https://codeforces.com/contest/1807/problem/C)
+[C. Find and Replace](https://codeforces.com/contest/1807/problem/C) - Done
 
 [D. Odd Queries](https://codeforces.com/contest/1807/problem/D)
 
