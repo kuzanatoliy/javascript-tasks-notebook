@@ -6,7 +6,7 @@
 
 [B. Restricted RPS](https://codeforces.com/contest/1245/problem/B) - Done
 
-[C. Constanze's Machine](https://codeforces.com/contest/1245/problem/C)
+[C. Constanze's Machine](https://codeforces.com/contest/1245/problem/C) - Done
 
 [D. Shichikuji and Power Grid](https://codeforces.com/contest/1245/problem/D)
 
