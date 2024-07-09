@@ -4,7 +4,7 @@
 
 [A. Karen and Morning](https://codeforces.com/contest/816/problem/A) - Done
 
-[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B)
+[B. Karen and Coffee](https://codeforces.com/contest/816/problem/B) - Done
 
 [C. Karen and Game](https://codeforces.com/contest/816/problem/C)
 
