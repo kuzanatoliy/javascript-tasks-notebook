@@ -4,7 +4,7 @@
 
 [A. Polo the Penguin and Segments](https://codeforces.com/contest/289/problem/A) - Done
 
-[B. Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B)
+[B. Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B) - Done
 
 [C. Polo the Penguin and Strings](https://codeforces.com/contest/289/problem/C)
 
