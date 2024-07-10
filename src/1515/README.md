@@ -4,7 +4,7 @@
 
 [A. Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) - Done
 
-[B. Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B)
+[B. Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) - Done
 
 [C. Phoenix and Towers](https://codeforces.com/contest/1515/problem/C)
 
