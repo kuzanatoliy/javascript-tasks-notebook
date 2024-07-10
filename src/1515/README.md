@@ -6,7 +6,7 @@
 
 [B. Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) - Done
 
-[C. Phoenix and Towers](https://codeforces.com/contest/1515/problem/C)
+[C. Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) - Done
 
 [D. Phoenix and Socks](https://codeforces.com/contest/1515/problem/D)
 
