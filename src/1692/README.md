@@ -10,7 +10,7 @@
 
 [D. The Clock](https://codeforces.com/contest/1692/problem/D) - Done
 
-[E. Binary Deque](https://codeforces.com/contest/1692/problem/E)
+[E. Binary Deque](https://codeforces.com/contest/1692/problem/E) - Done
 
 [F. 3SUM](https://codeforces.com/contest/1692/problem/F)
 
