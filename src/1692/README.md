@@ -12,7 +12,7 @@
 
 [E. Binary Deque](https://codeforces.com/contest/1692/problem/E) - Done
 
-[F. 3SUM](https://codeforces.com/contest/1692/problem/F)
+[F. 3SUM](https://codeforces.com/contest/1692/problem/F) - Done
 
 [G. 2^Sort](https://codeforces.com/contest/1692/problem/G)
 
