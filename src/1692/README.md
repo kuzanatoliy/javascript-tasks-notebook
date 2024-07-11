@@ -8,7 +8,7 @@
 
 [C. Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) - Done
 
-[D. The Clock](https://codeforces.com/contest/1692/problem/D)
+[D. The Clock](https://codeforces.com/contest/1692/problem/D) - Done
 
 [E. Binary Deque](https://codeforces.com/contest/1692/problem/E)
 
