@@ -14,6 +14,6 @@
 
 [F. 3SUM](https://codeforces.com/contest/1692/problem/F) - Done
 
-[G. 2^Sort](https://codeforces.com/contest/1692/problem/G)
+[G. 2^Sort](https://codeforces.com/contest/1692/problem/G) - Done
 
 [H. Gambling](https://codeforces.com/contest/1692/problem/H)
