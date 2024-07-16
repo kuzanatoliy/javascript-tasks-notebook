@@ -6,7 +6,7 @@
 
 [B. Game of Robots](https://codeforces.com/contest/670/problem/B) - Done
 
-[C. Cinema](https://codeforces.com/contest/670/problem/C)
+[C. Cinema](https://codeforces.com/contest/670/problem/C) - Done
 
 [D1. Magic Powder - 1](https://codeforces.com/contest/670/problem/D1)
 
