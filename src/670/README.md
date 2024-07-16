@@ -4,7 +4,7 @@
 
 [A. Holidays](https://codeforces.com/contest/670/problem/A) - Done
 
-[B. Game of Robots](https://codeforces.com/contest/670/problem/B)
+[B. Game of Robots](https://codeforces.com/contest/670/problem/B) - Done
 
 [C. Cinema](https://codeforces.com/contest/670/problem/C)
 
