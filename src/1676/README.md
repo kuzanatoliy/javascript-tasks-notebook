@@ -6,7 +6,7 @@
 
 [B. Equal Candies](https://codeforces.com/contest/1676/problem/B) - Done
 
-[C. Most Similar Words](https://codeforces.com/contest/1676/problem/C)
+[C. Most Similar Words](https://codeforces.com/contest/1676/problem/C) - Done
 
 [D. X-Sum](https://codeforces.com/contest/1676/problem/D)
 
