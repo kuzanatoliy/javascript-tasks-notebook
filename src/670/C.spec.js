@@ -1,6 +1,6 @@
 ﻿const { getTheBestMovie } = require('./C');
 
-describe('670B. Game of Robots', () => {
+describe('670C. Cinema', () => {
   it.each`
     n    | people                | movies             | subtitles          | result
     ${1} | ${[2, 3, 2]}          | ${[3, 2]}          | ${[2, 3]}          | ${2}

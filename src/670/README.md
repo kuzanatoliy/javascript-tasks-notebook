@@ -8,7 +8,7 @@
 
 [C. Cinema](https://codeforces.com/contest/670/problem/C) - Done
 
-[D1. Magic Powder - 1](https://codeforces.com/contest/670/problem/D1)
+[D1. Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) - Done
 
 [D2. Magic Powder - 2](https://codeforces.com/contest/670/problem/D2)
 
