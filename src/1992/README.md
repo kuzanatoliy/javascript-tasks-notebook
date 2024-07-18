@@ -4,7 +4,7 @@
 
 [A. Only Pluses](https://codeforces.com/contest/1992/problem/A) - Done
 
-[B. Angry Monk](https://codeforces.com/contest/1992/problem/B)
+[B. Angry Monk](https://codeforces.com/contest/1992/problem/B) - Done
 
 [C. Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C)
 
