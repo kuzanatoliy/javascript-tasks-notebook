@@ -4,7 +4,7 @@
 
 [A. A.M. Deviation](https://codeforces.com/contest/1605/problem/A) - Done
 
-[B. Reverse Sort](https://codeforces.com/contest/1605/problem/B)
+[B. Reverse Sort](https://codeforces.com/contest/1605/problem/B) - Done
 
 [C. Dominant Character](https://codeforces.com/contest/1605/problem/C)
 
