@@ -4,7 +4,7 @@
 
 [A. Problemsolving Log](https://codeforces.com/contest/1914/problem/A) - Done
 
-[B. Preparing for the Contest](https://codeforces.com/contest/1914/problem/B)
+[B. Preparing for the Contest](https://codeforces.com/contest/1914/problem/B) - Done
 
 [C. Quests](https://codeforces.com/contest/1914/problem/C)
 
