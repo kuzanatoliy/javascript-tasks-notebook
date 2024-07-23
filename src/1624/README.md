@@ -4,7 +4,7 @@
 
 [A. Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) - Done
 
-[B. Make AP](https://codeforces.com/contest/1624/problem/B)
+[B. Make AP](https://codeforces.com/contest/1624/problem/B) - Done
 
 [C. Division by Two and Permutation](https://codeforces.com/contest/1624/problem/C)
 
