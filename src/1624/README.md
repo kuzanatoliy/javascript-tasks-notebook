@@ -6,7 +6,7 @@
 
 [B. Make AP](https://codeforces.com/contest/1624/problem/B) - Done
 
-[C. Division by Two and Permutation](https://codeforces.com/contest/1624/problem/C)
+[C. Division by Two and Permutation](https://codeforces.com/contest/1624/problem/C) - Done
 
 [D. Palindromes Coloring](https://codeforces.com/contest/1624/problem/D)
 
