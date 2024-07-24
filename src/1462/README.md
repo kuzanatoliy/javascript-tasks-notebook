@@ -4,7 +4,7 @@
 
 [A. Favorite Sequence](https://codeforces.com/contest/1462/problem/A) - Done
 
-[B. Last Year's Substring](https://codeforces.com/contest/1462/problem/B)
+[B. Last Year's Substring](https://codeforces.com/contest/1462/problem/B) - Done
 
 [C. Unique Number](https://codeforces.com/contest/1462/problem/C)
 

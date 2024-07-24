@@ -8,7 +8,7 @@
 
 [C. Division by Two and Permutation](https://codeforces.com/contest/1624/problem/C) - Done
 
-[D. Palindromes Coloring](https://codeforces.com/contest/1624/problem/D)
+[D. Palindromes Coloring](https://codeforces.com/contest/1624/problem/D) - Done
 
 [E. Masha-forgetful](https://codeforces.com/contest/1624/problem/E)
 
