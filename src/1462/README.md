@@ -6,7 +6,7 @@
 
 [B. Last Year's Substring](https://codeforces.com/contest/1462/problem/B) - Done
 
-[C. Unique Number](https://codeforces.com/contest/1462/problem/C)
+[C. Unique Number](https://codeforces.com/contest/1462/problem/C) - Done
 
 [D. Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D)
 
