@@ -8,7 +8,7 @@
 
 [C. Unique Number](https://codeforces.com/contest/1462/problem/C) - Done
 
-[D. Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D)
+[D. Add to Neighbour and Remove](https://codeforces.com/contest/1462/problem/D) - Done
 
 [E1. Close Tuples (easy version)](https://codeforces.com/contest/1462/problem/E1)
 
