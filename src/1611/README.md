@@ -4,7 +4,7 @@
 
 [A. Make Even](https://codeforces.com/contest/1611/problem/A) - Done
 
-[B. Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B)
+[B. Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B) - Done
 
 [C. Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C)
 
