@@ -6,7 +6,7 @@
 
 [B. The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) - Done
 
-[C. Berland Regional](https://codeforces.com/contest/1519/problem/C)
+[C. Berland Regional](https://codeforces.com/contest/1519/problem/C) - Done
 
 [D. Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D)
 
