@@ -1,10 +1,10 @@
-# Codeforces Round 645 (Div. 2)
+# Codeforces Round 662 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/1393)
 
 [A. Rainbow Dash, Fluttershy and Chess Coloring](https://codeforces.com/contest/1393/problem/A) - Done
 
-[B. Applejack and Storages](https://codeforces.com/contest/1393/problem/B)
+[B. Applejack and Storages](https://codeforces.com/contest/1393/problem/B) - Done
 
 [C. Pinkie Pie Eats Patty-cakes](https://codeforces.com/contest/1393/problem/C)
 
