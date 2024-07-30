@@ -4,7 +4,7 @@
 
 [A. Repeating Cipher](https://codeforces.com/contest/1095/problem/A) - Done
 
-[B. Array Stabilization](https://codeforces.com/contest/1095/problem/B)
+[B. Array Stabilization](https://codeforces.com/contest/1095/problem/B) - Done
 
 [C. Powers Of Two](https://codeforces.com/contest/1095/problem/C)
 
