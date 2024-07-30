@@ -6,7 +6,7 @@
 
 [B. Array Stabilization](https://codeforces.com/contest/1095/problem/B) - Done
 
-[C. Powers Of Two](https://codeforces.com/contest/1095/problem/C)
+[C. Powers Of Two](https://codeforces.com/contest/1095/problem/C) - Done
 
 [D. Circular Dance](https://codeforces.com/contest/1095/problem/D)
 
