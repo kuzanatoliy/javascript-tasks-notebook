@@ -1,4 +1,4 @@
-# Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)
+# Codeforces Round 735 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/1554)
 
