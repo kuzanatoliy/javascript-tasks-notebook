@@ -4,7 +4,7 @@
 
 [A. Anton and Danik](https://codeforces.com/contest/734/problem/A) - Done
 
-[B. Anton and Digits](https://codeforces.com/contest/734/problem/B)
+[B. Anton and Digits](https://codeforces.com/contest/734/problem/B) - Done
 
 [C. Anton and Making Potions](https://codeforces.com/contest/734/problem/C)
 

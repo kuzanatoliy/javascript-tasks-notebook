@@ -1,6 +1,6 @@
 ﻿const { getMaxPossibleValue } = require('./A');
 
-describe('1553A. Cherry', () => {
+describe('1554A. Cherry', () => {
   it.each`
     n    | array                                               | result
     ${1} | ${[2, 4, 3]}                                        | ${12}
