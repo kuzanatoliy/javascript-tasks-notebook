@@ -4,7 +4,7 @@
 
 [A. Phone Desktop](https://codeforces.com/contest/1974/problem/A) - Done
 
-[B. Symmetric Encoding](https://codeforces.com/contest/1974/problem/B)
+[B. Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) - Done
 
 [C. Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C)
 
