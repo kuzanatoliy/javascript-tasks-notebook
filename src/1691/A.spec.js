@@ -1,6 +1,6 @@
 ﻿const { getMinCountOfRemovedNumbers } = require('./A');
 
-describe('1675A. Beat The Odds', () => {
+describe('1691A. Beat The Odds', () => {
   it.each`
     n    | array                 | result
     ${1} | ${[2, 4, 3, 6, 8]}    | ${1}
