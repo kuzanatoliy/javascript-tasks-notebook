@@ -4,7 +4,7 @@
 
 [A. Boring Apartments](https://codeforces.com/contest/1433/problem/A) - Done
 
-[B. Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B)
+[B. Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B) - Done
 
 [C. Dominant Piranha](https://codeforces.com/contest/1433/problem/C)
 
