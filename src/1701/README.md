@@ -4,7 +4,7 @@
 
 [A. Grass Field](https://codeforces.com/contest/1701/problem/A) - Done
 
-[B. Permutation](https://codeforces.com/contest/1701/problem/B)
+[B. Permutation](https://codeforces.com/contest/1701/problem/B) - Done
 
 [C. Schedule Management](https://codeforces.com/contest/1701/problem/C)
 
