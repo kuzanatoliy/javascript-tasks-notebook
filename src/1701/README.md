@@ -6,7 +6,7 @@
 
 [B. Permutation](https://codeforces.com/contest/1701/problem/B) - Done
 
-[C. Schedule Management](https://codeforces.com/contest/1701/problem/C)
+[C. Schedule Management](https://codeforces.com/contest/1701/problem/C) - Done
 
 [D. Permutation Restoration](https://codeforces.com/contest/1701/problem/D)
 
