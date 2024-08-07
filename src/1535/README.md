@@ -6,7 +6,7 @@
 
 [B. Array Reodering](https://codeforces.com/contest/1535/problem/B) - Done
 
-[C. Unstable String](https://codeforces.com/contest/1535/problem/C)
+[C. Unstable String](https://codeforces.com/contest/1535/problem/C) - Done
 
 [D. Playoff Tournament](https://codeforces.com/contest/1535/problem/D)
 
