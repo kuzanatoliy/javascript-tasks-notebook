@@ -4,7 +4,7 @@
 
 [A. Fair Playoff](https://codeforces.com/contest/1535/problem/A) - Done
 
-[B. Array Reodering](https://codeforces.com/contest/1535/problem/B)
+[B. Array Reodering](https://codeforces.com/contest/1535/problem/B) - Done
 
 [C. Unstable String](https://codeforces.com/contest/1535/problem/C)
 
