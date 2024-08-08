@@ -6,7 +6,7 @@
 
 [B. Bogosort](https://codeforces.com/contest/1312/problem/B) - Done
 
-[C. Adding Powers](https://codeforces.com/contest/1312/problem/C)
+[C. Adding Powers](https://codeforces.com/contest/1312/problem/C) - Done
 
 [D. Count the Arrays](https://codeforces.com/contest/1312/problem/D)
 
