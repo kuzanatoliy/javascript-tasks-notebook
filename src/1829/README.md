@@ -6,7 +6,7 @@
 
 [B. Blank Space](https://codeforces.com/contest/1829/problem/B) - Done
 
-[C. Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C)
+[C. Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) - Done
 
 [D. Gold Rush](https://codeforces.com/contest/1829/problem/D)
 
