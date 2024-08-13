@@ -1,4 +1,4 @@
-﻿const { getCountOfAmount } = require('./B');
+﻿const { getCountOfAmount } = require('./C');
 
 describe('1829C. Mr. Perfectly Fine', () => {
   it.each`
