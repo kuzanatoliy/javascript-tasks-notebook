@@ -4,7 +4,7 @@
 
 [A. Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) - Done
 
-[B. Fortune Telling](https://codeforces.com/contest/1634/problem/B)
+[B. Fortune Telling](https://codeforces.com/contest/1634/problem/B) - Done
 
 [C. OKEA](https://codeforces.com/contest/1634/problem/C)
 
