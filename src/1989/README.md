@@ -4,7 +4,7 @@
 
 [A. Catch the Coin](https://codeforces.com/contest/1989/problem/A) - Done
 
-[B. Substring and Subsequence](https://codeforces.com/contest/1989/problem/B)
+[B. Substring and Subsequence](https://codeforces.com/contest/1989/problem/B) - Done
 
 [C. Two Movies](https://codeforces.com/contest/1989/problem/C)
 
