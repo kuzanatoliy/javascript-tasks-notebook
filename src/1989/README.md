@@ -6,7 +6,7 @@
 
 [B. Substring and Subsequence](https://codeforces.com/contest/1989/problem/B) - Done
 
-[C. Two Movies](https://codeforces.com/contest/1989/problem/C)
+[C. Two Movies](https://codeforces.com/contest/1989/problem/C) - Done
 
 [D. Smithing Skill](https://codeforces.com/contest/1989/problem/D)
 
