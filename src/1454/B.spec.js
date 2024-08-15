@@ -1,6 +1,6 @@
 ﻿const { getWinner } = require('./B');
 
-describe('1454A. Special Permutation', () => {
+describe('1454B. Unique Bid Auction', () => {
   it.each`
     n    | array                 | result
     ${1} | ${[1, 1]}             | ${-1}

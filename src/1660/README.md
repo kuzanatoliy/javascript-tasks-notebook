@@ -4,7 +4,7 @@
 
 [A. Vasya and Coins](https://codeforces.com/contest/1660/problem/A) - Done
 
-[B. Vlad and Candies](https://codeforces.com/contest/1660/problem/B)
+[B. Vlad and Candies](https://codeforces.com/contest/1660/problem/B) - Done
 
 [C. Get an Even String](https://codeforces.com/contest/1660/problem/C)
 
