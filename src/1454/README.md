@@ -4,7 +4,7 @@
 
 [A. Special Permutation](https://codeforces.com/contest/1454/problem/A) - Done
 
-[B. Unique Bid Auction](https://codeforces.com/contest/1454/problem/B)
+[B. Unique Bid Auction](https://codeforces.com/contest/1454/problem/B) - Done
 
 [C. Sequence Transformation](https://codeforces.com/contest/1454/problem/C)
 
