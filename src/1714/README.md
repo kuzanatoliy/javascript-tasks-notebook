@@ -10,7 +10,7 @@
 
 [D. Color with Occurrences](https://codeforces.com/contest/1714/problem/D)
 
-[E. Add Modulo 10](https://codeforces.com/contest/1714/problem/E)
+[E. Add Modulo 10](https://codeforces.com/contest/1714/problem/E) - Done
 
 [F. Build a Tree and That Is It](https://codeforces.com/contest/1714/problem/F)
 
