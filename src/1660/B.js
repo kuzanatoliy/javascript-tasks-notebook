@@ -1,24 +1,26 @@
-﻿module.exports = {
+﻿/* eslint-disable prefer-destructuring */
+module.exports = {
   isItPossible: (array) => {
     if (array.length === 1) {
-      return 'NO';
+      return array[0] > 1 ? 'NO' : 'YES';
     }
-    let max = 0;
-    for (let j = 1; j < array.length; j++) {
-      if (array[max] < array[j]) {
-        max = j;
+    let m1;
+    let m2;
+    if (array[0] < array[1]) {
+      m1 = array[1];
+      m2 = array[0];
+    } else {
+      m1 = array[0];
+      m2 = array[1];
+    }
+    for (let c = 2; c < array.length; c++) {
+      if (array[c] > m1) {
+        m2 = m1;
+        m1 = array[c];
+      } else if (array[c] > m2) {
+        m2 = array[c];
       }
     }
-    let max2 = 0;
-    for (let jj = 1; jj < array.length; jj++) {
-      if (jj === max) {
-        continue;
-      }
-      if (array[max2] < array[jj]) {
-        max2 = jj;
-      }
-    }
-
-    return array[max] - array[max2] > 1 ? 'NO' : 'YES';
+    return m1 - m2 > 1 ? 'NO' : 'YES';
   },
 };
