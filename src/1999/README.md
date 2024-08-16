@@ -6,7 +6,7 @@
 
 [B. Card Game](https://codeforces.com/contest/1999/problem/B1)
 
-[C. Showering](https://codeforces.com/contest/1999/problem/C)
+[C. Showering](https://codeforces.com/contest/1999/problem/C) - Done
 
 [D. Slavic's Exam](https://codeforces.com/contest/1999/problem/D)
 

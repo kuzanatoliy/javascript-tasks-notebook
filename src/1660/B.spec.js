@@ -8,7 +8,7 @@ describe('1660B. Vlad and Candies', () => {
     ${3} | ${[1, 6, 2, 4, 3]}            | ${'NO'}
     ${4} | ${[2, 2, 2, 1]}               | ${'YES'}
     ${5} | ${[1, 1000000000, 999999999]} | ${'YES'}
-    ${6} | ${[1]}                        | ${'NO'}
+    ${6} | ${[1]}                        | ${'YES'}
   `('Base test: $n', ({ array, result }) => {
     expect(isItPossible(array)).toBe(result);
   });
