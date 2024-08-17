@@ -4,7 +4,7 @@
 
 [A. Legs](https://codeforces.com/contest/1996/problem/A) - Done
 
-[B. Scale](https://codeforces.com/contest/1996/problem/B)
+[B. Scale](https://codeforces.com/contest/1996/problem/B) - Done
 
 [C. Sort](https://codeforces.com/contest/1996/problem/C)
 
