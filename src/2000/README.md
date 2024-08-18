@@ -4,7 +4,7 @@
 
 [A. Primary Task](https://codeforces.com/contest/2000/problem/A) - Done
 
-[B. Seating in a Bus](https://codeforces.com/contest/2000/problem/B)
+[B. Seating in a Bus](https://codeforces.com/contest/2000/problem/B) - Done
 
 [C. Numeric String Template](https://codeforces.com/contest/2000/problem/C)
 
