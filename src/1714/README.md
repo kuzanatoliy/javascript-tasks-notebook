@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1714)
 
-[A. Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A)
+[A. Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) - Done
 
 [B. Remove Prefix](https://codeforces.com/contest/1714/problem/B) - Done
 
