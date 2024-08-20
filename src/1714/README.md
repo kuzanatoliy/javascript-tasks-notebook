@@ -8,7 +8,7 @@
 
 [C. Minimum Varied Number](https://codeforces.com/contest/1714/problem/C) - Done
 
-[D. Color with Occurrences](https://codeforces.com/contest/1714/problem/D)
+[D. Color with Occurrences](https://codeforces.com/contest/1714/problem/D) - Done
 
 [E. Add Modulo 10](https://codeforces.com/contest/1714/problem/E) - Done
 
