@@ -13,7 +13,7 @@ $ yarn install
 **Git hooks:**
 
 ```bash
-$ yarn install
+$ npx husky install
 ```
 
 ### Scripts
