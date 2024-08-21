@@ -4,7 +4,7 @@
 
 [A. Div. 7](https://codeforces.com/contest/1633/problem/A) - Done
 
-[B. Minority](https://codeforces.com/contest/1633/problem/B)
+[B. Minority](https://codeforces.com/contest/1633/problem/B) - Done
 
 [C. Kill the Monster](https://codeforces.com/contest/1633/problem/C)
 
