@@ -5,7 +5,7 @@ describe('443A. Anton and Letters', () => {
     n    | letters           | result
     ${1} | ${'{a, b, c}'}    | ${3}
     ${2} | ${'{b, a, b, a}'} | ${2}
-    ${2} | ${'{}'}           | ${0}
+    ${3} | ${'{}'}           | ${0}
   `('Base test: $n', ({ letters, result }) => {
     expect(checkUniqueLetters(letters)).toBe(result);
   });

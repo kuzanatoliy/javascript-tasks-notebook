@@ -4,7 +4,7 @@
 
 [A. Rewards](https://codeforces.com/contest/448/problem/A) - Done
 
-[B. Suffix Structures](https://codeforces.com/contest/448/problem/B)
+[B. Suffix Structures](https://codeforces.com/contest/448/problem/B) - Done
 
 [C. Painting Fence](https://codeforces.com/contest/448/problem/C)
 
