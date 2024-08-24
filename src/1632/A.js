@@ -1,6 +1,15 @@
 ﻿module.exports = {
-  isItPossibleToReorder: (string) =>
-    string === '0' || string === '1' || string === '10' || string === '01'
-      ? 'YES'
-      : 'NO',
+  isItPossibleToOpenAllDors: (keys) => {
+    const map = {};
+    for (let j = 0; j < keys.length; j++) {
+      const s = keys[j].toLowerCase();
+      if (s === keys[j]) {
+        map[s] = true;
+      }
+      if (!map[s]) {
+        return 'NO';
+      }
+    }
+    return 'YES';
+  },
 };
