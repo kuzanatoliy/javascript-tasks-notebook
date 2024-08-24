@@ -4,7 +4,7 @@
 
 [A. Round Down the Price](https://codeforces.com/contest/1702/problem/A) - Done
 
-[B. Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B)
+[B. Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) - Done
 
 [C. Train and Queries](https://codeforces.com/contest/1702/problem/C)
 
