@@ -1,10 +1,11 @@
-﻿const { checkTramCapacity } = require('./A');
+﻿const { getWinner } = require('./A');
 
 describe('119A. Epic Game', () => {
   it.each`
-    n    | plan                                | result
-    ${1} | ${[[0, 3], [2, 5], [4, 2], [4, 0]]} | ${6}
-  `('Base test: $n', ({ plan, result }) => {
-    expect(checkTramCapacity(plan)).toBe(result);
+    n    | a    | b    | c      | result
+    ${1} | ${3} | ${5} | ${9}   | ${0}
+    ${2} | ${1} | ${1} | ${100} | ${1}
+  `('Base test: $n', ({ a, b, c, result }) => {
+    expect(getWinner(a, b, c)).toBe(result);
   });
 });
