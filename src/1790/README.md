@@ -4,7 +4,7 @@
 
 [A. Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) - Done
 
-[B. Taisia and Dice](https://codeforces.com/contest/1790/problem/B)
+[B. Taisia and Dice](https://codeforces.com/contest/1790/problem/B) - Done
 
 [C. Premutation](https://codeforces.com/contest/1790/problem/C)
 
