@@ -4,7 +4,7 @@
 
 [A. Maximize?](https://codeforces.com/contest/1968/problem/A) - Done
 
-[B. Prefiquence](https://codeforces.com/contest/1968/problem/B)
+[B. Prefiquence](https://codeforces.com/contest/1968/problem/B) - Done
 
 [C. Assembly via Remainders](https://codeforces.com/contest/1968/problem/C)
 
