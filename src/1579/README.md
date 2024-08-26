@@ -4,7 +4,7 @@
 
 [A. Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) - Done
 
-[B. Shifting Sort](https://codeforces.com/contest/1579/problem/B)
+[B. Shifting Sort](https://codeforces.com/contest/1579/problem/B) - Done
 
 [C. Ticks](https://codeforces.com/contest/1579/problem/C)
 
