@@ -18,7 +18,7 @@ jobs:
         run: yarn run prettier:check
       - name: linter
         run: yarn run lint
-  publish:
+  versions:
     if: github.ref_name == 'master'
     needs: quality-gates
     runs-on: ubuntu-latest
