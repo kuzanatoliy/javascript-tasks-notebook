@@ -1,0 +1,48 @@
+name: main_pipeline
+on: [push, workflow_dispatch]
+jobs:
+  quality-gates:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20.x]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: install
+        run: yarn install
+      - name: prettier
+        run: yarn run prettier:check
+      - name: linter
+        run: yarn run lint
+  publish:
+    if: github.ref_name == 'master'
+    needs: quality-gates
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20.x]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          registry-url: 'https://registry.npmjs.org'
+      - name: git config
+        run: |
+          git config --global user.email "njkznu@gmail.com"
+          git config --global user.name "kuzanatoliy"
+      - name: minor tag
+        if: github.event_name == 'push'
+        run: npm version minor
+      - name: major tag
+        if: github.event_name == 'workflow_dispatch'
+        run: npm version major
+      - name: push commits
+        run: |
+          git push
+          git push --tags
