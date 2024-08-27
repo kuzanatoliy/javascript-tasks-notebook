@@ -4,7 +4,7 @@
 
 [A. Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A) - Done
 
-[B. Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B)
+[B. Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) - Done
 
 [C. Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C)
 
