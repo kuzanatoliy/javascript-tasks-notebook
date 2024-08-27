@@ -1,0 +1,36 @@
+name: versions
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'The project version'
+        required: true
+        type: choice
+        options:
+          - major
+          - minor
+          - patch
+jobs:
+  versions:
+    if: github.ref_name == 'master'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20.x]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          registry-url: 'https://registry.npmjs.org'
+      - name: git config
+        run: |
+          git config --global user.email "njkznu@gmail.com"
+          git config --global user.name "kuzanatoliy"
+      - name: tag
+        run: npm version ${{ inputs.version }}
+      - name: push commits
+        run: |
+          git push
+          git push --tags
