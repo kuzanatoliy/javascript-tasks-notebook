@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/978)
 
-[A. Remove Duplicates](https://codeforces.com/contest/978/problem/A)
+[A. Remove Duplicates](https://codeforces.com/contest/978/problem/A) - Done
 
 [B. File Name](https://codeforces.com/contest/978/problem/B) - Done
 
