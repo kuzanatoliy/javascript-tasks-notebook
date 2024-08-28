@@ -6,7 +6,7 @@
 
 [B. Who's Opposite?](https://codeforces.com/contest/1560/problem/B) - Done
 
-[C. Infinity Table](https://codeforces.com/contest/1560/problem/C)
+[C. Infinity Table](https://codeforces.com/contest/1560/problem/C) - Done
 
 [D. Make a Power of Two](https://codeforces.com/contest/1560/problem/D)
 
