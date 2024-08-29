@@ -1,4 +1,4 @@
-# Educational Codeforces Round 168 (Rated for Div. 2)
+# Codeforces Round 967 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/2001)
 
