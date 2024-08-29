@@ -6,7 +6,7 @@
 
 [B. Shifting Sort](https://codeforces.com/contest/1579/problem/B) - Done
 
-[C. Ticks](https://codeforces.com/contest/1579/problem/C)
+[C. Ticks](https://codeforces.com/contest/1579/problem/C) - Done
 
 [D. Productive Meeting](https://codeforces.com/contest/1579/problem/D)
 
