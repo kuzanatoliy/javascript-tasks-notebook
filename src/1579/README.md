@@ -8,7 +8,7 @@
 
 [C. Ticks](https://codeforces.com/contest/1579/problem/C) - Done
 
-[D. Productive Meeting](https://codeforces.com/contest/1579/problem/D)
+[D. Productive Meeting](https://codeforces.com/contest/1579/problem/D) - Done
 
 [E1. Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1)
 
