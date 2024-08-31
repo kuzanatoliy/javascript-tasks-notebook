@@ -4,7 +4,7 @@
 
 [A. Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) - Done
 
-[B. Alphabetical Strings](https://codeforces.com/contest/1547/problem/B)
+[B. Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) - Done
 
 [C. Pair Programming](https://codeforces.com/contest/1547/problem/C)
 
