@@ -4,7 +4,7 @@
 
 [A. Number Transformation](https://codeforces.com/contest/1674/problem/A) - Done
 
-[B. Dictionary](https://codeforces.com/contest/1674/problem/B)
+[B. Dictionary](https://codeforces.com/contest/1674/problem/B) - Done
 
 [C. Infinite Replacement](https://codeforces.com/contest/1674/problem/C)
 
