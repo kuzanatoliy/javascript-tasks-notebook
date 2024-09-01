@@ -1,6 +1,6 @@
 ﻿const { getWordNumber } = require('./B');
 
-describe('1674A. Number Transformation', () => {
+describe('1674B. Dictionary', () => {
   it.each`
     n    | string  | result
     ${1} | ${'ab'} | ${1}
