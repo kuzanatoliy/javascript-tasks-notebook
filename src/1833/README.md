@@ -6,7 +6,7 @@
 
 [B. Restore the Weather](https://codeforces.com/contest/1833/problem/B)
 
-[C. Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C)
+[C. Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) - Done
 
 [D. Flipper](https://codeforces.com/contest/1833/problem/D)
 
