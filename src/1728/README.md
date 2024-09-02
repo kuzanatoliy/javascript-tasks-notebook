@@ -4,7 +4,7 @@
 
 [A. Colored Balls: Revisited](https://codeforces.com/contest/1728/problem/A) - Done
 
-[B. Best Permutation](https://codeforces.com/contest/1728/problem/B)
+[B. Best Permutation](https://codeforces.com/contest/1728/problem/B) - Done
 
 [C. Digital Logarithm](https://codeforces.com/contest/1728/problem/C)
 
