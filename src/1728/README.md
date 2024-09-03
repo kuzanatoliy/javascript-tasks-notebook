@@ -6,7 +6,7 @@
 
 [B. Best Permutation](https://codeforces.com/contest/1728/problem/B) - Done
 
-[C. Digital Logarithm](https://codeforces.com/contest/1728/problem/C)
+[C. Digital Logarithm](https://codeforces.com/contest/1728/problem/C) - Done
 
 [D. Letter Picking](https://codeforces.com/contest/1728/problem/D)
 
