@@ -4,7 +4,7 @@
 
 [A. Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) - Done
 
-[B. National Project](https://codeforces.com/contest/1303/problem/B)
+[B. National Project](https://codeforces.com/contest/1303/problem/B) - Done
 
 [C. Perfect Keyboard](https://codeforces.com/contest/1303/problem/C)
 

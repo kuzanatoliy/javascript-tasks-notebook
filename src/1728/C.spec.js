@@ -1,6 +1,6 @@
 ﻿const { getCountOfOperations } = require('./C');
 
-describe('1728B. Best Permutation', () => {
+describe('1728C. Digital Logarithm', () => {
   it.each`
     n    | array1                                                             | array2                                                               | result
     ${1} | ${[1]}                                                             | ${[1000]}                                                            | ${2}
