@@ -8,7 +8,7 @@
 
 [C. Different Differences](https://codeforces.com/contest/1772/problem/C) - Done
 
-[D. Absolute Sorting](https://codeforces.com/contest/1772/problem/D)
+[D. Absolute Sorting](https://codeforces.com/contest/1772/problem/D) - Done
 
 [E. Permutation Game](https://codeforces.com/contest/1772/problem/E)
 
