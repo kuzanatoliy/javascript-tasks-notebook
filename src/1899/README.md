@@ -14,4 +14,4 @@
 
 [F. Alex's whims](https://codeforces.com/contest/1899/problem/F)
 
-[G. Unusual Entertainment](https://codeforces.com/contest/1899/problem/F)
+[G. Unusual Entertainment](https://codeforces.com/contest/1899/problem/G)
