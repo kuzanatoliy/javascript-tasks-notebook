@@ -4,7 +4,7 @@
 
 [A. Alarm Clock](https://codeforces.com/contest/1354/problem/A) - Done
 
-[B. Ternary String](https://codeforces.com/contest/1354/problem/B)
+[B. Ternary String](https://codeforces.com/contest/1354/problem/B) - Done
 
 [C1. Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1)
 
