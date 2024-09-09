@@ -6,7 +6,7 @@
 
 [B. Ternary String](https://codeforces.com/contest/1354/problem/B) - Done
 
-[C1. Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1)
+[C1. Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C1) - Done
 
 [C2. Not So Simple Polygon Embedding](https://codeforces.com/contest/1354/problem/C2)
 
