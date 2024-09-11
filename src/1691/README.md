@@ -4,7 +4,7 @@
 
 [A. Beat The Odds](https://codeforces.com/contest/1691/problem/A) - Done
 
-[B. Shoe Shuffling](https://codeforces.com/contest/1691/problem/B)
+[B. Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) - Done
 
 [C. Sum of Substrings](https://codeforces.com/contest/1691/problem/C)
 
