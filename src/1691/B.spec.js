@@ -1,6 +1,6 @@
 ﻿const { getPermutation } = require('./B');
 
-describe('1691A. Beat The Odds', () => {
+describe('1691B. Shoe Shuffling', () => {
   it.each`
     n    | array                    | result
     ${1} | ${[1, 1, 1, 1, 1]}       | ${[2, 3, 4, 5, 1]}

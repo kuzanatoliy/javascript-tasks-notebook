@@ -6,7 +6,7 @@
 
 [B. Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) - Done
 
-[C. Sum of Substrings](https://codeforces.com/contest/1691/problem/C)
+[C. Sum of Substrings](https://codeforces.com/contest/1691/problem/C) - Done
 
 [D. Max GEQ Sum](https://codeforces.com/contest/1691/problem/D)
 
