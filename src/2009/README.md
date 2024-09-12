@@ -4,7 +4,7 @@
 
 [A. Minimize!](https://codeforces.com/contest/2009/problem/A) - Done
 
-[B. osu!mania](https://codeforces.com/contest/2009/problem/B)
+[B. osu!mania](https://codeforces.com/contest/2009/problem/B) - Done
 
 [C. The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C)
 

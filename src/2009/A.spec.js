@@ -6,7 +6,7 @@ describe('2009A. Minimize!', () => {
     ${1} | ${1} | ${2}  | ${1}
     ${2} | ${3} | ${10} | ${7}
     ${3} | ${5} | ${5}  | ${0}
-  `('Base test: $n', ({ array, result }) => {
-    expect(getMinValue(array)).toBe(result);
+  `('Base test: $n', ({ a, b, result }) => {
+    expect(getMinValue(a, b)).toBe(result);
   });
 });
