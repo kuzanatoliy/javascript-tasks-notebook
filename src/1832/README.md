@@ -1,4 +1,4 @@
-# Codeforces Round 875 (Div. 2)
+# Educational Codeforces Round 148 (Rated for Div. 2)
 
 [Dashboard](https://codeforces.com/contest/1832)
 
