@@ -1,4 +1,4 @@
-# Educational Codeforces Round 169 (Rated for Div. 2)
+# Codeforces Round 970 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/2008)
 
@@ -6,7 +6,7 @@
 
 [B. Square or Not](https://codeforces.com/contest/2008/problem/B)
 
-[C. Longest Good Array](https://codeforces.com/contest/2008/problem/C)
+[C. Longest Good Array](https://codeforces.com/contest/2008/problem/C) - Done
 
 [D. Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D)
 
