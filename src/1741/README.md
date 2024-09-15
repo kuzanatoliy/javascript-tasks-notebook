@@ -4,7 +4,7 @@
 
 [A. Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) - Done
 
-[B. Funny Permutation](https://codeforces.com/contest/1741/problem/B)
+[B. Funny Permutation](https://codeforces.com/contest/1741/problem/B) - Done
 
 [C. Minimize the Thickness](https://codeforces.com/contest/1741/problem/C)
 
