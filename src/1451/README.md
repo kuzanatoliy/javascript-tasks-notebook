@@ -4,7 +4,7 @@
 
 [A. Subtract or Divide](https://codeforces.com/contest/1451/problem/A) - Done
 
-[B. Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B)
+[B. Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) - Done
 
 [C. String Equality](https://codeforces.com/contest/1451/problem/C)
 
