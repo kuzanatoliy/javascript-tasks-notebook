@@ -4,7 +4,7 @@
 
 [A. Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) - Done
 
-[B. Square or Not](https://codeforces.com/contest/2008/problem/B)
+[B. Square or Not](https://codeforces.com/contest/2008/problem/B) - Done
 
 [C. Longest Good Array](https://codeforces.com/contest/2008/problem/C) - Done
 
