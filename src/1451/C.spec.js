@@ -1,4 +1,4 @@
-﻿const { isItPossibleToTransform } = require('./B');
+﻿const { isItPossibleToTransform } = require('./C');
 
 describe('1451C. String Equality', () => {
   it.each`
