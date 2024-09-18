@@ -6,7 +6,7 @@
 
 [B. Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) - Done
 
-[C. String Equality](https://codeforces.com/contest/1451/problem/C)
+[C. String Equality](https://codeforces.com/contest/1451/problem/C) - Done
 
 [D. Circle Game](https://codeforces.com/contest/1451/problem/D)
 
