@@ -4,7 +4,7 @@
 
 [A. Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) - Done
 
-[B. Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B)
+[B. Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) - Done
 
 [C. Sasha and the Casino](https://codeforces.com/contest/1929/problem/C)
 
