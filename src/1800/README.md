@@ -16,6 +16,6 @@
 
 [E2. Unforgivable Curse (hard version)](https://codeforces.com/contest/1800/problem/E2)
 
-[F. Dasha and Nightmares](https://codeforces.com/contest/1800/problem/E2)
+[F. Dasha and Nightmares](https://codeforces.com/contest/1800/problem/F)
 
 [G. Symmetree](https://codeforces.com/contest/1800/problem/G)
