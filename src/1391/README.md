@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1391)
 
-[A. Suborrays](https://codeforces.com/contest/1391/problem/A)
+[A. Suborrays](https://codeforces.com/contest/1391/problem/A) - Done
 
 [B. Fix You](https://codeforces.com/contest/1391/problem/B) - Done
 
