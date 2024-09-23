@@ -6,7 +6,7 @@
 
 [B. Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B) - Done
 
-[C. Web of Lies](https://codeforces.com/contest/1549/problem/C)
+[C. Web of Lies](https://codeforces.com/contest/1549/problem/C) - Done
 
 [D. Integers Have Friends](https://codeforces.com/contest/1549/problem/D)
 
