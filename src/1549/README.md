@@ -4,7 +4,7 @@
 
 [A. Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) - Done
 
-[B. Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B)
+[B. Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B) - Done
 
 [C. Web of Lies](https://codeforces.com/contest/1549/problem/C)
 
