@@ -6,7 +6,7 @@
 
 [B. Make Equal](https://codeforces.com/contest/1931/problem/B) - Done
 
-[C. Make Equal Again](https://codeforces.com/contest/1931/problem/C)
+[C. Make Equal Again](https://codeforces.com/contest/1931/problem/C) - Done
 
 [D. Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
 
