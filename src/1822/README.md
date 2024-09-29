@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1822)
 
-[A. TubeTube Feed](https://codeforces.com/contest/1822/problem/A)
+[A. TubeTube Feed](https://codeforces.com/contest/1822/problem/A) - Done
 
 [B. Karina and Array](https://codeforces.com/contest/1822/problem/B) - Done
 
