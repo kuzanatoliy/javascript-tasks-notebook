@@ -2,11 +2,11 @@
 
 describe('1832A. New Palindrome', () => {
   it.each`
-    n    | array        | result
+    n    | str          | result
     ${1} | ${'codedoc'} | ${'YES'}
     ${2} | ${'gg'}      | ${'NO'}
     ${3} | ${'aabaa'}   | ${'NO'}
-  `('Base test: $n', ({ array, result }) => {
-    expect(itIsPossibleToChangeString(array)).toStrictEqual(result);
+  `('Base test: $n', ({ str, result }) => {
+    expect(itIsPossibleToChangeString(str)).toStrictEqual(result);
   });
 });
