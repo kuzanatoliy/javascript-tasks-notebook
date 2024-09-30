@@ -4,7 +4,7 @@
 
 [A. Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) - Done
 
-[B. Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B)
+[B. Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) - Done
 
 [C. Turtle and Good Pairs](https://codeforces.com/contest/2003/problem/C)
 
