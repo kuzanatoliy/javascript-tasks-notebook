@@ -1,6 +1,6 @@
 ﻿const { getMinCountOfBurles } = require('./C');
 
-describe('1931B. Make Equal', () => {
+describe('1931C. Make Equal Again', () => {
   it.each`
     n    | array                          | result
     ${1} | ${[1, 2, 3, 4, 5, 1]}          | ${4}
