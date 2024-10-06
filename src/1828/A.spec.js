@@ -11,6 +11,6 @@ describe('1828A. Divisible Array', () => {
     ${6} | ${6} | ${[2, 4, 6, 8, 10, 12]}
     ${7} | ${7} | ${[2, 4, 6, 8, 10, 12, 14]}
   `('Base test: $n', ({ num, result }) => {
-    expect(getArray(num)).toBe(result);
+    expect(getArray(num)).toStrictEqual(result);
   });
 });
