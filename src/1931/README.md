@@ -10,7 +10,7 @@
 
 [D. Divisible Pairs](https://codeforces.com/contest/1931/problem/D) - Done
 
-[E. Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E)
+[E. Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) - Done
 
 [F. Chat Screenshots](https://codeforces.com/contest/1931/problem/F)
 
