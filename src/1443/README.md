@@ -6,7 +6,7 @@
 
 [B. Saving the City](https://codeforces.com/contest/1443/problem/B) - Done
 
-[C. The Delivery Dilemma](https://codeforces.com/contest/1443/problem/C)
+[C. The Delivery Dilemma](https://codeforces.com/contest/1443/problem/C) - Done
 
 [D. Extreme Subtraction](https://codeforces.com/contest/1443/problem/D)
 
