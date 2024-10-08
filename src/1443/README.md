@@ -4,7 +4,7 @@
 
 [A. Kids Seating](https://codeforces.com/contest/1443/problem/A) - Done
 
-[B. Saving the City](https://codeforces.com/contest/1443/problem/B)
+[B. Saving the City](https://codeforces.com/contest/1443/problem/B) - Done
 
 [C. The Delivery Dilemma](https://codeforces.com/contest/1443/problem/C)
 
