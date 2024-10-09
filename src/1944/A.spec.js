@@ -9,7 +9,7 @@ describe('1944A. Destroying Bridges', () => {
     ${4} | ${5} | ${10} | ${1}
     ${5} | ${5} | ${3}  | ${5}
     ${6} | ${4} | ${4}  | ${1}
-  `('Base test: $n', ({ mun, k, result }) => {
-    expect(getCountOfIslands(mun, k)).toBe(result);
+  `('Base test: $n', ({ num, k, result }) => {
+    expect(getCountOfIslands(num, k)).toBe(result);
   });
 });
