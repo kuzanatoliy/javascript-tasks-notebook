@@ -4,7 +4,7 @@
 
 [A. Make All Equal](https://codeforces.com/contest/2001/problem/A) - Done
 
-[B. Generate Permutation](https://codeforces.com/contest/2001/problem/B)
+[B. Generate Permutation](https://codeforces.com/contest/2001/problem/B) - Done
 
 [C. Guess The Tree](https://codeforces.com/contest/2001/problem/C)
 
