@@ -6,7 +6,7 @@
 
 [B. Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) - Done
 
-[C. Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C)
+[C. Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) - Done
 
 [D. Ingenuity-2](https://codeforces.com/contest/1974/problem/D)
 
