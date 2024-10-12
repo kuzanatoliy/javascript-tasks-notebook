@@ -4,7 +4,7 @@
 
 [A. Download More RAM](https://codeforces.com/contest/1629/problem/A) - Done
 
-[B. GCD Arrays](https://codeforces.com/contest/1629/problem/B)
+[B. GCD Arrays](https://codeforces.com/contest/1629/problem/B) - Done
 
 [C. Meximum Array](https://codeforces.com/contest/1629/problem/C)
 
