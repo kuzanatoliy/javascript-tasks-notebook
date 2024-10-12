@@ -6,7 +6,7 @@
 
 [B. GCD Arrays](https://codeforces.com/contest/1629/problem/B) - Done
 
-[C. Meximum Array](https://codeforces.com/contest/1629/problem/C)
+[C. Meximum Array](https://codeforces.com/contest/1629/problem/C) - Done
 
 [D. Peculiar Movie Preferences](https://codeforces.com/contest/1629/problem/D)
 
