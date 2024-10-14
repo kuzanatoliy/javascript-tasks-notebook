@@ -6,7 +6,7 @@
 
 [B. Taisia and Dice](https://codeforces.com/contest/1790/problem/B) - Done
 
-[C. Premutation](https://codeforces.com/contest/1790/problem/C)
+[C. Premutation](https://codeforces.com/contest/1790/problem/C) - Done
 
 [D. Matryoshkas](https://codeforces.com/contest/1790/problem/D)
 
