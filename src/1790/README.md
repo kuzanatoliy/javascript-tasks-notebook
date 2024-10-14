@@ -8,7 +8,7 @@
 
 [C. Premutation](https://codeforces.com/contest/1790/problem/C) - Done
 
-[D. Matryoshkas](https://codeforces.com/contest/1790/problem/D)
+[D. Matryoshkas](https://codeforces.com/contest/1790/problem/D) - Done
 
 [E. Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E)
 
