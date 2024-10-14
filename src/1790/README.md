@@ -10,7 +10,7 @@
 
 [D. Matryoshkas](https://codeforces.com/contest/1790/problem/D) - Done
 
-[E. Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E)
+[E. Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) - Done
 
 [F. Timofey and Black-White Tree](https://codeforces.com/contest/1790/problem/F)
 
