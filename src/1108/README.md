@@ -6,7 +6,7 @@
 
 [B. Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) - Done
 
-[C. Nice Garland](https://codeforces.com/contest/1108/problem/C)
+[C. Nice Garland](https://codeforces.com/contest/1108/problem/C) - Done
 
 [D. Diverse Garland](https://codeforces.com/contest/1108/problem/D)
 
