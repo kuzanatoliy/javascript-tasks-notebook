@@ -4,7 +4,7 @@
 
 [A. Two distinct points](https://codeforces.com/contest/1108/problem/A) - Done
 
-[B. Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B)
+[B. Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) - Done
 
 [C. Nice Garland](https://codeforces.com/contest/1108/problem/C)
 
