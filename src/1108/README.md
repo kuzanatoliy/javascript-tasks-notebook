@@ -8,7 +8,7 @@
 
 [C. Nice Garland](https://codeforces.com/contest/1108/problem/C) - Done
 
-[D. Diverse Garland](https://codeforces.com/contest/1108/problem/D)
+[D. Diverse Garland](https://codeforces.com/contest/1108/problem/D) - Done
 
 [E1. Array and Segments (Easy version)](https://codeforces.com/contest/1108/problem/E1)
 
