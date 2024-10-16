@@ -4,7 +4,7 @@
 
 [A. Yogurt Sale](https://codeforces.com/contest/1955/problem/A) - Done
 
-[B. Progressive Square](https://codeforces.com/contest/1955/problem/B)
+[B. Progressive Square](https://codeforces.com/contest/1955/problem/B) - Done
 
 [C. Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C)
 
