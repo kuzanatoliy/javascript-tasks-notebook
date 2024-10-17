@@ -4,7 +4,7 @@
 
 [A. The Ultimate Square](https://codeforces.com/contest/1748/problem/A) - Done
 
-[B. Diverse Substrings](https://codeforces.com/contest/1748/problem/B)
+[B. Diverse Substrings](https://codeforces.com/contest/1748/problem/B) - Done
 
 [C. Zero-Sum Prefixes](https://codeforces.com/contest/1748/problem/C)
 
