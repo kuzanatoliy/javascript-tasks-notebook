@@ -3,7 +3,7 @@ module.exports = {
   isProgressiveSquare: (num, c, d, array) => {
     const arr = array.sort((a, b) => a - b);
     const temp = [];
-    for (let j = 0, k = array[0]; j < num; j++, k += c) {
+    for (let j = 0, k = arr[0]; j < num; j++, k += c) {
       temp.push(k);
       for (let jj = 1, kk = k + d; jj < num; jj++, kk += d) {
         temp.push(kk);

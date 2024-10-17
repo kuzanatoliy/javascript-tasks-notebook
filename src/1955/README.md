@@ -6,7 +6,7 @@
 
 [B. Progressive Square](https://codeforces.com/contest/1955/problem/B) - Done
 
-[C. Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C)
+[C. Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C) - Done
 
 [D. Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D)
 

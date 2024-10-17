@@ -1,8 +1,8 @@
-﻿const { isProgressiveSquare } = require('./A');
+﻿const { isProgressiveSquare } = require('./B');
 
-describe('1955A. Yogurt Sale', () => {
+describe('1955B. Progressive Square', () => {
   it.each`
-    n    | mum  | c      | d      | array                                                            | result
+    n    | num  | c      | d      | array                                                            | result
     ${1} | ${3} | ${2}   | ${3}   | ${[3, 9, 6, 5, 7, 1, 10, 4, 8]}                                  | ${'NO'}
     ${2} | ${3} | ${2}   | ${3}   | ${[3, 9, 6, 5, 7, 1, 11, 4, 8]}                                  | ${'YES'}
     ${3} | ${2} | ${100} | ${100} | ${[400, 300, 400, 500]}                                          | ${'YES'}
