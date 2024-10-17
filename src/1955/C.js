@@ -1,5 +1,4 @@
-﻿/* eslint-disable prefer-destructuring */
-module.exports = {
+﻿module.exports = {
   getCountOfDestroyedSheeps: (arr, k) => {
     let l = 0;
     let r = arr.length - 1;

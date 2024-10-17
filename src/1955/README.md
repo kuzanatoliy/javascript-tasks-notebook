@@ -8,7 +8,7 @@
 
 [C. Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C) - Done
 
-[D. Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D)
+[D. Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D) - Done
 
 [E. Long Inversions](https://codeforces.com/contest/1955/problem/E)
 
