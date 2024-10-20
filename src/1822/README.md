@@ -6,7 +6,7 @@
 
 [B. Karina and Array](https://codeforces.com/contest/1822/problem/B) - Done
 
-[C. Bun Lover](https://codeforces.com/contest/1822/problem/C)
+[C. Bun Lover](https://codeforces.com/contest/1822/problem/C) - Done
 
 [D. Super-Permutation](https://codeforces.com/contest/1822/problem/D)
 
