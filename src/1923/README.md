@@ -4,7 +4,7 @@
 
 [A. Moving Chips](https://codeforces.com/contest/1923/problem/A) - Done
 
-[B. Monsters Attack!](https://codeforces.com/contest/1923/problem/B)
+[B. Monsters Attack!](https://codeforces.com/contest/1923/problem/B) - Done
 
 [C. Find B](https://codeforces.com/contest/1923/problem/C)
 
