@@ -6,7 +6,7 @@
 
 [B. Monsters Attack!](https://codeforces.com/contest/1923/problem/B) - Done
 
-[C. Find B](https://codeforces.com/contest/1923/problem/C)
+[C. Find B](https://codeforces.com/contest/1923/problem/C) - Done
 
 [D. Slimes](https://codeforces.com/contest/1923/problem/D)
 
