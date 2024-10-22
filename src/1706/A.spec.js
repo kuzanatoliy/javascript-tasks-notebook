@@ -9,7 +9,7 @@ describe('1706A. Another String Minimization Problem', () => {
     ${4} | ${4} | ${[1, 3]}       | ${'AABB'}
     ${5} | ${7} | ${[7, 5]}       | ${'ABABBBB'}
     ${6} | ${5} | ${[5, 5, 3, 5]} | ${'ABABA'}
-  `('Base test: $n', ({ arr, h, result }) => {
-    expect(getMinStr(arr, h)).toBe(result);
+  `('Base test: $n', ({ m, arr, result }) => {
+    expect(getMinStr(m, arr)).toBe(result);
   });
 });
