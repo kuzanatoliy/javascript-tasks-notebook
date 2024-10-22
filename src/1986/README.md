@@ -4,7 +4,7 @@
 
 [A. X Axis](https://codeforces.com/contest/1986/problem/A) - Done
 
-[B. Matrix Stabilization](https://codeforces.com/contest/1986/problem/B)
+[B. Matrix Stabilization](https://codeforces.com/contest/1986/problem/B) - Done
 
 [C. Update Queries](https://codeforces.com/contest/1986/problem/C)
 
