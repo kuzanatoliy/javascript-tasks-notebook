@@ -6,7 +6,7 @@
 
 [B. Matrix Stabilization](https://codeforces.com/contest/1986/problem/B) - Done
 
-[C. Update Queries](https://codeforces.com/contest/1986/problem/C)
+[C. Update Queries](https://codeforces.com/contest/1986/problem/C) - Done
 
 [D. Mathematical Problem](https://codeforces.com/contest/1986/problem/D)
 
