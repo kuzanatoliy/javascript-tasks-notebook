@@ -4,7 +4,7 @@
 
 [A. Integer Moves](https://codeforces.com/contest/1657/problem/A) - Done
 
-[B. XY Sequence](https://codeforces.com/contest/1657/problem/B)
+[B. XY Sequence](https://codeforces.com/contest/1657/problem/B) - Done
 
 [C. Bracket Sequence Deletion](https://codeforces.com/contest/1657/problem/C)
 
