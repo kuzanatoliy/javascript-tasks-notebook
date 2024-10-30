@@ -8,7 +8,7 @@
 
 [C. Update Queries](https://codeforces.com/contest/1986/problem/C) - Done
 
-[D. Mathematical Problem](https://codeforces.com/contest/1986/problem/D)
+[D. Mathematical Problem](https://codeforces.com/contest/1986/problem/D) - Done
 
 [E. Beautiful Array](https://codeforces.com/contest/1986/problem/E)
 
