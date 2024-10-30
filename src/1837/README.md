@@ -6,7 +6,7 @@
 
 [B. Comparison String](https://codeforces.com/contest/1837/problem/B) - Done
 
-[C. Best Binary String](https://codeforces.com/contest/1837/problem/C)
+[C. Best Binary String](https://codeforces.com/contest/1837/problem/C) - Done
 
 [D. Bracket Coloring](https://codeforces.com/contest/1837/problem/D)
 
