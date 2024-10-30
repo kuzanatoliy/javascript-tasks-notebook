@@ -4,7 +4,7 @@
 
 [A. Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) - Done
 
-[B. Comparison String](https://codeforces.com/contest/1837/problem/B)
+[B. Comparison String](https://codeforces.com/contest/1837/problem/B) - Done
 
 [C. Best Binary String](https://codeforces.com/contest/1837/problem/C)
 
