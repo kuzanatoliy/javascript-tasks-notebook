@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1466)
 
-[A. Bovine Dilemma](https://codeforces.com/contest/1466/problem/A)
+[A. Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) - Done
 
 [B. Last minute enhancements](https://codeforces.com/contest/1466/problem/B) - Done
 
