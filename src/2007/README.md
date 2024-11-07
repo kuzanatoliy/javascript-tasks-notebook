@@ -1,4 +1,4 @@
-# Educational Codeforces Round 169 (Rated for Div. 2)
+# Codeforces Round 969 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/2007)
 
