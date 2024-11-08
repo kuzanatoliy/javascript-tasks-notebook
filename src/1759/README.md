@@ -4,7 +4,7 @@
 
 [A. Yes-Yes?](https://codeforces.com/contest/1759/problem/A) - Done
 
-[B. Lost Permutation](https://codeforces.com/contest/1759/problem/B)
+[B. Lost Permutation](https://codeforces.com/contest/1759/problem/B) - Done
 
 [C. Thermostat](https://codeforces.com/contest/1759/problem/C)
 
