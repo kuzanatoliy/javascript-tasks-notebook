@@ -4,7 +4,7 @@
 
 [A. Alice and Books](https://codeforces.com/contest/1978/problem/A) - Done
 
-[B. New Bakery](https://codeforces.com/contest/1978/problem/B)
+[B. New Bakery](https://codeforces.com/contest/1978/problem/B) - Done
 
 [C. Manhattan Permutations](https://codeforces.com/contest/1978/problem/C)
 
