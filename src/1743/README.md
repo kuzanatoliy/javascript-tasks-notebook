@@ -4,7 +4,7 @@
 
 [A. Password](https://codeforces.com/contest/1743/problem/A) - Done
 
-[B. Permutation Value](https://codeforces.com/contest/1743/problem/B)
+[B. Permutation Value](https://codeforces.com/contest/1743/problem/B) - Done
 
 [C. Save the Magazines](https://codeforces.com/contest/1743/problem/C)
 
