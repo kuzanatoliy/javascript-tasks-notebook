@@ -4,7 +4,7 @@
 
 [A. Quintomania](https://codeforces.com/contest/2036/problem/A) - Done
 
-[B. Startup](https://codeforces.com/contest/2036/problem/B)
+[B. Startup](https://codeforces.com/contest/2036/problem/B) - Done
 
 [C. Anya and 1100](https://codeforces.com/contest/2036/problem/C)
 
