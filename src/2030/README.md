@@ -4,7 +4,7 @@
 
 [A. A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) - Done
 
-[B. Minimise Oneness](https://codeforces.com/contest/2030/problem/B)
+[B. Minimise Oneness](https://codeforces.com/contest/2030/problem/B) - Done
 
 [C. A TRUE Battle](https://codeforces.com/contest/2030/problem/C)
 
