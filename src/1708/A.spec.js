@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToChangeArray } = require('./A');
 
-describe('1708A. Three Doors', () => {
+describe('1708A. Difference Operations', () => {
   it.each`
     n    | arr                            | result
     ${1} | ${[5, 10]}                     | ${'YES'}
