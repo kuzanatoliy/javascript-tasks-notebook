@@ -1,4 +1,4 @@
-# Codeforces Round 975 (Div. 2)s
+# Codeforces Round 975 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/2019)
 
