@@ -4,7 +4,7 @@
 
 [A. Wonderful Permutation](https://codeforces.com/contest/1712/problem/A) - Done
 
-[B. Woeful Permutation](https://codeforces.com/contest/1712/problem/B)
+[B. Woeful Permutation](https://codeforces.com/contest/1712/problem/B) - Done
 
 [C. Sort Zero](https://codeforces.com/contest/1712/problem/C)
 

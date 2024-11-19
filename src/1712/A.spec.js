@@ -8,6 +8,6 @@ describe('1712A. Wonderful Permutation', () => {
     ${3} | ${[3, 4, 1, 2]} | ${2} | ${2}
     ${4} | ${[1]}          | ${1} | ${0}
   `('Base test: $n', ({ arr, k, result }) => {
-    expect(getCountOfOperations(arr, k)).toStrictEqual(result);
+    expect(getCountOfOperations(arr, k)).toBe(result);
   });
 });
