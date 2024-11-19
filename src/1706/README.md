@@ -4,7 +4,7 @@
 
 [A. Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) - Done
 
-[B. Making Towers](https://codeforces.com/contest/1706/problem/B)
+[B. Making Towers](https://codeforces.com/contest/1706/problem/B) - Done
 
 [C. Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C)
 
