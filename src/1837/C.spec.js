@@ -10,6 +10,6 @@ describe('1837C. Best Binary String', () => {
     ${5} | ${'?'}         | ${'0'}
     ${6} | ${'??'}        | ${'00'}
   `('Base test: $n', ({ str, result }) => {
-    expect(getBestBinaryString(str)).toStrictEqual(result);
+    expect(getBestBinaryString(str)).toBe(result);
   });
 });

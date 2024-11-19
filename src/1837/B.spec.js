@@ -9,6 +9,6 @@ describe('1837B. Comparison String', () => {
     ${4} | ${'<><><><'} | ${2}
     ${5} | ${'>><>><>'} | ${3}
   `('Base test: $n', ({ map, result }) => {
-    expect(getMinCost(map)).toStrictEqual(result);
+    expect(getMinCost(map)).toBe(result);
   });
 });
