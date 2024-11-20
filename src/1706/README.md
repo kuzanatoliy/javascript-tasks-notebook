@@ -6,7 +6,7 @@
 
 [B. Making Towers](https://codeforces.com/contest/1706/problem/B) - Done
 
-[C. Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C)
+[C. Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C) - Done
 
 [D1. Chopping Carrots (Easy Version)](https://codeforces.com/contest/1706/problem/D1)
 
