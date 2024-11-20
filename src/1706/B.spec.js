@@ -1,4 +1,4 @@
-﻿const { getMinStr } = require('./A');
+﻿const { getMaxSizes } = require('./B');
 
 describe('1706B. Making Towers', () => {
   it.each`
@@ -10,6 +10,6 @@ describe('1706B. Making Towers', () => {
     ${5} | ${[3, 3, 3, 1, 3, 3]}       | ${[1, 0, 4, 0, 0, 0]}
     ${6} | ${[1, 2, 3, 4, 4, 3, 2, 1]} | ${[2, 2, 2, 2, 0, 0, 0, 0]}
   `('Base test: $n', ({ arr, result }) => {
-    expect(getMinStr(arr)).toStrictEqual(result);
+    expect(getMaxSizes(arr)).toStrictEqual(result);
   });
 });
