@@ -4,7 +4,7 @@
 
 [A. Nene's Game](https://codeforces.com/contest/1956/problem/A) - Done
 
-[B. Nene and the Card Game](https://codeforces.com/contest/1956/problem/B)
+[B. Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) - Done
 
 [C. Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C)
 
