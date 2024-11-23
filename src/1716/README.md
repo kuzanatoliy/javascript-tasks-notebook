@@ -4,7 +4,7 @@
 
 [A. 2-3 Moves](https://codeforces.com/contest/1714/problem/A) - Done
 
-[B. Permutation Chain](https://codeforces.com/contest/1714/problem/B)
+[B. Permutation Chain](https://codeforces.com/contest/1714/problem/B) - Done
 
 [C. Robot in a Hallway](https://codeforces.com/contest/1714/problem/C)
 

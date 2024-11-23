@@ -8,6 +8,6 @@ describe('1400A. String Similarity', () => {
     ${3} | ${'1110000'} | ${4} | ${'1100'}
     ${4} | ${'101'}     | ${2} | ${'11'}
   `('Base test: $n', ({ str, k, result }) => {
-    expect(getSubstr(str, k)).toStrictEqual(result);
+    expect(getSubstr(str, k)).toBe(result);
   });
 });
