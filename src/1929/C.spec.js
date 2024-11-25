@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToWin } = require('./C');
 
-describe('1929B. Sasha and the Drawing', () => {
+describe('1929C. Sasha and the Casino', () => {
   it.each`
     n    | k     | x     | a             | result
     ${1} | ${2}  | ${1}  | ${7}          | ${'YES'}
