@@ -6,7 +6,7 @@
 
 [B. Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) - Done
 
-[C. Sasha and the Casino](https://codeforces.com/contest/1929/problem/C)
+[C. Sasha and the Casino](https://codeforces.com/contest/1929/problem/C) - Done
 
 [D. Sasha and a Walk in the City](https://codeforces.com/contest/1929/problem/D)
 
