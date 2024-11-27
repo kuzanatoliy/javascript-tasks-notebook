@@ -4,7 +4,7 @@
 
 [A. Digit Minimization](https://codeforces.com/contest/1684/problem/A) - Done
 
-[B. Z mod X = C](https://codeforces.com/contest/1684/problem/B)
+[B. Z mod X = C](https://codeforces.com/contest/1684/problem/B) - Done
 
 [C. Column Swapping](https://codeforces.com/contest/1684/problem/C)
 
