@@ -6,7 +6,7 @@
 
 [B. Rule of League](https://codeforces.com/contest/1733/problem/B)
 
-[C. Parity Shuffle Sorting](https://codeforces.com/contest/1733/problem/C)
+[C. Parity Shuffle Sorting](https://codeforces.com/contest/1733/problem/C) - Done
 
 [D1. Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1)
 
