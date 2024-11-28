@@ -4,7 +4,7 @@
 
 [A. Array and Peaks](https://codeforces.com/contest/1513/problem/A) - Done
 
-[B. AND Sequences](https://codeforces.com/contest/1513/problem/B)
+[B. AND Sequences](https://codeforces.com/contest/1513/problem/B) - Done
 
 [C. Add One](https://codeforces.com/contest/1513/problem/C)
 
