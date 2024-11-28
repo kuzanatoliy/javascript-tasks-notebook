@@ -2,14 +2,14 @@
 
 [Dashboard](https://codeforces.com/contest/1733)
 
-[A. Joey Takes Money](https://codeforces.com/contest/1733/problem/A) - Done
+[A. Consecutive Sum](https://codeforces.com/contest/1733/problem/A) - Done
 
-[B. Kill Demodogs](https://codeforces.com/contest/1733/problem/B)
+[B. Rule of League](https://codeforces.com/contest/1733/problem/B)
 
-[C. Even Subarrays](https://codeforces.com/contest/1733/problem/C)
+[C. Parity Shuffle Sorting](https://codeforces.com/contest/1733/problem/C)
 
-[D. Valiant's New Map](https://codeforces.com/contest/1733/problem/D)
+[D1. Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1)
 
-[E. Graph Cost](https://codeforces.com/contest/1733/problem/E)
+[D2. Zero-One (Hard Version)](https://codeforces.com/contest/1733/problem/D2)
 
-[F. Function Sum](https://codeforces.com/contest/1733/problem/F)
+[E. Conveyor](https://codeforces.com/contest/1733/problem/E)
