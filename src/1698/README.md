@@ -4,7 +4,7 @@
 
 [A. XOR Mixup](https://codeforces.com/contest/1698/problem/A) - Done
 
-[B. Rising Sand](https://codeforces.com/contest/1698/problem/B)
+[B. Rising Sand](https://codeforces.com/contest/1698/problem/B) - Done
 
 [C. 3SUM Closure](https://codeforces.com/contest/1698/problem/C)
 
