@@ -1,6 +1,6 @@
 ﻿const { isBadMessage } = require('./A');
 
-describe('1421A. In-game Chat', () => {
+describe('1411A. In-game Chat', () => {
   it.each`
     n    | str                 | result
     ${1} | ${'))'}             | ${'YES'}
