@@ -1,4 +1,4 @@
-﻿const { igetShortestLength } = require('./A');
+﻿const { getShortestLength } = require('./A');
 
 describe('1392A. Omkar and Password', () => {
   it.each`
@@ -6,6 +6,6 @@ describe('1392A. Omkar and Password', () => {
     ${1} | ${[2, 1, 3, 1]} | ${1}
     ${2} | ${[420, 420]}   | ${2}
   `('Base test: $n', ({ arr, result }) => {
-    expect(igetShortestLength(arr)).toStrictEqual(result);
+    expect(getShortestLength(arr)).toStrictEqual(result);
   });
 });
