@@ -4,7 +4,7 @@
 
 [A. Doors and Keys](https://codeforces.com/contest/1644/problem/A) - Done
 
-[B. Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B)
+[B. Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) - Done
 
 [C. Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C)
 
