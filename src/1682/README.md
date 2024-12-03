@@ -4,7 +4,7 @@
 
 [A. Palindromic Indices](https://codeforces.com/contest/1682/problem/A) - Done
 
-[B. AND Sorting](https://codeforces.com/contest/1682/problem/B)
+[B. AND Sorting](https://codeforces.com/contest/1682/problem/B) - Done
 
 [C. LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C)
 
