@@ -6,7 +6,7 @@
 
 [B. AND Sorting](https://codeforces.com/contest/1682/problem/B) - Done
 
-[C. LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C)
+[C. LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C) - Done
 
 [D. Circular Spanning Tree](https://codeforces.com/contest/1682/problem/D)
 
