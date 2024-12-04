@@ -4,7 +4,7 @@
 
 [A. Treasure Chest](https://codeforces.com/contest/1895/problem/A) - Done
 
-[B. Points and Minimum Distance](https://codeforces.com/contest/1895/problem/B)
+[B. Points and Minimum Distance](https://codeforces.com/contest/1895/problem/B) - Done
 
 [C. Torn Lucky Ticket](https://codeforces.com/contest/1895/problem/C)
 
