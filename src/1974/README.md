@@ -8,7 +8,7 @@
 
 [C. Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) - Done
 
-[D. Ingenuity-2](https://codeforces.com/contest/1974/problem/D)
+[D. Ingenuity-2](https://codeforces.com/contest/1974/problem/D) - Done
 
 [E. Money Buys Happiness](https://codeforces.com/contest/1974/problem/E)
 
