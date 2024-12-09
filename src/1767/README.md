@@ -4,7 +4,7 @@
 
 [A. Cut the Triangle](https://codeforces.com/contest/1767/problem/A) - Done
 
-[B. Block Towers](https://codeforces.com/contest/1767/problem/B)
+[B. Block Towers](https://codeforces.com/contest/1767/problem/B) - Done
 
 [C. Count Binary Strings](https://codeforces.com/contest/1767/problem/C)
 

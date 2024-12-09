@@ -8,6 +8,6 @@ describe('1767A. Cut the Triangle', () => {
     ${3} | ${[[5, 8], [1, 8], [2, 5]]} | ${'YES'}
     ${4} | ${[[3, 6], [6, 6], [6, 3]]} | ${'NO'}
   `('Base test: $n', ({ points, result }) => {
-    expect(isItPossibleToCut(points)).toStrictEqual(result);
+    expect(isItPossibleToCut(points)).toBe(result);
   });
 });
