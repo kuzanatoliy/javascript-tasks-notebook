@@ -11,6 +11,6 @@ describe('1834A. Unit Array', () => {
     ${6} | ${[-1]}               | ${1}
     ${7} | ${[-1, -1]}           | ${2}
   `('Base test: $n', ({ array, result }) => {
-    expect(getCountOfOperations(array)).toStrictEqual(result);
+    expect(getCountOfOperations(array)).toBe(result);
   });
 });
