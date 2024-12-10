@@ -4,7 +4,7 @@
 
 [A. Robot Program](https://codeforces.com/contest/1452/problem/A) - Done
 
-[B. Toy Blocks](https://codeforces.com/contest/1452/problem/B)
+[B. Toy Blocks](https://codeforces.com/contest/1452/problem/B) - Done
 
 [C. Two Brackets](https://codeforces.com/contest/1452/problem/C)
 
