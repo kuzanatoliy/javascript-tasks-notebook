@@ -4,7 +4,7 @@
 
 [A. Hossam and Combinatorics](https://codeforces.com/contest/1771/problem/A) - Done
 
-[B. Hossam and Friends](https://codeforces.com/contest/1771/problem/B)
+[B. Hossam and Friends](https://codeforces.com/contest/1771/problem/B) - Done
 
 [C. Hossam and Trainees](https://codeforces.com/contest/1771/problem/C)
 
