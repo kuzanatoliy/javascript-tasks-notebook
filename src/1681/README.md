@@ -4,7 +4,7 @@
 
 [A. Game with Cards](https://codeforces.com/contest/1681/problem/A) - Done
 
-[B. Card Trick](https://codeforces.com/contest/1681/problem/B)
+[B. Card Trick](https://codeforces.com/contest/1681/problem/B) - Done
 
 [C. Double Sort](https://codeforces.com/contest/1681/problem/C)
 
