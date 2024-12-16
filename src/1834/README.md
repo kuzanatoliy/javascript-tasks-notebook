@@ -6,7 +6,7 @@
 
 [B. Maximum Strength](https://codeforces.com/contest/1834/problem/B) - Done
 
-[C. Game with Reversing](https://codeforces.com/contest/1834/problem/C)
+[C. Game with Reversing](https://codeforces.com/contest/1834/problem/C) - Done
 
 [D. Survey in Class](https://codeforces.com/contest/1834/problem/D)
 
