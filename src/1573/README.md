@@ -4,7 +4,7 @@
 
 [A. Countdown](https://codeforces.com/contest/1573/problem/A) - Done
 
-[B. Swaps](https://codeforces.com/contest/1573/problem/B)
+[B. Swaps](https://codeforces.com/contest/1573/problem/B) - Done
 
 [C. Book](https://codeforces.com/contest/1573/problem/C)
 
