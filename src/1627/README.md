@@ -6,7 +6,7 @@
 
 [B. Not Sitting](https://codeforces.com/contest/1627/problem/B) - Done
 
-[C. Not Assigning](https://codeforces.com/contest/1627/problem/C)
+[C. Not Assigning](https://codeforces.com/contest/1627/problem/C) - Done
 
 [D. Not Adding](https://codeforces.com/contest/1627/problem/D)
 
