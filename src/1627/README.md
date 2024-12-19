@@ -4,7 +4,7 @@
 
 [A. Not Shading](https://codeforces.com/contest/1627/problem/A) - Done
 
-[B. Not Sitting](https://codeforces.com/contest/1627/problem/B)
+[B. Not Sitting](https://codeforces.com/contest/1627/problem/B) - Done
 
 [C. Not Assigning](https://codeforces.com/contest/1627/problem/C)
 
