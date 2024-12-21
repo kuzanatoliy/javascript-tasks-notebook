@@ -4,7 +4,7 @@
 
 [A. Median Maximization](https://codeforces.com/contest/1566/problem/A) - Done
 
-[B. MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B)
+[B. MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) - Done
 
 [C. MAX-MEX Cut](https://codeforces.com/contest/1566/problem/C)
 
