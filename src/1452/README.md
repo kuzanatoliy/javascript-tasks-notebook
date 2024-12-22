@@ -6,7 +6,7 @@
 
 [B. Toy Blocks](https://codeforces.com/contest/1452/problem/B) - Done
 
-[C. Two Brackets](https://codeforces.com/contest/1452/problem/C)
+[C. Two Brackets](https://codeforces.com/contest/1452/problem/C) - Done
 
 [D. Radio Towers](https://codeforces.com/contest/1452/problem/D)
 
