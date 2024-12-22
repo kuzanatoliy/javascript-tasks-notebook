@@ -7,6 +7,6 @@ describe('1777A. Everybody Likes Good Arrays!', () => {
     ${2} | ${[1, 2, 3, 4]}       | ${0}
     ${3} | ${[1, 1, 1, 2, 2, 3]} | ${3}
   `('Base test: $n', ({ array, result }) => {
-    expect(getCountOfOperations(array)).toStrictEqual(result);
+    expect(getCountOfOperations(array)).toBe(result);
   });
 });
