@@ -4,7 +4,7 @@
 
 [A. Rook](https://codeforces.com/contest/1907/problem/A) - Done
 
-[B. YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B)
+[B. YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) - Done
 
 [C. Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C)
 
