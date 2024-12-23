@@ -1,6 +1,6 @@
 ﻿const { getResultString } = require('./B');
 
-describe('1907A. Rook', () => {
+describe('1907B. YetnotherrokenKeoard', () => {
   it.each`
     n     | data                                    | result
     ${1}  | ${'ARaBbbitBaby'}                       | ${'ity'}
