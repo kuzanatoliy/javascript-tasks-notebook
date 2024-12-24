@@ -6,7 +6,7 @@
 
 [B. Normal Problem](https://codeforces.com/contest/2044/problem/B) - Done
 
-[C. Hard Problem](https://codeforces.com/contest/2044/problem/C)
+[C. Hard Problem](https://codeforces.com/contest/2044/problem/C) - Done
 
 [D. Harder Problem](https://codeforces.com/contest/2044/problem/D)
 
