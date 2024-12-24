@@ -4,7 +4,7 @@
 
 [A. Easy Problem](https://codeforces.com/contest/2044/problem/A) - Done
 
-[B. Normal Problem](https://codeforces.com/contest/2044/problem/B)
+[B. Normal Problem](https://codeforces.com/contest/2044/problem/B) - Done
 
 [C. Hard Problem](https://codeforces.com/contest/2044/problem/C)
 
