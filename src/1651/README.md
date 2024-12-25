@@ -4,7 +4,7 @@
 
 [A. Playoff](https://codeforces.com/contest/1651/problem/A) - Done
 
-[B. Prove Him Wrong](https://codeforces.com/contest/1651/problem/B)
+[B. Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) - Done
 
 [C. Fault-tolerant Network](https://codeforces.com/contest/1651/problem/C)
 
