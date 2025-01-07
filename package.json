@@ -1,6 +1,6 @@
 {
   "name": "@kuzanatoliorg/javascript-tasks-notebook",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "List of practical tasks in javascript",
   "main": "index.js",
   "repository": "https://github.com/kuzanatoliy/javascript-tasks-notebook.git",
