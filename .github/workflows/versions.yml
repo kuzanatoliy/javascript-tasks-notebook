@@ -10,6 +10,8 @@ on:
           - major
           - minor
           - patch
+permissions:
+  contents: write
 jobs:
   versions:
     if: github.ref_name == 'master'
