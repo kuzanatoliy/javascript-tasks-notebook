@@ -10,13 +10,15 @@ on:
           - major
           - minor
           - patch
+permissions:
+  contents: write
 jobs:
   versions:
     if: github.ref_name == 'master'
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [20.x]
+        node-version: [22.x]
     steps:
       - uses: actions/checkout@v4
       - name: Use Node.js ${{ matrix.node-version }}
