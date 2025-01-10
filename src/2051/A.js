@@ -1,10 +1,13 @@
 ﻿module.exports = {
-  getCountOfCoins: (num) => {
-    let count = 1n;
-    while (num > 3n) {
-      num /= 4n;
-      count *= 2n;
+  getMaxDif: (arrA, arrB) => {
+    let sum = arrA[arrA.length - 1];
+    for (let j = 1; j < arrB.length; j++) {
+      const d = arrA[j - 1] - arrB[j];
+      if (d > 0) {
+        sum += d;
+      }
     }
-    return count;
+
+    return sum;
   },
 };
