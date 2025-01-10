@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2051)
 
-[A. Preparing for the Olympiad](https://codeforces.com/contest/2051/problem/A)
+[A. Preparing for the Olympiad](https://codeforces.com/contest/2051/problem/A) - Done
 
 [B. Journey](https://codeforces.com/contest/2051/problem/B) - Done
 
