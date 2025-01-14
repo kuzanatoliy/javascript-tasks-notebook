@@ -12,4 +12,4 @@
 
 [E. Expected Power](https://codeforces.com/contest/2020/problem/E)
 
-[F. Count Leaves](https://codeforces.com/contest/2020/problem/F1)
+[F. Count Leaves](https://codeforces.com/contest/2020/problem/F)
