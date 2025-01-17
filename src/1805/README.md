@@ -4,7 +4,7 @@
 
 [A. We Need the Zero](https://codeforces.com/contest/1805/problem/A) - Done
 
-[B. The String Has a Target](https://codeforces.com/contest/1805/problem/B)
+[B. The String Has a Target](https://codeforces.com/contest/1805/problem/B) - Done
 
 [C. Place for a Selfie](https://codeforces.com/contest/1805/problem/C)
 
