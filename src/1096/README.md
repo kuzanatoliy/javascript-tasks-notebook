@@ -1,17 +1,17 @@
-# Codeforces Round 527 (Div. 3)
+# Educational Codeforces Round 57 (Rated for Div. 2)
 
 [Dashboard](https://codeforces.com/contest/1096)
 
-[A. Uniform String](https://codeforces.com/contest/1096/problem/A)
+[A. Find Divisible](https://codeforces.com/contest/1096/problem/A)
 
-[B. Teams Forming](https://codeforces.com/contest/1096/problem/B) - Done
+[B. Substring Removal](https://codeforces.com/contest/1096/problem/B) - Done
 
-[C. Prefixes and Suffixes](https://codeforces.com/contest/1096/problem/C)
+[C. Polygon for the Angle](https://codeforces.com/contest/1096/problem/C)
 
-[D1. Great Vova Wall (Version 1)](https://codeforces.com/contest/1096/problem/D1)
+[D. Easy Problem](https://codeforces.com/contest/1096/problem/D)
 
-[D2. Great Vova Wall (Version 2)](https://codeforces.com/contest/1096/problem/D2)
+[E. The Top Scorer](https://codeforces.com/contest/1096/problem/E)
 
-[E. Minimal Diameter Forest](https://codeforces.com/contest/1096/problem/E)
+[F. Inversion Expectation](https://codeforces.com/contest/1096/problem/F)
 
-[F. Tree with Maximum Cost](https://codeforces.com/contest/1096/problem/F)
+[G. Lucky Tickets](https://codeforces.com/contest/1096/problem/G)

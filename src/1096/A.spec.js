@@ -1,6 +1,6 @@
 ﻿const { getPair } = require('./A');
 
-describe('1096B. Teams Forming', () => {
+describe('1096A. Find Divisible', () => {
   it.each`
     n    | l    | r     | result
     ${1} | ${1} | ${10} | ${[1, 2]}
