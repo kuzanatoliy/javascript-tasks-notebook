@@ -4,7 +4,7 @@
 
 [A. Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) - Done
 
-[B. Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B)
+[B. Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) - Done
 
 [C. Shinju and the Lost Permutation](https://codeforces.com/contest/1658/problem/C)
 
