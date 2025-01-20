@@ -4,7 +4,7 @@
 
 [A. Chip Game](https://codeforces.com/contest/1719/problem/A) - Done
 
-[B. Mathematical Circus](https://codeforces.com/contest/1719/problem/B)
+[B. Mathematical Circus](https://codeforces.com/contest/1719/problem/B) - Done
 
 [C. Fighting Tournament](https://codeforces.com/contest/1719/problem/C)
 
