@@ -1,6 +1,6 @@
 ﻿const { transformArray } = require('./B');
 
-describe('1392A. Omkar and Password', () => {
+describe('1392B. Omkar and Infinity Clock', () => {
   it.each`
     n    | arr                 | k     | result
     ${1} | ${[-199, 192]}      | ${1}  | ${[391, 0]}

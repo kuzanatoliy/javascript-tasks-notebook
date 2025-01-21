@@ -4,7 +4,7 @@
 
 [A. Minimums and Maximums](https://codeforces.com/contest/1680/problem/A) - Done
 
-[B. Robots](https://codeforces.com/contest/1680/problem/B)
+[B. Robots](https://codeforces.com/contest/1680/problem/B) - Done
 
 [C. Binary String](https://codeforces.com/contest/1680/problem/C)
 
