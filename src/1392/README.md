@@ -4,7 +4,7 @@
 
 [A. Omkar and Password](https://codeforces.com/contest/1392/problem/A) - Done
 
-[B. Omkar and Infinity Clock](https://codeforces.com/contest/1392/problem/B)
+[B. Omkar and Infinity Clock](https://codeforces.com/contest/1392/problem/B) - Done
 
 [C. Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C)
 
