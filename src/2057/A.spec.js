@@ -1,6 +1,6 @@
 ﻿const { getMaxMexSum } = require('./A');
 
-describe('2050A. Line Breaks', () => {
+describe('2057A. Line Breaks', () => {
   it.each`
     n    | r    | c    | result
     ${1} | ${1} | ${1} | ${2}
