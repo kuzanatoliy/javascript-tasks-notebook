@@ -4,7 +4,7 @@
 
 [A. Cirno's Perfect Bitmasks Classroom](https://codeforces.com/contest/1688/problem/A) - Done
 
-[B. Patchouli's Magical Talisman](https://codeforces.com/contest/1688/problem/B)
+[B. Patchouli's Magical Talisman](https://codeforces.com/contest/1688/problem/B) - Done
 
 [C. Manipulating History](https://codeforces.com/contest/1688/problem/C)
 
