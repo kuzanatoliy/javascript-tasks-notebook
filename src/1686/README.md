@@ -4,7 +4,7 @@
 
 [A. Everything Everywhere All But One](https://codeforces.com/contest/1686/problem/A) - Done
 
-[B. Odd Subarrays](https://codeforces.com/contest/1686/problem/B)
+[B. Odd Subarrays](https://codeforces.com/contest/1686/problem/B) - Done
 
 [C. Circular Local MiniMax](https://codeforces.com/contest/1686/problem/C)
 
