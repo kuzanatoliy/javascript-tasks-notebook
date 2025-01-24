@@ -1,6 +1,6 @@
 ﻿const { getNumber } = require('./A');
 
-describe('750A. New Year and Hurry', () => {
+describe('755A. New Year and Hurry', () => {
   it.each`
     n    | num  | result
     ${1} | ${3} | ${1}
