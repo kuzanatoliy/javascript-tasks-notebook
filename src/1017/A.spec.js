@@ -1,6 +1,6 @@
 ﻿const { getRank } = require('./A');
 
-describe('1015A. The Rank', () => {
+describe('1017A. The Rank', () => {
   it.each`
     n    | results                                                                                                          | result
     ${1} | ${[[100, 80, 90, 99], [60, 60, 60, 60], [90, 60, 100, 60], [60, 100, 60, 80], [100, 100, 0, 100], [0, 0, 0, 0]]} | ${1}
