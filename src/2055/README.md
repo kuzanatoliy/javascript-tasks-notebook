@@ -1,0 +1,15 @@
+# Good Bye 2024: 2025 is NEAR
+
+[Dashboard](https://codeforces.com/contest/2055)
+
+[A. Two Frogs](https://codeforces.com/contest/2055/problem/A) - Done
+
+[B. Crafting](https://codeforces.com/contest/2055/problem/B)
+
+[C. The Trail](https://codeforces.com/contest/2055/problem/C)
+
+[D. Scarecrow](https://codeforces.com/contest/2055/problem/D)
+
+[E. Haystacks](https://codeforces.com/contest/2055/problem/E)
+
+[F. Cosmic Divide](https://codeforces.com/contest/2055/problem/F)
