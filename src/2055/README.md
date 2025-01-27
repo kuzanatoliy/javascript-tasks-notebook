@@ -1,4 +1,4 @@
-# Good Bye 2024: 2025 is NEAR
+# Codeforces Round 996 (Div. 2)
 
 [Dashboard](https://codeforces.com/contest/2055)
 
