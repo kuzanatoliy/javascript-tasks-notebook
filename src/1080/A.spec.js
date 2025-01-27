@@ -1,4 +1,4 @@
-﻿const { getPosition } = require('./A');
+﻿const { getNotebookCount } = require('./A');
 
 describe('1080A. Petya and Origami', () => {
   it.each`
@@ -6,6 +6,6 @@ describe('1080A. Petya and Origami', () => {
     ${1} | ${3}  | ${5} | ${10}
     ${2} | ${15} | ${6} | ${38}
   `('Base test: $n', ({ num, k, result }) => {
-    expect(getPosition(num, k)).toBe(result);
+    expect(getNotebookCount(num, k)).toBe(result);
   });
 });
