@@ -1,6 +1,6 @@
 ﻿const { getMinDif } = require('./A');
 
-describe('1574A. Luntik and Concerts', () => {
+describe('1582A. Luntik and Concerts', () => {
   it.each`
     n    | a    | b    | c    | result
     ${1} | ${1} | ${1} | ${1} | ${0}
