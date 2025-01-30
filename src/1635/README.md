@@ -4,7 +4,7 @@
 
 [A. Min Or Sum](https://codeforces.com/contest/1635/problem/A) - Done
 
-[B. Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B)
+[B. Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B) - Done
 
 [C. Differential Sorting](https://codeforces.com/contest/1635/problem/C)
 
