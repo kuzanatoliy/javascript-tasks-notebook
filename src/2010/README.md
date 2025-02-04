@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2010)
 
-[A. Alternating Sum of Numbers](https://codeforces.com/contest/2010/problem/A)
+[A. Alternating Sum of Numbers](https://codeforces.com/contest/2010/problem/A) - Done
 
 [B. Three Brothers](https://codeforces.com/contest/2010/problem/B) - Done
 
