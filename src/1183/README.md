@@ -4,7 +4,7 @@
 
 [A. Nearest Interesting Number](https://codeforces.com/contest/1183/problem/A) - Done
 
-[B. Equalize Prices](https://codeforces.com/contest/1183/problem/B)
+[B. Equalize Prices](https://codeforces.com/contest/1183/problem/B) - Done
 
 [C. Computer Game](https://codeforces.com/contest/1183/problem/C)
 
