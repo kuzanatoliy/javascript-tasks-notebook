@@ -4,7 +4,7 @@
 
 [A. Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) - Done
 
-[B. Qingshan Loves Strings](https://codeforces.com/contest/1890/problem/B)
+[B. Qingshan Loves Strings](https://codeforces.com/contest/1890/problem/B) - Done
 
 [C. Qingshan Loves Strings 2](https://codeforces.com/contest/1890/problem/C)
 
