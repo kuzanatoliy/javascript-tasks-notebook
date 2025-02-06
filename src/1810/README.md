@@ -4,7 +4,7 @@
 
 [A. Beautiful Sequence](https://codeforces.com/contest/1810/problem/A) - Done
 
-[B. Candies](https://codeforces.com/contest/1810/problem/B)
+[B. Candies](https://codeforces.com/contest/1810/problem/B) - Done
 
 [C. Make It Permutation](https://codeforces.com/contest/1810/problem/C)
 
