@@ -6,7 +6,7 @@
 
 [B. Equalize Prices](https://codeforces.com/contest/1183/problem/B) - Done
 
-[C. Computer Game](https://codeforces.com/contest/1183/problem/C)
+[C. Computer Game](https://codeforces.com/contest/1183/problem/C) - Done
 
 [D. Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D)
 

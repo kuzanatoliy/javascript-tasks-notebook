@@ -1,6 +1,6 @@
 ﻿const { getMaxEqualPrice } = require('./B');
 
-describe('1183A. Nearest Interesting Number', () => {
+describe('1183B. Equalize Prices', () => {
   it.each`
     n    | arr                | k    | result
     ${1} | ${[1, 1, 2, 3, 1]} | ${1} | ${2}
