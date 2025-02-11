@@ -4,7 +4,7 @@
 
 [A. Maxmina](https://codeforces.com/contest/1746/problem/A) - Done
 
-[B. Rebellion](https://codeforces.com/contest/1746/problem/B)
+[B. Rebellion](https://codeforces.com/contest/1746/problem/B) - Done
 
 [C. Permutation Operations](https://codeforces.com/contest/1746/problem/C)
 
