@@ -4,7 +4,7 @@
 
 [A. Ancient Civilization](https://codeforces.com/contest/1625/problem/A) - Done
 
-[B. Elementary Particles](https://codeforces.com/contest/1625/problem/B)
+[B. Elementary Particles](https://codeforces.com/contest/1625/problem/B) - Done
 
 [C. Road Optimization](https://codeforces.com/contest/1625/problem/C)
 
