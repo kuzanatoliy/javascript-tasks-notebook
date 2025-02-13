@@ -1,4 +1,4 @@
-﻿const { getOriginNumber } = require('./B');
+﻿const { getMaxSubArray } = require('./B');
 
 describe('1625B. Elementary Particles', () => {
   it.each`
@@ -8,6 +8,6 @@ describe('1625B. Elementary Particles', () => {
     ${3} | ${[1, 4, 2, 8, 5, 7]}    | ${-1}
     ${4} | ${[15, 15]}              | ${1}
   `('Base test: $n', ({ arr, result }) => {
-    expect(getOriginNumber(arr)).toBe(result);
+    expect(getMaxSubArray(arr)).toBe(result);
   });
 });
