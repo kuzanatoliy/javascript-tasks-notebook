@@ -8,7 +8,7 @@
 
 [C. Computer Game](https://codeforces.com/contest/1183/problem/C) - Done
 
-[D. Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D)
+[D. Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) - Done
 
 [E. Subsequences (easy version)](https://codeforces.com/contest/1183/problem/E)
 
