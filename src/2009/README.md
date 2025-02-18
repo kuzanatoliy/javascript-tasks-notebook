@@ -6,7 +6,7 @@
 
 [B. osu!mania](https://codeforces.com/contest/2009/problem/B) - Done
 
-[C. The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C)
+[C. The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) - Done
 
 [D. Satyam and Counting](https://codeforces.com/contest/2009/problem/D)
 

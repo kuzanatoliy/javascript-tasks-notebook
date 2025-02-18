@@ -1,6 +1,6 @@
 ﻿const { getColumns } = require('./B');
 
-describe('2009A. Minimize!', () => {
+describe('2009B. osu!mania', () => {
   it.each`
     n    | rows                                | result
     ${1} | ${['#...', '.#..', '..#.', '...#']} | ${[4, 3, 2, 1]}
