@@ -8,7 +8,7 @@
 
 [C. The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) - Done
 
-[D. Satyam and Counting](https://codeforces.com/contest/2009/problem/D)
+[D. Satyam and Counting](https://codeforces.com/contest/2009/problem/D) - Done
 
 [E. Klee's SUPER DUPER LARGE Array!!!](https://codeforces.com/contest/2009/problem/E)
 
