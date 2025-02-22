@@ -4,7 +4,7 @@
 
 [A. Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) - Done
 
-[B. Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B)
+[B. Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) - Done
 
 [C. Serval and Toxel's Arrays](https://codeforces.com/contest/1789/problem/C)
 
