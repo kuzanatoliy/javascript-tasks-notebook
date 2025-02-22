@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1092)
 
-[A. Uniform String](https://codeforces.com/contest/1092/problem/A)
+[A. Uniform String](https://codeforces.com/contest/1092/problem/A) - Done
 
 [B. Teams Forming](https://codeforces.com/contest/1092/problem/B) - Done
 
