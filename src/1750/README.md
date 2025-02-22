@@ -4,7 +4,7 @@
 
 [A. Indirect Sort](https://codeforces.com/contest/1750/problem/A) - Done
 
-[B. Maximum Substring](https://codeforces.com/contest/1750/problem/B)
+[B. Maximum Substring](https://codeforces.com/contest/1750/problem/B) - Done
 
 [C. Complementary XOR](https://codeforces.com/contest/1750/problem/C)
 
