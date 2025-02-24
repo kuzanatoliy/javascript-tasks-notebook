@@ -4,7 +4,7 @@
 
 [A. Tokitsukaze and All Zero Sequence](https://codeforces.com/contest/1678/problem/A) - Done
 
-[B1. Tokitsukaze and Good 01-String (easy version)](https://codeforces.com/contest/1678/problem/B1)
+[B1. Tokitsukaze and Good 01-String (easy version)](https://codeforces.com/contest/1678/problem/B1) - Done
 
 [B2. Tokitsukaze and Good 01-String (hard version)](https://codeforces.com/contest/1678/problem/B2)
 
