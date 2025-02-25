@@ -1,4 +1,4 @@
-﻿const { getCountOfOperations } = require('./A');
+﻿const { getCountOfOperations } = require('./B1');
 
 describe('1678B1. Tokitsukaze and Good 01-String (easy version)', () => {
   it.each`
