@@ -4,7 +4,7 @@
 
 [A. Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) - Done
 
-[B. Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B)
+[B. Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) - Done
 
 [C1. Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1)
 
