@@ -1,6 +1,6 @@
 ﻿const { getCountOfOperations } = require('./A');
 
-describe('2063A. Brogramming Contest', () => {
+describe('2064A. Brogramming Contest', () => {
   it.each`
     n    | str        | result
     ${1} | ${'00110'} | ${2}
