@@ -4,7 +4,7 @@
 
 [A. Log Chopping](https://codeforces.com/contest/1672/problem/A) - Done
 
-[B. I love AAAB](https://codeforces.com/contest/1672/problem/B)
+[B. I love AAAB](https://codeforces.com/contest/1672/problem/B) - Done
 
 [C. Unequal Array](https://codeforces.com/contest/1672/problem/C)
 
