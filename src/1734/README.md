@@ -4,7 +4,7 @@
 
 [A. Select Three Sticks](https://codeforces.com/contest/1734/problem/A) - Done
 
-[B. Bright, Nice, Brilliant](https://codeforces.com/contest/1734/problem/B)
+[B. Bright, Nice, Brilliant](https://codeforces.com/contest/1734/problem/B) - Done
 
 [C. Removing Smallest Multiples](https://codeforces.com/contest/1734/problem/C)
 

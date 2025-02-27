@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToTransform } = require('./B');
 
-describe('1672A. Log Chopping', () => {
+describe('1672B. I love AAAB', () => {
   it.each`
     n    | str            | result
     ${1} | ${'AABAB'}     | ${'YES'}
