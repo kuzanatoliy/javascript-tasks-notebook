@@ -4,7 +4,7 @@
 
 [A. Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) - Done
 
-[B. Prefix Removals](https://codeforces.com/contest/1654/problem/B)
+[B. Prefix Removals](https://codeforces.com/contest/1654/problem/B) - Done
 
 [C. Alice and the Cake](https://codeforces.com/contest/1654/problem/C)
 
