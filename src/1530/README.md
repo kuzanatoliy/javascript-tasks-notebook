@@ -4,7 +4,7 @@
 
 [A. Binary Decimal](https://codeforces.com/contest/1530/problem/A) - Done
 
-[B. Putting Plates](https://codeforces.com/contest/1530/problem/B)
+[B. Putting Plates](https://codeforces.com/contest/1530/problem/B) - Done
 
 [C. Pursuit](https://codeforces.com/contest/1530/problem/C)
 
