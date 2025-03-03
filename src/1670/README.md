@@ -2,14 +2,14 @@
 
 [Dashboard](https://codeforces.com/contest/1670)
 
-[A. String Building](https://codeforces.com/contest/1670/problem/A) - Done
+[A. Prof. Slim](https://codeforces.com/contest/1670/problem/A) - Done
 
-[B. Consecutive Points Segment](https://codeforces.com/contest/1670/problem/B)
+[B. Dorms War](https://codeforces.com/contest/1670/problem/B)
 
-[C. Dolce Vita](https://codeforces.com/contest/1670/problem/C)
+[C. Where is the Pizza?](https://codeforces.com/contest/1670/problem/C)
 
-[D. Insert a Progression](https://codeforces.com/contest/1670/problem/D)
+[D. Very Suspicious](https://codeforces.com/contest/1670/problem/D)
 
-[E. Preorder](https://codeforces.com/contest/1670/problem/E)
+[E. Hemose on the Tree](https://codeforces.com/contest/1670/problem/E)
 
-[F. Permutation Counting](https://codeforces.com/contest/1670/problem/F)
+[F. Jee, You See?](https://codeforces.com/contest/1670/problem/F)
