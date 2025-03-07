@@ -17,7 +17,7 @@
     "commitlint": "commitlint --edit"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=22.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
