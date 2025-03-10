@@ -1,6 +1,6 @@
 ﻿const { getMaxCountOfHaybales } = require('./A');
 
-describe('1304A. Cow and Haybales', () => {
+describe('1307A. Cow and Haybales', () => {
   it.each`
     n    | arr             | k    | result
     ${1} | ${[1, 0, 3, 2]} | ${5} | ${3}
