@@ -7,6 +7,6 @@ describe('1740A. Factorise N+M', () => {
     ${2} | ${2}     | ${2}
     ${3} | ${75619} | ${75619}
   `('Base test: $n', ({ num, result }) => {
-    expect(getPrimeNumber(num)).toStrictEqual(result);
+    expect(getPrimeNumber(num)).toBe(result);
   });
 });

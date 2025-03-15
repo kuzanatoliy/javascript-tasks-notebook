@@ -4,7 +4,7 @@
 
 [A. Factorise N+M](https://codeforces.com/contest/1740/problem/A) - Done
 
-[B. Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B)
+[B. Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) - Done
 
 [C. Bricks and Bags](https://codeforces.com/contest/1740/problem/C)
 
