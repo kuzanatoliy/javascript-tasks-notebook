@@ -4,7 +4,7 @@
 
 [A. Draw a Square](https://codeforces.com/contest/2074/problem/A) - Done
 
-[B. The Third Side](https://codeforces.com/contest/2074/problem/B)
+[B. The Third Side](https://codeforces.com/contest/2074/problem/B) - Done
 
 [C. XOR and Triangle](https://codeforces.com/contest/2074/problem/C)
 
