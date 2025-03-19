@@ -1,6 +1,6 @@
 ﻿const { getIsolatedCell } = require('./A');
 
-describe('1736A. Immobile Knight', () => {
+describe('1739A. Immobile Knight', () => {
   it.each`
     n    | row  | col  | result
     ${1} | ${1} | ${7} | ${[1, 1]}

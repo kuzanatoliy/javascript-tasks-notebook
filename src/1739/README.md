@@ -1,15 +1,15 @@
 # Educational Codeforces Round 136 (Rated for Div. 2)
 
-[Dashboard](https://codeforces.com/contest/1736)
+[Dashboard](https://codeforces.com/contest/1739)
 
-[A. Immobile Knight](https://codeforces.com/contest/1736/problem/A) - Done
+[A. Immobile Knight](https://codeforces.com/contest/1739/problem/A) - Done
 
-[B. Array Recovery](https://codeforces.com/contest/1736/problem/B)
+[B. Array Recovery](https://codeforces.com/contest/1739/problem/B)
 
-[C. Card Game](https://codeforces.com/contest/1736/problem/C)
+[C. Card Game](https://codeforces.com/contest/1739/problem/C)
 
-[D. Reset K Edges](https://codeforces.com/contest/1736/problem/D)
+[D. Reset K Edges](https://codeforces.com/contest/1739/problem/D)
 
-[E. Cleaning Robot](https://codeforces.com/contest/1736/problem/E)
+[E. Cleaning Robot](https://codeforces.com/contest/1739/problem/E)
 
-[F. Keyboard Design](https://codeforces.com/contest/1736/problem/F)
+[F. Keyboard Design](https://codeforces.com/contest/1739/problem/F)
