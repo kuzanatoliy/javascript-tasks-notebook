@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/32)
 
-[A. Reconnaissance](https://codeforces.com/contest/32/problem/A)
+[A. Reconnaissance](https://codeforces.com/contest/32/problem/A) - Done
 
 [B. Borze](https://codeforces.com/contest/32/problem/B) - Done
 
