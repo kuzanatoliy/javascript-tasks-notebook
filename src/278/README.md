@@ -6,7 +6,7 @@
 
 [B. New Problem](https://codeforces.com/contest/278/problem/B)
 
-[C. Learning Languages](https://codeforces.com/contest/278/problem/C)
+[C. Learning Languages](https://codeforces.com/contest/278/problem/C) - Done
 
 [D. Set of Points](https://codeforces.com/contest/278/problem/D)
 
