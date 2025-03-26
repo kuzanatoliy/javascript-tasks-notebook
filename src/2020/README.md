@@ -4,7 +4,7 @@
 
 [A. Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) - Done
 
-[B. Brightness Begins](https://codeforces.com/contest/2020/problem/B)
+[B. Brightness Begins](https://codeforces.com/contest/2020/problem/B) - Done
 
 [C. Bitwise Balancing](https://codeforces.com/contest/2020/problem/C)
 
