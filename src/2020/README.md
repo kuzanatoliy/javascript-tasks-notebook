@@ -6,7 +6,7 @@
 
 [B. Brightness Begins](https://codeforces.com/contest/2020/problem/B) - Done
 
-[C. Bitwise Balancing](https://codeforces.com/contest/2020/problem/C)
+[C. Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) - Done
 
 [D. Connect the Dots](https://codeforces.com/contest/2020/problem/D)
 
