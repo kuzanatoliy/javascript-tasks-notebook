@@ -1,6 +1,6 @@
 ﻿const { isLoveTriangle } = require('./A');
 
-describe('939A. Mahmoud and Ehab and the even-odd game', () => {
+describe('939A. Love Triangle', () => {
   it.each`
     n    | arr                | result
     ${1} | ${[2, 4, 5, 1, 3]} | ${'YES'}

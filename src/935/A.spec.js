@@ -1,6 +1,6 @@
 ﻿const { getNumberOfEmployees } = require('./A');
 
-describe('935A. Mahmoud and Ehab and the even-odd game', () => {
+describe('935A. Fafa and his Company', () => {
   it.each`
     n    | number | result
     ${1} | ${2}   | ${1}
