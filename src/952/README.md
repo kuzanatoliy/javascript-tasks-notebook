@@ -14,4 +14,4 @@
 
 [F. 2 + 2 != 4](https://codeforces.com/contest/952/problem/F)
 
-[G. Puzzling Language](https://codeforces.com/contest/952/problem/F)
+[G. Puzzling Language](https://codeforces.com/contest/952/problem/G)
