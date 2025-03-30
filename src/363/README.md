@@ -1,13 +1,13 @@
 # Codeforces Round 211 (Div. 2)
 
-[Dashboard](https://codeforces.com/contest/361)
+[Dashboard](https://codeforces.com/contest/363)
 
-[A. Soroban](https://codeforces.com/contest/361/problem/A) - Done
+[A. Soroban](https://codeforces.com/contest/363/problem/A) - Done
 
-[B. Fence](https://codeforces.com/contest/361/problem/B)
+[B. Fence](https://codeforces.com/contest/363/problem/B) - Done
 
-[C. Fixing Typos](https://codeforces.com/contest/361/problem/C)
+[C. Fixing Typos](https://codeforces.com/contest/363/problem/C)
 
-[D. Renting Bikes](https://codeforces.com/contest/361/problem/D)
+[D. Renting Bikes](https://codeforces.com/contest/363/problem/D)
 
-[E. Two Circles](https://codeforces.com/contest/361/problem/E)
+[E. Two Circles](https://codeforces.com/contest/363/problem/E)
