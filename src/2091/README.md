@@ -4,7 +4,7 @@
 
 [A. Olympiad Date](https://codeforces.com/contest/2091/problem/A) - Done
 
-[B. Team Training](https://codeforces.com/contest/2091/problem/B)
+[B. Team Training](https://codeforces.com/contest/2091/problem/B) - Done
 
 [C. Combination Lock](https://codeforces.com/contest/2091/problem/C)
 
