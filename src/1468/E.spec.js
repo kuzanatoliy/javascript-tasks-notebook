@@ -1,6 +1,6 @@
 ﻿const { getMaxArea } = require('./E');
 
-describe('1468A. LaIS', () => {
+describe('1468E. Four Segments', () => {
   it.each`
     n    | array                 | result
     ${1} | ${[1, 2, 3, 4]}       | ${3}
