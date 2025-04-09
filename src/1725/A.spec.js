@@ -1,6 +1,6 @@
 ﻿const { getCountOfDominoes } = require('./A');
 
-describe('1721A. Accumulation of Dominoes', () => {
+describe('1725A. Accumulation of Dominoes', () => {
   it.each`
     n    | num  | m    | result
     ${1} | ${3} | ${4} | ${9}
