@@ -1,4 +1,4 @@
-﻿const { getSumOfGoodElements } = require('./A');
+﻿const { getSumOfGoodElements } = require('./A1');
 
 describe('177A2. Good Matrix Elements', () => {
   it.each`
