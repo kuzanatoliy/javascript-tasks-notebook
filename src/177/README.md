@@ -4,7 +4,7 @@
 
 [A1. Good Matrix Elements](https://codeforces.com/contest/177/problem/A1) - Done
 
-[A2. Good Matrix Elements](https://codeforces.com/contest/177/problem/A2)
+[A2. Good Matrix Elements](https://codeforces.com/contest/177/problem/A2) - Done
 
 [B1. Rectangular Game](https://codeforces.com/contest/177/problem/B1)
 
