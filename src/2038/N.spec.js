@@ -9,6 +9,6 @@ describe('2038N. Fixing the Expression', () => {
     ${4} | ${'0=0'}   | ${'0=0'}
     ${5} | ${'5<3'}   | ${'5>3'}
   `('Base test: $n', ({ expression, result }) => {
-    expect(transformExpression(expression)).toStrictEqual(result);
+    expect(transformExpression(expression)).toBe(result);
   });
 });

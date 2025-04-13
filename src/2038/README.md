@@ -20,7 +20,7 @@
 
 [I. Polyathlon](https://codeforces.com/contest/2038/problem/I)
 
-[J. Waiting for...](https://codeforces.com/contest/2038/problem/J)
+[J. Waiting for...](https://codeforces.com/contest/2038/problem/J) - Done
 
 [K. Grid Walk](https://codeforces.com/contest/2038/problem/K)
 
