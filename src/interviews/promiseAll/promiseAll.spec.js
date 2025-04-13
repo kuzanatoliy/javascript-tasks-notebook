@@ -9,7 +9,7 @@ describe('promiseAll', () => {
         resolve('test');
       }, 100);
     });
-    const result = await promiseAll(p1, p2, p3);
+    const result = await promiseAll([p1, p2, p3]);
     expect(result).toStrictEqual([3, 1337, 'test']);
   });
 
@@ -22,7 +22,7 @@ describe('promiseAll', () => {
       }, 100);
     });
     try {
-      await promiseAll(p1, p2, p3);
+      await promiseAll([p1, p2, p3]);
     } catch (error) {
       expect(error.message).toStrictEqual('test error');
     }

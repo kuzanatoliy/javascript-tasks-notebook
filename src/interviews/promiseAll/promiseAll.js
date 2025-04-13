@@ -1,15 +1,15 @@
 /* eslint-disable no-loop-func */
 module.exports = {
-  promiseAll: (...args) =>
+  promiseAll: (props) =>
     new Promise((resolve, reject) => {
       let count = 0;
-      const results = new Array(args.length);
+      const results = new Array(props.length);
       for (let j = 0; j < results.length; j++) {
-        Promise.resolve(args[j]).then(
+        Promise.resolve(props[j]).then(
           (res) => {
             results[j] = res;
             count++;
-            if (count === args.length) {
+            if (count === props.length) {
               resolve(results);
             }
           },
