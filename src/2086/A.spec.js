@@ -5,7 +5,7 @@ describe('2086A. Cloudberry Jam', () => {
     n    | num  | result
     ${1} | ${1} | ${2}
     ${2} | ${3} | ${6}
-  `('Base test: $n', ({ num, k, result }) => {
-    expect(getAmountOfBerries(num, k)).toBe(result);
+  `('Base test: $n', ({ num, result }) => {
+    expect(getAmountOfBerries(num)).toBe(result);
   });
 });

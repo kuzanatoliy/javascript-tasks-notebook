@@ -10,7 +10,7 @@ describe('2082A. Binary Matrix', () => {
     ${5} | ${[[0, 0, 0], [0, 1, 0], [0, 0, 0]]} | ${1}
     ${6} | ${[[0, 1, 0, 1]]}                    | ${2}
     ${7} | ${[[0], [1], [0], [1]]}              | ${2}
-  `('Base test: $n', ({ matrix, k, result }) => {
-    expect(getCountOfElems(matrix, k)).toBe(result);
+  `('Base test: $n', ({ matrix, result }) => {
+    expect(getCountOfElems(matrix)).toBe(result);
   });
 });
