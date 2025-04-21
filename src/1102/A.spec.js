@@ -1,6 +1,6 @@
 ﻿const { getMinValue } = require('./A');
 
-describe('1002A. Integer Sequence Dividing', () => {
+describe('1102A. Integer Sequence Dividing', () => {
   it.each`
     n    | num  | result
     ${1} | ${3} | ${0}
