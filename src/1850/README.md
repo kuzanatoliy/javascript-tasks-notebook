@@ -8,7 +8,7 @@
 
 [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) - Done
 
-[D. Balanced Round](https://codeforces.com/contest/1850/problem/D)
+[D. Balanced Round](https://codeforces.com/contest/1850/problem/D) - Done
 
 [E. Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E)
 
