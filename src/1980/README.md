@@ -6,7 +6,7 @@
 
 [B. Choosing Cubes](https://codeforces.com/contest/1980/problem/B) - Done
 
-[C. Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C)
+[C. Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C) - Done
 
 [D. GCD-sequence](https://codeforces.com/contest/1980/problem/D)
 
