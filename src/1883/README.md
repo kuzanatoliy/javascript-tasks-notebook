@@ -4,7 +4,7 @@
 
 [A. Morning](https://codeforces.com/contest/1883/problem/A) - Done
 
-[B. Chemistry](https://codeforces.com/contest/1883/problem/B)
+[B. Chemistry](https://codeforces.com/contest/1883/problem/B) - Done
 
 [C. Raspberries](https://codeforces.com/contest/1883/problem/C)
 
