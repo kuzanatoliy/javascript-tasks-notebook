@@ -8,7 +8,7 @@
 
 [C. Find and Replace](https://codeforces.com/contest/1807/problem/C) - Done
 
-[D. Odd Queries](https://codeforces.com/contest/1807/problem/D)
+[D. Odd Queries](https://codeforces.com/contest/1807/problem/D) - Done
 
 [E. Interview](https://codeforces.com/contest/1807/problem/E)
 
