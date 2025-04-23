@@ -6,7 +6,7 @@
 
 [B. Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) - Done
 
-[C. Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C)
+[C. Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) - Done
 
 [D. Reverse Madness](https://codeforces.com/contest/1878/problem/D)
 
