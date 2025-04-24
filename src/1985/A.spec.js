@@ -9,7 +9,7 @@ describe('1985A. Creating Words', () => {
     ${4} | ${['uwu', 'owo']} | ${['owu', 'uwo']}
     ${5} | ${['cat', 'cat']} | ${['cat', 'cat']}
     ${6} | ${['zzz', 'zzz']} | ${['zzz', 'zzz']}
-  `('Bwordsse test: $n', ({ words, result }) => {
+  `('Base test: $n', ({ words, result }) => {
     expect(getSwapedWords(words)).toStrictEqual(result);
   });
 });

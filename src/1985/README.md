@@ -8,7 +8,7 @@
 
 [C. Good Prefixes](https://codeforces.com/contest/1985/problem/C)
 
-[D. Manhattan Circle](https://codeforces.com/contest/1985/problem/D)
+[D. Manhattan Circle](https://codeforces.com/contest/1985/problem/D) - Done
 
 [E. Secret Box](https://codeforces.com/contest/1985/problem/E)
 
