@@ -6,7 +6,7 @@
 
 [B. Different String](https://codeforces.com/contest/1971/problem/B) - Done
 
-[C. Clock and Strings](https://codeforces.com/contest/1971/problem/C)
+[C. Clock and Strings](https://codeforces.com/contest/1971/problem/C) - Done
 
 [D. Binary Cut](https://codeforces.com/contest/1971/problem/D)
 
