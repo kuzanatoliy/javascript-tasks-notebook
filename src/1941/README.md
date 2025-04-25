@@ -6,7 +6,7 @@
 
 [B. Rudolf and 121](https://codeforces.com/contest/1941/problem/B)
 
-[C. Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C)
+[C. Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) - Done
 
 [D. Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D)
 
