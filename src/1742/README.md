@@ -6,7 +6,7 @@
 
 [B. Increasing](https://codeforces.com/contest/1742/problem/B) - Done
 
-[C. Stripes](https://codeforces.com/contest/1742/problem/C)
+[C. Stripes](https://codeforces.com/contest/1742/problem/C) - Done
 
 [D. Coprime](https://codeforces.com/contest/1742/problem/D)
 
