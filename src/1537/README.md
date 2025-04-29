@@ -4,7 +4,7 @@
 
 [A. Arithmetic Array](https://codeforces.com/contest/1537/problem/A) - Done
 
-[B. Bad Boy](https://codeforces.com/contest/1537/problem/B)
+[B. Bad Boy](https://codeforces.com/contest/1537/problem/B) - Done
 
 [C. Challenging Cliffs](https://codeforces.com/contest/1537/problem/C)
 
