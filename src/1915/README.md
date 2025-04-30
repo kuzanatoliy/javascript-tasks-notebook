@@ -8,7 +8,7 @@
 
 [C. Can I Square?](https://codeforces.com/contest/1915/problem/C) - Done
 
-[D. Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D)
+[D. Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) - Done
 
 [E. Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
 
