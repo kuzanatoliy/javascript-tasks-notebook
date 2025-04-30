@@ -4,7 +4,7 @@
 
 [A. Dalton the Teacher](https://codeforces.com/contest/1855/problem/A) - Done
 
-[B. Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B)
+[B. Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) - Done
 
 [C1. Dual (Easy Version)](https://codeforces.com/contest/1855/problem/C1)
 
