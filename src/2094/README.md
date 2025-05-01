@@ -4,7 +4,7 @@
 
 [A. Trippi Troppi](https://codeforces.com/contest/2094/problem/A) - Done
 
-[B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B)
+[B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) - Done
 
 [C. Brr Brrr Patapim](https://codeforces.com/contest/2094/problem/C)
 
