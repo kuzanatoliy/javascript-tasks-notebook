@@ -4,7 +4,7 @@
 
 [A. Food for Animals](https://codeforces.com/contest/1675/problem/A) - Done
 
-[B. Make It Increasing](https://codeforces.com/contest/1675/problem/B)
+[B. Make It Increasing](https://codeforces.com/contest/1675/problem/B) - Done
 
 [C. Detective Task](https://codeforces.com/contest/1675/problem/C)
 
