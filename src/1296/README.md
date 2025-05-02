@@ -4,7 +4,7 @@
 
 [A. Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) - Done
 
-[B. Food Buying](https://codeforces.com/contest/1296/problem/B)
+[B. Food Buying](https://codeforces.com/contest/1296/problem/B) - Done
 
 [C. Yet Another Walking Robot](https://codeforces.com/contest/1296/problem/C)
 
