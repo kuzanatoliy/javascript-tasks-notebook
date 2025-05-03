@@ -1,10 +1,10 @@
-# Codeforces Round 886 (Div. 4)
+# Codeforces Round 895 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/1872)
 
 [A. Two Vessels](https://codeforces.com/contest/1872/problem/A) - Done
 
-[B. The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B)
+[B. The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) - Done
 
 [C. Non-coprime Split](https://codeforces.com/contest/1872/problem/C)
 
