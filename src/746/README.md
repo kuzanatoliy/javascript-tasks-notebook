@@ -4,7 +4,7 @@
 
 [A. Compote](https://codeforces.com/contest/746/problem/A) - Done
 
-[B. Decoding](https://codeforces.com/contest/746/problem/B)
+[B. Decoding](https://codeforces.com/contest/746/problem/B) - Done
 
 [C. Tram](https://codeforces.com/contest/746/problem/C)
 
