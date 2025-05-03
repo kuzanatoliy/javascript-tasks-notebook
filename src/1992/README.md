@@ -6,7 +6,7 @@
 
 [B. Angry Monk](https://codeforces.com/contest/1992/problem/B) - Done
 
-[C. Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C)
+[C. Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) - Done
 
 [D. Test of Love](https://codeforces.com/contest/1992/problem/D)
 
