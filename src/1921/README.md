@@ -6,7 +6,7 @@
 
 [B. Arranging Cats](https://codeforces.com/contest/1921/problem/B) - Done
 
-[C. Sending Messages](https://codeforces.com/contest/1921/problem/C)
+[C. Sending Messages](https://codeforces.com/contest/1921/problem/C) - Done
 
 [D. Very Different Array](https://codeforces.com/contest/1921/problem/D)
 
