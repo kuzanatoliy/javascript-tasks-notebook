@@ -4,7 +4,7 @@
 
 [A. Elections](https://codeforces.com/contest/1593/problem/A) - Done
 
-[B. Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B)
+[B. Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) - Done
 
 [C. Save More Mice](https://codeforces.com/contest/1593/problem/C)
 
