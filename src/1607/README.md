@@ -4,7 +4,7 @@
 
 [A. Linear Keyboard](https://codeforces.com/contest/1607/problem/A) - Done
 
-[B. Odd Grasshopper](https://codeforces.com/contest/1607/problem/B)
+[B. Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) - Done
 
 [C. Minimum Extraction](https://codeforces.com/contest/1607/problem/C)
 
