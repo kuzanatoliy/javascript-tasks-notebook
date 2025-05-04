@@ -4,7 +4,7 @@
 
 [A. Deletions of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A) - Done
 
-[B. DIV + MOD](https://codeforces.com/contest/1650/problem/B)
+[B. DIV + MOD](https://codeforces.com/contest/1650/problem/B) - Done
 
 [C. Weight of the System of Nested Segments](https://codeforces.com/contest/1650/problem/C)
 
