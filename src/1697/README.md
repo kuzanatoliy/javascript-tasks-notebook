@@ -4,7 +4,7 @@
 
 [A. Parkway Walk](https://codeforces.com/contest/1697/problem/A) - Done
 
-[B. Promo](https://codeforces.com/contest/1697/problem/B)
+[B. Promo](https://codeforces.com/contest/1697/problem/B) - Done
 
 [C. awoo's Favorite Problem](https://codeforces.com/contest/1697/problem/C)
 
