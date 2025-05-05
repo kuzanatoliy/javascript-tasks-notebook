@@ -8,7 +8,7 @@
 
 [C. Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C) - Done
 
-[D. GCD-sequence](https://codeforces.com/contest/1980/problem/D)
+[D. GCD-sequence](https://codeforces.com/contest/1980/problem/D) - Done
 
 [E. Permutation of Rows and Columns](https://codeforces.com/contest/1980/problem/E)
 
