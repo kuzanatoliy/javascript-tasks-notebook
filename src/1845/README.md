@@ -4,7 +4,7 @@
 
 [A. Forbidden Integer](https://codeforces.com/contest/1845/problem/A) - Done
 
-[B. Come Together](https://codeforces.com/contest/1845/problem/B)
+[B. Come Together](https://codeforces.com/contest/1845/problem/B) - Done
 
 [C. Strong Password](https://codeforces.com/contest/1845/problem/C)
 
