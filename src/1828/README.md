@@ -4,7 +4,7 @@
 
 [A. Divisible Array](https://codeforces.com/contest/1828/problem/A) - Done
 
-[B. Permutation Swap](https://codeforces.com/contest/1828/problem/B)
+[B. Permutation Swap](https://codeforces.com/contest/1828/problem/B) - Done
 
 [C. Counting Orders](https://codeforces.com/contest/1828/problem/C)
 

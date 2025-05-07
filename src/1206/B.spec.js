@@ -1,6 +1,6 @@
 ﻿const { getCountOfOperations } = require('./B');
 
-describe('1206A. Cards', () => {
+describe('1206B. Make Product Equal One', () => {
   it.each`
     n    | arr                  | result
     ${1} | ${[-1, 1]}           | ${2}
