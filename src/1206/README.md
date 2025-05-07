@@ -4,7 +4,7 @@
 
 [A. Choose Two Numbers](https://codeforces.com/contest/1206/problem/A) - Done
 
-[B. Make Product Equal One](https://codeforces.com/contest/1206/problem/B)
+[B. Make Product Equal One](https://codeforces.com/contest/1206/problem/B) - Done
 
 [C. Almost Equal](https://codeforces.com/contest/1206/problem/C)
 
