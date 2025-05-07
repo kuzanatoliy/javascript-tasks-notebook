@@ -6,7 +6,7 @@
 
 [B. Come Together](https://codeforces.com/contest/1845/problem/B) - Done
 
-[C. Strong Password](https://codeforces.com/contest/1845/problem/C)
+[C. Strong Password](https://codeforces.com/contest/1845/problem/C) - Done
 
 [D. Rating System](https://codeforces.com/contest/1845/problem/D)
 
