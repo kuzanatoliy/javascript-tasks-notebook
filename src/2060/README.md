@@ -6,7 +6,7 @@
 
 [B. Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B)
 
-[C. Game of Mathletes](https://codeforces.com/contest/2060/problem/C)
+[C. Game of Mathletes](https://codeforces.com/contest/2060/problem/C) - Done
 
 [D. Subtract Min Sort](https://codeforces.com/contest/2060/problem/D)
 
