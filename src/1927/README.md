@@ -6,7 +6,7 @@
 
 [B. Following the String](https://codeforces.com/contest/1927/problem/B) - Done
 
-[C. Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C)
+[C. Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) - Done
 
 [D. Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
 
