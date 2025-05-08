@@ -6,7 +6,7 @@
 
 [B. Promo](https://codeforces.com/contest/1697/problem/B) - Done
 
-[C. awoo's Favorite Problem](https://codeforces.com/contest/1697/problem/C)
+[C. awoo's Favorite Problem](https://codeforces.com/contest/1697/problem/C) - Done
 
 [D. Guess The String](https://codeforces.com/contest/1697/problem/D)
 
