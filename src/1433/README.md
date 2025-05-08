@@ -6,7 +6,7 @@
 
 [B. Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B) - Done
 
-[C. Dominant Piranha](https://codeforces.com/contest/1433/problem/C)
+[C. Dominant Piranha](https://codeforces.com/contest/1433/problem/C) - Done
 
 [D. Districts Connection](https://codeforces.com/contest/1433/problem/D)
 
