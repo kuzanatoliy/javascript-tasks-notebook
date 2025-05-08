@@ -4,7 +4,7 @@
 
 [A. Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A) - Done
 
-[B. Not Dividing](https://codeforces.com/contest/1794/problem/B)
+[B. Not Dividing](https://codeforces.com/contest/1794/problem/B) - Done
 
 [C. Scoring Subsequences](https://codeforces.com/contest/1794/problem/C)
 
