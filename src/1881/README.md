@@ -4,7 +4,7 @@
 
 [A. Don't Try to Count](https://codeforces.com/contest/1881/problem/A) - Done
 
-[B. Three Threadlets](https://codeforces.com/contest/1881/problem/B)
+[B. Three Threadlets](https://codeforces.com/contest/1881/problem/B) - Done
 
 [C. Perfect Square](https://codeforces.com/contest/1881/problem/C)
 
