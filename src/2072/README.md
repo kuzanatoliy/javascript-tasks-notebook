@@ -4,7 +4,7 @@
 
 [A. New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) - Done
 
-[B. Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B)
+[B. Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) - Done
 
 [C. Creating Keys for StORages Has Become My Main Skill](https://codeforces.com/contest/2072/problem/C)
 
