@@ -4,7 +4,7 @@
 
 [A. Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) - Done
 
-[B. Sakurako and Water](https://codeforces.com/contest/2033/problem/B)
+[B. Sakurako and Water](https://codeforces.com/contest/2033/problem/B) - Done
 
 [C. Sakurako's Field Trip](https://codeforces.com/contest/2033/problem/C)
 
