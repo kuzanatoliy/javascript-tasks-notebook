@@ -10,7 +10,7 @@
 
 [D. Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) - Done
 
-[E. Klever Permutation](https://codeforces.com/contest/1927/problem/E)
+[E. Klever Permutation](https://codeforces.com/contest/1927/problem/E) - Done
 
 [F. Microcycle](https://codeforces.com/contest/1927/problem/F)
 
