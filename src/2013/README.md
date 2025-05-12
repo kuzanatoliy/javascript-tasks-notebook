@@ -4,7 +4,7 @@
 
 [A. Zhan's Blender](https://codeforces.com/contest/2013/problem/A) - Done
 
-[B. Battle for Survive](https://codeforces.com/contest/2013/problem/B)
+[B. Battle for Survive](https://codeforces.com/contest/2013/problem/B) - Done
 
 [C. Password Cracking](https://codeforces.com/contest/2013/problem/C)
 
