@@ -8,7 +8,7 @@
 
 [C. Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) - Done
 
-[D. Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
+[D. Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) - Done
 
 [E. Klever Permutation](https://codeforces.com/contest/1927/problem/E)
 
