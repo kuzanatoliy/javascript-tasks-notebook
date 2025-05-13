@@ -4,7 +4,7 @@
 
 [A. Potion-making](https://codeforces.com/contest/1525/problem/A) - Done
 
-[B. Permutation Sort](https://codeforces.com/contest/1525/problem/B)
+[B. Permutation Sort](https://codeforces.com/contest/1525/problem/B) - Done
 
 [C. Robot Collisions](https://codeforces.com/contest/1525/problem/C)
 
