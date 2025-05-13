@@ -4,7 +4,7 @@
 
 [A. Tales of a Sort](https://codeforces.com/contest/1856/problem/A) - Done
 
-[B. Good Arrays](https://codeforces.com/contest/1856/problem/B)
+[B. Good Arrays](https://codeforces.com/contest/1856/problem/B) - Done
 
 [C. To Become Max](https://codeforces.com/contest/1856/problem/C1)
 
