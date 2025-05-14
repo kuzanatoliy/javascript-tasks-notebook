@@ -4,7 +4,7 @@
 
 [A. NIT orz!](https://codeforces.com/contest/1696/problem/A) - Done
 
-[B. NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B)
+[B. NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) - Done
 
 [C. Fishingprince Plays With Array](https://codeforces.com/contest/1696/problem/C)
 
