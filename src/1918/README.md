@@ -4,7 +4,7 @@
 
 [A. Brick Wall](https://codeforces.com/contest/1918/problem/A) - Done
 
-[B. Minimize Inversions](https://codeforces.com/contest/1918/problem/B)
+[B. Minimize Inversions](https://codeforces.com/contest/1918/problem/B) - Done
 
 [C. XOR-distance](https://codeforces.com/contest/1918/problem/C)
 
