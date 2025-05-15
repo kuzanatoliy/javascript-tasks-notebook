@@ -4,7 +4,7 @@
 
 [A. Tanya and Stairways](https://codeforces.com/contest/1005/problem/A) - Done
 
-[B. Delete from the Left](https://codeforces.com/contest/1005/problem/B)
+[B. Delete from the Left](https://codeforces.com/contest/1005/problem/B) - Done
 
 [C. Summarize to the Power of Two](https://codeforces.com/contest/1005/problem/C)
 
