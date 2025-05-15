@@ -4,7 +4,7 @@
 
 [A. Forbidden Subsequence](https://codeforces.com/contest/1617/problem/A) - Done
 
-[B. GCD Problem](https://codeforces.com/contest/1617/problem/B)
+[B. GCD Problem](https://codeforces.com/contest/1617/problem/B) - Done
 
 [C. Paprika and Permutation](https://codeforces.com/contest/1617/problem/C)
 
