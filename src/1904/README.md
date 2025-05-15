@@ -4,7 +4,7 @@
 
 [A. Forked!](https://codeforces.com/contest/1904/problem/A) - Done
 
-[B. Collecting Game](https://codeforces.com/contest/1904/problem/B)
+[B. Collecting Game](https://codeforces.com/contest/1904/problem/B) - Done
 
 [C. Array Game](https://codeforces.com/contest/1904/problem/C)
 
