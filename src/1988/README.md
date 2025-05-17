@@ -4,7 +4,7 @@
 
 [A. Split the Multiset](https://codeforces.com/contest/1988/problem/A) - Done
 
-[B. Make Majority](https://codeforces.com/contest/1988/problem/B)
+[B. Make Majority](https://codeforces.com/contest/1988/problem/B) - Done
 
 [C. Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C)
 
