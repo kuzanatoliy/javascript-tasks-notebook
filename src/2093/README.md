@@ -4,7 +4,7 @@
 
 [A. Ideal Generator](https://codeforces.com/contest/2093/problem/A) - Done
 
-[B. Expensive Number](https://codeforces.com/contest/2093/problem/B)
+[B. Expensive Number](https://codeforces.com/contest/2093/problem/B) - Done
 
 [C. Simple Repetition](https://codeforces.com/contest/2093/problem/C)
 
