@@ -4,7 +4,7 @@
 
 [A. Two Groups](https://codeforces.com/contest/1747/problem/A) - Done
 
-[B. BAN BAN](https://codeforces.com/contest/1747/problem/B)
+[B. BAN BAN](https://codeforces.com/contest/1747/problem/B) - Done
 
 [C. Swap Game](https://codeforces.com/contest/1747/problem/C)
 
