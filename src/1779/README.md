@@ -4,7 +4,7 @@
 
 [A. Hall of Fame](https://codeforces.com/contest/1779/problem/A) - Done
 
-[B. MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B)
+[B. MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B) - Done
 
 [C. Least Prefix Sum](https://codeforces.com/contest/1779/problem/C)
 
