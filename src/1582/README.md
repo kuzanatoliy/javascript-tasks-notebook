@@ -4,7 +4,7 @@
 
 [A. Luntik and Concerts](https://codeforces.com/contest/1582/problem/A) - Done
 
-[B. Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B)
+[B. Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) - Done
 
 [C. Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C)
 
