@@ -4,7 +4,7 @@
 
 [A. Setting up Camp](https://codeforces.com/contest/1945/problem/A) - Done
 
-[B. Fireworks](https://codeforces.com/contest/1945/problem/B)
+[B. Fireworks](https://codeforces.com/contest/1945/problem/B) - Done
 
 [C. Left and Right Houses](https://codeforces.com/contest/1945/problem/C)
 
