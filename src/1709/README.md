@@ -4,7 +4,7 @@
 
 [A. Three Doors](https://codeforces.com/contest/1709/problem/A) - Done
 
-[B. Also Try Minecraft](https://codeforces.com/contest/1709/problem/B)
+[B. Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) - Done
 
 [C. Recover an RBS](https://codeforces.com/contest/1709/problem/C)
 
