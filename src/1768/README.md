@@ -4,7 +4,7 @@
 
 [A. Greatest Convex](https://codeforces.com/contest/1768/problem/A) - Done
 
-[B. Quick Sort](https://codeforces.com/contest/1768/problem/B)
+[B. Quick Sort](https://codeforces.com/contest/1768/problem/B) - Done
 
 [C. Elemental Decompress](https://codeforces.com/contest/1768/problem/C)
 
