@@ -4,7 +4,7 @@
 
 [A. GCD vs LCM](https://codeforces.com/contest/1665/problem/A) - Done
 
-[B. Array Cloning Technique](https://codeforces.com/contest/1665/problem/B)
+[B. Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) - Done
 
 [C. Tree Infection](https://codeforces.com/contest/1665/problem/C)
 
