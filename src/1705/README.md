@@ -4,7 +4,7 @@
 
 [A. Mark the Photographer](https://codeforces.com/contest/1705/problem/A) - Done
 
-[B. Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B)
+[B. Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) - Done
 
 [C. Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C)
 
