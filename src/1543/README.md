@@ -4,7 +4,7 @@
 
 [A. Exciting Bets](https://codeforces.com/contest/1543/problem/A) - Done
 
-[B. Customising the Track](https://codeforces.com/contest/1543/problem/B)
+[B. Customising the Track](https://codeforces.com/contest/1543/problem/B) - Done
 
 [C. Need for Pink Slips](https://codeforces.com/contest/1543/problem/C)
 
