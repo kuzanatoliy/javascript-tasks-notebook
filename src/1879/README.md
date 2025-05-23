@@ -4,7 +4,7 @@
 
 [A. Rigged!](https://codeforces.com/contest/1879/problem/A) - Done
 
-[B. Chips on the Board](https://codeforces.com/contest/1879/problem/B)
+[B. Chips on the Board](https://codeforces.com/contest/1879/problem/B) - Done
 
 [C. Make it Alternating](https://codeforces.com/contest/1879/problem/C)
 
