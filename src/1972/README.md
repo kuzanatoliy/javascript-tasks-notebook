@@ -4,7 +4,7 @@
 
 [A. Contest Proposal](https://codeforces.com/contest/1972/problem/A) - Done
 
-[B. Coin Games](https://codeforces.com/contest/1972/problem/B)
+[B. Coin Games](https://codeforces.com/contest/1972/problem/B) - Done
 
 [C. Permutation Counting](https://codeforces.com/contest/1972/problem/C)
 
