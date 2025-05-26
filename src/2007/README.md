@@ -4,7 +4,7 @@
 
 [A. Dora's Set](https://codeforces.com/contest/2007/problem/A) - Done
 
-[B. Index and Maximum Value](https://codeforces.com/contest/2007/problem/B)
+[B. Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) - Done
 
 [C. Dora and C++](https://codeforces.com/contest/2007/problem/C)
 
