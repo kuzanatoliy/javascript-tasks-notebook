@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1720)
 
-[A. Burenka Plays with Fractions](https://codeforces.com/contest/1720/problem/A)
+[A. Burenka Plays with Fractions](https://codeforces.com/contest/1720/problem/A) - Done
 
 [B. Interesting Sum](https://codeforces.com/contest/1720/problem/B) - Done
 
