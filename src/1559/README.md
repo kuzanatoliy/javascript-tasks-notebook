@@ -4,7 +4,7 @@
 
 [A. Mocha and Math](https://codeforces.com/contest/1559/problem/A) - Done
 
-[B. Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B)
+[B. Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B) - Done
 
 [C. Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)
 
