@@ -6,7 +6,7 @@
 
 [B. Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) - Done
 
-[C. Brr Brrr Patapim](https://codeforces.com/contest/2094/problem/C)
+[C. Brr Brrr Patapim](https://codeforces.com/contest/2094/problem/C) - Done
 
 [D. Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D)
 
