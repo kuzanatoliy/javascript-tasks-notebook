@@ -4,7 +4,7 @@
 
 [A. SSeeeeiinngg DDoouubbllee](https://codeforces.com/contest/1758/problem/A) - Done
 
-[B. XOR = Average](https://codeforces.com/contest/1758/problem/B)
+[B. XOR = Average](https://codeforces.com/contest/1758/problem/B) - Done
 
 [C. Almost All Multiples](https://codeforces.com/contest/1758/problem/C)
 
