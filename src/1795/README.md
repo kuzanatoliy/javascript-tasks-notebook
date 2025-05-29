@@ -4,7 +4,7 @@
 
 [A. Two Towers](https://codeforces.com/contest/1795/problem/A) - Done
 
-[B. Ideal Point](https://codeforces.com/contest/1795/problem/B)
+[B. Ideal Point](https://codeforces.com/contest/1795/problem/B) - Done
 
 [C. Tea Tasting](https://codeforces.com/contest/1795/problem/C)
 
