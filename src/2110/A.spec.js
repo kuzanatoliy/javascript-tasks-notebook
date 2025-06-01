@@ -10,6 +10,6 @@ describe('2110A. Fashionable Array', () => {
     ${5} | ${[2, 1]}                   | ${1}
     ${6} | ${[8, 6, 3, 6, 4, 1, 1, 6]} | ${3}
   `('Base test: $n', ({ snum, result }) => {
-    expect(getCountOfOperations(snum)).toStrictEqual(result);
+    expect(getCountOfOperations(snum)).toBe(result);
   });
 });
