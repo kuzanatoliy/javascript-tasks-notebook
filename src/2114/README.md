@@ -4,7 +4,7 @@
 
 [A. Square Year](https://codeforces.com/contest/2114/problem/A) - Done
 
-[B. Not Quite a Palindromic String](https://codeforces.com/contest/2114/problem/B)
+[B. Not Quite a Palindromic String](https://codeforces.com/contest/2114/problem/B) - Done
 
 [C. Need More Arrays](https://codeforces.com/contest/2114/problem/C)
 
