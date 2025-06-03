@@ -6,7 +6,7 @@ Codeforces Round 684 (Div. 2)
 
 [A. Buy the String](https://codeforces.com/contest/1440/problem/A) - Done
 
-[B. Sum of Medians](https://codeforces.com/contest/1440/problem/B)
+[B. Sum of Medians](https://codeforces.com/contest/1440/problem/B) - Done
 
 [C1. Binary Table (Easy Version)](https://codeforces.com/contest/1440/problem/C1)
 
