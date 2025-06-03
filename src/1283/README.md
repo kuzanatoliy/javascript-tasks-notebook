@@ -4,7 +4,7 @@
 
 [A. Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) - Done
 
-[B. Candies Division](https://codeforces.com/contest/1283/problem/B)
+[B. Candies Division](https://codeforces.com/contest/1283/problem/B) - Done
 
 [C. Friends and Gifts](https://codeforces.com/contest/1283/problem/C)
 
