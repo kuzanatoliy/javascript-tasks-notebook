@@ -4,7 +4,7 @@
 
 [A. Dr. TC](https://codeforces.com/contest/2106/problem/A) - Done
 
-[B. St. Chroma](https://codeforces.com/contest/2106/problem/B)
+[B. St. Chroma](https://codeforces.com/contest/2106/problem/B) - Done
 
 [C. Cherry Bomb](https://codeforces.com/contest/2106/problem/C)
 
