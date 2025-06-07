@@ -4,7 +4,7 @@
 
 [A. Cowardly Rooks](https://codeforces.com/contest/1749/problem/A) - Done
 
-[B. Death's Blessing](https://codeforces.com/contest/1749/problem/B)
+[B. Death's Blessing](https://codeforces.com/contest/1749/problem/B) - Done
 
 [C. Number Game](https://codeforces.com/contest/1749/problem/C)
 
