@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1430)
 
-[A. Number of Apartments](https://codeforces.com/contest/1430/problem/A)
+[A. Number of Apartments](https://codeforces.com/contest/1430/problem/A) - Done
 
 [B. Barrels](https://codeforces.com/contest/1430/problem/B) - Done
 

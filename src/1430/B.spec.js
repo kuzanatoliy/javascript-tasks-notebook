@@ -1,6 +1,6 @@
 ﻿const { getMaxDifference } = require('./B');
 
-describe('1430A. Number of Apartments', () => {
+describe('1430B. Barrels', () => {
   it.each`
     n    | array           | k    | result
     ${1} | ${[5, 5, 5, 5]} | ${1} | ${10}
