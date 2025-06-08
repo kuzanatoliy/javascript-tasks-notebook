@@ -4,7 +4,7 @@
 
 [A. String](https://codeforces.com/contest/2062/problem/A) - Done
 
-[B. Clockwork](https://codeforces.com/contest/2062/problem/B)
+[B. Clockwork](https://codeforces.com/contest/2062/problem/B) - Done
 
 [C. Cirno and Operations](https://codeforces.com/contest/2062/problem/C)
 
