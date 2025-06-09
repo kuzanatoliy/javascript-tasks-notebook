@@ -4,7 +4,7 @@
 
 [A. The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) - Done
 
-[B. Almost Ternary Matrix](https://codeforces.com/contest/1699/problem/B)
+[B. Almost Ternary Matrix](https://codeforces.com/contest/1699/problem/B) - Done
 
 [C. The Third Problem](https://codeforces.com/contest/1699/problem/C)
 
