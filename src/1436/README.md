@@ -4,7 +4,7 @@
 
 [A. Reorder](https://codeforces.com/contest/1436/problem/A) - Done
 
-[B. Prime Square](https://codeforces.com/contest/1436/problem/B)
+[B. Prime Square](https://codeforces.com/contest/1436/problem/B) - Done
 
 [C. Binary Search](https://codeforces.com/contest/1436/problem/C)
 
