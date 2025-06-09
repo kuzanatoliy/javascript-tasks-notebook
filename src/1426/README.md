@@ -4,7 +4,7 @@
 
 [A. Floor Number](https://codeforces.com/contest/1426/problem/A) - Done
 
-[B. Symmetric Matrix](https://codeforces.com/contest/1426/problem/B)
+[B. Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) - Done
 
 [C. Increase and Copy](https://codeforces.com/contest/1426/problem/C)
 
