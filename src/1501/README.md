@@ -4,7 +4,7 @@
 
 [A. Alexey and Train](https://codeforces.com/contest/1501/problem/A) - Done
 
-[B. Napoleon Cake](https://codeforces.com/contest/1501/problem/B)
+[B. Napoleon Cake](https://codeforces.com/contest/1501/problem/B) - Done
 
 [C. Going Home](https://codeforces.com/contest/1501/problem/C)
 
