@@ -4,7 +4,7 @@
 
 [A. Consecutive Sum](https://codeforces.com/contest/1733/problem/A) - Done
 
-[B. Rule of League](https://codeforces.com/contest/1733/problem/B)
+[B. Rule of League](https://codeforces.com/contest/1733/problem/B) - Done
 
 [C. Parity Shuffle Sorting](https://codeforces.com/contest/1733/problem/C) - Done
 
