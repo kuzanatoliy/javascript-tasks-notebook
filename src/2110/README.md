@@ -4,7 +4,7 @@
 
 [A. Fashionable Array](https://codeforces.com/contest/2110/problem/A) - Done
 
-[B. Down with Brackets](https://codeforces.com/contest/2110/problem/B)
+[B. Down with Brackets](https://codeforces.com/contest/2110/problem/B) - Done
 
 [C. Racing](https://codeforces.com/contest/2110/problem/C)
 
