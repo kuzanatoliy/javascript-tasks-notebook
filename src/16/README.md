@@ -4,7 +4,7 @@
 
 [A. Flag](https://codeforces.com/contest/16/problem/A) - Done
 
-[B. Burglar and Matches](https://codeforces.com/contest/16/problem/B)
+[B. Burglar and Matches](https://codeforces.com/contest/16/problem/B) - Done
 
 [C. Monitor](https://codeforces.com/contest/16/problem/C)
 
