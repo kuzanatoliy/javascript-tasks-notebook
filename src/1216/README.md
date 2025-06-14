@@ -4,7 +4,7 @@
 
 [A. Prefixes](https://codeforces.com/contest/1216/problem/A) - Done
 
-[B. Shooting](https://codeforces.com/contest/1216/problem/B)
+[B. Shooting](https://codeforces.com/contest/1216/problem/B) - Done
 
 [C. White Sheet](https://codeforces.com/contest/1216/problem/C)
 
