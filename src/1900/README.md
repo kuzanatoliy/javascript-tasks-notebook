@@ -4,7 +4,7 @@
 
 [A. Cover in Water](https://codeforces.com/contest/1900/problem/A) - Done
 
-[B. Laura and Operations](https://codeforces.com/contest/1900/problem/B)
+[B. Laura and Operations](https://codeforces.com/contest/1900/problem/B) - Done
 
 [C. Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C)
 
