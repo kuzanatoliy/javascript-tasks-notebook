@@ -4,7 +4,7 @@
 
 [A1. Gardener and the Capybaras (easy version)](https://codeforces.com/contest/1775/problem/A1) - Done
 
-[A2. Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2)
+[A2. Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) - Done
 
 [B. Gardener and the Array](https://codeforces.com/contest/1775/problem/B)
 

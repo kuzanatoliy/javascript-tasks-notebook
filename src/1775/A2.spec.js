@@ -1,6 +1,6 @@
-﻿const { getSubstrings } = require('./A');
+﻿const { getSubstrings } = require('./A2');
 
-describe('1775A1. Gardener and the Capybaras (easy version)', () => {
+describe('1775A2. Gardener and the Capybaras (hard version)', () => {
   it.each`
     n    | str       | result
     ${1} | ${'bbba'} | ${['b', 'b', 'ba']}
