@@ -4,7 +4,7 @@
 
 [A. Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) - Done
 
-[B. Kevin and Permutation](https://codeforces.com/contest/2048/problem/B)
+[B. Kevin and Permutation](https://codeforces.com/contest/2048/problem/B) - Done
 
 [C. Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C)
 
