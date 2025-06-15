@@ -4,7 +4,7 @@
 
 [A. Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) - Done
 
-[B. Penchick and Satay Sticks](https://codeforces.com/contest/2031/problem/B)
+[B. Penchick and Satay Sticks](https://codeforces.com/contest/2031/problem/B) - Done
 
 [C. Penchick and BBQ Buns](https://codeforces.com/contest/2031/problem/C)
 
