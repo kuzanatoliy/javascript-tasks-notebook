@@ -4,7 +4,7 @@
 
 [A. Sliding](https://codeforces.com/contest/2035/problem/A) - Done
 
-[B. Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B)
+[B. Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) - Done
 
 [C. Alya and Permutation](https://codeforces.com/contest/2035/problem/C)
 
