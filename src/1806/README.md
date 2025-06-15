@@ -4,7 +4,7 @@
 
 [A. Walking Master](https://codeforces.com/contest/1806/problem/A) - Done
 
-[B. Mex Master](https://codeforces.com/contest/1806/problem/B)
+[B. Mex Master](https://codeforces.com/contest/1806/problem/B) - Done
 
 [C. Sequence Master](https://codeforces.com/contest/1806/problem/C)
 
