@@ -4,7 +4,7 @@
 
 [A. Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) - Done
 
-[B. Emordnilap](https://codeforces.com/contest/1777/problem/B)
+[B. Emordnilap](https://codeforces.com/contest/1777/problem/B) - Done
 
 [C. Quiz Master](https://codeforces.com/contest/1777/problem/C)
 
