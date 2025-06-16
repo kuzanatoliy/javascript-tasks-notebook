@@ -4,7 +4,7 @@
 
 [A. Mishka and Contest](https://codeforces.com/contest/999/problem/A) - Done
 
-[B. Reversing Encryption](https://codeforces.com/contest/999/problem/B)
+[B. Reversing Encryption](https://codeforces.com/contest/999/problem/B) - Done
 
 [C. Alphabetic Removals](https://codeforces.com/contest/999/problem/C)
 
