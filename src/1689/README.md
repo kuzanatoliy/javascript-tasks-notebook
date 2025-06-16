@@ -4,7 +4,7 @@
 
 [A. Lex String](https://codeforces.com/contest/1689/problem/A) - Done
 
-[B. Mystic Permutation](https://codeforces.com/contest/1689/problem/B)
+[B. Mystic Permutation](https://codeforces.com/contest/1689/problem/B) - Done
 
 [C. Infected Tree](https://codeforces.com/contest/1689/problem/C)
 
