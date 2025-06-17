@@ -4,7 +4,7 @@
 
 [A. Eleven](https://codeforces.com/contest/918/problem/A) - Done
 
-[B. Radio Station](https://codeforces.com/contest/918/problem/B)
+[B. Radio Station](https://codeforces.com/contest/918/problem/B) - Done
 
 [C. The Monster](https://codeforces.com/contest/918/problem/C)
 
