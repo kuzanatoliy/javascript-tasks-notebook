@@ -4,7 +4,7 @@
 
 [A. Little C Loves 3 I](https://codeforces.com/contest/1047/problem/A) - Done
 
-[B. Cover Points](https://codeforces.com/contest/1047/problem/B)
+[B. Cover Points](https://codeforces.com/contest/1047/problem/B) - Done
 
 [C. Enlarge GCD](https://codeforces.com/contest/1047/problem/C)
 
