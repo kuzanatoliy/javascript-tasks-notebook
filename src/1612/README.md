@@ -4,7 +4,7 @@
 
 [A. Distance](https://codeforces.com/contest/1612/problem/A) - Done
 
-[B. Special Permutation](https://codeforces.com/contest/1612/problem/B)
+[B. Special Permutation](https://codeforces.com/contest/1612/problem/B) - Done
 
 [C. Chat Ban](https://codeforces.com/contest/1612/problem/C)
 
