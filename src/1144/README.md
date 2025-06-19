@@ -4,7 +4,7 @@
 
 [A. Diverse Strings](https://codeforces.com/contest/1144/problem/A) - Done
 
-[B. Parity Alternated Deletions](https://codeforces.com/contest/1144/problem/B)
+[B. Parity Alternated Deletions](https://codeforces.com/contest/1144/problem/B) - Done
 
 [C. Two Shuffled Sequences](https://codeforces.com/contest/1144/problem/C)
 
