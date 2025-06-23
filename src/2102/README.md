@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2102)
 
-[A. Dinner Time](https://codeforces.com/contest/2102/problem/A)
+[A. Dinner Time](https://codeforces.com/contest/2102/problem/A) - Done
 
 [B. The Picky Cat](https://codeforces.com/contest/2102/problem/B) - Done
 
