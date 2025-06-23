@@ -8,6 +8,6 @@ describe('2042A. Greedy Monocarp', () => {
     ${3} | ${[1, 1]}          | ${10} | ${8}
     ${4} | ${[3, 3, 3]}       | ${8}  | ${2}
   `('Base test: $n', ({ arr, k, result }) => {
-    expect(getCountOfCoins(arr, k)).toStrictEqual(result);
+    expect(getCountOfCoins(arr, k)).toBe(result);
   });
 });

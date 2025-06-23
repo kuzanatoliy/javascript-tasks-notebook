@@ -4,7 +4,7 @@
 
 [A. Greedy Monocarp](https://codeforces.com/contest/2042/problem/A) - Done
 
-[B. Game with Colored Marbles](https://codeforces.com/contest/2042/problem/B)
+[B. Game with Colored Marbles](https://codeforces.com/contest/2042/problem/B) - Done
 
 [C. Competitive Fishing](https://codeforces.com/contest/2042/problem/C)
 
