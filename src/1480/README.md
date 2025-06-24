@@ -4,7 +4,7 @@
 
 [A. Yet Another String Game](https://codeforces.com/contest/1480/problem/A) - Done
 
-[B. The Great Hero](https://codeforces.com/contest/1480/problem/B)
+[B. The Great Hero](https://codeforces.com/contest/1480/problem/B) - Done
 
 [C. Searching Local Minimum](https://codeforces.com/contest/1480/problem/C)
 
