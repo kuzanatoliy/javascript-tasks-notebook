@@ -1,6 +1,6 @@
 ﻿const { getCountOfMoves } = require('./A');
 
-describe('1665A. Direction Change', () => {
+describe('1668A. Direction Change', () => {
   it.each`
     n    | row   | col  | result
     ${1} | ${1}  | ${1} | ${0}

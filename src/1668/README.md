@@ -4,7 +4,7 @@
 
 [A. Direction Change](https://codeforces.com/contest/1668/problem/A) - Done
 
-[B. Social Distance](https://codeforces.com/contest/1668/problem/B)
+[B. Social Distance](https://codeforces.com/contest/1668/problem/B) - Done
 
 [C. Make it Increasing](https://codeforces.com/contest/1668/problem/C)
 
