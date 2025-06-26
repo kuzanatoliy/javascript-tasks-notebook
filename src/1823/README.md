@@ -4,7 +4,7 @@
 
 [A. A-characteristic](https://codeforces.com/contest/1823/problem/A) - Done
 
-[B. Sort with Step](https://codeforces.com/contest/1823/problem/B)
+[B. Sort with Step](https://codeforces.com/contest/1823/problem/B) - Done
 
 [C. Strongly Composite](https://codeforces.com/contest/1823/problem/C)
 

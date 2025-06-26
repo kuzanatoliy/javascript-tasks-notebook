@@ -1,6 +1,6 @@
 ﻿const { isArrayExist } = require('./A');
 
-describe('1825A. A-characteristic', () => {
+describe('1823A. A-characteristic', () => {
   it.each`
     n    | num  | k    | result
     ${1} | ${2} | ${0} | ${['YES', [1, -1]]}
