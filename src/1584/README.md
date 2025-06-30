@@ -6,7 +6,7 @@
 
 [B. Coloring Rectangles](https://codeforces.com/contest/1584/problem/B)
 
-[C. Two Arrays](https://codeforces.com/contest/1584/problem/C)
+[C. Two Arrays](https://codeforces.com/contest/1584/problem/C) - Done
 
 [D. Guess the Permutation](https://codeforces.com/contest/1584/problem/D)
 
