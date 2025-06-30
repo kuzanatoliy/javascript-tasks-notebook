@@ -4,7 +4,7 @@
 
 [A. Dice Rolling](https://codeforces.com/contest/1093/problem/A) - Done
 
-[B. Letters Rearranging](https://codeforces.com/contest/1093/problem/B)
+[B. Letters Rearranging](https://codeforces.com/contest/1093/problem/B) - Done
 
 [C. Mishka and the Last Exam](https://codeforces.com/contest/1093/problem/C)
 
