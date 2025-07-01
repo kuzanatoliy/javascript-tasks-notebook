@@ -4,7 +4,7 @@
 
 [A. Alyona and a Square Jigsaw Puzzle](https://codeforces.com/contest/2047/problem/A) - Done
 
-[B. Replace Character](https://codeforces.com/contest/2047/problem/B)
+[B. Replace Character](https://codeforces.com/contest/2047/problem/B) - Done
 
 [C. Swap Columns and Find a Path](https://codeforces.com/contest/2047/problem/C)
 
