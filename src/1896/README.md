@@ -4,7 +4,7 @@
 
 [A. Jagged Swaps](https://codeforces.com/contest/1896/problem/A) - Done
 
-[B. AB Flipping](https://codeforces.com/contest/1896/problem/B)
+[B. AB Flipping](https://codeforces.com/contest/1896/problem/B) - Done
 
 [C. Matching Arrays](https://codeforces.com/contest/1896/problem/C)
 
