@@ -4,7 +4,7 @@
 
 [A. Politics](https://codeforces.com/contest/1818/problem/A) - Done
 
-[B. Indivisible](https://codeforces.com/contest/1818/problem/B)
+[B. Indivisible](https://codeforces.com/contest/1818/problem/B) - Done
 
 [C. Almost Increasing Subsequence](https://codeforces.com/contest/1818/problem/C)
 

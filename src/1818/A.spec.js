@@ -9,6 +9,6 @@ describe('1818A. Politics', () => {
     ${4} | ${['++++', '+--+', '++-+', '+-++', '++++']} | ${2}
     ${5} | ${['++', '--', '--', '-+']}                 | ${1}
   `('Base test: $n', ({ matrix, result }) => {
-    expect(getMaxCountOfPlayers(matrix)).toStrictEqual(result);
+    expect(getMaxCountOfPlayers(matrix)).toBe(result);
   });
 });
