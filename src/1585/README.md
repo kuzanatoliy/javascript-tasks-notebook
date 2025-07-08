@@ -4,7 +4,7 @@
 
 [A. Life of a Flower](https://codeforces.com/contest/1585/problem/A) - Done
 
-[B. Array Eversion](https://codeforces.com/contest/1585/problem/B)
+[B. Array Eversion](https://codeforces.com/contest/1585/problem/B) - Done
 
 [C. Minimize Distance](https://codeforces.com/contest/1585/problem/C)
 
