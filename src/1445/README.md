@@ -4,7 +4,7 @@
 
 [A. Array Rearrangment](https://codeforces.com/contest/1445/problem/A) - Done
 
-[B. Elimination](https://codeforces.com/contest/1445/problem/B)
+[B. Elimination](https://codeforces.com/contest/1445/problem/B) - Done
 
 [C. Division](https://codeforces.com/contest/1445/problem/C)
 
