@@ -4,7 +4,7 @@
 
 [A. Letter Home](https://codeforces.com/contest/2121/problem/A) - Done
 
-[B. Above the Clouds](https://codeforces.com/contest/2121/problem/B)
+[B. Above the Clouds](https://codeforces.com/contest/2121/problem/B) - Done
 
 [C. Those Who Are With Us](https://codeforces.com/contest/2121/problem/C)
 
