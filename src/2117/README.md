@@ -4,7 +4,7 @@
 
 [A. False Alarm](https://codeforces.com/contest/2117/problem/A) - Done
 
-[B. Shrink](https://codeforces.com/contest/2117/problem/B)
+[B. Shrink](https://codeforces.com/contest/2117/problem/B) - Done
 
 [C. Cool Partition](https://codeforces.com/contest/2117/problem/C)
 
