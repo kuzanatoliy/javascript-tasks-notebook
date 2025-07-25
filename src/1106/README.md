@@ -6,7 +6,7 @@
 
 [B. Lunar New Year and Food Ordering](https://codeforces.com/contest/1106/problem/B)
 
-[C. Lunar New Year and Number Division](https://codeforces.com/contest/1106/problem/C)
+[C. Lunar New Year and Number Division](https://codeforces.com/contest/1106/problem/C) - Done
 
 [D. Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D)
 
