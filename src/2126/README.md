@@ -4,7 +4,7 @@
 
 [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) - Done
 
-[B. No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B)
+[B. No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) - Done
 
 [C. I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C)
 
