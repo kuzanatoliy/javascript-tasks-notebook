@@ -4,7 +4,7 @@
 
 [A. Beru-taxi](https://codeforces.com/contest/706/problem/A) - Done
 
-[B. Interesting drink](https://codeforces.com/contest/706/problem/B)
+[B. Interesting drink](https://codeforces.com/contest/706/problem/B) - Done
 
 [C. Hard problem](https://codeforces.com/contest/706/problem/C)
 
