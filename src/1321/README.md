@@ -4,7 +4,7 @@
 
 [A. Contest for Robots](https://codeforces.com/contest/1321/problem/A) - Done
 
-[B. Journey Planning](https://codeforces.com/contest/1321/problem/B)
+[B. Journey Planning](https://codeforces.com/contest/1321/problem/B) - Done
 
 [C. Remove Adjacent](https://codeforces.com/contest/1321/problem/C)
 
