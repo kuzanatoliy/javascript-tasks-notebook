@@ -4,7 +4,7 @@
 
 [A. Taymyr is calling you](https://codeforces.com/contest/764/problem/A) - Done
 
-[B. Timofey and cubes](https://codeforces.com/contest/764/problem/B)
+[B. Timofey and cubes](https://codeforces.com/contest/764/problem/B) - Done
 
 [C. Timofey and a tree](https://codeforces.com/contest/764/problem/C)
 
