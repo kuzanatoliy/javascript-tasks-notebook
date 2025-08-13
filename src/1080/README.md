@@ -4,7 +4,7 @@
 
 [A. Petya and Origami](https://codeforces.com/contest/1080/problem/A) - Done
 
-[B. Margarite and the best present](https://codeforces.com/contest/1080/problem/B)
+[B. Margarite and the best present](https://codeforces.com/contest/1080/problem/B) - Done
 
 [C. Masha and two friends](https://codeforces.com/contest/1080/problem/C)
 
