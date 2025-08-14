@@ -1,6 +1,6 @@
 ﻿const { getCountOfOptions } = require('./A');
 
-describe('119A. Cookies', () => {
+describe('129A. Cookies', () => {
   it.each`
     n    | arr                                   | result
     ${1} | ${[1]}                                | ${1}
