@@ -4,7 +4,7 @@
 
 [A. Fafa and his Company](https://codeforces.com/contest/935/problem/A) - Done
 
-[B. Fafa and the Gates](https://codeforces.com/contest/935/problem/B)
+[B. Fafa and the Gates](https://codeforces.com/contest/935/problem/B) - Done
 
 [C. Fifa and Fafa](https://codeforces.com/contest/935/problem/C)
 
