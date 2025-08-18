@@ -4,7 +4,7 @@
 
 [A. Stock Arbitraging](https://codeforces.com/contest/1050/problem/A) - Done
 
-[B. Tiling Challenge](https://codeforces.com/contest/1050/problem/B)
+[B. Tiling Challenge](https://codeforces.com/contest/1050/problem/B) - Done
 
 [C. Prefix Sum Primes](https://codeforces.com/contest/1050/problem/C)
 
