@@ -1,18 +1,14 @@
 ﻿module.exports = {
   isItQuasiPalindromic: (str) => {
-    const counts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-    for (let j = 0; j < str.length; j++) {
-      counts[str[j]]++;
+    let l = 0;
+    while (str[l] === '0') {
+      l++;
     }
-    let fl = false;
-    for (let jj = 0; jj < counts.length; jj++) {
-      if (counts[jj] % 2) {
-        if (fl) {
-          return 'NO';
-        }
-        fl = true;
-      }
+    let r = str.length - 1;
+    while (str[r] === '0') {
+      r--;
     }
-    return 'YES';
+    const s = str.slice(l, r + 1);
+    return s === s.split('').reverse().join('') ? 'YES' : 'NO';
   },
 };

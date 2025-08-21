@@ -1,15 +1,17 @@
-# Codeforces Round 437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)
+# Educational Codeforces Round 29
 
 [Dashboard](https://codeforces.com/contest/863)
 
-[A. Between the Offices](https://codeforces.com/contest/863/problem/A) - Done
+[A. Quasi-palindrome](https://codeforces.com/contest/863/problem/A) - Done
 
-[B. Save the problem!](https://codeforces.com/contest/863/problem/B)
+[B. Kayaking](https://codeforces.com/contest/863/problem/B)
 
-[C. Ordering Pizza](https://codeforces.com/contest/863/problem/C)
+[C. 1-2-3](https://codeforces.com/contest/863/problem/C)
 
-[D. Gotta Go Fast](https://codeforces.com/contest/863/problem/D)
+[D. Yet Another Array Queries Problem](https://codeforces.com/contest/863/problem/D)
 
-[E. Buy Low Sell High](https://codeforces.com/contest/863/problem/E)
+[E. Turn Off The TV](https://codeforces.com/contest/863/problem/E)
 
-[F. Hex Dyslexia](https://codeforces.com/contest/863/problem/F)
+[F. Almost Permutation](https://codeforces.com/contest/863/problem/F)
+
+[G. Graphic Settings](https://codeforces.com/contest/863/problem/G)
