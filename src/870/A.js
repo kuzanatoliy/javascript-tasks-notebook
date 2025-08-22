@@ -10,7 +10,7 @@
     }
     let ca = 0;
     let cb = 0;
-    for (let jjj = 0; jjj < a.length && (!ca || !cb); jjj++) {
+    for (let jjj = 0; jjj < a.length; jjj++) {
       if (a[jjj] === b[jjj] && a[jjj] > 0) {
         return jjj.toString();
       }
