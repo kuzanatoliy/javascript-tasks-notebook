@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2132)
 
-[A. Homework](https://codeforces.com/contest/2132/problem/A)
+[A. Homework](https://codeforces.com/contest/2132/problem/A) - Done
 
 [B. The Secret Number](https://codeforces.com/contest/2132/problem/B) - Done
 
