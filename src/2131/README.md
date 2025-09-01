@@ -4,7 +4,7 @@
 
 [A. Lever](https://codeforces.com/contest/2131/problem/A) - Done
 
-[B. Alternating Series](https://codeforces.com/contest/2131/problem/B)
+[B. Alternating Series](https://codeforces.com/contest/2131/problem/B) - Done
 
 [C. Make it Equal](https://codeforces.com/contest/2131/problem/C)
 
