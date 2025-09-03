@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2125)
 
-[A. Difficult Contest](https://codeforces.com/contest/2125/problem/A)
+[A. Difficult Contest](https://codeforces.com/contest/2125/problem/A) - Done
 
 [B. Left and Down](https://codeforces.com/contest/2125/problem/B) - Done
 
