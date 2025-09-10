@@ -1,13 +1,13 @@
 # Coder-Strike 2014 - Finals (online edition, Div. 2)
 
-[Dashboard](https://codeforces.com/contest/412)
+[Dashboard](https://codeforces.com/contest/415)
 
-[A. Mashmokh and Lights](https://codeforces.com/contest/412/problem/A) - Done
+[A. Mashmokh and Lights](https://codeforces.com/contest/415/problem/A) - Done
 
-[B. Mashmokh and Tokens](https://codeforces.com/contest/412/problem/B)
+[B. Mashmokh and Tokens](https://codeforces.com/contest/415/problem/B)
 
-[C. Mashmokh and Numbers](https://codeforces.com/contest/412/problem/C)
+[C. Mashmokh and Numbers](https://codeforces.com/contest/415/problem/C) - Done
 
-[D. Mashmokh and ACM](https://codeforces.com/contest/412/problem/D)
+[D. Mashmokh and ACM](https://codeforces.com/contest/415/problem/D)
 
-[E. Mashmokh and Reverse Operation](https://codeforces.com/contest/412/problem/E)
+[E. Mashmokh and Reverse Operation](https://codeforces.com/contest/415/problem/E)
