@@ -8,6 +8,6 @@
 
 [C. Mashmokh and Numbers](https://codeforces.com/contest/415/problem/C) - Done
 
-[D. Mashmokh and ACM](https://codeforces.com/contest/415/problem/D)
+[D. Mashmokh and ACM](https://codeforces.com/contest/415/problem/D) - Done
 
 [E. Mashmokh and Reverse Operation](https://codeforces.com/contest/415/problem/E)
