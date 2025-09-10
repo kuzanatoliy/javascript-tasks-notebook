@@ -8,6 +8,6 @@ describe('867A. Between the Offices', () => {
     ${3} | ${'FFFFFFFFFF'} | ${'NO'}
     ${4} | ${'SSFFSFFSFF'} | ${'YES'}
   `('Base test: $n', ({ str, result }) => {
-    expect(isMoreFlyes(str)).toStrictEqual(result);
+    expect(isMoreFlyes(str)).toBe(result);
   });
 });
