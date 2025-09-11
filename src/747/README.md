@@ -4,7 +4,7 @@
 
 [A. Display Size](https://codeforces.com/contest/747/problem/A) - Done
 
-[B. Mammoth's Genome Decoding](https://codeforces.com/contest/747/problem/B)
+[B. Mammoth's Genome Decoding](https://codeforces.com/contest/747/problem/B) - Done
 
 [C. Servers](https://codeforces.com/contest/747/problem/C)
 
