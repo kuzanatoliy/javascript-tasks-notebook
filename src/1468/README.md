@@ -28,4 +28,4 @@
 
 [M. Similar Sets](https://codeforces.com/contest/1468/problem/M)
 
-[N. Waste Sorting](https://codeforces.com/contest/1468/problem/N)
+[N. Waste Sorting](https://codeforces.com/contest/1468/problem/N) - Done
