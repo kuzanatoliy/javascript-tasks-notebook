@@ -12,4 +12,4 @@
 
 [E. Exam Cheating](https://codeforces.com/contest/796/problem/E)
 
-[F. Sequence Recovery](https://codeforces.com/contest/796/problem/E)
+[F. Sequence Recovery](https://codeforces.com/contest/796/problem/F)
