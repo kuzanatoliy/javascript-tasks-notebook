@@ -1,6 +1,6 @@
 ﻿const { getMap } = require('./A');
 
-describe('412A. Pasha and Hamsters', () => {
+describe('421A. Pasha and Hamsters', () => {
   it.each`
     n    | num  | arrA               | arrB         | result
     ${1} | ${4} | ${[1, 2]}          | ${[2, 3, 4]} | ${[1, 2, 2, 2]}
