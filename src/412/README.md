@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/412)
 
-[A. Poster](https://codeforces.com/contest/412/problem/A)
+[A. Poster](https://codeforces.com/contest/412/problem/A) - Done
 
 [B. Network Configuration](https://codeforces.com/contest/412/problem/B) - Done
 
