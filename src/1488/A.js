@@ -8,7 +8,6 @@
         count += Math.floor(y / d);
         y %= d;
       }
-      console.log(count, d);
       c--;
     }
     return count + y;
