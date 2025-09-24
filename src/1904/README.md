@@ -6,7 +6,7 @@
 
 [B. Collecting Game](https://codeforces.com/contest/1904/problem/B) - Done
 
-[C. Array Game](https://codeforces.com/contest/1904/problem/C)
+[C. Array Game](https://codeforces.com/contest/1904/problem/C) - Done
 
 [D1. Set To Max (Easy Version)](https://codeforces.com/contest/1904/problem/D1)
 
