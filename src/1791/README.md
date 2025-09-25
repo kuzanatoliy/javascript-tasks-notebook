@@ -8,7 +8,7 @@
 
 [C. Prepend and Append](https://codeforces.com/contest/1791/problem/C) - Done
 
-[D. Distinct Split](https://codeforces.com/contest/1791/problem/D)
+[D. Distinct Split](https://codeforces.com/contest/1791/problem/D) - Done
 
 [E. Negatives and Positives](https://codeforces.com/contest/1791/problem/E)
 
