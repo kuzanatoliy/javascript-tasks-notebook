@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/648)
 
-[A. Наибольший подъем](https://codeforces.com/contest/648/problem/A)
+[A. Наибольший подъем](https://codeforces.com/contest/648/problem/A) - Done
 
 [B. Собери стол](https://codeforces.com/contest/648/problem/B) - Done
 
