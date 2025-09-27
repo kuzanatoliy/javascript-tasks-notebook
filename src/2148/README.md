@@ -4,7 +4,7 @@
 
 [A. Sublime Sequence](https://codeforces.com/contest/2148/problem/A) - Done
 
-[B. Lasers](https://codeforces.com/contest/2148/problem/B)
+[B. Lasers](https://codeforces.com/contest/2148/problem/B) - Done
 
 [C. Pacer](https://codeforces.com/contest/2148/problem/C) - Done
 
