@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2134)
 
-[A. In the Dream](https://codeforces.com/contest/2134/problem/A)
+[A. In the Dream](https://codeforces.com/contest/2134/problem/A) - Done
 
 [B. Like the Bitset](https://codeforces.com/contest/2134/problem/B) - Done
 
