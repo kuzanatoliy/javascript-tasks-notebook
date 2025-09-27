@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2140)
 
-[A. Shift Sort](https://codeforces.com/contest/2140/problem/A)
+[A. Shift Sort](https://codeforces.com/contest/2140/problem/A) - Done
 
 [B. Another Divisibility Problem](https://codeforces.com/contest/2140/problem/B) - Done
 
