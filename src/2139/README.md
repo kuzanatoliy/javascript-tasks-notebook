@@ -4,7 +4,7 @@
 
 [A. Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) - Done
 
-[B. Cake Collection](https://codeforces.com/contest/2139/problem/B)
+[B. Cake Collection](https://codeforces.com/contest/2139/problem/B) - Done
 
 [C. Cake Assignment](https://codeforces.com/contest/2139/problem/C)
 
