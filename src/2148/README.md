@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2148)
 
-[A. Sublime Sequence](https://codeforces.com/contest/2148/problem/A)
+[A. Sublime Sequence](https://codeforces.com/contest/2148/problem/A) - Done
 
 [B. Lasers](https://codeforces.com/contest/2148/problem/B)
 
