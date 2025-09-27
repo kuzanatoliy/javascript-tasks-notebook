@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2137)
 
-[A. Collatz Conjecture](https://codeforces.com/contest/2137/problem/A)
+[A. Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) - Done
 
 [B. Fun Permutation](https://codeforces.com/contest/2137/problem/B) - Done
 
