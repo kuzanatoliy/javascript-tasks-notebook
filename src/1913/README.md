@@ -4,7 +4,7 @@
 
 [A. Rating Increase](https://codeforces.com/contest/1913/problem/A) - Done
 
-[B. Swap and Delete](https://codeforces.com/contest/1913/problem/B)
+[B. Swap and Delete](https://codeforces.com/contest/1913/problem/B) - Done
 
 [C. Game with Multiset](https://codeforces.com/contest/1913/problem/C)
 
