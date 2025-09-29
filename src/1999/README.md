@@ -4,7 +4,7 @@
 
 [A. A+B Again?](https://codeforces.com/contest/1999/problem/A) - Done
 
-[B. Card Game](https://codeforces.com/contest/1999/problem/B1)
+[B. Card Game](https://codeforces.com/contest/1999/problem/B) - Done
 
 [C. Showering](https://codeforces.com/contest/1999/problem/C) - Done
 
