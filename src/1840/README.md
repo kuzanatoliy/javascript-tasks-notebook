@@ -6,7 +6,7 @@
 
 [B. Binary Cafe](https://codeforces.com/contest/1840/problem/B)
 
-[C. Ski Resort](https://codeforces.com/contest/1840/problem/C)
+[C. Ski Resort](https://codeforces.com/contest/1840/problem/C) - Done
 
 [D. Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D)
 
