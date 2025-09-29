@@ -6,7 +6,7 @@
 
 [B. Chemistry](https://codeforces.com/contest/1883/problem/B) - Done
 
-[C. Raspberries](https://codeforces.com/contest/1883/problem/C)
+[C. Raspberries](https://codeforces.com/contest/1883/problem/C) - Done
 
 [D. In Love](https://codeforces.com/contest/1883/problem/D)
 
