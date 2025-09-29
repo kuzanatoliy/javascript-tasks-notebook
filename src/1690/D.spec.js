@@ -7,6 +7,7 @@ describe('1690B. Array Decrements', () => {
     ${2} | ${'BBWBW'} | ${5} | ${2}
     ${3} | ${'BBWBW'} | ${1} | ${0}
     ${4} | ${'W'}     | ${1} | ${1}
+    ${5} | ${'WWWBB'} | ${1} | ${0}
   `('Base test: $n', ({ str, k, result }) => {
     expect(getMinCountOfRecoloredCells(str, k)).toBe(result);
   });

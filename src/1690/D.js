@@ -4,8 +4,9 @@
     for (let j = 0; j < k; j++) {
       min += str[j] === 'W';
     }
-    for (let jj = k + 1; jj < str.length; jj++) {
-      const d = min - (str[jj - k - 1] === 'W') + (str[jj] === 'W');
+    let d = min;
+    for (let jj = k; jj < str.length; jj++) {
+      d = d - (str[jj - k] === 'W') + (str[jj] === 'W');
       if (d < min) {
         min = d;
       }
