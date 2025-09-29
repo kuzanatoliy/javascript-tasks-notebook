@@ -8,7 +8,7 @@
 
 [C. Restoring the Duration of Tasks](https://codeforces.com/contest/1690/problem/C) - Done
 
-[D. Black and White Stripe](https://codeforces.com/contest/1690/problem/D)
+[D. Black and White Stripe](https://codeforces.com/contest/1690/problem/D) - Done
 
 [E. Price Maximization](https://codeforces.com/contest/1690/problem/E)
 
