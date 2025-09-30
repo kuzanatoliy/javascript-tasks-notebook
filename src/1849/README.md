@@ -4,7 +4,7 @@
 
 [A. Morning Sandwich](https://codeforces.com/contest/1849/problem/A) - Done
 
-[B. Monsters](https://codeforces.com/contest/1849/problem/B)
+[B. Monsters](https://codeforces.com/contest/1849/problem/B) - Done
 
 [C. Binary String Copying](https://codeforces.com/contest/1849/problem/C)
 
