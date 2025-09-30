@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1141)
 
-[A. Game 23](https://codeforces.com/contest/1141/problem/A)
+[A. Game 23](https://codeforces.com/contest/1141/problem/A) - Done
 
 [B. Maximal Continuous Rest](https://codeforces.com/contest/1141/problem/B) - Done
 
