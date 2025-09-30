@@ -4,7 +4,7 @@
 
 [A. United We Stand](https://codeforces.com/contest/1859/problem/A) - Done
 
-[B. Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B)
+[B. Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) - Done
 
 [C. Another Permutation Problem](https://codeforces.com/contest/1859/problem/C)
 
