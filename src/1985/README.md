@@ -6,7 +6,7 @@
 
 [B. Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) - Done
 
-[C. Good Prefixes](https://codeforces.com/contest/1985/problem/C)
+[C. Good Prefixes](https://codeforces.com/contest/1985/problem/C) - Done
 
 [D. Manhattan Circle](https://codeforces.com/contest/1985/problem/D) - Done
 
