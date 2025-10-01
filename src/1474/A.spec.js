@@ -1,6 +1,6 @@
 ﻿const { getOriginalString } = require('./A');
 
-describe('1474A. Replacing Elements', () => {
+describe('1474A. Puzzle From the Future', () => {
   it.each`
     n    | str         | result
     ${1} | ${'1'}      | ${'1'}
