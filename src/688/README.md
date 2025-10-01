@@ -4,7 +4,7 @@
 
 [A. Opponents](https://codeforces.com/contest/688/problem/A) - Done
 
-[B. Lovely Palindromes](https://codeforces.com/contest/688/problem/B)
+[B. Lovely Palindromes](https://codeforces.com/contest/688/problem/B) - Done
 
 [C. NP-Hard Problem](https://codeforces.com/contest/688/problem/C)
 
