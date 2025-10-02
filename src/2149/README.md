@@ -6,7 +6,7 @@
 
 [B. Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) - Done
 
-[C. MEX rose](https://codeforces.com/contest/2149/problem/C)
+[C. MEX rose](https://codeforces.com/contest/2149/problem/C) - Done
 
 [D. A and B](https://codeforces.com/contest/2149/problem/D)
 
