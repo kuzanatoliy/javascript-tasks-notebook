@@ -4,7 +4,7 @@
 
 [A. Be Positive](https://codeforces.com/contest/2149/problem/A) - Done
 
-[B. Unconventional Pairs](https://codeforces.com/contest/2149/problem/B)
+[B. Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) - Done
 
 [C. MEX rose](https://codeforces.com/contest/2149/problem/C)
 
