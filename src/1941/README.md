@@ -4,7 +4,7 @@
 
 [A. Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) - Done
 
-[B. Rudolf and 121](https://codeforces.com/contest/1941/problem/B)
+[B. Rudolf and 121](https://codeforces.com/contest/1941/problem/B) - Done
 
 [C. Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) - Done
 
