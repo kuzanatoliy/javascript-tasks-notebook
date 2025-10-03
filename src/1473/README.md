@@ -4,7 +4,7 @@
 
 [A. Replacing Elements](https://codeforces.com/contest/1473/problem/A) - Done
 
-[B. String LCM](https://codeforces.com/contest/1473/problem/B)
+[B. String LCM](https://codeforces.com/contest/1473/problem/B) - Done
 
 [C. No More Inversions](https://codeforces.com/contest/1473/problem/C)
 
