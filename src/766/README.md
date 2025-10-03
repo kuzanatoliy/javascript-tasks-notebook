@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/766)
 
-[A. Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A)
+[A. Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) - Done
 
 [B. Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) - Done
 
