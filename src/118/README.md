@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/118)
 
-[A. String Task](https://codeforces.com/contest/118/problem/A)
+[A. String Task](https://codeforces.com/contest/118/problem/A) - Done
 
 [B. Present from Lena](https://codeforces.com/contest/118/problem/B) - Done
 
