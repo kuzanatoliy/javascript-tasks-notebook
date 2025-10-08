@@ -4,7 +4,7 @@
 
 [A. Closest Point](https://codeforces.com/contest/2004/problem/A) - Done
 
-[B. Game with Doors](https://codeforces.com/contest/2004/problem/B)
+[B. Game with Doors](https://codeforces.com/contest/2004/problem/B) - Done
 
 [C. Splitting Items](https://codeforces.com/contest/2004/problem/C)
 
