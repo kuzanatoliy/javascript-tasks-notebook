@@ -1,6 +1,6 @@
 ﻿const { getOriginalArr } = require('./B');
 
-describe('1325B. Maximums', () => {
+describe('1326B. Maximums', () => {
   it.each`
     n    | arr                               | result
     ${1} | ${[0, 1, 1, -2, 1]}               | ${[0, 1, 2, 0, 3]}
