@@ -8,7 +8,7 @@
 
 [C. Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) - Done
 
-[D. Gold Rush](https://codeforces.com/contest/1829/problem/D)
+[D. Gold Rush](https://codeforces.com/contest/1829/problem/D) - Done
 
 [E. The Lakes](https://codeforces.com/contest/1829/problem/E)
 
