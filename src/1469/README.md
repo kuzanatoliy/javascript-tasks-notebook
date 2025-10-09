@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1469)
 
-[A. Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A)
+[A. Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) - Done
 
 [B. Red and Blue](https://codeforces.com/contest/1469/problem/B) - Done
 
