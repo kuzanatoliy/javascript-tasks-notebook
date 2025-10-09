@@ -4,7 +4,7 @@
 
 [A. 2023](https://codeforces.com/contest/1916/problem/A) - Done
 
-[B. Two Divisors](https://codeforces.com/contest/1916/problem/B)
+[B. Two Divisors](https://codeforces.com/contest/1916/problem/B) - Done
 
 [C. Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C)
 
