@@ -6,7 +6,7 @@
 
 [B. Seating in a Bus](https://codeforces.com/contest/2000/problem/B) - Done
 
-[C. Numeric String Template](https://codeforces.com/contest/2000/problem/C)
+[C. Numeric String Template](https://codeforces.com/contest/2000/problem/C) - Done
 
 [D. Right Left Wrong](https://codeforces.com/contest/2000/problem/D)
 
