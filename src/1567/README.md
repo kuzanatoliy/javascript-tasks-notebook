@@ -4,7 +4,7 @@
 
 [A. Domino Disaster](https://codeforces.com/contest/1567/problem/A) - Done
 
-[B. MEXor Mixup](https://codeforces.com/contest/1567/problem/B)
+[B. MEXor Mixup](https://codeforces.com/contest/1567/problem/B) - Done
 
 [C. Carrying Conundrum](https://codeforces.com/contest/1567/problem/C)
 
