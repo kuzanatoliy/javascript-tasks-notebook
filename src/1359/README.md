@@ -4,7 +4,7 @@
 
 [A. Berland Poker](https://codeforces.com/contest/1359/problem/A) - Done
 
-[B. New Theatre Square](https://codeforces.com/contest/1359/problem/B)
+[B. New Theatre Square](https://codeforces.com/contest/1359/problem/B) - Done
 
 [C. Mixing Water](https://codeforces.com/contest/1359/problem/C)
 
