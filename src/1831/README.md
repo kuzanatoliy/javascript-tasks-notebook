@@ -4,7 +4,7 @@
 
 [A. Twin Permutations](https://codeforces.com/contest/1831/problem/A) - Done
 
-[B. Array merging](https://codeforces.com/contest/1831/problem/B)
+[B. Array merging](https://codeforces.com/contest/1831/problem/B) - Done
 
 [C. Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C)
 
