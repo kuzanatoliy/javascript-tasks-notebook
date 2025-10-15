@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1373)
 
-[A. Donut Shops](https://codeforces.com/contest/1373/problem/A)
+[A. Donut Shops](https://codeforces.com/contest/1373/problem/A) - Done
 
 [B. 01 Game](https://codeforces.com/contest/1373/problem/B) - Done
 
