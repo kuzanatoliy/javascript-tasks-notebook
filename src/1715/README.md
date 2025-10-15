@@ -4,7 +4,7 @@
 
 [A. Crossmarket](https://codeforces.com/contest/1715/problem/A) - Done
 
-[B. Beautiful Array](https://codeforces.com/contest/1715/problem/B)
+[B. Beautiful Array](https://codeforces.com/contest/1715/problem/B) - Done
 
 [C. Monoblock](https://codeforces.com/contest/1715/problem/C)
 
