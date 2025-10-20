@@ -6,7 +6,7 @@
 
 [B. File Name](https://codeforces.com/contest/978/problem/B) - Done
 
-[C. Letters](https://codeforces.com/contest/978/problem/C)
+[C. Letters](https://codeforces.com/contest/978/problem/C) - Done
 
 [D. Almost Arithmetic Progression](https://codeforces.com/contest/978/problem/D)
 
