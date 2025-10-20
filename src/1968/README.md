@@ -6,7 +6,7 @@
 
 [B. Prefiquence](https://codeforces.com/contest/1968/problem/B) - Done
 
-[C. Assembly via Remainders](https://codeforces.com/contest/1968/problem/C)
+[C. Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) - Done
 
 [D. Permutation Game](https://codeforces.com/contest/1968/problem/D)
 
