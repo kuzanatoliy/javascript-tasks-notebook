@@ -6,7 +6,7 @@
 
 [B. Expensive Number](https://codeforces.com/contest/2093/problem/B) - Done
 
-[C. Simple Repetition](https://codeforces.com/contest/2093/problem/C)
+[C. Simple Repetition](https://codeforces.com/contest/2093/problem/C) - Done
 
 [D. Skibidi Table](https://codeforces.com/contest/2093/problem/D)
 
