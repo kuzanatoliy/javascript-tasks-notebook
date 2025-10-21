@@ -8,7 +8,7 @@
 
 [C. Most Similar Words](https://codeforces.com/contest/1676/problem/C) - Done
 
-[D. X-Sum](https://codeforces.com/contest/1676/problem/D)
+[D. X-Sum](https://codeforces.com/contest/1676/problem/D) - Done
 
 [E. Eating Queries](https://codeforces.com/contest/1676/problem/E)
 
