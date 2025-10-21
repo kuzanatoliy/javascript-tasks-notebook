@@ -6,7 +6,7 @@
 
 [B. Not Quite a Palindromic String](https://codeforces.com/contest/2114/problem/B) - Done
 
-[C. Need More Arrays](https://codeforces.com/contest/2114/problem/C)
+[C. Need More Arrays](https://codeforces.com/contest/2114/problem/C) - Done
 
 [D. Come a Little Closer](https://codeforces.com/contest/2114/problem/D)
 
