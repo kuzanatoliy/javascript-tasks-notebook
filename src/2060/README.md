@@ -4,7 +4,7 @@
 
 [A. Fibonacciness](https://codeforces.com/contest/2060/problem/A) - Done
 
-[B. Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B)
+[B. Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B) - Done
 
 [C. Game of Mathletes](https://codeforces.com/contest/2060/problem/C) - Done
 
