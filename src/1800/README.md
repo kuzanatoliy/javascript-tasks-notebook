@@ -4,7 +4,7 @@
 
 [A. Is It a Cat?](https://codeforces.com/contest/1800/problem/A) - Done
 
-[B. Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B)
+[B. Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B) - Done
 
 [C1. Powering the Hero (easy version)](https://codeforces.com/contest/1800/problem/C1)
 
