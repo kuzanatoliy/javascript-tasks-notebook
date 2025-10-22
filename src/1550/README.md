@@ -4,7 +4,7 @@
 
 [A. Find The Array](https://codeforces.com/contest/1550/problem/A) - Done
 
-[B. Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B)
+[B. Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) - Done
 
 [C. Manhattan Subarrays](https://codeforces.com/contest/1550/problem/C)
 
