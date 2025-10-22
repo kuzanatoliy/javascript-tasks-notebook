@@ -4,7 +4,7 @@
 
 [A. ABC](https://codeforces.com/contest/1632/problem/A) - Done
 
-[B. Roof Construction](https://codeforces.com/contest/1632/problem/B)
+[B. Roof Construction](https://codeforces.com/contest/1632/problem/B) - Done
 
 [C. Strange Test](https://codeforces.com/contest/1632/problem/C)
 
