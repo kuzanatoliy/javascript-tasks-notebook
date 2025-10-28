@@ -4,7 +4,7 @@
 
 [A. Equal or Not Equal](https://codeforces.com/contest/1620/problem/A) - Done
 
-[B. Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B)
+[B. Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) - Done
 
 [C. BA-String](https://codeforces.com/contest/1620/problem/C)
 
