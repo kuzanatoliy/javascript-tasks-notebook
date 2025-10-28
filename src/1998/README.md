@@ -4,7 +4,7 @@
 
 [A. Find K Distinct Points with Fixed Center](https://codeforces.com/contest/1998/problem/A) - Done
 
-[B. Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B)
+[B. Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) - Done
 
 [C. Perform Operations to Maximize Score](https://codeforces.com/contest/1998/problem/C)
 
