@@ -6,7 +6,7 @@
 
 [B. Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) - Done
 
-[C. Save More Mice](https://codeforces.com/contest/1593/problem/C)
+[C. Save More Mice](https://codeforces.com/contest/1593/problem/C) - Done
 
 [D1. All are Same](https://codeforces.com/contest/1593/problem/D1)
 
