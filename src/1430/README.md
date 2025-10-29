@@ -6,7 +6,7 @@
 
 [B. Barrels](https://codeforces.com/contest/1430/problem/B) - Done
 
-[C. Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C)
+[C. Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) - Done
 
 [D. String Deletion](https://codeforces.com/contest/1430/problem/D)
 
