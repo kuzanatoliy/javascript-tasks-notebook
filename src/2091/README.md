@@ -6,7 +6,7 @@
 
 [B. Team Training](https://codeforces.com/contest/2091/problem/B) - Done
 
-[C. Combination Lock](https://codeforces.com/contest/2091/problem/C)
+[C. Combination Lock](https://codeforces.com/contest/2091/problem/C) - Done
 
 [D. Place of the Olympiad](https://codeforces.com/contest/2091/problem/D)
 
