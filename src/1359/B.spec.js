@@ -1,4 +1,4 @@
-﻿const { getCost } = require('./A');
+﻿const { getCost } = require('./B');
 
 describe('1359B. New Theatre Square', () => {
   it.each`
