@@ -4,7 +4,7 @@
 
 [A. Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) - Done
 
-[B. Bitwise Reversion](https://codeforces.com/contest/2153/problem/B)
+[B. Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) - Done
 
 [C. Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C)
 
