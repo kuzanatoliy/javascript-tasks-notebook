@@ -6,7 +6,7 @@
 
 [B. Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) - Done
 
-[C. Minimum Extraction](https://codeforces.com/contest/1607/problem/C)
+[C. Minimum Extraction](https://codeforces.com/contest/1607/problem/C) - Done
 
 [D. Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D)
 
