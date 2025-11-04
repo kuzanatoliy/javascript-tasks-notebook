@@ -6,7 +6,7 @@
 
 [B. Journey](https://codeforces.com/contest/2051/problem/B) - Done
 
-[C. Preparing for the Exam](https://codeforces.com/contest/2051/problem/C)
+[C. Preparing for the Exam](https://codeforces.com/contest/2051/problem/C) - Done
 
 [D. Counting Pairs](https://codeforces.com/contest/2051/problem/D)
 
