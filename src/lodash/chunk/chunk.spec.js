@@ -1,7 +1,7 @@
 /* eslint-disable no-undefined */
 const { chunk } = require('./chunk');
 
-describe('2151A. Incremental Subarray', () => {
+describe('Lodash: chunk function', () => {
   it.each`
     n    | arr                | size         | result
     ${1} | ${[1, 2, 3]}       | ${undefined} | ${[[1], [2], [3]]}
