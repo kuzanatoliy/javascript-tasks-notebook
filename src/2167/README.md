@@ -6,7 +6,7 @@
 
 [B. Your Name](https://codeforces.com/contest/2167/problem/B) - Done
 
-[C. Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C)
+[C. Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) - Done
 
 [D. Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D)
 
