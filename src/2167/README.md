@@ -4,7 +4,7 @@
 
 [A. Square?](https://codeforces.com/contest/2167/problem/A) - Done
 
-[B. Your Name](https://codeforces.com/contest/2167/problem/B)
+[B. Your Name](https://codeforces.com/contest/2167/problem/B) - Done
 
 [C. Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C)
 
