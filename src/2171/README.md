@@ -4,7 +4,7 @@
 
 [A. Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) - Done
 
-[B. Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B)
+[B. Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) - Done
 
 [C1. Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1)
 
