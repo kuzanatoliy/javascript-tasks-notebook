@@ -4,7 +4,7 @@
 
 [A. Same Difference](https://codeforces.com/contest/2166/problem/A) - Done
 
-[B. Tab Closing](https://codeforces.com/contest/2166/problem/B)
+[B. Tab Closing](https://codeforces.com/contest/2166/problem/B) - Done
 
 [C. Cyclic Merging](https://codeforces.com/contest/2166/problem/C)
 
