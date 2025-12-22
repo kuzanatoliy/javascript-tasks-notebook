@@ -4,7 +4,7 @@
 
 [A. Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) - Done
 
-[B. Expansion Plan 2](https://codeforces.com/contest/2157/problem/B)
+[B. Expansion Plan 2](https://codeforces.com/contest/2157/problem/B) - Done
 
 [C. Meximum Array 2](https://codeforces.com/contest/2157/problem/C)
 
