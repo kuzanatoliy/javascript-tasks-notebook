@@ -4,7 +4,7 @@
 
 [A. In-game Chat](https://codeforces.com/contest/1411/problem/A) - Done
 
-[B. Fair Numbers](https://codeforces.com/contest/1411/problem/B)
+[B. Fair Numbers](https://codeforces.com/contest/1411/problem/B) - Done
 
 [C. Peaceful Rooks](https://codeforces.com/contest/1411/problem/C)
 
