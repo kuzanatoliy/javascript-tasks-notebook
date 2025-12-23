@@ -8,7 +8,7 @@
 
 [C. Advantage](https://codeforces.com/contest/1760/problem/C) - Done
 
-[D. Challenging Valleys](https://codeforces.com/contest/1760/problem/D)
+[D. Challenging Valleys](https://codeforces.com/contest/1760/problem/D) - Done
 
 [E. Binary Inversions](https://codeforces.com/contest/1760/problem/E)
 
