@@ -26,6 +26,6 @@
 
 [L. Project Manager](https://codeforces.com/contest/1765/problem/L)
 
-[M. Minimum LCM](https://codeforces.com/contest/1765/problem/M)
+[M. Minimum LCM](https://codeforces.com/contest/1765/problem/M) - Done
 
 [N. Number Reduction](https://codeforces.com/contest/1765/problem/N)
