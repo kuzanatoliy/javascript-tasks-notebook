@@ -4,7 +4,7 @@
 
 [A. Two 0-1 Sequences](https://codeforces.com/contest/1704/problem/A) - Done
 
-[B. Luke is a Foodie](https://codeforces.com/contest/1704/problem/B)
+[B. Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) - Done
 
 [C. Virus](https://codeforces.com/contest/1704/problem/C)
 
