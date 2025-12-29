@@ -4,7 +4,7 @@
 
 [A. Specific Tastes of Andre](https://codeforces.com/contest/1438/problem/A) - Done
 
-[B. Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B)
+[B. Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) - Done
 
 [C. Engineer Artem](https://codeforces.com/contest/1438/problem/C)
 
