@@ -4,7 +4,7 @@
 
 [A. Carnival Wheel](https://codeforces.com/contest/2180/problem/A) - Done
 
-[B. Ashmal](https://codeforces.com/contest/2180/problem/B)
+[B. Ashmal](https://codeforces.com/contest/2180/problem/B) - Done
 
 [C. XOR-factorization](https://codeforces.com/contest/2180/problem/C)
 
