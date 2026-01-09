@@ -1,6 +1,6 @@
 ﻿const { sortArray } = require('./C');
 
-describe('2167B. Your Name', () => {
+describe('2167C. Isamatdin and His Magic Wand!', () => {
   it.each`
     n    | arr                | result
     ${1} | ${[2, 3, 1, 4]}    | ${[1, 2, 3, 4]}

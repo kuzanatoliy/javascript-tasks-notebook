@@ -8,7 +8,7 @@
 
 [C. Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) - Done
 
-[D. Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D)
+[D. Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) - Done
 
 [E. khba Loves to Sleep!](https://codeforces.com/contest/2167/problem/E)
 
