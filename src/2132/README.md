@@ -6,7 +6,7 @@
 
 [B. The Secret Number](https://codeforces.com/contest/2132/problem/B) - Done
 
-[C1. The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1)
+[C1. The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) - Done
 
 [C2. The Cunning Seller (hard version)](https://codeforces.com/contest/2132/problem/C2)
 
