@@ -10,7 +10,7 @@
 
 [D1. Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) - Done
 
-[D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2)
+[D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) - Done
 
 [E. Decryption](https://codeforces.com/contest/1419/problem/E)
 
