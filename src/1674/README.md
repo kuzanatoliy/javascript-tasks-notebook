@@ -6,7 +6,7 @@
 
 [B. Dictionary](https://codeforces.com/contest/1674/problem/B) - Done
 
-[C. Infinite Replacement](https://codeforces.com/contest/1674/problem/C)
+[C. Infinite Replacement](https://codeforces.com/contest/1674/problem/C) - Done
 
 [D. A-B-C Sort](https://codeforces.com/contest/1674/problem/D)
 
