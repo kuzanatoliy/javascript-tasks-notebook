@@ -1,0 +1,11 @@
+﻿const { getCountOfSupercentralPoints } = require('./A');
+
+describe('165A. Supercentral Point', () => {
+  it.each`
+    n    | points                                                              | result
+    ${1} | ${[[1, 1], [4, 2], [3, 1], [1, 2], [0, 2], [0, 1], [1, 0], [1, 3]]} | ${2}
+    ${2} | ${[[0, 0], [0, 1], [1, 0], [0, -1], [-1, 0]]}                       | ${1}
+  `('Base test: $n', ({ points, result }) => {
+    expect(getCountOfSupercentralPoints(points)).toBe(result);
+  });
+});
