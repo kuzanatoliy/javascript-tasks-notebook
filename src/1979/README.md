@@ -4,7 +4,7 @@
 
 [A. Guess the Maximum](https://codeforces.com/contest/1979/problem/A) - Done
 
-[B. XOR Sequences](https://codeforces.com/contest/1979/problem/B)
+[B. XOR Sequences](https://codeforces.com/contest/1979/problem/B) - Done
 
 [C. Earning on Bets](https://codeforces.com/contest/1979/problem/C)
 
