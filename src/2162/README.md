@@ -4,7 +4,7 @@
 
 [A. Beautiful Average](https://codeforces.com/contest/2162/problem/A) - Done
 
-[B. Beautiful String](https://codeforces.com/contest/2162/problem/B)
+[B. Beautiful String](https://codeforces.com/contest/2162/problem/B) - Done
 
 [C. Beautiful XOR](https://codeforces.com/contest/2162/problem/C)
 
