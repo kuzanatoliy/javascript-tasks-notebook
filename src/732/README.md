@@ -4,7 +4,7 @@
 
 [A. Buy a Shovel](https://codeforces.com/contest/732/problem/A) - Done
 
-[B. Cormen — The Best Friend Of a Man](https://codeforces.com/contest/732/problem/B)
+[B. Cormen — The Best Friend Of a Man](https://codeforces.com/contest/732/problem/B) - Done
 
 [C. Sanatorium](https://codeforces.com/contest/732/problem/C)
 
