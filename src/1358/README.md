@@ -4,7 +4,7 @@
 
 [A. Park Lighting](https://codeforces.com/contest/1358/problem/A) - Done
 
-[B. Maria Breaks the Self-isolation](https://codeforces.com/contest/1358/problem/B)
+[B. Maria Breaks the Self-isolation](https://codeforces.com/contest/1358/problem/B) - Done
 
 [C. Celex Update](https://codeforces.com/contest/1358/problem/C)
 
