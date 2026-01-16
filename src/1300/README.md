@@ -4,7 +4,7 @@
 
 [A. Non-zero](https://codeforces.com/contest/1300/problem/A) - Done
 
-[B. Assigning to Classes](https://codeforces.com/contest/1300/problem/B)
+[B. Assigning to Classes](https://codeforces.com/contest/1300/problem/B) - Done
 
 [C. Anu Has a Function](https://codeforces.com/contest/1300/problem/C)
 
