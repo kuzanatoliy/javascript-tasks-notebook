@@ -8,7 +8,7 @@
 
 [C. Train and Queries](https://codeforces.com/contest/1702/problem/C)
 
-[D. Not a Cheap String](https://codeforces.com/contest/1702/problem/D)
+[D. Not a Cheap String](https://codeforces.com/contest/1702/problem/D) - Done
 
 [E. Split Into Two Sets](https://codeforces.com/contest/1702/problem/E)
 
