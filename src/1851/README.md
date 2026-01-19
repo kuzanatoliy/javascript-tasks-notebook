@@ -8,7 +8,7 @@ Codeforces Round 888 (Div. 3)
 
 [B. Parity Sort](https://codeforces.com/contest/1851/problem/B) - Done
 
-[C. Tiles Comeback](https://codeforces.com/contest/1851/problem/C)
+[C. Tiles Comeback](https://codeforces.com/contest/1851/problem/C) - Done
 
 [D. Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D)
 
