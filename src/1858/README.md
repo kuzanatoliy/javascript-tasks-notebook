@@ -6,7 +6,7 @@
 
 [B. The Walkway](https://codeforces.com/contest/1858/problem/B)
 
-[C. Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C)
+[C. Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C) - Done
 
 [D. Trees and Segments](https://codeforces.com/contest/1858/problem/D)
 
