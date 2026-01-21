@@ -3,7 +3,7 @@
     arr.sort((a, b) => b - a);
     let count = 0;
     for (let j = 0; j < arr.length; j++) {
-      const d = Math.ceil(D / arr[j]);
+      const d = Math.floor(D / arr[j]) + 1;
       if (count + d > arr.length) {
         return j;
       }
