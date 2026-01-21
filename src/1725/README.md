@@ -4,7 +4,7 @@
 
 [A. Accumulation of Dominoes](https://codeforces.com/contest/1725/problem/A) - Done
 
-[B. Basketball Together](https://codeforces.com/contest/1725/problem/B)
+[B. Basketball Together](https://codeforces.com/contest/1725/problem/B) - Done
 
 [C. Circular Mirror](https://codeforces.com/contest/1725/problem/C)
 
