@@ -8,7 +8,7 @@
 
 [C. Pacer](https://codeforces.com/contest/2148/problem/C) - Done
 
-[D. Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D)
+[D. Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) - Done
 
 [E. Split](https://codeforces.com/contest/2148/problem/E)
 
