@@ -6,7 +6,7 @@
 
 [B. Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) - Done
 
-[C. Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C)
+[C. Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) - Done
 
 [D. Sharky Surfing](https://codeforces.com/contest/2037/problem/D)
 
