@@ -4,7 +4,7 @@
 
 [A. Operations with Inversions](https://codeforces.com/contest/2176/problem/A) - Done
 
-[B. Optimal Shifts](https://codeforces.com/contest/2176/problem/B)
+[B. Optimal Shifts](https://codeforces.com/contest/2176/problem/B) - Done
 
 [C. Odd Process](https://codeforces.com/contest/2176/problem/C)
 
