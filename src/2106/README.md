@@ -6,7 +6,7 @@
 
 [B. St. Chroma](https://codeforces.com/contest/2106/problem/B) - Done
 
-[C. Cherry Bomb](https://codeforces.com/contest/2106/problem/C)
+[C. Cherry Bomb](https://codeforces.com/contest/2106/problem/C) - Done
 
 [D. Flower Boy](https://codeforces.com/contest/2106/problem/D)
 
