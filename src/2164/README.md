@@ -4,7 +4,7 @@
 
 [A. Sequence Game](https://codeforces.com/contest/2164/problem/A) - Done
 
-[B. Even Modulo Pair](https://codeforces.com/contest/2164/problem/B)
+[B. Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) - Done
 
 [C. Dungeon](https://codeforces.com/contest/2164/problem/C)
 
