@@ -4,7 +4,7 @@
 
 [A. Simple Palindrome](https://codeforces.com/contest/2005/problem/A) - Done
 
-[B1. The Strict Teacher (Easy Version)](https://codeforces.com/contest/2005/problem/B1)
+[B1. The Strict Teacher (Easy Version)](https://codeforces.com/contest/2005/problem/B1) - Done
 
 [B2. The Strict Teacher (Hard Version)](https://codeforces.com/contest/2005/problem/B2)
 
