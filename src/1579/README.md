@@ -10,7 +10,7 @@
 
 [D. Productive Meeting](https://codeforces.com/contest/1579/problem/D) - Done
 
-[E1. Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1)
+[E1. Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1) - Done
 
 [E2. Array Optimization by Deque](https://codeforces.com/contest/1579/problem/E2)
 
