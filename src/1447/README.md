@@ -4,7 +4,7 @@
 
 [A. Add Candies](https://codeforces.com/contest/1447/problem/A) - Done
 
-[B. Numbers Box](https://codeforces.com/contest/1447/problem/B)
+[B. Numbers Box](https://codeforces.com/contest/1447/problem/B) - Done
 
 [C. Knapsack](https://codeforces.com/contest/1447/problem/C)
 
