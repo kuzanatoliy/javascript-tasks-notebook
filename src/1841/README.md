@@ -4,7 +4,7 @@
 
 [A. Game with Board](https://codeforces.com/contest/1841/problem/A) - Done
 
-[B. Keep it Beautiful](https://codeforces.com/contest/1841/problem/B)
+[B. Keep it Beautiful](https://codeforces.com/contest/1841/problem/B) - Done
 
 [C. Ranom Numbers](https://codeforces.com/contest/1841/problem/C)
 
