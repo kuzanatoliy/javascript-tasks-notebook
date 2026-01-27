@@ -4,7 +4,7 @@
 
 [A. Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) - Done
 
-[B. Lady Bug](https://codeforces.com/contest/2092/problem/B)
+[B. Lady Bug](https://codeforces.com/contest/2092/problem/B) - Done
 
 [C. Asuna and the Mosquitoes](https://codeforces.com/contest/2092/problem/C)
 
