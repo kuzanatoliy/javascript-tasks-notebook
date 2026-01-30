@@ -4,7 +4,7 @@
 
 [A. Extremely Round](https://codeforces.com/contest/1766/problem/A) - Done
 
-[B. Notepad#](https://codeforces.com/contest/1766/problem/B)
+[B. Notepad#](https://codeforces.com/contest/1766/problem/B) - Done
 
 [C. Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C)
 
