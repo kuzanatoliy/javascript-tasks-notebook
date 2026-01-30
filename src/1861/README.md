@@ -4,7 +4,7 @@
 
 [A. Prime Deletion](https://codeforces.com/contest/1861/problem/A) - Done
 
-[B. Two Binary Strings](https://codeforces.com/contest/1861/problem/B)
+[B. Two Binary Strings](https://codeforces.com/contest/1861/problem/B) - Done
 
 [C. Queries for the Array](https://codeforces.com/contest/1861/problem/C)
 
