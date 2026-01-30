@@ -4,7 +4,7 @@
 
 [A. Image](https://codeforces.com/contest/1721/problem/A) - Done
 
-[B. Deadly Laser](https://codeforces.com/contest/1721/problem/B)
+[B. Deadly Laser](https://codeforces.com/contest/1721/problem/B) - Done
 
 [C. Min-Max Array Transformation](https://codeforces.com/contest/1721/problem/C)
 
