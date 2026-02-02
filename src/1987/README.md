@@ -4,7 +4,7 @@
 
 [A. Upload More RAM](https://codeforces.com/contest/1987/problem/A) - Done
 
-[B. K-Sort](https://codeforces.com/contest/1987/problem/B)
+[B. K-Sort](https://codeforces.com/contest/1987/problem/B) - Done
 
 [C. Basil's Garden](https://codeforces.com/contest/1987/problem/C)
 
