@@ -4,7 +4,7 @@
 
 [A. Long Comparison](https://codeforces.com/contest/1613/problem/A) - Done
 
-[B. Absent Remainder](https://codeforces.com/contest/1613/problem/B)
+[B. Absent Remainder](https://codeforces.com/contest/1613/problem/B) - Done
 
 [C. Poisoned Dagger](https://codeforces.com/contest/1613/problem/C)
 
