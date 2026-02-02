@@ -4,7 +4,7 @@
 
 [A. String Similarity](https://codeforces.com/contest/1405/problem/A) - Done
 
-[B. RPG Protagonist](https://codeforces.com/contest/1405/problem/B)
+[B. RPG Protagonist](https://codeforces.com/contest/1405/problem/B) - Done
 
 [C. Binary String Reconstruction](https://codeforces.com/contest/1405/problem/C)
 
