@@ -4,7 +4,7 @@
 
 [A. Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) - Done
 
-[B. Captain Flint and a Long Voyage](https://codeforces.com/contest/1388/problem/B)
+[B. Captain Flint and a Long Voyage](https://codeforces.com/contest/1388/problem/B) - Done
 
 [C. Uncle Bogdan and Country Happiness](https://codeforces.com/contest/1388/problem/C)
 
