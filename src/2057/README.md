@@ -4,7 +4,7 @@
 
 [A. MEX Table](https://codeforces.com/contest/2057/problem/A) - Done
 
-[B. Gorilla and the Exam](https://codeforces.com/contest/2057/problem/B)
+[B. Gorilla and the Exam](https://codeforces.com/contest/2057/problem/B) - Done
 
 [C. Trip to the Olympiad](https://codeforces.com/contest/2057/problem/C)
 
