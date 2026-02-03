@@ -4,7 +4,7 @@
 
 [A. Two Rival Students](https://codeforces.com/contest/1257/problem/A) - Done
 
-[B. Magic Stick](https://codeforces.com/contest/1257/problem/B)
+[B. Magic Stick](https://codeforces.com/contest/1257/problem/B) - Done
 
 [C. Dominated Subarray](https://codeforces.com/contest/1257/problem/C)
 
