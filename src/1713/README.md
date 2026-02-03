@@ -4,7 +4,7 @@
 
 [A. Traveling Salesman Problem](https://codeforces.com/contest/1713/problem/A) - Done
 
-[B. Optimal Reduction](https://codeforces.com/contest/1713/problem/B)
+[B. Optimal Reduction](https://codeforces.com/contest/1713/problem/B) - Done
 
 [C. Build Permutation](https://codeforces.com/contest/1713/problem/C)
 
