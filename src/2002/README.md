@@ -4,7 +4,7 @@
 
 [A. Distanced Coloring](https://codeforces.com/contest/2002/problem/A) - Done
 
-[B. Removals Game](https://codeforces.com/contest/2002/problem/B)
+[B. Removals Game](https://codeforces.com/contest/2002/problem/B) - Done
 
 [C. Black Circles](https://codeforces.com/contest/2002/problem/C)
 
