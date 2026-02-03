@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1204)
 
-[A. BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A)
+[A. BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A) - Done
 
 [B. Mislove Has Lost an Array](https://codeforces.com/contest/1204/problem/B) - Done
 
