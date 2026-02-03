@@ -4,7 +4,7 @@
 
 [A. Construct a Rectangle](https://codeforces.com/contest/1622/problem/A) - Done
 
-[B. Berland Music](https://codeforces.com/contest/1622/problem/B)
+[B. Berland Music](https://codeforces.com/contest/1622/problem/B) - Done
 
 [C. Set or Decrease](https://codeforces.com/contest/1622/problem/C)
 
