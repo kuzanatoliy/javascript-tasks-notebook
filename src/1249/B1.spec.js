@@ -1,4 +1,4 @@
-﻿const { getCountOfDays } = require('./B');
+﻿const { getCountOfDays } = require('./B1');
 
 describe('1249A. Yet Another Dividing into Teams', () => {
   it.each`
