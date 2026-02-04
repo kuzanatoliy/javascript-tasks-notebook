@@ -4,7 +4,7 @@
 
 [A. Yet Another Dividing into Teams](https://codeforces.com/contest/1249/problem/A) - Done
 
-[B1. Books Exchange (easy version)](https://codeforces.com/contest/1249/problem/B1)
+[B1. Books Exchange (easy version)](https://codeforces.com/contest/1249/problem/B1) - Done
 
 [B2. Books Exchange (hard version)](https://codeforces.com/contest/1249/problem/B2)
 
