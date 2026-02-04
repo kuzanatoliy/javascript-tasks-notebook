@@ -4,7 +4,7 @@
 
 [A. Insert Digit](https://codeforces.com/contest/1811/problem/A) - Done
 
-[B. Conveyor Belts](https://codeforces.com/contest/1811/problem/B)
+[B. Conveyor Belts](https://codeforces.com/contest/1811/problem/B) - Done
 
 [C. Restore the Array](https://codeforces.com/contest/1811/problem/C)
 
