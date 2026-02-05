@@ -1,4 +1,4 @@
-﻿const { getMaxScore } = require('./A');
+﻿const { getMaxScore } = require('./B');
 
 describe('1293B. JOE is on TV!', () => {
   it.each`
