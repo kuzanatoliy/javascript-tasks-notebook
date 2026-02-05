@@ -1,6 +1,6 @@
 ﻿const { getCountOfOperations } = require('./A');
 
-describe('1811A. Musical Puzzle', () => {
+describe('1809A. Garland', () => {
   it.each`
     n    | map       | result
     ${1} | ${'9546'} | ${4}

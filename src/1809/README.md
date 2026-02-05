@@ -1,19 +1,17 @@
-# Codeforces Round 863 (Div. 3)
+# Educational Codeforces Round 145 (Rated for Div. 2)
 
-[Dashboard](https://codeforces.com/contest/1811)
+[Dashboard](https://codeforces.com/contest/1809)
 
-[A. Insert Digit](https://codeforces.com/contest/1811/problem/A) - Done
+[A. Insert Digit](https://codeforces.com/contest/1809/problem/A) - Done
 
-[B. Conveyor Belts](https://codeforces.com/contest/1811/problem/B)
+[B. Conveyor Belts](https://codeforces.com/contest/1809/problem/B) - Done
 
-[C. Restore the Array](https://codeforces.com/contest/1811/problem/C)
+[C. Restore the Array](https://codeforces.com/contest/1809/problem/C)
 
-[D. Umka and a Long Flight](https://codeforces.com/contest/1811/problem/D)
+[D. Umka and a Long Flight](https://codeforces.com/contest/1809/problem/D)
 
-[E. Living Sequence](https://codeforces.com/contest/1811/problem/E)
+[E. Living Sequence](https://codeforces.com/contest/1809/problem/E)
 
-[F. Is It Flower?](https://codeforces.com/contest/1811/problem/F)
+[F. Is It Flower?](https://codeforces.com/contest/1809/problem/F)
 
-[G1. Vlad and the Nice Paths (easy version)](https://codeforces.com/contest/1811/problem/G1)
-
-[G2. Vlad and the Nice Paths (hard version)](https://codeforces.com/contest/1811/problem/G2)
+[G1. Vlad and the Nice Paths (easy version)](https://codeforces.com/contest/1809/problem/G)
