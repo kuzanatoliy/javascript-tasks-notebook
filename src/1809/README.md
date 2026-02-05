@@ -2,16 +2,16 @@
 
 [Dashboard](https://codeforces.com/contest/1809)
 
-[A. Insert Digit](https://codeforces.com/contest/1809/problem/A) - Done
+[A. Garland](https://codeforces.com/contest/1809/problem/A) - Done
 
-[B. Conveyor Belts](https://codeforces.com/contest/1809/problem/B) - Done
+[B. Points on Plane](https://codeforces.com/contest/1809/problem/B) - Done
 
-[C. Restore the Array](https://codeforces.com/contest/1809/problem/C)
+[C. Sum on Subarrays](https://codeforces.com/contest/1809/problem/C)
 
-[D. Umka and a Long Flight](https://codeforces.com/contest/1809/problem/D)
+[D. Binary String Sorting](https://codeforces.com/contest/1809/problem/D)
 
-[E. Living Sequence](https://codeforces.com/contest/1809/problem/E)
+[E. Two Tanks](https://codeforces.com/contest/1809/problem/E)
 
-[F. Is It Flower?](https://codeforces.com/contest/1809/problem/F)
+[F. Traveling in Berland](https://codeforces.com/contest/1809/problem/F)
 
-[G1. Vlad and the Nice Paths (easy version)](https://codeforces.com/contest/1809/problem/G)
+[G. Prediction](https://codeforces.com/contest/1809/problem/G)
