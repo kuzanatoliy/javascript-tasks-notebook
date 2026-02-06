@@ -4,7 +4,7 @@
 
 [A. Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) - Done
 
-[B. Binary Removals](https://codeforces.com/contest/1499/problem/B)
+[B. Binary Removals](https://codeforces.com/contest/1499/problem/B) - Done
 
 [C. Minimum Grid Path](https://codeforces.com/contest/1499/problem/C)
 
