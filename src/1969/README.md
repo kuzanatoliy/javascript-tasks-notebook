@@ -4,7 +4,7 @@
 
 [A. Two Friends](https://codeforces.com/contest/1969/problem/A) - Done
 
-[B. Shifts and Sorting](https://codeforces.com/contest/1969/problem/B)
+[B. Shifts and Sorting](https://codeforces.com/contest/1969/problem/B) - Done
 
 [C. Minimizing the Sum](https://codeforces.com/contest/1969/problem/C)
 
