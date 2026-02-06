@@ -4,7 +4,7 @@
 
 [A. The Man who became a God](https://codeforces.com/contest/1847/problem/A) - Done
 
-[B. Hamon Odyssey](https://codeforces.com/contest/1847/problem/B)
+[B. Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) - Done
 
 [C. Vampiric Powers, anyone?](https://codeforces.com/contest/1847/problem/C)
 
