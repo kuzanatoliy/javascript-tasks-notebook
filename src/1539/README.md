@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1539)
 
-[A. Contest Start](https://codeforces.com/contest/1539/problem/A)
+[A. Contest Start](https://codeforces.com/contest/1539/problem/A) - Done
 
 [B. Love Song](https://codeforces.com/contest/1539/problem/B) - Done
 
