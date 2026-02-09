@@ -4,7 +4,7 @@
 
 [A. DZY Loves Hash](https://codeforces.com/contest/447/problem/A) - Done
 
-[B. DZY Loves Strings](https://codeforces.com/contest/447/problem/B)
+[B. DZY Loves Strings](https://codeforces.com/contest/447/problem/B) - Done
 
 [C. DZY Loves Sequences](https://codeforces.com/contest/447/problem/C)
 
