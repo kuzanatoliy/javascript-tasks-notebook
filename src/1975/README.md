@@ -4,7 +4,7 @@
 
 [A. Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) - Done
 
-[B. 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B)
+[B. 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) - Done
 
 [C. Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C)
 
