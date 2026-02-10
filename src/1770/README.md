@@ -4,7 +4,7 @@
 
 [A. Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) - Done
 
-[B. Koxia and Permutation](https://codeforces.com/contest/1770/problem/B)
+[B. Koxia and Permutation](https://codeforces.com/contest/1770/problem/B) - Done
 
 [C. Koxia and Number Theory](https://codeforces.com/contest/1770/problem/C)
 
