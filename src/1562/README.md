@@ -4,7 +4,7 @@
 
 [A. The Miracle and the Sleeper](https://codeforces.com/contest/1562/problem/A) - Done
 
-[B. Scenes From a Memory](https://codeforces.com/contest/1562/problem/B)
+[B. Scenes From a Memory](https://codeforces.com/contest/1562/problem/B) - Done
 
 [C. Rings](https://codeforces.com/contest/1562/problem/C)
 
