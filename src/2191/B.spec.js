@@ -1,6 +1,6 @@
 ﻿const { isItPossilbeToReorder } = require('./B');
 
-describe('2175B. MEX Reordering', () => {
+describe('2191B. MEX Reordering', () => {
   it.each`
     n    | arr                   | result
     ${1} | ${[1, 0]}             | ${'YES'}
