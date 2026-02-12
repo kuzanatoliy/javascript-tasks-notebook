@@ -4,7 +4,7 @@
 
 [A. Frog Jumping](https://codeforces.com/contest/1077/problem/A) - Done
 
-[B. Disturbed People](https://codeforces.com/contest/1077/problem/B)
+[B. Disturbed People](https://codeforces.com/contest/1077/problem/B) - Done
 
 [C. Good Array](https://codeforces.com/contest/1077/problem/C)
 
