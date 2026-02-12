@@ -4,7 +4,7 @@
 
 [A. Candies for Nephews](https://codeforces.com/contest/2145/problem/A) - Done
 
-[B. Deck of Cards](https://codeforces.com/contest/2145/problem/B)
+[B. Deck of Cards](https://codeforces.com/contest/2145/problem/B) - Done
 
 [C. Monocarp's String](https://codeforces.com/contest/2145/problem/C)
 
