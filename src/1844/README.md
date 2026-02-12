@@ -4,7 +4,7 @@
 
 [A. Subtraction Game](https://codeforces.com/contest/1844/problem/A) - Done
 
-[B. Permutations & Primes](https://codeforces.com/contest/1844/problem/B)
+[B. Permutations & Primes](https://codeforces.com/contest/1844/problem/B) - Done
 
 [C. Particles](https://codeforces.com/contest/1844/problem/C)
 
