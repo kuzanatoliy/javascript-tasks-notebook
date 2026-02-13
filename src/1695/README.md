@@ -4,7 +4,7 @@
 
 [A. Subrectangle Guess](https://codeforces.com/contest/1695/problem/A) - Done
 
-[B. Circle Game](https://codeforces.com/contest/1695/problem/B)
+[B. Circle Game](https://codeforces.com/contest/1695/problem/B) - Done
 
 [C. Zero Path](https://codeforces.com/contest/1695/problem/C)
 
