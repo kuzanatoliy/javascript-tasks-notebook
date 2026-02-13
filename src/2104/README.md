@@ -4,7 +4,7 @@
 
 [A. Three Decks](https://codeforces.com/contest/2104/problem/A) - Done
 
-[B. Move to the End](https://codeforces.com/contest/2104/problem/B)
+[B. Move to the End](https://codeforces.com/contest/2104/problem/B) - Done
 
 [C. Card Game](https://codeforces.com/contest/2104/problem/C)
 
