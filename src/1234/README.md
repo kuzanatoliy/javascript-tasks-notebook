@@ -6,7 +6,7 @@
 
 [B1. Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) - Done
 
-[B2. Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2)
+[B2. Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2) - Done
 
 [C. Pipes](https://codeforces.com/contest/1234/problem/C)
 

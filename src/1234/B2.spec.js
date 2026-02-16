@@ -1,6 +1,6 @@
-﻿const { getOrder } = require('./B1');
+﻿const { getOrder } = require('./B2');
 
-describe('1234B1. Social Network (easy version)', () => {
+describe('1234B2. Social Network (hard version)', () => {
   it.each`
     n    | k    | arr                               | result
     ${1} | ${2} | ${[1, 2, 3, 2, 1, 3, 2]}          | ${[2, 1]}
