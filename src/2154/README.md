@@ -4,7 +4,7 @@
 
 [A. Notelock](https://codeforces.com/contest/2154/problem/A) - Done
 
-[B. Make it Zigzag](https://codeforces.com/contest/2154/problem/B)
+[B. Make it Zigzag](https://codeforces.com/contest/2154/problem/B) - Done
 
 [C1. No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1)
 
