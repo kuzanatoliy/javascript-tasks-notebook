@@ -4,7 +4,7 @@
 
 [A. Balanced Substring](https://codeforces.com/contest/1567/problem/A) - Done
 
-[B. Chess Tournament](https://codeforces.com/contest/1567/problem/B)
+[B. Chess Tournament](https://codeforces.com/contest/1567/problem/B) - Done
 
 [C. Jury Meeting](https://codeforces.com/contest/1567/problem/C)
 
