@@ -4,7 +4,7 @@
 
 [A. Equalize Prices Again](https://codeforces.com/contest/1234/problem/A) - Done
 
-[B1. Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1)
+[B1. Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) - Done
 
 [B2. Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2)
 
