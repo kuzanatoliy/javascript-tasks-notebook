@@ -4,7 +4,7 @@
 
 [A. String Building](https://codeforces.com/contest/1671/problem/A) - Done
 
-[B. Consecutive Points Segment](https://codeforces.com/contest/1671/problem/B)
+[B. Consecutive Points Segment](https://codeforces.com/contest/1671/problem/B) - Done
 
 [C. Dolce Vita](https://codeforces.com/contest/1671/problem/C)
 
