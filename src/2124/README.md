@@ -4,7 +4,7 @@
 
 [A. Deranged Deletions](https://codeforces.com/contest/2124/problem/A) - Done
 
-[B. Minimise Sum](https://codeforces.com/contest/2124/problem/B)
+[B. Minimise Sum](https://codeforces.com/contest/2124/problem/B) - Done
 
 [C. Subset Multiplication](https://codeforces.com/contest/2124/problem/C)
 
