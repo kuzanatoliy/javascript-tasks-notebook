@@ -4,7 +4,7 @@
 
 [A. All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) - Done
 
-[B. Discounts](https://codeforces.com/contest/2143/problem/B)
+[B. Discounts](https://codeforces.com/contest/2143/problem/B) - Done
 
 [C. Max Tree](https://codeforces.com/contest/2143/problem/C)
 
