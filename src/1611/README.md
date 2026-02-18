@@ -6,7 +6,7 @@
 
 [B. Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B) - Done
 
-[C. Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C)
+[C. Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) - Done
 
 [D. Weights Assignment For Tree Edges](https://codeforces.com/contest/1611/problem/D)
 
