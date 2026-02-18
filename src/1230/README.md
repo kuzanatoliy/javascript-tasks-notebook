@@ -4,7 +4,7 @@
 
 [A. Dawid and Bags of Candies](https://codeforces.com/contest/1230/problem/A) - Done
 
-[B. Ania and Minimizing](https://codeforces.com/contest/1230/problem/B)
+[B. Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) - Done
 
 [C. Anadi and Domino](https://codeforces.com/contest/1230/problem/C)
 

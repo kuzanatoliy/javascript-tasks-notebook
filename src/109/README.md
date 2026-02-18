@@ -1,13 +1,13 @@
-# Codeforces Beta Round 80 (Div. 2 Only)
+# Codeforces Beta Round 84 (Div. 1 Only)
 
-[Dashboard](https://codeforces.com/contest/104)
+[Dashboard](https://codeforces.com/contest/109)
 
-[A. Blackjack](https://codeforces.com/contest/104/problem/A) - Done
+[A. Lucky Sum of Digits](https://codeforces.com/contest/109/problem/A) - Done
 
-[B. Testing Pants for Sadness](https://codeforces.com/contest/104/problem/B)
+[B. Lucky Probability](https://codeforces.com/contest/109/problem/B)
 
-[C. Cthulhu](https://codeforces.com/contest/104/problem/C)
+[C. Lucky Tree](https://codeforces.com/contest/109/problem/C)
 
-[D. Russian Roulette](https://codeforces.com/contest/104/problem/D)
+[D. Lucky Sorting](https://codeforces.com/contest/109/problem/D)
 
-[E. Time to Raid Cowavans](https://codeforces.com/contest/104/problem/E)
+[E. Lucky Interval](https://codeforces.com/contest/109/problem/E)
