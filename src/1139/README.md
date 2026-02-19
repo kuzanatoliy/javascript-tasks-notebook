@@ -4,7 +4,7 @@
 
 [A. Even Substrings](https://codeforces.com/contest/1139/problem/A) - Done
 
-[B. Chocolates](https://codeforces.com/contest/1139/problem/B)
+[B. Chocolates](https://codeforces.com/contest/1139/problem/B) - Done
 
 [C. Edgy Trees](https://codeforces.com/contest/1139/problem/C)
 
