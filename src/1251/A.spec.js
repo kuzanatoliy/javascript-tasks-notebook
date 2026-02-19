@@ -6,7 +6,7 @@ describe('1251A. Broken Keyboard', () => {
     ${1} | ${'a'}      | ${'a'}
     ${2} | ${'zzaaz'}  | ${'z'}
     ${3} | ${'ccff'}   | ${''}
-    ${3} | ${'cbddbb'} | ${'bc'}
+    ${4} | ${'cbddbb'} | ${'bc'}
   `('Base test: $n', ({ str, result }) => {
     expect(getCorrectCharactersSet(str)).toBe(result);
   });
