@@ -6,7 +6,7 @@
 
 [B. MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) - Done
 
-[C. MAX-MEX Cut](https://codeforces.com/contest/1566/problem/C)
+[C. MAX-MEX Cut](https://codeforces.com/contest/1566/problem/C) - Done
 
 [D1. Seating Arrangements (easy version)](https://codeforces.com/contest/1566/problem/D1)
 
