@@ -4,7 +4,7 @@
 
 [A. Pizza Time](https://codeforces.com/contest/2156/problem/A) - Done
 
-[B. Strange Machine](https://codeforces.com/contest/2156/problem/B)
+[B. Strange Machine](https://codeforces.com/contest/2156/problem/B) - Done
 
 [C. Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C)
 
