@@ -6,7 +6,7 @@
 
 [B. Fortune Telling](https://codeforces.com/contest/1634/problem/B) - Done
 
-[C. OKEA](https://codeforces.com/contest/1634/problem/C)
+[C. OKEA](https://codeforces.com/contest/1634/problem/C) - Done
 
 [D. Finding Zero](https://codeforces.com/contest/1634/problem/D)
 

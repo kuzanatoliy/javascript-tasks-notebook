@@ -6,7 +6,7 @@ describe('1634A. Reverse and Concatenate', () => {
     ${1} | ${2}  | ${'aab'}     | ${2}
     ${2} | ${3}  | ${'aab'}     | ${2}
     ${3} | ${1}  | ${'abacaba'} | ${1}
-    ${3} | ${0}  | ${'ab'}      | ${1}
+    ${4} | ${0}  | ${'ab'}      | ${1}
   `('Base test: $n', ({ count, string, result }) => {
     expect(getCountOfString(count, string)).toBe(result);
   });
