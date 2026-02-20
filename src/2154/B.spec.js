@@ -1,12 +1,16 @@
-﻿const { getCountOfSteps } = require('./B');
+﻿const { getCountOfOperations } = require('./B');
 
-describe('2154A. Notelock', () => {
+describe('2154B. Make it Zigzag', () => {
   it.each`
-    n    | machines    | queries           | result
-    ${1} | ${'BA'}     | ${[3, 4]}         | ${[2, 3]}
-    ${2} | ${'B'}      | ${[20]}           | ${[5]}
-    ${3} | ${'BAABBA'} | ${[2, 8, 32, 95]} | ${[2, 5, 8, 11]}
-  `('Base test: $n', ({ machines, queries, result }) => {
-    expect(getCountOfSteps(machines, queries)).toStrictEqual(result);
+    n    | arr                                     | result
+    ${1} | ${[1, 4, 2, 5, 3]}                      | ${0}
+    ${2} | ${[3, 3, 2, 1]}                         | ${1}
+    ${3} | ${[6, 6, 6, 6, 6]}                      | ${3}
+    ${4} | ${[1, 2, 3, 4, 5, 6, 7]}                | ${6}
+    ${5} | ${[3, 2, 1]}                            | ${1}
+    ${6} | ${[1, 2]}                               | ${0}
+    ${7} | ${[65, 85, 19, 53, 21, 79, 92, 29, 96]} | ${13}
+  `('Base test: $n', ({ arr, result }) => {
+    expect(getCountOfOperations(arr)).toStrictEqual(result);
   });
 });

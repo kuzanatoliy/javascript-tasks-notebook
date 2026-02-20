@@ -1,30 +1,12 @@
 ﻿module.exports = {
-  getCountOfSteps: (machines, queries) => {
-    const res = [];
-    let countA = 0;
-    for (let a = 0; a < machines.length; a++) {
-      countA += machines[a] === 'A';
+  getCountOfOperations: (arr) => {
+    for (let j = 1; j < arr.length; j += 2) {
+      arr[j] = Math.max(arr[j], arr[j - 1], arr[j - 2] || 0);
     }
-    if (countA === machines.length) {
-      return queries;
+    let count = arr[1] <= arr[0] ? arr[0] - arr[1] + 1 : 0;
+    for (let jj = 1; jj < arr.length; jj += 2) {
+      count += arr[jj] <= (arr[jj + 1] || 0) ? arr[jj + 1] - arr[jj] + 1 : 0;
     }
-    for (let j = 0; j < queries.length; j++) {
-      let m = 0;
-      let s = 0;
-      while (queries[j]) {
-        if (machines[m] === 'A') {
-          queries[j]--;
-        } else {
-          queries[j] = Math.floor(queries[j] / 2);
-        }
-        s++;
-        m++;
-        if (m === machines.length) {
-          m = 0;
-        }
-      }
-      res.push(s);
-    }
-    return res;
+    return count;
   },
 };
