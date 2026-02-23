@@ -1,6 +1,6 @@
 ﻿const { getMinCountOfSeatedStudents } = require('./B');
 
-describe('2191B. Seats', () => {
+describe('2188B. Seats', () => {
   it.each`
     n    | s                  | result
     ${1} | ${'0'}             | ${1}
