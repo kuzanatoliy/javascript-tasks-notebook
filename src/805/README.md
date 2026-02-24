@@ -4,7 +4,7 @@
 
 [A. Fake NP](https://codeforces.com/contest/807/problem/A) - Done
 
-[B. 3-palindrome](https://codeforces.com/contest/807/problem/B)
+[B. 3-palindrome](https://codeforces.com/contest/807/problem/B) - Done
 
 [C. Find Amir](https://codeforces.com/contest/807/problem/C)
 
