@@ -4,7 +4,7 @@
 
 [A. Summer Camp](https://codeforces.com/contest/672/problem/A) - Done
 
-[B. Different is Good](https://codeforces.com/contest/672/problem/B)
+[B. Different is Good](https://codeforces.com/contest/672/problem/B) - Done
 
 [C. Recycling Bottles](https://codeforces.com/contest/672/problem/C)
 
