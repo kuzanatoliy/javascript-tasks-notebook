@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToRecolor } = require('./A');
 
-describe('1017A. Doggo Recoloring', () => {
+describe('1025A. Doggo Recoloring', () => {
   it.each`
     n    | str         | result
     ${1} | ${'aabddc'} | ${'YES'}
