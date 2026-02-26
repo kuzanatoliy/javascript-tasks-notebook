@@ -4,7 +4,7 @@
 
 [A. Secret Sport](https://codeforces.com/contest/1894/problem/A) - Done
 
-[B. Two Out of Three](https://codeforces.com/contest/1894/problem/B)
+[B. Two Out of Three](https://codeforces.com/contest/1894/problem/B) - Done
 
 [C. Anonymous Informant](https://codeforces.com/contest/1894/problem/C)
 
