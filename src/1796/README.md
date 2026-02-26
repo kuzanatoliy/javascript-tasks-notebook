@@ -4,7 +4,7 @@
 
 [A. Typical Interview Problem](https://codeforces.com/contest/1796/problem/A) - Done
 
-[B. Asterisk-Minor Template](https://codeforces.com/contest/1796/problem/B)
+[B. Asterisk-Minor Template](https://codeforces.com/contest/1796/problem/B) - Done
 
 [C. Maximum Set](https://codeforces.com/contest/1796/problem/C)
 
