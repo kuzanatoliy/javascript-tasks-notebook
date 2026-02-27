@@ -4,7 +4,7 @@
 
 [A. Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) - Done
 
-[B. Roadside Trees (Simplified Edition)](https://codeforces.com/contest/265/problem/B)
+[B. Roadside Trees (Simplified Edition)](https://codeforces.com/contest/265/problem/B) - Done
 
 [C. Escape from Stones](https://codeforces.com/contest/265/problem/C)
 
