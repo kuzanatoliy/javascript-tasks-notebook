@@ -6,7 +6,7 @@
 
 [B. One Bomb](https://codeforces.com/contest/698/problem/B)
 
-[C. Vacations](https://codeforces.com/contest/698/problem/C)
+[C. Vacations](https://codeforces.com/contest/698/problem/C) - Done
 
 [D. Fix a Tree](https://codeforces.com/contest/698/problem/D)
 
