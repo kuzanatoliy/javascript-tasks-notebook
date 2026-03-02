@@ -4,7 +4,7 @@
 
 [A. Perfect Root](https://codeforces.com/contest/2185/problem/A) - Done
 
-[B. Prefix Max](https://codeforces.com/contest/2185/problem/B)
+[B. Prefix Max](https://codeforces.com/contest/2185/problem/B) - Done
 
 [C. Shifted MEX](https://codeforces.com/contest/2185/problem/C)
 
