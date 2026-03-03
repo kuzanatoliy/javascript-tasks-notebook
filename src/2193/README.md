@@ -2,9 +2,9 @@
 
 [Dashboard](https://codeforces.com/contest/2193)
 
-[A. DBMB and the Array](https://codeforces.com/contest/2193/problem/A)
+[A. DBMB and the Array](https://codeforces.com/contest/2193/problem/A) - Done
 
-[B. Reverse a Permutation](https://codeforces.com/contest/2193/problem/B)
+[B. Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) - Done
 
 [C. Replace and Sum](https://codeforces.com/contest/2193/problem/C) - Done
 
