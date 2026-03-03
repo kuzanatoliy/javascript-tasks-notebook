@@ -1,4 +1,4 @@
-﻿const { getArrValue } = require('./A');
+﻿const { getArrValue } = require('./B');
 
 describe('2185B. Prefix Max', () => {
   it.each`
