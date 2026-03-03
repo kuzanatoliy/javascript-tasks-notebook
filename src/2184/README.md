@@ -1,17 +1,17 @@
-# Codeforces Round 1068 (Div. 2)
+# Codeforces Round 1072 (Div. 3)
 
 [Dashboard](https://codeforces.com/contest/2184)
 
-[A. Little Fairy's Painting](https://codeforces.com/contest/2184/problem/A) - Done
+[A. Social Experiment](https://codeforces.com/contest/2184/problem/A) - Done
 
-[B. XOR Array](https://codeforces.com/contest/2184/problem/B)
+[B. Hourglass](https://codeforces.com/contest/2184/problem/B)
 
-[C. Needle in a Haystack](https://codeforces.com/contest/2184/problem/C)
+[C. Huge Pile](https://codeforces.com/contest/2184/problem/C)
 
-[D. Wishing Cards](https://codeforces.com/contest/2184/problem/D)
+[D. Unfair Game](https://codeforces.com/contest/2184/problem/D)
 
-[E1. Beautiful Patterns (Easy Version)](https://codeforces.com/contest/2184/problem/E1)
+[E. Exquisite Array](https://codeforces.com/contest/2184/problem/E)
 
-[E2. Beautiful Patterns (Hard Version)](https://codeforces.com/contest/2184/problem/E2)
+[F. Cherry Tree](https://codeforces.com/contest/2184/problem/F)
 
-[F. Secret Message](https://codeforces.com/contest/2184/problem/F)
+[G. Nastiness of Segments](https://codeforces.com/contest/2184/problem/G)
