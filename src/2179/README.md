@@ -4,7 +4,7 @@
 
 [A. Blackslex and Password](https://codeforces.com/contest/2179/problem/A) - Done
 
-[B. Blackslex and Showering](https://codeforces.com/contest/2179/problem/B)
+[B. Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) - Done
 
 [C. Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C)
 
