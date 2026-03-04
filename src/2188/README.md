@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2188)
 
-[A. Divisible Permutation](https://codeforces.com/contest/2188/problem/A)
+[A. Divisible Permutation](https://codeforces.com/contest/2188/problem/A) - Done
 
 [B. Seats](https://codeforces.com/contest/2188/problem/B) - Done
 
