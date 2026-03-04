@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2191)
 
-[A. Array Coloring](https://codeforces.com/contest/2191/problem/A)
+[A. Array Coloring](https://codeforces.com/contest/2191/problem/A) - Done
 
 [B. MEX Reordering](https://codeforces.com/contest/2191/problem/B) - Done
 
