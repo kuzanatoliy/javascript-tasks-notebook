@@ -4,7 +4,7 @@
 
 [A. New Year String](https://codeforces.com/contest/2184/problem/A) - Done
 
-[B. New Year Cake](https://codeforces.com/contest/2184/problem/B)
+[B. New Year Cake](https://codeforces.com/contest/2184/problem/B) - Done
 
 [C. Production of Snowmen](https://codeforces.com/contest/2184/problem/C)
 
