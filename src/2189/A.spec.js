@@ -1,6 +1,6 @@
-﻿const { getMaxDiff } = require('./A');
+﻿const { getMaxValue } = require('./A');
 
-describe('2184A. Table with Numbers', () => {
+describe('2184A. Table with h, l, arrbers', () => {
   it.each`
     n    | h    | l    | arr                         | result
     ${1} | ${1} | ${1} | ${[1, 1]}                   | ${1}
@@ -11,7 +11,7 @@ describe('2184A. Table with Numbers', () => {
     ${6} | ${6} | ${3} | ${[10, 4, 1, 3, 5, 4, 6]}   | ${2}
     ${7} | ${1} | ${1} | ${[1, 1, 1, 1]}             | ${2}
     ${8} | ${1} | ${1} | ${[1, 2]}                   | ${0}
-  `('Base test: $n', ({ num, result }) => {
-    expect(getMaxDiff(num)).toBe(result);
+  `('Base test: $n', ({ h, l, arr, result }) => {
+    expect(getMaxValue(h, l, arr)).toBe(result);
   });
 });
