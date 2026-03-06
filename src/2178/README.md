@@ -4,7 +4,7 @@
 
 [A. Yes or Yes](https://codeforces.com/contest/2178/problem/A) - Done
 
-[B. Impost or Sus](https://codeforces.com/contest/2178/problem/B)
+[B. Impost or Sus](https://codeforces.com/contest/2178/problem/B) - Done
 
 [C. First or Second](https://codeforces.com/contest/2178/problem/C)
 
