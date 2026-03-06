@@ -4,7 +4,7 @@
 
 [A. Cut the Array](https://codeforces.com/contest/2144/problem/A) - Done
 
-[B. Maximum Cost Permutation](https://codeforces.com/contest/2144/problem/B)
+[B. Maximum Cost Permutation](https://codeforces.com/contest/2144/problem/B) - Done
 
 [C. Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C)
 
