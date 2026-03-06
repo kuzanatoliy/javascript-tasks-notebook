@@ -6,7 +6,7 @@
 
 [B. Prefix Max](https://codeforces.com/contest/2185/problem/B) - Done
 
-[C. Shifted MEX](https://codeforces.com/contest/2185/problem/C)
+[C. Shifted MEX](https://codeforces.com/contest/2185/problem/C) - Done
 
 [D. OutOfMemoryError](https://codeforces.com/contest/2185/problem/D)
 
