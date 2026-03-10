@@ -4,7 +4,7 @@
 
 [A. Digits Sequence Dividing](https://codeforces.com/contest/1107/problem/A) - Done
 
-[B. Digital root](https://codeforces.com/contest/1107/problem/B)
+[B. Digital root](https://codeforces.com/contest/1107/problem/B) - Done
 
 [C. Brutality](https://codeforces.com/contest/1107/problem/C)
 
