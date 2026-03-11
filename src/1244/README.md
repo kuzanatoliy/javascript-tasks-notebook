@@ -4,7 +4,7 @@
 
 [A. Pens and Pencils](https://codeforces.com/contest/1244/problem/A) - Done
 
-[B. Rooms and Staircases](https://codeforces.com/contest/1244/problem/B)
+[B. Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) - Done
 
 [C. The Football Season](https://codeforces.com/contest/1244/problem/C)
 
