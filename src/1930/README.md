@@ -4,7 +4,7 @@
 
 [A. Maximise The Score](https://codeforces.com/contest/1930/problem/A) - Done
 
-[B. Permutation Printing](https://codeforces.com/contest/1930/problem/B)
+[B. Permutation Printing](https://codeforces.com/contest/1930/problem/B) - Done
 
 [C. Lexicographically Largest](https://codeforces.com/contest/1930/problem/C)
 
