@@ -4,7 +4,7 @@
 
 [A. Square of Rectangles](https://codeforces.com/contest/2120/problem/A) - Done
 
-[B. Square Pool](https://codeforces.com/contest/2120/problem/B)
+[B. Square Pool](https://codeforces.com/contest/2120/problem/B) - Done
 
 [C. Divine Tree](https://codeforces.com/contest/2120/problem/C)
 
