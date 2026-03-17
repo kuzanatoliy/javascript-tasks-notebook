@@ -4,7 +4,7 @@
 
 [A. Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) - Done
 
-[B. Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B)
+[B. Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) - Done
 
 [C1. Shohag Loves XOR (Easy Version)](https://codeforces.com/contest/2039/problem/C1)
 
