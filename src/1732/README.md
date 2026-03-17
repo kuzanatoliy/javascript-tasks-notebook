@@ -4,7 +4,7 @@
 
 [A. Bestie](https://codeforces.com/contest/1732/problem/A) - Done
 
-[B. Ugu](https://codeforces.com/contest/1732/problem/B)
+[B. Ugu](https://codeforces.com/contest/1732/problem/B) - Done
 
 [C1. Sheikh (Easy version)](https://codeforces.com/contest/1732/problem/C1)
 
