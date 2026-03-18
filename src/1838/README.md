@@ -4,9 +4,9 @@
 
 [A. Blackboard List](https://codeforces.com/contest/1838/problem/A) - Done
 
-[B. Minimize Permutation Subarrays](https://codeforces.com/contest/1838/problem/B)
+[B. Minimize Permutation Subarrays](https://codeforces.com/contest/1838/problem/B) - Done
 
-[C. No Prime Differences](https://codeforces.com/contest/1838/problem/C)
+[C. No Prime Differences](https://codeforces.com/contest/1838/problem/C) - Done
 
 [D. Bracket Walk](https://codeforces.com/contest/1838/problem/D)
 

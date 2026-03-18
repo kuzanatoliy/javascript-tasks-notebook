@@ -1,6 +1,6 @@
 ﻿const { getIndexes } = require('./B');
 
-describe('1834B. Maximum Strength', () => {
+describe('1834B. Minimize Permutation Subarrays', () => {
   it.each`
     n    | array                              | result
     ${1} | ${[1, 2, 3]}                       | ${[3, 2]}

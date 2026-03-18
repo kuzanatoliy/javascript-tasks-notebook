@@ -1,6 +1,6 @@
 ﻿const { getMatrix } = require('./C');
 
-describe('1834C. Game with Reversing', () => {
+describe('1834C. No Prime Differences', () => {
   it.each`
     n    | row  | col  | result
     ${1} | ${4} | ${4} | ${[[9, 10, 11, 12], [1, 2, 3, 4], [13, 14, 15, 16], [5, 6, 7, 8]]}

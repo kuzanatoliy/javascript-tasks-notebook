@@ -4,9 +4,9 @@
 
 [A. Unit Array](https://codeforces.com/contest/1834/problem/A) - Done
 
-[B. Maximum Strength](https://codeforces.com/contest/1834/problem/B) - Done
+[B. Maximum Strength](https://codeforces.com/contest/1834/problem/B)
 
-[C. Game with Reversing](https://codeforces.com/contest/1834/problem/C) - Done
+[C. Game with Reversing](https://codeforces.com/contest/1834/problem/C)
 
 [D. Survey in Class](https://codeforces.com/contest/1834/problem/D)
 
