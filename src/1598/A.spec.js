@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToWin } = require('./A');
 
-describe('1598A. Consecutive Sum Riddle', () => {
+describe('1598A. Computer Game', () => {
   it.each`
     n    | row1        | row2        | result
     ${1} | ${'000'}    | ${'000'}    | ${'YES'}

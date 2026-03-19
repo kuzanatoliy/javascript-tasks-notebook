@@ -1,17 +1,17 @@
-# Codeforces Round 747 (Div. 2)
+# Educational Codeforces Round 115 (Rated for Div. 2)
 
 [Dashboard](https://codeforces.com/contest/1598)
 
-[A. Consecutive Sum Riddle](https://codeforces.com/contest/1598/problem/A) - Done
+[A. Computer Game](https://codeforces.com/contest/1598/problem/A) - Done
 
-[B. Special Numbers](https://codeforces.com/contest/1598/problem/B)
+[B. Groups](https://codeforces.com/contest/1598/problem/B) - Done
 
-[C. Make Them Equal](https://codeforces.com/contest/1598/problem/C)
+[C. Delete Two Elements](https://codeforces.com/contest/1598/problem/C)
 
-[D. The Number of Imposters](https://codeforces.com/contest/1598/problem/D)
+[D. Training Session](https://codeforces.com/contest/1598/problem/D)
 
-[E1. Rubik's Cube Coloring (easy version)](https://codeforces.com/contest/1598/problem/E1)
+[E. Staircases](https://codeforces.com/contest/1598/problem/E)
 
-[E2. Rubik's Cube Coloring (hard version)](https://codeforces.com/contest/1598/problem/E2)
+[F. RBS](https://codeforces.com/contest/1598/problem/F)
 
-[F. Ideal Farm](https://codeforces.com/contest/1598/problem/F)
+[G. The Sum of Good Numbers](https://codeforces.com/contest/1598/problem/G)
