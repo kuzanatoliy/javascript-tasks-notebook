@@ -4,7 +4,7 @@
 
 [A. Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) - Done
 
-[B. Multiple Construction](https://codeforces.com/contest/2147/problem/B)
+[B. Multiple Construction](https://codeforces.com/contest/2147/problem/B) - Done
 
 [C. Rabbits](https://codeforces.com/contest/2147/problem/C)
 
