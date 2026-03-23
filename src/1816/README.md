@@ -4,7 +4,7 @@
 
 [A. Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) - Done
 
-[B. Grid Reconstruction](https://codeforces.com/contest/1816/problem/B)
+[B. Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) - Done
 
 [C. Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C)
 
