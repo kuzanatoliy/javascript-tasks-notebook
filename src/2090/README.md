@@ -4,7 +4,7 @@
 
 [A. Treasure Hunt](https://codeforces.com/contest/2090/problem/A) - Done
 
-[B. Pushing Balls](https://codeforces.com/contest/2090/problem/B)
+[B. Pushing Balls](https://codeforces.com/contest/2090/problem/B) - Done
 
 [C. Dining Hall](https://codeforces.com/contest/2090/problem/C)
 
