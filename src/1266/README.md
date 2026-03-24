@@ -4,7 +4,7 @@
 
 [A. Competitive Programmer](https://codeforces.com/contest/1266/problem/A) - Done
 
-[B. Dice Tower](https://codeforces.com/contest/1266/problem/B)
+[B. Dice Tower](https://codeforces.com/contest/1266/problem/B) - Done
 
 [C. Diverse Matrix](https://codeforces.com/contest/1266/problem/C)
 
