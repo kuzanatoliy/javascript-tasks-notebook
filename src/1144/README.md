@@ -6,7 +6,7 @@
 
 [B. Parity Alternated Deletions](https://codeforces.com/contest/1144/problem/B) - Done
 
-[C. Two Shuffled Sequences](https://codeforces.com/contest/1144/problem/C)
+[C. Two Shuffled Sequences](https://codeforces.com/contest/1144/problem/C) - Done
 
 [D. Equalize Them All](https://codeforces.com/contest/1144/problem/D)
 
