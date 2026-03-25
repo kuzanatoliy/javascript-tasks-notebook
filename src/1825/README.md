@@ -4,7 +4,7 @@
 
 [A. LuoTianyi and the Palindrome String](https://codeforces.com/contest/1825/problem/A) - Done
 
-[B. LuoTianyi and the Table](https://codeforces.com/contest/1825/problem/B)
+[B. LuoTianyi and the Table](https://codeforces.com/contest/1825/problem/B) - Done
 
 [C. LuoTianyi and the Show](https://codeforces.com/contest/1825/problem/C)
 
