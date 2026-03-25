@@ -6,7 +6,7 @@ Codeforces Round 684 (Div. 2)
 
 [A. Avoid Trygub](https://codeforces.com/contest/1450/problem/A) - Done
 
-[B. Balls of Steel](https://codeforces.com/contest/1450/problem/B)
+[B. Balls of Steel](https://codeforces.com/contest/1450/problem/B) - Done
 
 [C1. Errich-Tac-Toe (Easy Version)](https://codeforces.com/contest/1450/problem/C1)
 
