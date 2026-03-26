@@ -4,7 +4,7 @@
 
 [A. CME](https://codeforces.com/contest/1223/problem/A) - Done
 
-[B. Strings Equalization](https://codeforces.com/contest/1223/problem/B)
+[B. Strings Equalization](https://codeforces.com/contest/1223/problem/B) - Done
 
 [C. Save the Nature](https://codeforces.com/contest/1223/problem/C)
 
