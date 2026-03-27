@@ -4,7 +4,7 @@
 
 [A. King Keykhosrow's Mystery](https://codeforces.com/contest/2034/problem/A) - Done
 
-[B. Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B)
+[B. Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) - Done
 
 [C. Trapped in the Witch's Labyrinth](https://codeforces.com/contest/2034/problem/C)
 
