@@ -1,5 +1,5 @@
 /* eslint-disable no-undefined */
-const { dropRight } = require('./dropRight');
+const { dropRight } = require('./drop-right');
 
 describe('Lodash: dropRight function', () => {
   it.each`
