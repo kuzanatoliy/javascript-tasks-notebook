@@ -4,7 +4,7 @@
 
 [A. Maximum Square](https://codeforces.com/contest/1243/problem/A) - Done
 
-[B1. Character Swap (Easy Version)](https://codeforces.com/contest/1243/problem/B1)
+[B1. Character Swap (Easy Version)](https://codeforces.com/contest/1243/problem/B1) - Done
 
 [B2. Character Swap (Hard Version)](https://codeforces.com/contest/1243/problem/B2)
 
