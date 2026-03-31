@@ -4,7 +4,7 @@
 
 [A. Lame King](https://codeforces.com/contest/1804/problem/A) - Done
 
-[B. Vaccination](https://codeforces.com/contest/1804/problem/B)
+[B. Vaccination](https://codeforces.com/contest/1804/problem/B) - Done
 
 [C. Pull Your Luck](https://codeforces.com/contest/1804/problem/C)
 
