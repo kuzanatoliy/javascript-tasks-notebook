@@ -1,6 +1,6 @@
 ﻿const { getMaxValue } = require('./A');
 
-describe('2184A. Table with h, l, arrbers', () => {
+describe('2189A. Table with h, l, arrbers', () => {
   it.each`
     n    | h    | l    | arr                         | result
     ${1} | ${1} | ${1} | ${[1, 1]}                   | ${1}
