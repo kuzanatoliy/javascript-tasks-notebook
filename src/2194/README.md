@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2194)
 
-[A. Lawn Mower](https://codeforces.com/contest/2194/problem/A)
+[A. Lawn Mower](https://codeforces.com/contest/2194/problem/A) - Done
 
 [B. Offshores](https://codeforces.com/contest/2194/problem/B) - Done
 
