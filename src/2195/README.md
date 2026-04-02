@@ -4,7 +4,7 @@
 
 [A. Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) - Done
 
-[B. Heapify 1](https://codeforces.com/contest/2195/problem/B)
+[B. Heapify 1](https://codeforces.com/contest/2195/problem/B) - Done
 
 [C. Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C)
 
