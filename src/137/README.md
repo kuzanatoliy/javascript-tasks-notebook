@@ -4,7 +4,7 @@
 
 [A. Postcards and photos](https://codeforces.com/contest/137/problem/A) - Done
 
-[B. Permutation](https://codeforces.com/contest/137/problem/B)
+[B. Permutation](https://codeforces.com/contest/137/problem/B) - Done
 
 [C. History](https://codeforces.com/contest/137/problem/C)
 
