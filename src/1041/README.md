@@ -4,7 +4,7 @@
 
 [A. Heist](https://codeforces.com/contest/1041/problem/A) - Done
 
-[B. Buying a TV Set](https://codeforces.com/contest/1041/problem/B)
+[B. Buying a TV Set](https://codeforces.com/contest/1041/problem/B) - Done
 
 [C. Coffee Break](https://codeforces.com/contest/1041/problem/C)
 
