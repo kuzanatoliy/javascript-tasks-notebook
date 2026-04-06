@@ -1,6 +1,6 @@
 ﻿const { getMinSum } = require('./A');
 
-describe('387A. Fox and Number Game', () => {
+describe('389A. Fox and Number Game', () => {
   it.each`
     n    | arr                     | result
     ${1} | ${[1, 2]}               | ${2}
