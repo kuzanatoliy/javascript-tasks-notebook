@@ -4,7 +4,7 @@
 
 [A. Parallel Projection](https://codeforces.com/contest/1781/problem/A) - Done
 
-[B. Going to the Cinema](https://codeforces.com/contest/1781/problem/B)
+[B. Going to the Cinema](https://codeforces.com/contest/1781/problem/B) - Done
 
 [C. Equal Frequencies](https://codeforces.com/contest/1781/problem/C)
 
