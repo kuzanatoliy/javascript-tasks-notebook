@@ -4,7 +4,7 @@
 
 [A. Watching a movie](https://codeforces.com/contest/499/problem/A) - Done
 
-[B. Lecture](https://codeforces.com/contest/499/problem/B)
+[B. Lecture](https://codeforces.com/contest/499/problem/B) - Done
 
 [C. Crazy Town](https://codeforces.com/contest/499/problem/C)
 
