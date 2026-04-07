@@ -4,7 +4,7 @@
 
 [A. Two Permutations](https://codeforces.com/contest/1761/problem/A) - Done
 
-[B. Elimination of a Ring](https://codeforces.com/contest/1761/problem/B)
+[B. Elimination of a Ring](https://codeforces.com/contest/1761/problem/B) - Done
 
 [C. Set Construction](https://codeforces.com/contest/1761/problem/C)
 
