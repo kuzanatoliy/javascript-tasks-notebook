@@ -1,6 +1,6 @@
 ﻿const { getVariantsOfLikes } = require('./A');
 
-describe('1800A. Likes', () => {
+describe('1802A. Likes', () => {
   it.each`
     n    | map                         | result
     ${1} | ${[1, 2, -2]}               | ${[[1, 2, 1], [1, 0, 1]]}
