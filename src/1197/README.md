@@ -4,7 +4,7 @@
 
 [A. DIY Wooden Ladder](https://codeforces.com/contest/1197/problem/A) - Done
 
-[B. Pillars](https://codeforces.com/contest/1197/problem/B)
+[B. Pillars](https://codeforces.com/contest/1197/problem/B) - Done
 
 [C. Array Splitting](https://codeforces.com/contest/1197/problem/C)
 
