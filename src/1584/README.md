@@ -4,7 +4,7 @@
 
 [A. Mathematical Addition](https://codeforces.com/contest/1584/problem/A) - Done
 
-[B. Coloring Rectangles](https://codeforces.com/contest/1584/problem/B)
+[B. Coloring Rectangles](https://codeforces.com/contest/1584/problem/B) - Done
 
 [C. Two Arrays](https://codeforces.com/contest/1584/problem/C) - Done
 
