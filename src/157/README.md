@@ -4,7 +4,7 @@
 
 [A. Game Outcome](https://codeforces.com/contest/157/problem/A) - Done
 
-[B. Trace](https://codeforces.com/contest/157/problem/B)
+[B. Trace](https://codeforces.com/contest/157/problem/B) - Done
 
 [C. Message](https://codeforces.com/contest/157/problem/C)
 
