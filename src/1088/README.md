@@ -4,7 +4,7 @@
 
 [A. Ehab and another construction problem](https://codeforces.com/contest/1088/problem/A) - Done
 
-[B. Ehab and subtraction](https://codeforces.com/contest/1088/problem/B)
+[B. Ehab and subtraction](https://codeforces.com/contest/1088/problem/B) - Done
 
 [C. Ehab and a 2-operation task](https://codeforces.com/contest/1088/problem/C)
 
