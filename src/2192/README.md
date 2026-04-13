@@ -4,7 +4,7 @@
 
 [A. String Rotation Game](https://codeforces.com/contest/2192/problem/A) - Done
 
-[B. Flipping Binary String](https://codeforces.com/contest/2192/problem/B)
+[B. Flipping Binary String](https://codeforces.com/contest/2192/problem/B) - Done
 
 [C. All-in-one Gun](https://codeforces.com/contest/2192/problem/C)
 
