@@ -1,6 +1,6 @@
 ﻿const { getCountOfStones } = require('./A');
 
-describe('1059A. A pile of stones', () => {
+describe('1159A. A pile of stones', () => {
   it.each`
     n    | map        | result
     ${1} | ${'---'}   | ${0}
