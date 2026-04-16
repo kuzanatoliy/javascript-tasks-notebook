@@ -1,6 +1,6 @@
 ﻿const { getCountOfLitersOfWater } = require('./C');
 
-describe('2202A. Parkour Design', () => {
+describe('2204A. Parkour Design', () => {
   it.each`
     n    | a          | b        | c          | m                      | result
     ${1} | ${2n}      | ${1n}    | ${3n}      | ${10n}                 | ${[14n, 38n, 8n]}
