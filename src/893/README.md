@@ -4,7 +4,7 @@
 
 [A. Chess For Three](https://codeforces.com/contest/893/problem/A) - Done
 
-[B. Beautiful Divisors](https://codeforces.com/contest/893/problem/B)
+[B. Beautiful Divisors](https://codeforces.com/contest/893/problem/B) - Done
 
 [C. Rumor](https://codeforces.com/contest/893/problem/C)
 
