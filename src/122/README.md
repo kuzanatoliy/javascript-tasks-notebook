@@ -4,7 +4,7 @@
 
 [A. Lucky Division](https://codeforces.com/contest/122/problem/A) - Done
 
-[B. Lucky Substring](https://codeforces.com/contest/122/problem/B)
+[B. Lucky Substring](https://codeforces.com/contest/122/problem/B) - Done
 
 [C. Lucky Sum](https://codeforces.com/contest/122/problem/C)
 
