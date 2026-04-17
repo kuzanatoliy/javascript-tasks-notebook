@@ -4,7 +4,7 @@
 
 [A. Comparing Two Long Integers](https://codeforces.com/contest/616/problem/A) - Done
 
-[B. Dinner with Emma](https://codeforces.com/contest/616/problem/B)
+[B. Dinner with Emma](https://codeforces.com/contest/616/problem/B) - Done
 
 [C. The Labyrinth](https://codeforces.com/contest/616/problem/C)
 
