@@ -6,7 +6,7 @@
 
 [B1. TV Subscriptions (Easy Version)](https://codeforces.com/contest/1225/problem/B1) - Done
 
-[B2. TV Subscriptions (Hard Version)](https://codeforces.com/contest/1225/problem/B2)
+[B2. TV Subscriptions (Hard Version)](https://codeforces.com/contest/1225/problem/B2) - Done
 
 [C. p-binary](https://codeforces.com/contest/1225/problem/C)
 
