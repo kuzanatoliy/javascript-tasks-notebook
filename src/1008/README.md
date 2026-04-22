@@ -4,7 +4,7 @@
 
 [A. Romaji](https://codeforces.com/contest/1008/problem/A) - Done
 
-[B. Turn the Rectangles](https://codeforces.com/contest/1008/problem/B)
+[B. Turn the Rectangles](https://codeforces.com/contest/1008/problem/B) - Done
 
 [C. Reorder the Array](https://codeforces.com/contest/1008/problem/C)
 
