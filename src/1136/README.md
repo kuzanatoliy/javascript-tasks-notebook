@@ -4,7 +4,7 @@
 
 [A. Nastya Is Reading a Book](https://codeforces.com/contest/1136/problem/A) - Done
 
-[B. Nastya Is Playing Computer Games](https://codeforces.com/contest/1136/problem/B)
+[B. Nastya Is Playing Computer Games](https://codeforces.com/contest/1136/problem/B) - Done
 
 [C. Nastya Is Transposing Matrices](https://codeforces.com/contest/1136/problem/C)
 
