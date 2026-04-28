@@ -10,7 +10,7 @@
 
 [D. Watch the Videos](https://codeforces.com/contest/1765/problem/D)
 
-[E. Exchange](https://codeforces.com/contest/1765/problem/E)
+[E. Exchange](https://codeforces.com/contest/1765/problem/E) - Done
 
 [F. Chemistry Lab](https://codeforces.com/contest/1765/problem/F)
 
