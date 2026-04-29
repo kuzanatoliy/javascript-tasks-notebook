@@ -4,7 +4,7 @@
 
 [A. Love Triangle](https://codeforces.com/contest/939/problem/A) - Done
 
-[B. Hamster Farm](https://codeforces.com/contest/939/problem/B)
+[B. Hamster Farm](https://codeforces.com/contest/939/problem/B) - Done
 
 [C. Convenient For Everybody](https://codeforces.com/contest/939/problem/C)
 
