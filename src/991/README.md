@@ -4,7 +4,7 @@
 
 [A. If at first you don't succeed...](https://codeforces.com/contest/991/problem/A) - Done
 
-[B. Getting an A](https://codeforces.com/contest/991/problem/B)
+[B. Getting an A](https://codeforces.com/contest/991/problem/B) - Done
 
 [C. Candies](https://codeforces.com/contest/991/problem/C)
 
