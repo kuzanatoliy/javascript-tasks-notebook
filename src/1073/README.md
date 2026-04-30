@@ -4,7 +4,7 @@
 
 [A. Diverse Substring](https://codeforces.com/contest/1073/problem/A) - Done
 
-[B. Vasya and Books](https://codeforces.com/contest/1073/problem/B)
+[B. Vasya and Books](https://codeforces.com/contest/1073/problem/B) - Done
 
 [C. Vasya and Robot](https://codeforces.com/contest/1073/problem/C)
 
