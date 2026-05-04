@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2204)
 
-[A. Passing the Ball](https://codeforces.com/contest/2204/problem/A)
+[A. Passing the Ball](https://codeforces.com/contest/2204/problem/A) - Done
 
 [B. Right Maximum](https://codeforces.com/contest/2204/problem/B)
 
