@@ -4,7 +4,7 @@
 
 [A. Eating Game](https://codeforces.com/contest/2200/problem/A) - Done
 
-[B. Deletion Sort](https://codeforces.com/contest/2200/problem/B)
+[B. Deletion Sort](https://codeforces.com/contest/2200/problem/B) - Done
 
 [C. Specialty String](https://codeforces.com/contest/2200/problem/C)
 
