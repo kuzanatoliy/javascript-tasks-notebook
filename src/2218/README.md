@@ -6,7 +6,7 @@
 
 [B. The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) - Done
 
-[C. The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C)
+[C. The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) - Done
 
 [D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D)
 
