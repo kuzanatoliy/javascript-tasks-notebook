@@ -4,7 +4,7 @@
 
 [A. The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) - Done
 
-[B. The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B)
+[B. The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) - Done
 
 [C. The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C)
 
