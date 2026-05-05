@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2217)
 
-[A. The Equalizer](https://codeforces.com/contest/2217/problem/A)
+[A. The Equalizer](https://codeforces.com/contest/2217/problem/A) - Done
 
 [B. Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) - Done
 
