@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2203)
 
-[A. Towers of Boxes](https://codeforces.com/contest/2203/problem/A)
+[A. Towers of Boxes](https://codeforces.com/contest/2203/problem/A) - Done
 
 [B. Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) - Done
 
