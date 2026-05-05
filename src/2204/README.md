@@ -4,7 +4,7 @@
 
 [A. Passing the Ball](https://codeforces.com/contest/2204/problem/A) - Done
 
-[B. Right Maximum](https://codeforces.com/contest/2204/problem/B)
+[B. Right Maximum](https://codeforces.com/contest/2204/problem/B) - Done
 
 [C. Spring](https://codeforces.com/contest/2204/problem/C) - Done
 
