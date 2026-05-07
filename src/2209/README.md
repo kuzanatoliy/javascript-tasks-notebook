@@ -4,7 +4,7 @@
 
 [A. Flip Flops](https://codeforces.com/contest/2209/problem/A) - Done
 
-[B. Array](https://codeforces.com/contest/2209/problem/B)
+[B. Array](https://codeforces.com/contest/2209/problem/B) - Done
 
 [C. Find the Zero](https://codeforces.com/contest/2209/problem/C)
 
