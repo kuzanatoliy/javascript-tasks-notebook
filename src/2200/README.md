@@ -6,7 +6,7 @@
 
 [B. Deletion Sort](https://codeforces.com/contest/2200/problem/B) - Done
 
-[C. Specialty String](https://codeforces.com/contest/2200/problem/C)
+[C. Specialty String](https://codeforces.com/contest/2200/problem/C) - Done
 
 [D. Portal](https://codeforces.com/contest/2200/problem/D)
 
