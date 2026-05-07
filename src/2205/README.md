@@ -4,7 +4,7 @@
 
 [A. Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) - Done
 
-[B. Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B)
+[B. Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) - Done
 
 [C. Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C)
 
