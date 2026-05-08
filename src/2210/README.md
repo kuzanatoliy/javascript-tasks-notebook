@@ -4,7 +4,7 @@
 
 [A. A Simple Sequence](https://codeforces.com/contest/2210/problem/A) - Done
 
-[B. Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B)
+[B. Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) - Done
 
 [C1. A Simple GCD Problem (Easy Version)](https://codeforces.com/contest/2210/problem/C1)
 
