@@ -4,7 +4,7 @@
 
 [A. Local Extrema](https://codeforces.com/contest/888/problem/A) - Done
 
-[B. Buggy Robot](https://codeforces.com/contest/888/problem/B)
+[B. Buggy Robot](https://codeforces.com/contest/888/problem/B) - Done
 
 [C. K-Dominant Character](https://codeforces.com/contest/888/problem/C)
 
