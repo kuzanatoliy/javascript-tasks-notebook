@@ -4,7 +4,7 @@
 
 [A. inc ARG](https://codeforces.com/contest/465/problem/A) - Done
 
-[B. Inbox (100500)](https://codeforces.com/contest/465/problem/B)
+[B. Inbox (100500)](https://codeforces.com/contest/465/problem/B) - Done
 
 [C. No to Palindromes!](https://codeforces.com/contest/465/problem/C)
 
