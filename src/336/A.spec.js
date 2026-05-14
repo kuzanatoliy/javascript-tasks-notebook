@@ -1,6 +1,6 @@
 ﻿const { getCoordinates } = require('./A');
 
-describe('336A. Vasily the Bear and Triangle', () => {
+describe('1036A. Vasily the Bear and Triangle', () => {
   it.each`
     n    | x      | y    | result
     ${1} | ${10}  | ${5} | ${[0, 15, 15, 0]}
