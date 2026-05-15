@@ -4,7 +4,7 @@
 
 [A. Professor GukiZ's Robot](https://codeforces.com/contest/620/problem/A) - Done
 
-[B. Grandfather Dovlet’s calculator](https://codeforces.com/contest/620/problem/B)
+[B. Grandfather Dovlet’s calculator](https://codeforces.com/contest/620/problem/B) - Done
 
 [C. Pearls in a Row](https://codeforces.com/contest/620/problem/C)
 
