@@ -4,7 +4,7 @@
 
 [A. Wasted Time](https://codeforces.com/contest/127/problem/A) - Done
 
-[B. Canvas Frames](https://codeforces.com/contest/127/problem/B)
+[B. Canvas Frames](https://codeforces.com/contest/127/problem/B) - Done
 
 [C. Hot Bath](https://codeforces.com/contest/127/problem/C)
 

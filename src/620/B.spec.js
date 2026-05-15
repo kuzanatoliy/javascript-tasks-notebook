@@ -1,6 +1,6 @@
 ﻿const { getSegmentsCount } = require('./B');
 
-describe("620A. Professor GukiZ's Robot", () => {
+describe('620B. Grandfather Dovlet’s calculator', () => {
   it.each`
     n    | x     | y     | result
     ${1} | ${1}  | ${3}  | ${12}
