@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/622)
 
-[A. Infinite Sequence](https://codeforces.com/contest/622/problem/A)
+[A. Infinite Sequence](https://codeforces.com/contest/622/problem/A) - Done
 
 [B. The Time](https://codeforces.com/contest/622/problem/B) - Done
 
