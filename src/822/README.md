@@ -4,7 +4,7 @@
 
 [A. I'm bored with life](https://codeforces.com/contest/822/problem/A) - Done
 
-[B. Crossword solving](https://codeforces.com/contest/822/problem/B)
+[B. Crossword solving](https://codeforces.com/contest/822/problem/B) - Done
 
 [C. Hacker, pack your bags!](https://codeforces.com/contest/822/problem/C)
 

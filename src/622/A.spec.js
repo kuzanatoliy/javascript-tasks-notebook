@@ -1,6 +1,6 @@
 ﻿const { getPositionValue } = require('./A');
 
-describe('622B. The Time', () => {
+describe('622A. Infinite Sequence', () => {
   it.each`
     n    | position | result
     ${1} | ${3}     | ${2}
