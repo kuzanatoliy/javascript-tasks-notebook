@@ -4,7 +4,7 @@
 
 [A. Fair Game](https://codeforces.com/contest/864/problem/A) - Done
 
-[B. Polycarp and Letters](https://codeforces.com/contest/864/problem/B)
+[B. Polycarp and Letters](https://codeforces.com/contest/864/problem/B) - Done
 
 [C. Bus](https://codeforces.com/contest/864/problem/C)
 
