@@ -1,4 +1,4 @@
-﻿const { getSums } = require('./A');
+﻿const { isItPossibleToTransform } = require('./A');
 
 describe('259A. Little Elephant and Chess', () => {
   it.each`
@@ -6,6 +6,6 @@ describe('259A. Little Elephant and Chess', () => {
     ${1} | ${['WBWBWBWB', 'BWBWBWBW', 'BWBWBWBW', 'BWBWBWBW', 'WBWBWBWB', 'WBWBWBWB', 'BWBWBWBW', 'WBWBWBWB']} | ${'YES'}
     ${2} | ${['WBWBWBWB', 'WBWBWBWB', 'BBWBWWWB', 'BWBWBWBW', 'BWBWBWBW', 'BWBWBWWW', 'BWBWBWBW', 'BWBWBWBW']} | ${'NO'}
   `('Base test: $n', ({ board, result }) => {
-    expect(getSums(board)).toBe(result);
+    expect(isItPossibleToTransform(board)).toBe(result);
   });
 });
