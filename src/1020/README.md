@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/1020)
 
-[A. New Building for SIS](https://codeforces.com/contest/1020/problem/A)
+[A. New Building for SIS](https://codeforces.com/contest/1020/problem/A) - Done
 
 [B. Badge](https://codeforces.com/contest/1020/problem/B) - Done
 
