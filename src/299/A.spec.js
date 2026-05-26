@@ -1,12 +1,12 @@
-﻿const { isItPossibleToReachTheEnd } = require('./A');
+﻿const { getCommonDivisor } = require('./A');
 
 describe('299B. Ksusha the Squirrel', () => {
   it.each`
-    n    | map          | k    | result
-    ${1} | ${'..'}      | ${1} | ${'YES'}
-    ${2} | ${'.#.#'}    | ${2} | ${'YES'}
-    ${3} | ${'.#.###.'} | ${3} | ${'NO'}
-  `('Base test: $n', ({ map, k, result }) => {
-    expect(isItPossibleToReachTheEnd(map, k)).toBe(result);
+    n    | arr                | result
+    ${1} | ${[2, 2, 4]}       | ${2}
+    ${2} | ${[2, 1, 3, 1, 6]} | ${1}
+    ${3} | ${[2, 3, 5]}       | ${-1}
+  `('Base test: $n', ({ arr, result }) => {
+    expect(getCommonDivisor(arr)).toBe(result);
   });
 });

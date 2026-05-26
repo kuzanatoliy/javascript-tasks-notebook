@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/299)
 
-[A. Ksusha and Array](https://codeforces.com/contest/299/problem/A)
+[A. Ksusha and Array](https://codeforces.com/contest/299/problem/A) - Done
 
 [B. Ksusha the Squirrel](https://codeforces.com/contest/299/problem/B) - Done
 

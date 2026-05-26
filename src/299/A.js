@@ -1,15 +1,16 @@
 ﻿module.exports = {
-  isItPossibleToReachTheEnd: (map, k) => {
-    let max = 0;
-    let c = 0;
-    for (let j = 0; j < map.length; j++) {
-      if (map[j] === '#') {
-        c++;
-        max = Math.max(c, max);
-      } else {
-        c = 0;
+  getCommonDivisor: (arr) => {
+    let [min] = arr;
+    for (let j = 1; j < arr.length; j++) {
+      if (min > arr[j]) {
+        min = arr[j];
       }
     }
-    return max < k ? 'YES' : 'NO';
+    for (let jj = 0; jj < arr.length; jj++) {
+      if (arr[jj] % min) {
+        return -1;
+      }
+    }
+    return min;
   },
 };
