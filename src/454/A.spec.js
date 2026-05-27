@@ -1,6 +1,6 @@
 ﻿const { getCrystal } = require('./A');
 
-describe('452A. Little Pony and Crystal Mine', () => {
+describe('454A. Little Pony and Crystal Mine', () => {
   it.each`
     n    | num  | result
     ${1} | ${3} | ${[['*', 'D', '*'], ['D', 'D', 'D'], ['*', 'D', '*']]}
