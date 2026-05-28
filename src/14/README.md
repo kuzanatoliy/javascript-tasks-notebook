@@ -4,7 +4,7 @@
 
 [A. Letter](https://codeforces.com/contest/14/problem/A) - Done
 
-[B. Young Photographer](https://codeforces.com/contest/14/problem/B)
+[B. Young Photographer](https://codeforces.com/contest/14/problem/B) - Done
 
 [C. Four Segments](https://codeforces.com/contest/14/problem/C)
 
