@@ -4,7 +4,7 @@
 
 [A. ACM ICPC](https://codeforces.com/contest/886/problem/A) - Done
 
-[B. Vlad and Cafes](https://codeforces.com/contest/886/problem/B)
+[B. Vlad and Cafes](https://codeforces.com/contest/886/problem/B) - Done
 
 [C. Petya and Catacombs](https://codeforces.com/contest/886/problem/C)
 
