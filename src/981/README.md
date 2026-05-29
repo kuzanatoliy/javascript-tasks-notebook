@@ -4,7 +4,7 @@
 
 [A. Antipalindrome](https://codeforces.com/contest/981/problem/A) - Done
 
-[B. Businessmen Problems](https://codeforces.com/contest/981/problem/B)
+[B. Businessmen Problems](https://codeforces.com/contest/981/problem/B) - Done
 
 [C. Useful Decomposition](https://codeforces.com/contest/981/problem/C)
 
