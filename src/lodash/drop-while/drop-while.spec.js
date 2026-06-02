@@ -1,5 +1,5 @@
 /* eslint-disable no-undefined */
-const { dropWhile } = require('./dropWhile');
+const { dropWhile } = require('./drop-while');
 
 const USERS = [
   { active: false, user: 'barney' },
