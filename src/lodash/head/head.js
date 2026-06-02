@@ -1,0 +1,3 @@
+module.exports = {
+  head: (arr) => arr[0],
+};
