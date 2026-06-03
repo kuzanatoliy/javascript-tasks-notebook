@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2229)
 
-[A. Slimes on a Line](https://codeforces.com/contest/2229/problem/A)
+[A. Slimes on a Line](https://codeforces.com/contest/2229/problem/A) - Done
 
 [B. Absolute Cinema](https://codeforces.com/contest/2229/problem/B) - Done
 
