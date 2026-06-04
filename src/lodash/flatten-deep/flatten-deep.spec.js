@@ -4,7 +4,7 @@ describe('Lodash: flattenDeep function', () => {
   it.each`
     n    | arr                      | result
     ${1} | ${[1, [2, [3, [4]], 5]]} | ${[1, 2, 3, 4, 5]}
-  `('Base test: $n', ({ arr, size, result }) => {
-    expect(flattenDeep(arr, size)).toStrictEqual(result);
+  `('Base test: $n', ({ arr, result }) => {
+    expect(flattenDeep(arr)).toStrictEqual(result);
   });
 });
