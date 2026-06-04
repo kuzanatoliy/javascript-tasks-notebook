@@ -6,7 +6,7 @@
 
 [B. Party Monster](https://codeforces.com/contest/2227/problem/B) - Done
 
-[C. Snowfall](https://codeforces.com/contest/2227/problem/C)
+[C. Snowfall](https://codeforces.com/contest/2227/problem/C) - Done
 
 [D. Palindromex](https://codeforces.com/contest/2227/problem/D)
 
