@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { flatten } = require('./flatten');
 
 describe('Lodash: flatten function', () => {
