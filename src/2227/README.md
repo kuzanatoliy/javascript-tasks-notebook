@@ -4,7 +4,7 @@
 
 [A. Koshary](https://codeforces.com/contest/2227/problem/A) - Done
 
-[B. Party Monster](https://codeforces.com/contest/2227/problem/B)
+[B. Party Monster](https://codeforces.com/contest/2227/problem/B) - Done
 
 [C. Snowfall](https://codeforces.com/contest/2227/problem/C)
 
