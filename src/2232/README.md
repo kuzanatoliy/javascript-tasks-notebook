@@ -4,7 +4,7 @@
 
 [A. Convergence](https://codeforces.com/contest/2232/problem/A) - Done
 
-[B. Cake Leveling](https://codeforces.com/contest/2232/problem/B)
+[B. Cake Leveling](https://codeforces.com/contest/2232/problem/B) - Done
 
 [C1. Seating Arrangement (Easy Version)](https://codeforces.com/contest/2232/problem/C1)
 
