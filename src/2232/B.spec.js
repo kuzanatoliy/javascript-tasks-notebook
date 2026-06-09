@@ -1,6 +1,6 @@
 ﻿const { getHeights } = require('./B');
 
-describe('2232A. Convergence', () => {
+describe('2232B. Cake Leveling', () => {
   it.each`
     n    | arr                                  | result
     ${1} | ${[4, 2, 3]}                         | ${[4, 3, 3]}

@@ -4,7 +4,7 @@
 
 [A. A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) - Done
 
-[B. Alternating String](https://codeforces.com/contest/2225/problem/B)
+[B. Alternating String](https://codeforces.com/contest/2225/problem/B) - Done
 
 [C. Red-Black Pairs](https://codeforces.com/contest/2225/problem/C)
 
