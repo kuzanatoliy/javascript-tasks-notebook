@@ -4,7 +4,7 @@
 
 [A. Declined Finalists](https://codeforces.com/contest/859/problem/A) - Done
 
-[B. Lazy Security Guard](https://codeforces.com/contest/859/problem/B)
+[B. Lazy Security Guard](https://codeforces.com/contest/859/problem/B) - Done
 
 [C. Pie Rules](https://codeforces.com/contest/859/problem/C)
 
