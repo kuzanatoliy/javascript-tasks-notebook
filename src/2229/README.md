@@ -6,7 +6,7 @@
 
 [B. Absolute Cinema](https://codeforces.com/contest/2229/problem/B) - Done
 
-[C1. We Be Flipping (Easy Version)](https://codeforces.com/contest/2229/problem/C1)
+[C1. We Be Flipping (Easy Version)](https://codeforces.com/contest/2229/problem/C1) - Done
 
 [C2. We Be Flipping (Hard Version)](https://codeforces.com/contest/2229/problem/C2)
 
