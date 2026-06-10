@@ -4,7 +4,7 @@
 
 [A. Construct an Array](https://codeforces.com/contest/2230/problem/A) - Done
 
-[B. Another Sorting Problem](https://codeforces.com/contest/2230/problem/B)
+[B. Another Sorting Problem](https://codeforces.com/contest/2230/problem/B) - Done
 
 [C. Chipmunk Theo and Equality](https://codeforces.com/contest/2230/problem/C)
 
