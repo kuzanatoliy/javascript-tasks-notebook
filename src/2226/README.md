@@ -4,7 +4,7 @@
 
 [A. Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) - Done
 
-[B. Everything Everywhere](https://codeforces.com/contest/2226/problem/B)
+[B. Everything Everywhere](https://codeforces.com/contest/2226/problem/B) - Done
 
 [C. Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C)
 
