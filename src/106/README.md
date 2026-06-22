@@ -4,7 +4,7 @@
 
 [A. Card Game](https://codeforces.com/contest/106/problem/A) - Done
 
-[B. Choosing Laptop](https://codeforces.com/contest/106/problem/B)
+[B. Choosing Laptop](https://codeforces.com/contest/106/problem/B) - Done
 
 [C. Buns](https://codeforces.com/contest/106/problem/C)
 
