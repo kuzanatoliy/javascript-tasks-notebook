@@ -4,7 +4,7 @@
 
 [A. Elevator or Stairs?](https://codeforces.com/contest/1054/problem/A) - Done
 
-[B. Appending Mex](https://codeforces.com/contest/1054/problem/B)
+[B. Appending Mex](https://codeforces.com/contest/1054/problem/B) - Done
 
 [C. Candies Distribution](https://codeforces.com/contest/1054/problem/C)
 
