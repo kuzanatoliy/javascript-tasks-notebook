@@ -1,4 +1,4 @@
-﻿const { getCountOfRooms } = require('./M');
+﻿const { getTemperature } = require('./M');
 
 describe('847M. Weather Tomorrow', () => {
   it.each`
@@ -8,6 +8,6 @@ describe('847M. Weather Tomorrow', () => {
     ${3} | ${[5, 1, -5]}          | ${-5}
     ${4} | ${[900, 1000]}         | ${1100}
   `('Base test: $n', ({ arr, result }) => {
-    expect(getCountOfRooms(arr)).toBe(result);
+    expect(getTemperature(arr)).toBe(result);
   });
 });
