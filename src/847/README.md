@@ -26,4 +26,4 @@
 
 [L. Berland SU Computer Network](https://codeforces.com/contest/847/problem/L)
 
-[M. Weather Tomorrow](https://codeforces.com/contest/847/problem/M)
+[M. Weather Tomorrow](https://codeforces.com/contest/847/problem/M) - Done
