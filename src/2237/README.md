@@ -4,7 +4,7 @@
 
 [A. Destroying Towers](https://codeforces.com/contest/2236/problem/A)
 
-[B. Annoying the Ghost](https://codeforces.com/contest/2236/problem/B)
+[B. Annoying the Ghost](https://codeforces.com/contest/2236/problem/B) - Done
 
 [C. Duck Surplus](https://codeforces.com/contest/2236/problem/C) - Done
 
