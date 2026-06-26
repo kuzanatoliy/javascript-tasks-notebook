@@ -1,0 +1,11 @@
+﻿const { getOrder } = require('./A');
+
+describe('660B. Seating On Bus', () => {
+  it.each`
+    n    | num  | m     | result
+    ${1} | ${2} | ${7}  | ${[5, 1, 6, 2, 7, 3, 4]}
+    ${2} | ${9} | ${36} | ${[19, 1, 20, 2, 21, 3, 22, 4, 23, 5, 24, 6, 25, 7, 26, 8, 27, 9, 28, 10, 29, 11, 30, 12, 31, 13, 32, 14, 33, 15, 34, 16, 35, 17, 36, 18]}
+  `('Base test: $n', ({ num, m, result }) => {
+    expect(getOrder(num, m)).toStrictEqual(result);
+  });
+});
