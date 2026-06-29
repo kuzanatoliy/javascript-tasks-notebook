@@ -6,7 +6,7 @@
 
 [A2. Good Matrix Elements](https://codeforces.com/contest/177/problem/A2) - Done
 
-[B1. Rectangular Game](https://codeforces.com/contest/177/problem/B1)
+[B1. Rectangular Game](https://codeforces.com/contest/177/problem/B1) - Done
 
 [B2. Rectangular Game](https://codeforces.com/contest/177/problem/B2)
 
