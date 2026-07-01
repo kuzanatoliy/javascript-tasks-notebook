@@ -11,6 +11,6 @@ describe('2236C. Omsk Programmers', () => {
     ${6} | ${4}  | ${7}  | ${2}  | ${2}
     ${7} | ${1}  | ${6}  | ${2}  | ${2}
   `('Base test: $n', ({ a, b, x, result }) => {
-    expect(getOperationCount(a, b, x)).toStrictEqual(result);
+    expect(getOperationCount(a, b, x)).toBe(result);
   });
 });

@@ -1,4 +1,4 @@
-﻿const { getMinBoundary } = require('./C');
+﻿const { getMinBoundary } = require('./A');
 
 describe('2236A. Games on the Train', () => {
   it.each`
@@ -8,6 +8,6 @@ describe('2236A. Games on the Train', () => {
     ${3} | ${[5, 4, 6, 6, 1]} | ${6}
     ${4} | ${[3, 3, 3, 3]}    | ${1}
   `('Base test: $n', ({ arr, result }) => {
-    expect(getMinBoundary(arr)).toStrictEqual(result);
+    expect(getMinBoundary(arr)).toBe(result);
   });
 });

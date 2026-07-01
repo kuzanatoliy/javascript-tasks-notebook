@@ -4,7 +4,7 @@
 
 [A. Games on the Train](https://codeforces.com/contest/2236/problem/A) - Done
 
-[B. Tatar TV Show](https://codeforces.com/contest/2236/problem/B)
+[B. Tatar TV Show](https://codeforces.com/contest/2236/problem/B) - Done
 
 [C. Omsk Programmers](https://codeforces.com/contest/2236/problem/C) - Done
 
