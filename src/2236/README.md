@@ -2,7 +2,7 @@
 
 [Dashboard](https://codeforces.com/contest/2236)
 
-[A. Games on the Train](https://codeforces.com/contest/2236/problem/A)
+[A. Games on the Train](https://codeforces.com/contest/2236/problem/A) - Done
 
 [B. Tatar TV Show](https://codeforces.com/contest/2236/problem/B)
 
