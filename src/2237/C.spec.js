@@ -1,6 +1,6 @@
 ﻿const { getMaxSum } = require('./C');
 
-describe('2236C. Duck Surplus', () => {
+describe('2337C. Duck Surplus', () => {
   it.each`
     n     | arr                                                         | result
     ${1}  | ${[1, 3, 5]}                                                | ${5}

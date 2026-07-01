@@ -1,6 +1,6 @@
 ﻿const { getOperationCount } = require('./B');
 
-describe('2236B. Annoying the Ghost', () => {
+describe('2337B. Annoying the Ghost', () => {
   it.each`
     n     | arrA                     | arrB                     | result
     ${1}  | ${[1, 2, 2]}             | ${[1, 3, 5]}             | ${0}
