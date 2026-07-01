@@ -4,7 +4,7 @@
 
 [A. Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) - Done
 
-[B. Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B)
+[B. Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) - Done
 
 [C. Vessels, Heights and Two Versions (Easy Version)](https://codeforces.com/contest/2234/problem/C)
 
