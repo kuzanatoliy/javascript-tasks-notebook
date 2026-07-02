@@ -4,7 +4,7 @@
 
 [A. AI Project Development](https://codeforces.com/contest/2233/problem/A) - Done
 
-[B. Different Distances](https://codeforces.com/contest/2233/problem/B)
+[B. Different Distances](https://codeforces.com/contest/2233/problem/B) - Done
 
 [C. Cost of a Bracket Sequence](https://codeforces.com/contest/2233/problem/C)
 
