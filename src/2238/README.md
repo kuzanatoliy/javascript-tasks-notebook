@@ -4,7 +4,7 @@
 
 [A. Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) - Done
 
-[B. Crimson Triples](https://codeforces.com/contest/2238/problem/B)
+[B. Crimson Triples](https://codeforces.com/contest/2238/problem/B) - Done
 
 [C. Village Guilds](https://codeforces.com/contest/2238/problem/C)
 
