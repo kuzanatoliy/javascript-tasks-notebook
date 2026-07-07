@@ -1,6 +1,6 @@
-﻿const { getOperationsCounts } = require('./A2');
+﻿const { getOperationsCounts } = require('./A3');
 
-describe('178A2. Educational Game', () => {
+describe('178A3. Educational Game', () => {
   it.each`
     n    | arr                         | result
     ${1} | ${[1, 0, 1, 2]}             | ${[1, 1, 3]}

@@ -6,7 +6,7 @@
 
 [A2. Educational Game](https://codeforces.com/contest/178/problem/A2) - Done
 
-[A3. Educational Game](https://codeforces.com/contest/178/problem/A3)
+[A3. Educational Game](https://codeforces.com/contest/178/problem/A3) - Done
 
 [B1. Greedy Merchants](https://codeforces.com/contest/178/problem/B1)
 
