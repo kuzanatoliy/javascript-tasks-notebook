@@ -4,7 +4,7 @@
 
 [A1. Educational Game](https://codeforces.com/contest/178/problem/A1) - Done
 
-[A2. Educational Game](https://codeforces.com/contest/178/problem/A2)
+[A2. Educational Game](https://codeforces.com/contest/178/problem/A2) - Done
 
 [A3. Educational Game](https://codeforces.com/contest/178/problem/A3)
 
