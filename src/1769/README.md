@@ -4,7 +4,7 @@
 
 [A. Узкая дорога](https://codeforces.com/contest/1769/problem/A) - Done
 
-[B1. Копирование файлов I](https://codeforces.com/contest/1769/problem/B1)
+[B1. Копирование файлов I](https://codeforces.com/contest/1769/problem/B1) - Done
 
 [B2. Копирование файлов II](https://codeforces.com/contest/1769/problem/B2)
 
