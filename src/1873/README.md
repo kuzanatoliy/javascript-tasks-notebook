@@ -10,7 +10,7 @@
 
 [D. 1D Eraser](https://codeforces.com/contest/1873/problem/D) - Done
 
-[E. Building an Aquarium](https://codeforces.com/contest/1873/problem/E)
+[E. Building an Aquarium](https://codeforces.com/contest/1873/problem/E) - Done
 
 [F. Money Trees](https://codeforces.com/contest/1873/problem/F)
 
