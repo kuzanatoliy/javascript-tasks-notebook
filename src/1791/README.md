@@ -10,7 +10,7 @@
 
 [D. Distinct Split](https://codeforces.com/contest/1791/problem/D) - Done
 
-[E. Negatives and Positives](https://codeforces.com/contest/1791/problem/E)
+[E. Negatives and Positives](https://codeforces.com/contest/1791/problem/E) - Done
 
 [F. Range Update Point Query](https://codeforces.com/contest/1791/problem/F)
 
