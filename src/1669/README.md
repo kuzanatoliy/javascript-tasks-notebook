@@ -12,7 +12,7 @@
 
 [E. 2-Letter Strings](https://codeforces.com/contest/1669/problem/E)
 
-[F. Eating Candies](https://codeforces.com/contest/1669/problem/F)
+[F. Eating Candies](https://codeforces.com/contest/1669/problem/F) - Done
 
 [G. Fall Down](https://codeforces.com/contest/1669/problem/G)
 
