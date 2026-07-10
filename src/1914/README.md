@@ -6,7 +6,7 @@
 
 [B. Preparing for the Contest](https://codeforces.com/contest/1914/problem/B) - Done
 
-[C. Quests](https://codeforces.com/contest/1914/problem/C)
+[C. Quests](https://codeforces.com/contest/1914/problem/C) - Done
 
 [D. Three Activities](https://codeforces.com/contest/1914/problem/D)
 
