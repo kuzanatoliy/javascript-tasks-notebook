@@ -4,7 +4,7 @@
 
 [A. Least Product](https://codeforces.com/contest/1917/problem/A) - Done
 
-[B. Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B)
+[B. Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) - Done
 
 [C. Watering an Array](https://codeforces.com/contest/1917/problem/C)
 
