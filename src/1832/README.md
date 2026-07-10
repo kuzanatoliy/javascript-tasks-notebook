@@ -4,7 +4,7 @@
 
 [A. New Palindrome](https://codeforces.com/contest/1832/problem/A) - Done
 
-[B. Maximum Sum](https://codeforces.com/contest/1832/problem/B)
+[B. Maximum Sum](https://codeforces.com/contest/1832/problem/B) - Done
 
 [C. Contrast Value](https://codeforces.com/contest/1832/problem/C)
 
