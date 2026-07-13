@@ -8,7 +8,7 @@
 
 [C. Stripes](https://codeforces.com/contest/1742/problem/C) - Done
 
-[D. Coprime](https://codeforces.com/contest/1742/problem/D)
+[D. Coprime](https://codeforces.com/contest/1742/problem/D) - Done
 
 [E. Scuza](https://codeforces.com/contest/1742/problem/E)
 
