@@ -6,7 +6,7 @@
 
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B)
 
-[C. Yarik and Array](https://codeforces.com/contest/1899/problem/C)
+[C. Yarik and Array](https://codeforces.com/contest/1899/problem/C) - Done
 
 [D. Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D)
 
