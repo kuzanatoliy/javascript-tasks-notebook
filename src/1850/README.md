@@ -10,7 +10,7 @@
 
 [D. Balanced Round](https://codeforces.com/contest/1850/problem/D) - Done
 
-[E. Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E)
+[E. Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) - Done
 
 [F. We Were Both Children](https://codeforces.com/contest/1850/problem/F)
 
