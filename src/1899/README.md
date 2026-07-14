@@ -4,7 +4,7 @@
 
 [A. Game with Integers](https://codeforces.com/contest/1899/problem/A) - Done
 
-[B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B)
+[B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) - Done
 
 [C. Yarik and Array](https://codeforces.com/contest/1899/problem/C) - Done
 
