@@ -6,7 +6,7 @@
 
 [B. Missing Bigram](https://codeforces.com/contest/1618/problem/B) - Done
 
-[C. Paint the Array](https://codeforces.com/contest/1618/problem/C)
+[C. Paint the Array](https://codeforces.com/contest/1618/problem/C) - Done
 
 [D. Array and Operations](https://codeforces.com/contest/1618/problem/D)
 
