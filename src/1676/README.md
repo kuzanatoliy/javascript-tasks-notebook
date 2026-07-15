@@ -10,7 +10,7 @@
 
 [D. X-Sum](https://codeforces.com/contest/1676/problem/D) - Done
 
-[E. Eating Queries](https://codeforces.com/contest/1676/problem/E)
+[E. Eating Queries](https://codeforces.com/contest/1676/problem/E) - Done
 
 [F. Longest Strike](https://codeforces.com/contest/1676/problem/F)
 
