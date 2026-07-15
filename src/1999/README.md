@@ -8,7 +8,7 @@
 
 [C. Showering](https://codeforces.com/contest/1999/problem/C) - Done
 
-[D. Slavic's Exam](https://codeforces.com/contest/1999/problem/D)
+[D. Slavic's Exam](https://codeforces.com/contest/1999/problem/D) - Done
 
 [E. Triple Operations](https://codeforces.com/contest/1999/problem/E)
 
