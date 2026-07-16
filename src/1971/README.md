@@ -8,7 +8,7 @@
 
 [C. Clock and Strings](https://codeforces.com/contest/1971/problem/C) - Done
 
-[D. Binary Cut](https://codeforces.com/contest/1971/problem/D)
+[D. Binary Cut](https://codeforces.com/contest/1971/problem/D) - Done
 
 [E. Find the Car](https://codeforces.com/contest/1971/problem/E)
 
