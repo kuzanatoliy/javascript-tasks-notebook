@@ -4,7 +4,7 @@
 
 [A. Chips Moving](https://codeforces.com/contest/1213/problem/A) - Done
 
-[B. Bad Prices](https://codeforces.com/contest/1213/problem/B)
+[B. Bad Prices](https://codeforces.com/contest/1213/problem/B) - Done
 
 [C. Book Reading](https://codeforces.com/contest/1213/problem/C)
 
