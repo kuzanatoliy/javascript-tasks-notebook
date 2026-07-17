@@ -4,7 +4,7 @@
 
 [A. Sorting with Twos](https://codeforces.com/contest/1891/problem/A) - Done
 
-[B. Deja Vu](https://codeforces.com/contest/1891/problem/B)
+[B. Deja Vu](https://codeforces.com/contest/1891/problem/B) - Done
 
 [C. Smilo and Monsters](https://codeforces.com/contest/1891/problem/C)
 
