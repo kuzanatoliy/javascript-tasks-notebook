@@ -1,15 +1,17 @@
-# Educational Codeforces Round 147 (Rated for Div. 2)
+# Codeforces Round 873 (Div. 1)
 
 [Dashboard](https://codeforces.com/contest/1827)
 
-[A. Matching](https://codeforces.com/contest/1827/problem/A) - Done
+[A. Counting Orders](https://codeforces.com/contest/1827/problem/A) - Done
 
-[B. Sort the Subarray](https://codeforces.com/contest/1827/problem/B)
+[B1. Range Sorting (Easy Version)](https://codeforces.com/contest/1827/problem/B)
 
-[C. Tear It Apart](https://codeforces.com/contest/1827/problem/C)
+[B2. Range Sorting (Hard Version)](https://codeforces.com/contest/1827/problem/B)
 
-[D. Black Cells](https://codeforces.com/contest/1827/problem/D)
+[C. Palindrome Partition](https://codeforces.com/contest/1827/problem/C)
 
-[E. Rearrange Brackets](https://codeforces.com/contest/1827/problem/E)
+[D. Two Centroids](https://codeforces.com/contest/1827/problem/D)
 
-[F. Timber](https://codeforces.com/contest/1827/problem/F)
+[E. Bus Routes](https://codeforces.com/contest/1827/problem/E)
+
+[F. Copium Permutation](https://codeforces.com/contest/1827/problem/F)

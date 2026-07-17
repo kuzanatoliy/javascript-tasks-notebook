@@ -1,6 +1,6 @@
 ﻿const { getReordersCount } = require('./A');
 
-describe('1827A. Matching', () => {
+describe('1827A. Counting Orders', () => {
   it.each`
     n    | array1                                               | array2                                         | result
     ${1} | ${[9, 6, 8, 4, 5, 2]}                                | ${[4, 1, 5, 6, 3, 1]}                          | ${32}
