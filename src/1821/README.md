@@ -4,7 +4,7 @@
 
 [A. Matching](https://codeforces.com/contest/1821/problem/A) - Done
 
-[B. Sort the Subarray](https://codeforces.com/contest/1821/problem/B)
+[B. Sort the Subarray](https://codeforces.com/contest/1821/problem/B) - Done
 
 [C. Tear It Apart](https://codeforces.com/contest/1821/problem/C)
 
