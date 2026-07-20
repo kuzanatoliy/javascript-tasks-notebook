@@ -1,7 +1,7 @@
 /* eslint-disable no-undefined */
 const { intersectionBy } = require('./intersection-by');
 
-describe('Lodash: intersection function', () => {
+describe('Lodash: intersectionBy function', () => {
   it.each`
     n    | arrs                                  | fn            | result
     ${1} | ${[[2.1, 1.2], [2.3, 3.4]]}           | ${Math.floor} | ${[2.1]}
