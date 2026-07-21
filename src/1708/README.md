@@ -4,7 +4,7 @@
 
 [A. Difference Operations](https://codeforces.com/contest/1708/problem/A) - Done
 
-[B. Difference of GCDs](https://codeforces.com/contest/1708/problem/B)
+[B. Difference of GCDs](https://codeforces.com/contest/1708/problem/B) - Done
 
 [C. Doremy's IQ](https://codeforces.com/contest/1708/problem/C)
 
