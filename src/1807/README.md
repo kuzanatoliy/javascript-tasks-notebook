@@ -14,6 +14,6 @@
 
 [F. Bouncy Ball](https://codeforces.com/contest/1807/problem/F)
 
-[G1. Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1)
+[G1. Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) - Done
 
 [G2. Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) - Done

@@ -1,6 +1,6 @@
-﻿const { isItPossibleToBuild } = require('./G2');
+﻿const { isItPossibleToBuild } = require('./G1');
 
-describe('1807G2. Subsequence Addition (Hard Version)', () => {
+describe('1807G1. Subsequence Addition (Easy Version)', () => {
   it.each`
     n    | arr                | result
     ${1} | ${[1]}             | ${'YES'}
