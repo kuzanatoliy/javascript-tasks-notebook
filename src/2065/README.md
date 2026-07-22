@@ -6,7 +6,7 @@
 
 [B. Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) - Done
 
-[C1. Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1)
+[C1. Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) - Done
 
 [C2. Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2)
 
