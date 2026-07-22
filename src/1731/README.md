@@ -4,7 +4,7 @@
 
 [A. Joey Takes Money](https://codeforces.com/contest/1731/problem/A) - Done
 
-[B. Kill Demodogs](https://codeforces.com/contest/1731/problem/B)
+[B. Kill Demodogs](https://codeforces.com/contest/1731/problem/B) - Done
 
 [C. Even Subarrays](https://codeforces.com/contest/1731/problem/C)
 
