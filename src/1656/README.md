@@ -4,7 +4,7 @@
 
 [A. Good Pairs](https://codeforces.com/contest/1656/problem/A) - Done
 
-[B. Subtract Operation](https://codeforces.com/contest/1656/problem/B)
+[B. Subtract Operation](https://codeforces.com/contest/1656/problem/B) - Done
 
 [C. Make Equal With Mod](https://codeforces.com/contest/1656/problem/C)
 
