@@ -8,7 +8,7 @@
 
 [C1. Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) - Done
 
-[C2. Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2)
+[C2. Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2) - Done
 
 [D. Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D)
 
