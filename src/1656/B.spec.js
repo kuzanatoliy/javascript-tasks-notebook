@@ -1,4 +1,4 @@
-﻿const { isItPossibleToGetK } = require('./A');
+﻿const { isItPossibleToGetK } = require('./B');
 
 describe('1656B. Subtract Operation', () => {
   it.each`
