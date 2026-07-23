@@ -6,7 +6,7 @@
 
 [B. Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) - Done
 
-[C. Robin Hood in Town](https://codeforces.com/contest/2014/problem/C)
+[C. Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) - Done
 
 [D. Robert Hood and Mrs Hood](https://codeforces.com/contest/2014/problem/D)
 
