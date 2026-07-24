@@ -10,7 +10,7 @@
 
 [D. Gold Rush](https://codeforces.com/contest/1829/problem/D) - Done
 
-[E. The Lakes](https://codeforces.com/contest/1829/problem/E)
+[E. The Lakes](https://codeforces.com/contest/1829/problem/E) - Done
 
 [F. Forever Winter](https://codeforces.com/contest/1829/problem/F)
 

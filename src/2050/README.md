@@ -4,7 +4,7 @@
 
 [A. Line Breaks](https://codeforces.com/contest/2050/problem/A) - Done
 
-[B. Transfusion](https://codeforces.com/contest/2050/problem/B)
+[B. Transfusion](https://codeforces.com/contest/2050/problem/B) - Done
 
 [C. Uninteresting Number](https://codeforces.com/contest/2050/problem/C)
 
