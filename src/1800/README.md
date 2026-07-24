@@ -8,7 +8,7 @@
 
 [C1. Powering the Hero (easy version)](https://codeforces.com/contest/1800/problem/C1) - Done
 
-[C2. Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2)
+[C2. Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2) - Done
 
 [D. Remove Two Letters](https://codeforces.com/contest/1800/problem/D)
 
