@@ -1,4 +1,4 @@
-const { promiseAll } = require('./promiseAll');
+const { promiseAll } = require('./promise-all');
 
 describe('promiseAll', () => {
   it('Should get result array', async () => {

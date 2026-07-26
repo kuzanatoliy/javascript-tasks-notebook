@@ -1,4 +1,4 @@
-const { promiseAny } = require('./promiseAny');
+const { promiseAny } = require('./promise-any');
 
 describe('promiseAny', () => {
   it('Should get result', async () => {
