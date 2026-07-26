@@ -1,4 +1,4 @@
-const { promiseAllSettled } = require('./promiseAllSettled');
+const { promiseAllSettled } = require('./promise-all-settled');
 
 describe('promiseAllSettled', () => {
   it('Should get result array', async () => {
