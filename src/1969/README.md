@@ -6,7 +6,7 @@
 
 [B. Shifts and Sorting](https://codeforces.com/contest/1969/problem/B) - Done
 
-[C. Minimizing the Sum](https://codeforces.com/contest/1969/problem/C)
+[C. Minimizing the Sum](https://codeforces.com/contest/1969/problem/C) - Done
 
 [D. Shop Game](https://codeforces.com/contest/1969/problem/D)
 
