@@ -6,7 +6,7 @@
 
 [B. Moore's Law](https://codeforces.com/contest/630/problem/B)
 
-[C. Lucky Numbers](https://codeforces.com/contest/630/problem/C)
+[C. Lucky Numbers](https://codeforces.com/contest/630/problem/C) - Done
 
 [D. Hexagons!](https://codeforces.com/contest/630/problem/D)
 
