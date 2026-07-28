@@ -6,7 +6,7 @@
 
 [B. Game with Doors](https://codeforces.com/contest/2004/problem/B) - Done
 
-[C. Splitting Items](https://codeforces.com/contest/2004/problem/C)
+[C. Splitting Items](https://codeforces.com/contest/2004/problem/C) - Done
 
 [D. Colored Portals](https://codeforces.com/contest/2004/problem/D)
 
