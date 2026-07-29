@@ -4,7 +4,7 @@
 
 [A. Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) - Done
 
-[B. Tenzing and Books](https://codeforces.com/contest/1842/problem/B)
+[B. Tenzing and Books](https://codeforces.com/contest/1842/problem/B) - Done
 
 [C. Tenzing and Balls](https://codeforces.com/contest/1842/problem/C)
 
