@@ -4,7 +4,7 @@
 
 [A. Tavas and Nafas](https://codeforces.com/contest/513/problem/A) - Done
 
-[B. Tavas and SaDDas](https://codeforces.com/contest/513/problem/B)
+[B. Tavas and SaDDas](https://codeforces.com/contest/513/problem/B) - Done
 
 [C. Tavas and Karafs](https://codeforces.com/contest/513/problem/C)
 
