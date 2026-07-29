@@ -4,7 +4,7 @@
 
 [A. Hayato and School](https://codeforces.com/contest/1780/problem/A) - Done
 
-[B. GCD Partition](https://codeforces.com/contest/1780/problem/B)
+[B. GCD Partition](https://codeforces.com/contest/1780/problem/B) - Done
 
 [D. Bit Guessing Game](https://codeforces.com/contest/1780/problem/D)
 
