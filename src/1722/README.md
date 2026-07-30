@@ -8,7 +8,7 @@
 
 [C. Word Game](https://codeforces.com/contest/1722/problem/C) - Done
 
-[D. Line](https://codeforces.com/contest/1722/problem/D)
+[D. Line](https://codeforces.com/contest/1722/problem/D) - Done
 
 [E. Counting Rectangles](https://codeforces.com/contest/1722/problem/E)
 
