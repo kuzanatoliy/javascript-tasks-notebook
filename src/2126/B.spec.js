@@ -1,6 +1,6 @@
 ﻿const { getCountOfHikes } = require('./B');
 
-describe('2126A. Only One Digit', () => {
+describe('2126B. No Casino in the Mountains', () => {
   it.each`
     n    | arr                      | k    | result
     ${1} | ${[0, 1, 0, 0, 0]}       | ${1} | ${3}

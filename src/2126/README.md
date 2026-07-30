@@ -6,7 +6,7 @@
 
 [B. No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) - Done
 
-[C. I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C)
+[C. I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) - Done
 
 [D. This Is the Last Time](https://codeforces.com/contest/2126/problem/D)
 
