@@ -11,4 +11,19 @@ module.exports = {
     }
     return [...first, ...last];
   },
+
+  moveNumberToTheEndV2: (arr, target = 0) => {
+    let l = 0;
+    while (arr[l] !== target) {
+      l++;
+    }
+    for (let j = l + 1; j < arr.length; j++) {
+      if (arr[j] !== target) {
+        arr[l] = arr[j];
+        arr[j] = target;
+        l++;
+      }
+    }
+    return arr;
+  },
 };
