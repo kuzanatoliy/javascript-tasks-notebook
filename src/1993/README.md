@@ -4,7 +4,7 @@
 
 [A. Question Marks](https://codeforces.com/contest/1993/problem/A) - Done
 
-[B. Parity and Sum](https://codeforces.com/contest/1993/problem/B)
+[B. Parity and Sum](https://codeforces.com/contest/1993/problem/B) - Done
 
 [C. Light Switches](https://codeforces.com/contest/1993/problem/C)
 
