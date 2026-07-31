@@ -8,7 +8,7 @@
 
 [C. Clock Conversion](https://codeforces.com/contest/1950/problem/C) - Done
 
-[D. Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D)
+[D. Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) - Done
 
 [E. Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E)
 
