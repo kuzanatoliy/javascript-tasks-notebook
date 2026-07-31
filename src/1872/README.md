@@ -6,7 +6,7 @@
 
 [B. The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) - Done
 
-[C. Non-coprime Split](https://codeforces.com/contest/1872/problem/C)
+[C. Non-coprime Split](https://codeforces.com/contest/1872/problem/C) - Done
 
 [D. Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D)
 
