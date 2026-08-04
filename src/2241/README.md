@@ -4,7 +4,7 @@
 
 [A. Divide and Conquer](https://codeforces.com/contest/2241/problem/A) - Done
 
-[B. Good times Good times](https://codeforces.com/contest/2241/problem/B)
+[B. Good times Good times](https://codeforces.com/contest/2241/problem/B) - Done
 
 [C. RemovevomeR](https://codeforces.com/contest/2241/problem/C)
 
