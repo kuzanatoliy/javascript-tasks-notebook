@@ -1,12 +1,12 @@
 /* eslint-disable no-undefined */
-const { head } = require('./head');
+const { last } = require('./last');
 
-describe('Lodash: head function', () => {
+describe('Lodash: last function', () => {
   it.each`
     n    | arr          | result
-    ${1} | ${[1, 2, 3]} | ${1}
+    ${1} | ${[1, 2, 3]} | ${3}
     ${2} | ${[]}        | ${undefined}
   `('Base test: $n', ({ arr, result }) => {
-    expect(head(arr)).toBe(result);
+    expect(last(arr)).toBe(result);
   });
 });
