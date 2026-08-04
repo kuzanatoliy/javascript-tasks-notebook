@@ -4,7 +4,7 @@
 
 [A. Bigrams](https://codeforces.com/contest/2242/problem/A) - Done
 
-[B. Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B)
+[B. Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) - Done
 
 [C. Unstable Elements](https://codeforces.com/contest/2242/problem/C)
 
