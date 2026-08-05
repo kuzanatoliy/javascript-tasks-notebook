@@ -8,7 +8,7 @@ describe('2244A. Iskander and Drawings', () => {
     ${3} | ${'********'} | ${0}
     ${4} | ${'#*****##'} | ${1}
     ${5} | ${'*#####'}   | ${3}
-  `('Base test: $n', ({ map, k, result }) => {
-    expect(getMaxTime(map, k)).toBe(result);
+  `('Base test: $n', ({ map, result }) => {
+    expect(getMaxTime(map)).toBe(result);
   });
 });
