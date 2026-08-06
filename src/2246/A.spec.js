@@ -1,6 +1,6 @@
 ﻿const { getPermutation } = require('./A');
 
-describe('2248A. farmpiggie and Subset Sum', () => {
+describe('2246A. farmpiggie and Subset Sum', () => {
   it.each`
     n    | num  | result
     ${1} | ${2} | ${[2, 1]}
