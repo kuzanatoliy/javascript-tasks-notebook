@@ -4,7 +4,7 @@
 
 [A. Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) - Done
 
-[B. Nikita and Books](https://codeforces.com/contest/2244/problem/B)
+[B. Nikita and Books](https://codeforces.com/contest/2244/problem/B) - Done
 
 [C. Stepan and Permutation](https://codeforces.com/contest/2244/problem/C)
 
