@@ -4,7 +4,7 @@
 
 [A. farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) - Done
 
-[B. ezraft and Array](https://codeforces.com/contest/2246/problem/B)
+[B. ezraft and Array](https://codeforces.com/contest/2246/problem/B) - Done
 
 [C. 0mar and Alternating Sums](https://codeforces.com/contest/2246/problem/C)
 
