@@ -4,7 +4,7 @@
 
 [A. Zero Sum](https://codeforces.com/contest/2247/problem/A) - Done
 
-[B. Yet Another Constructive](https://codeforces.com/contest/2247/problem/B)
+[B. Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) - Done
 
 [C. Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C)
 

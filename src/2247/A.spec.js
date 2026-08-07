@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToTransform } = require('./A');
 
-describe('2248A. Zero Sum', () => {
+describe('2247A. Zero Sum', () => {
   it.each`
     n    | map                        | result
     ${1} | ${[-1]}                    | ${'NO'}
