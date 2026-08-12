@@ -4,7 +4,7 @@
 
 [A. Threshold Movement](https://codeforces.com/contest/2250/problem/A) - Done
 
-[B. String Construction](https://codeforces.com/contest/2250/problem/B)
+[B. String Construction](https://codeforces.com/contest/2250/problem/B) - Done
 
 [C. Rank Subsequence](https://codeforces.com/contest/2250/problem/C)
 
