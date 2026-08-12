@@ -4,7 +4,7 @@
 
 [A. You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) - Done
 
-[B. Merge to Match](https://codeforces.com/contest/2248/problem/B)
+[B. Merge to Match](https://codeforces.com/contest/2248/problem/B) - Done
 
 [C. Maximize the Score](https://codeforces.com/contest/2248/problem/C)
 
