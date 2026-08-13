@@ -4,7 +4,7 @@
 
 [A. Special Characters](https://codeforces.com/contest/1948/problem/A) - Done
 
-[B. Array Fix](https://codeforces.com/contest/1948/problem/B)
+[B. Array Fix](https://codeforces.com/contest/1948/problem/B) - Done
 
 [C. Arrow Path](https://codeforces.com/contest/1948/problem/C)
 
