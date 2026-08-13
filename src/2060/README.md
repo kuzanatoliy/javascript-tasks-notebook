@@ -8,7 +8,7 @@
 
 [C. Game of Mathletes](https://codeforces.com/contest/2060/problem/C) - Done
 
-[D. Subtract Min Sort](https://codeforces.com/contest/2060/problem/D)
+[D. Subtract Min Sort](https://codeforces.com/contest/2060/problem/D) - Done
 
 [E. Graph Composition](https://codeforces.com/contest/2060/problem/E)
 
