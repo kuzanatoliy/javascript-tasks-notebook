@@ -4,7 +4,7 @@
 
 [A. Li Hua and Maze](https://codeforces.com/contest/1797/problem/A) - Done
 
-[B. Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B)
+[B. Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) - Done
 
 [C. Li Hua and Chess](https://codeforces.com/contest/1797/problem/C)
 
