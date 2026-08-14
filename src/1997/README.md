@@ -6,7 +6,7 @@
 
 [B. Make Three Regions](https://codeforces.com/contest/1997/problem/B)
 
-[C. Even Positions](https://codeforces.com/contest/1997/problem/C)
+[C. Even Positions](https://codeforces.com/contest/1997/problem/C) - Done
 
 [D. Maximize the Root](https://codeforces.com/contest/1997/problem/D)
 
