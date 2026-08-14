@@ -6,7 +6,7 @@
 
 [B. Yaroslav and Two Strings](https://codeforces.com/contest/296/problem/B)
 
-[C. Greg and Array](https://codeforces.com/contest/296/problem/C)
+[C. Greg and Array](https://codeforces.com/contest/296/problem/C) - Done
 
 [D. Greg and Graph](https://codeforces.com/contest/296/problem/D)
 
