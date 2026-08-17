@@ -6,7 +6,7 @@
 
 [B. Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) - Done
 
-[C. Train and Queries](https://codeforces.com/contest/1702/problem/C)
+[C. Train and Queries](https://codeforces.com/contest/1702/problem/C) - Done
 
 [D. Not a Cheap String](https://codeforces.com/contest/1702/problem/D) - Done
 
