@@ -6,7 +6,7 @@
 
 [B. Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) - Done
 
-[C. Turtle Fingers: Count the Values of k](https://codeforces.com/contest/1933/problem/C)
+[C. Turtle Fingers: Count the Values of k](https://codeforces.com/contest/1933/problem/C) - Done
 
 [D. Turtle Tenacity: Continual Mods](https://codeforces.com/contest/1933/problem/D)
 
