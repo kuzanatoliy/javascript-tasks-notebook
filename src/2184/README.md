@@ -4,7 +4,7 @@
 
 [A. Social Experiment](https://codeforces.com/contest/2184/problem/A) - Done
 
-[B. Hourglass](https://codeforces.com/contest/2184/problem/B)
+[B. Hourglass](https://codeforces.com/contest/2184/problem/B) - Done
 
 [C. Huge Pile](https://codeforces.com/contest/2184/problem/C)
 
