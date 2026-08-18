@@ -4,7 +4,7 @@
 
 [A. Verify Password](https://codeforces.com/contest/1976/problem/A) - Done
 
-[B. Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B)
+[B. Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) - Done
 
 [C. Job Interview](https://codeforces.com/contest/1976/problem/C)
 
