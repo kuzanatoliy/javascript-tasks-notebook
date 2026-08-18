@@ -4,7 +4,7 @@
 
 [A. Anti Light's Cell Guessing](https://codeforces.com/contest/1610/problem/A) - Done
 
-[B. Kalindrome Array](https://codeforces.com/contest/1610/problem/B)
+[B. Kalindrome Array](https://codeforces.com/contest/1610/problem/B) - Done
 
 [C. Keshi Is Throwing a Party](https://codeforces.com/contest/1610/problem/C)
 
