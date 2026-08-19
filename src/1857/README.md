@@ -4,7 +4,7 @@
 
 [A. To My Critics](https://codeforces.com/contest/1857/problem/A) - Done
 
-[B. Ten Words of Wisdom](https://codeforces.com/contest/1857/problem/B)
+[B. Ten Words of Wisdom](https://codeforces.com/contest/1857/problem/B) - Done
 
 [C. Word on the Paper](https://codeforces.com/contest/1857/problem/C)
 
