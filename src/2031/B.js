@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-implicit-globals */
-module.exports = {
+﻿module.exports = {
   isItPossibleToReorder: (arr) => {
     const n = arr.length;
     const p = arr;

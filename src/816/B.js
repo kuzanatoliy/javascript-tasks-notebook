@@ -1,5 +1,4 @@
-﻿/* eslint-disable complexity */
-module.exports = {
+﻿module.exports = {
   getCountOfAdmissibleTemperatures: (advices, questions, k) => {
     const admissible = new Array(200001).fill(0);
     const result = new Array(200001).fill(0);

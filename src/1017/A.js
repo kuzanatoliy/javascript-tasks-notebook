@@ -1,5 +1,4 @@
-﻿/* eslint-disable prefer-destructuring */
-module.exports = {
+﻿module.exports = {
   getRank: (results) => {
     const sums = results.map((item) => item.reduce((a, b) => a + b, 0));
     let r = 1;

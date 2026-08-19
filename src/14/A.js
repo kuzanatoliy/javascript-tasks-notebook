@@ -1,6 +1,6 @@
 ﻿/* eslint-disable no-undefined */
 /* eslint-disable complexity */
-/* eslint-disable max-lines-per-function */
+
 module.exports = {
   getRectangle: (strings) => {
     let m1;

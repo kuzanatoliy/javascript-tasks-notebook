@@ -1,5 +1,4 @@
-﻿/* eslint-disable prefer-destructuring */
-module.exports = {
+﻿module.exports = {
   getCategory: (num) => {
     const d = num % 4;
     if (d === 0) {

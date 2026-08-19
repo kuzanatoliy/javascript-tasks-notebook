@@ -1,4 +1,5 @@
-﻿/* eslint-disable func-names */
+﻿/* eslint-disable no-invalid-this */
+/* eslint-disable func-names */
 function Dsu(number) {
   this.components = number;
   this.data = Array(number).fill(-1);

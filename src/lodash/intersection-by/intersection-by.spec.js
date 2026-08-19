@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { intersectionBy } = require('./intersection-by');
 
 describe('Lodash: intersectionBy function', () => {

@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { intersection } = require('./intersection');
 
 describe('Lodash: intersection function', () => {

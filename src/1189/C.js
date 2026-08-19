@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-const-assign */
-/* eslint-disable no-return-assign */
+﻿/* eslint-disable no-return-assign */
 module.exports = {
   getQueriesResults: (sequence, queries) => {
     let currSum = 0;

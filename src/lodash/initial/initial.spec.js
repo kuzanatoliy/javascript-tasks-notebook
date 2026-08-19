@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { initial } = require('./initial');
 
 describe('Lodash: initial function', () => {

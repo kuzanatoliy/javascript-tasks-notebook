@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-constant-condition */
-module.exports = {
+﻿module.exports = {
   getCountOfLayers: (a, b) => {
     let l1 = 0;
     let l2 = 0;
