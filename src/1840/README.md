@@ -4,7 +4,7 @@
 
 [A. Cipher Shifer](https://codeforces.com/contest/1840/problem/A) - Done
 
-[B. Binary Cafe](https://codeforces.com/contest/1840/problem/B)
+[B. Binary Cafe](https://codeforces.com/contest/1840/problem/B) - Done
 
 [C. Ski Resort](https://codeforces.com/contest/1840/problem/C) - Done
 
