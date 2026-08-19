@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { getBoxesCount } = require('./get-boxes-count');
 
 describe('getBoxesCount', () => {

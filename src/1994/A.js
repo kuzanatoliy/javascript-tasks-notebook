@@ -1,5 +1,4 @@
-﻿/* eslint-disable prefer-destructuring */
-module.exports = {
+﻿module.exports = {
   getTurnedMatrix: (matrix) => {
     const tm = [];
     for (let j = 0; j < matrix.length; j++) {

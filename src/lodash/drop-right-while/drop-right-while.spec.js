@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { dropRightWhile } = require('./drop-right-while');
 
 const USERS = [

@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-sparse-arrays */
-const { getMovements } = require('./A');
+﻿const { getMovements } = require('./A');
 
 describe('648B. Собери стол', () => {
   it.each`

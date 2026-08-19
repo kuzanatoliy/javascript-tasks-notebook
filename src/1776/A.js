@@ -1,5 +1,4 @@
-﻿/* eslint-disable consistent-return */
-module.exports = {
+﻿module.exports = {
   isItPossibleToWalkTwice: (arr) => {
     let c = Math.floor(arr[0] / 120);
     for (let j = 1; j < arr.length; j++) {

@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-undefined */
-module.exports = {
+﻿module.exports = {
   getMinCountOfFloors: (arr) => {
     if (arr.length % 2 === 1) {
       let count = 0;

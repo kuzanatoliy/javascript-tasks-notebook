@@ -1,5 +1,4 @@
-﻿/* eslint-disable max-params */
-module.exports = {
+﻿module.exports = {
   getBrokenStep: (arr) => {
     let can = 0;
     for (let j = 0; j < arr.length; j++) {

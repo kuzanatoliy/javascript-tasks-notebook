@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-constant-condition */
-module.exports = {
+﻿module.exports = {
   getCountOfSteps: (num) => {
     if (100 % num === 0) {
       return 100 / num;

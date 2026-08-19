@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { dropWhile } = require('./drop-while');
 
 const USERS = [

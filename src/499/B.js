@@ -1,5 +1,4 @@
-﻿/* eslint-disable prefer-destructuring */
-module.exports = {
+﻿module.exports = {
   transformMessage: (words, message) => {
     const w = {};
     for (let j = 0; j < words.length; j++) {

@@ -1,5 +1,4 @@
-﻿/* eslint-disable sort-keys */
-module.exports = {
+﻿module.exports = {
   getLastNumber: (arr) => {
     let [max] = arr;
     for (let j = 2; j < arr.length; j += 2) {

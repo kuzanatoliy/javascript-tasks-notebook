@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-constant-condition */
-module.exports = {
+﻿module.exports = {
   getMaxEqualPrice: (arr, k) => {
     let max = -1;
     let min = 99999999999;

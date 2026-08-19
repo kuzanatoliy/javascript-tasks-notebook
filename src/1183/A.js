@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-constant-condition */
-module.exports = {
+﻿module.exports = {
   getNirestNumber: (num) => {
     while (true) {
       const arr = num

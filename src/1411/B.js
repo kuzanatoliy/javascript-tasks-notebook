@@ -1,5 +1,5 @@
 ﻿/* eslint-disable no-loop-func */
-/* eslint-disable no-unmodified-loop-condition */
+
 module.exports = {
   getFairNumber: (num) => {
     while (

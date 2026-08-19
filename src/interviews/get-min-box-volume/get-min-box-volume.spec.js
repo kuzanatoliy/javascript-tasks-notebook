@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { getBoxesVolume } = require('./get-min-box-volume');
 
 describe('  getBoxesVolume', () => {

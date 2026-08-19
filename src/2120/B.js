@@ -1,5 +1,4 @@
-﻿/* eslint-disable max-params */
-module.exports = {
+﻿module.exports = {
   getCountOfBalls: (s, balls) => {
     let res = 0;
     for (let j = 0; j < balls.length; j++) {

@@ -1,4 +1,5 @@
-﻿/* eslint-disable max-depth */
+﻿/* eslint-disable no-invalid-this */
+/* eslint-disable max-depth */
 /* eslint-disable max-lines */
 /* eslint-disable prefer-destructuring */
 /* eslint-disable no-undefined */

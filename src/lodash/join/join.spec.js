@@ -1,4 +1,3 @@
-/* eslint-disable no-undefined */
 const { join } = require('./join');
 
 describe('Lodash: join function', () => {

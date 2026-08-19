@@ -1,5 +1,4 @@
-﻿/* eslint-disable no-constant-condition */
-module.exports = {
+﻿module.exports = {
   getMEX: (arr) => {
     arr.sort((a, b) => a - b);
     let ans = 0;
