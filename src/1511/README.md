@@ -4,7 +4,7 @@
 
 [A. Review Site](https://codeforces.com/contest/1511/problem/A) - Done
 
-[B. GCD Length](https://codeforces.com/contest/1511/problem/B)
+[B. GCD Length](https://codeforces.com/contest/1511/problem/B) - Done
 
 [C. Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) - Done
 
