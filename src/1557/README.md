@@ -4,7 +4,7 @@
 
 [A. Ezzat and Two Subsequences](https://codeforces.com/contest/1557/problem/A) - Done
 
-[B. Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B)
+[B. Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) - Done
 
 [C. Moamen and XOR](https://codeforces.com/contest/1557/problem/C)
 
