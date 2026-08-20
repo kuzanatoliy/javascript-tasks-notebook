@@ -4,7 +4,7 @@
 
 [A. Yura's New Name](https://codeforces.com/contest/1820/problem/A) - Done
 
-[B. JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B)
+[B. JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) - Done
 
 [C. Constructive Problem](https://codeforces.com/contest/1820/problem/C)
 
