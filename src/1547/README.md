@@ -6,7 +6,7 @@
 
 [B. Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) - Done
 
-[C. Pair Programming](https://codeforces.com/contest/1547/problem/C)
+[C. Pair Programming](https://codeforces.com/contest/1547/problem/C) - Done
 
 [D. Co-growing Sequence](https://codeforces.com/contest/1547/problem/D)
 

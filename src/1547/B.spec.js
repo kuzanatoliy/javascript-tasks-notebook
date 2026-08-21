@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToSortString } = require('./B');
 
-describe('1547A. Shortest Path with Obstacle', () => {
+describe('1547B. Alphabetical Strings', () => {
   it.each`
     n     | string         | result
     ${1}  | ${'a'}         | ${'YES'}
