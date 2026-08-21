@@ -4,7 +4,7 @@
 
 [A. Road To Zero](https://codeforces.com/contest/1342/problem/A) - Done
 
-[B. Binary Period](https://codeforces.com/contest/1342/problem/B)
+[B. Binary Period](https://codeforces.com/contest/1342/problem/B) - Done
 
 [C. Yet Another Counting Problem](https://codeforces.com/contest/1342/problem/C)
 
