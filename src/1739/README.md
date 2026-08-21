@@ -4,7 +4,7 @@
 
 [A. Immobile Knight](https://codeforces.com/contest/1739/problem/A) - Done
 
-[B. Array Recovery](https://codeforces.com/contest/1739/problem/B)
+[B. Array Recovery](https://codeforces.com/contest/1739/problem/B) - Done
 
 [C. Card Game](https://codeforces.com/contest/1739/problem/C)
 
