@@ -8,7 +8,7 @@
 
 [C. Hard Problem](https://codeforces.com/contest/2044/problem/C) - Done
 
-[D. Harder Problem](https://codeforces.com/contest/2044/problem/D)
+[D. Harder Problem](https://codeforces.com/contest/2044/problem/D) - Done
 
 [E. Insane Problem](https://codeforces.com/contest/2044/problem/E)
 
