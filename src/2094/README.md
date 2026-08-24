@@ -8,7 +8,7 @@
 
 [C. Brr Brrr Patapim](https://codeforces.com/contest/2094/problem/C) - Done
 
-[D. Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D)
+[D. Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) - Done
 
 [E. Boneca Ambalabu](https://codeforces.com/contest/2094/problem/E)
 
