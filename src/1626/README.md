@@ -4,7 +4,7 @@
 
 [A. Equidistant Letters](https://codeforces.com/contest/1626/problem/A) - Done
 
-[B. Minor Reduction](https://codeforces.com/contest/1626/problem/B)
+[B. Minor Reduction](https://codeforces.com/contest/1626/problem/B) - Done
 
 [C. Monsters And Spells](https://codeforces.com/contest/1626/problem/C)
 
