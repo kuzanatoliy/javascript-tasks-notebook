@@ -6,7 +6,7 @@
 
 [B. Beautiful Paintings](https://codeforces.com/contest/651/problem/B)
 
-[C. Watchmen](https://codeforces.com/contest/651/problem/C)
+[C. Watchmen](https://codeforces.com/contest/651/problem/C) - Done
 
 [D. Image Preview](https://codeforces.com/contest/651/problem/D)
 
