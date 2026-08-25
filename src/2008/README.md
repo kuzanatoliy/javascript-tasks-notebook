@@ -8,7 +8,7 @@
 
 [C. Longest Good Array](https://codeforces.com/contest/2008/problem/C) - Done
 
-[D. Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D)
+[D. Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) - Done
 
 [E. Alternating String](https://codeforces.com/contest/2008/problem/E)
 
