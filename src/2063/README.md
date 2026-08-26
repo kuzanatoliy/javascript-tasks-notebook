@@ -4,7 +4,7 @@
 
 [A. Minimal Coprime](https://codeforces.com/contest/2063/problem/A) - Done
 
-[B. Subsequence Update](https://codeforces.com/contest/2063/problem/B)
+[B. Subsequence Update](https://codeforces.com/contest/2063/problem/B) - Done
 
 [C. Remove Exactly Two](https://codeforces.com/contest/2063/problem/C)
 
