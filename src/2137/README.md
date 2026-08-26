@@ -6,7 +6,7 @@
 
 [B. Fun Permutation](https://codeforces.com/contest/2137/problem/B) - Done
 
-[C. Maximum Even Sum](https://codeforces.com/contest/2137/problem/C)
+[C. Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) - Done
 
 [D. Replace with Occurrences](https://codeforces.com/contest/2137/problem/D)
 
