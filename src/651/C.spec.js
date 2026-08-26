@@ -1,4 +1,4 @@
-﻿const { getCountOfPairs } = require('./A');
+﻿const { getCountOfPairs } = require('./C');
 
 describe('650C. Watchmen', () => {
   it.each`
