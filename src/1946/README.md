@@ -4,7 +4,7 @@
 
 [A. Median of an Array](https://codeforces.com/contest/1946/problem/A) - Done
 
-[B. Maximum Sum](https://codeforces.com/contest/1946/problem/B)
+[B. Maximum Sum](https://codeforces.com/contest/1946/problem/B) - Done
 
 [C. Tree Cutting](https://codeforces.com/contest/1946/problem/C)
 
