@@ -4,7 +4,7 @@
 
 [A. Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) - Done
 
-[B. Summation Game](https://codeforces.com/contest/1920/problem/B)
+[B. Summation Game](https://codeforces.com/contest/1920/problem/B) - Done
 
 [C. Partitioning the Array](https://codeforces.com/contest/1920/problem/C)
 
