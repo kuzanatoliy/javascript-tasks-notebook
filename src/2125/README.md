@@ -6,7 +6,7 @@
 
 [B. Left and Down](https://codeforces.com/contest/2125/problem/B) - Done
 
-[C. Count Good Numbers](https://codeforces.com/contest/2125/problem/C)
+[C. Count Good Numbers](https://codeforces.com/contest/2125/problem/C) - Done
 
 [D. Segments Covering](https://codeforces.com/contest/2125/problem/D)
 
