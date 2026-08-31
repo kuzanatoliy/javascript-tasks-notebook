@@ -6,7 +6,7 @@
 
 [B. Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) - Done
 
-[C. Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C)
+[C. Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) - Done
 
 [D. Blackslex and Penguin Civilization](https://codeforces.com/contest/2179/problem/D)
 

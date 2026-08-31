@@ -1,6 +1,6 @@
 ﻿const { getMinTime } = require('./B');
 
-describe("2179A. Little Fairy's Painting", () => {
+describe('2179B. Blackslex and Showering', () => {
   it.each`
     n    | arr                         | result
     ${1} | ${[4, 15, 1, 7, 9]}         | ${11}
