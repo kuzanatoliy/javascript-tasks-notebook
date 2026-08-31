@@ -6,7 +6,7 @@
 
 [B. Sequence Game](https://codeforces.com/contest/1862/problem/B) - Done
 
-[C. Flower City Fence](https://codeforces.com/contest/1862/problem/C)
+[C. Flower City Fence](https://codeforces.com/contest/1862/problem/C) - Done
 
 [D. Ice Cream Balls](https://codeforces.com/contest/1862/problem/D)
 
