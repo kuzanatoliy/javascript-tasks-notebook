@@ -6,7 +6,7 @@
 
 [B. Hourglass](https://codeforces.com/contest/2184/problem/B) - Done
 
-[C. Huge Pile](https://codeforces.com/contest/2184/problem/C)
+[C. Huge Pile](https://codeforces.com/contest/2184/problem/C) - Done
 
 [D. Unfair Game](https://codeforces.com/contest/2184/problem/D)
 
