@@ -4,7 +4,7 @@
 
 [A. Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) - Done
 
-[B. Gigantomachy](https://codeforces.com/contest/2257/problem/B)
+[B. Gigantomachy](https://codeforces.com/contest/2257/problem/B) - Done
 
 [C. Spying on the Beaver](https://codeforces.com/contest/2257/problem/C)
 
