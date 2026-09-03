@@ -16,7 +16,7 @@ describe('Lodash: findLastIndex function', () => {
     ${1} | ${USERS} | ${FUNCTION_CONDITION}               | ${2}
     ${2} | ${USERS} | ${{ active: true, user: 'barney' }} | ${0}
     ${3} | ${USERS} | ${['active', false]}                | ${2}
-    ${3} | ${USERS} | ${'active'}                         | ${2}
+    ${4} | ${USERS} | ${'active'}                         | ${2}
   `('Base test: $n', ({ arr, condition, result }) => {
     expect(findLastIndex(arr, condition)).toStrictEqual(result);
   });
