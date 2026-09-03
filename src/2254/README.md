@@ -4,7 +4,7 @@
 
 [A. Riptide](https://codeforces.com/contest/2254/problem/A) - Done
 
-[B. Evanescent](https://codeforces.com/contest/2254/problem/B)
+[B. Evanescent](https://codeforces.com/contest/2254/problem/B) - Done
 
 [C1. Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1)
 
