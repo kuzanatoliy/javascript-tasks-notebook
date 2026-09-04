@@ -4,7 +4,7 @@
 
 [A. Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) - Done
 
-[B. Domino Tiles](https://codeforces.com/contest/2256/problem/B)
+[B. Domino Tiles](https://codeforces.com/contest/2256/problem/B) - Done
 
 [C. Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C)
 
