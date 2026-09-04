@@ -6,7 +6,7 @@
 
 [B. Evanescent](https://codeforces.com/contest/2254/problem/B) - Done
 
-[C1. Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1)
+[C1. Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) - Done
 
 [C2. Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2)
 
