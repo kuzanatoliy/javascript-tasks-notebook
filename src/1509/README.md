@@ -4,7 +4,7 @@
 
 [A. Average Height](https://codeforces.com/contest/1509/problem/A) - Done
 
-[B. TMT Document](https://codeforces.com/contest/1509/problem/B)
+[B. TMT Document](https://codeforces.com/contest/1509/problem/B) - Done
 
 [C. The Sports Festival](https://codeforces.com/contest/1509/problem/C)
 
