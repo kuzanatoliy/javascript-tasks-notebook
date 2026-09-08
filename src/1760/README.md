@@ -10,7 +10,7 @@
 
 [D. Challenging Valleys](https://codeforces.com/contest/1760/problem/D) - Done
 
-[E. Binary Inversions](https://codeforces.com/contest/1760/problem/E)
+[E. Binary Inversions](https://codeforces.com/contest/1760/problem/E) - Done
 
 [F. Quests](https://codeforces.com/contest/1760/problem/F)
 
