@@ -17,6 +17,6 @@
       }
       j++;
     }
-    return count + fb;
+    return count + (fb % 2);
   },
 };
