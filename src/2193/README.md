@@ -8,7 +8,7 @@
 
 [C. Replace and Sum](https://codeforces.com/contest/2193/problem/C) - Done
 
-[D. Monster Game](https://codeforces.com/contest/2193/problem/D)
+[D. Monster Game](https://codeforces.com/contest/2193/problem/D) - Done
 
 [E. Product Queries](https://codeforces.com/contest/2193/problem/E)
 

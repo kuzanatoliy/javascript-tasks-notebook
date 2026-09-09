@@ -1,6 +1,6 @@
 ﻿const { getMaxSums } = require('./C');
 
-describe('2175C. Replace and Sum', () => {
+describe('2193C. Replace and Sum', () => {
   it.each`
     n    | arrA            | arrB            | queries                     | result
     ${1} | ${[3, 2, 1]}    | ${[1, 2, 3]}    | ${[[1, 3]]}                 | ${[9]}

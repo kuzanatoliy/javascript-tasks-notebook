@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToTransform } = require('./A');
 
-describe('2175C. Replace and Sum', () => {
+describe('2193A. DBMB and the Array', () => {
   it.each`
     n    | s     | x    | arr             | result
     ${1} | ${3}  | ${5} | ${[1, 1, 1]}    | ${'YES'}

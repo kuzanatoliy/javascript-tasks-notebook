@@ -1,6 +1,6 @@
 ﻿const { transformPermutation } = require('./B');
 
-describe('2175C. Replace and Sum', () => {
+describe('2193B. Reverse a Permutation', () => {
   it.each`
     n    | arr             | result
     ${1} | ${[3, 2, 1, 4]} | ${[4, 1, 2, 3]}
