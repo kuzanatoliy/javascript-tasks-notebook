@@ -6,7 +6,7 @@
 
 [B. Belted Rooms](https://codeforces.com/contest/1428/problem/B)
 
-[C. ABBB](https://codeforces.com/contest/1428/problem/C)
+[C. ABBB](https://codeforces.com/contest/1428/problem/C) - Done
 
 [D. Bouncing Boomerangs](https://codeforces.com/contest/1428/problem/D)
 
