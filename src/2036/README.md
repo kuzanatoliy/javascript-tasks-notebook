@@ -6,7 +6,7 @@
 
 [B. Startup](https://codeforces.com/contest/2036/problem/B) - Done
 
-[C. Anya and 1100](https://codeforces.com/contest/2036/problem/C)
+[C. Anya and 1100](https://codeforces.com/contest/2036/problem/C) - Done
 
 [D. I Love 1543](https://codeforces.com/contest/2036/problem/D)
 

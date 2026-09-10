@@ -1,6 +1,6 @@
 ﻿const { getMaxIncome } = require('./B');
 
-describe('2036A. Quintomania', () => {
+describe('2036B. Startup', () => {
   it.each`
     n    | num       | drinks                       | result
     ${1} | ${3}      | ${[[2, 6], [2, 7], [1, 15]]} | ${28}
