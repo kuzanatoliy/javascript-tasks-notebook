@@ -4,7 +4,7 @@
 
 [A. Reverse](https://codeforces.com/contest/1638/problem/A) - Done
 
-[B. Odd Swap Sort](https://codeforces.com/contest/1638/problem/B)
+[B. Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) - Done
 
 [C. Inversion Graph](https://codeforces.com/contest/1638/problem/C)
 
