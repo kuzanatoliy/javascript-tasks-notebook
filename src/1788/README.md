@@ -4,7 +4,7 @@
 
 [A. One and Two](https://codeforces.com/contest/1788/problem/A) - Done
 
-[B. Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B)
+[B. Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) - Done
 
 [C. Matching Numbers](https://codeforces.com/contest/1788/problem/C)
 
