@@ -1,6 +1,6 @@
 ﻿const { getMinRequiredPower } = require('./B');
 
-describe('1811A. Musical Puzzle', () => {
+describe('1811B. Conveyor Belts', () => {
   it.each`
     n    | num           | x1           | y1           | x2           | y2           | result
     ${1} | ${2}          | ${1}         | ${1}         | ${2}         | ${2}         | ${0}

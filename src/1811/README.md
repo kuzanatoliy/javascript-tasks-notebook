@@ -6,7 +6,7 @@
 
 [B. Conveyor Belts](https://codeforces.com/contest/1811/problem/B) - Done
 
-[C. Restore the Array](https://codeforces.com/contest/1811/problem/C)
+[C. Restore the Array](https://codeforces.com/contest/1811/problem/C) - Done
 
 [D. Umka and a Long Flight](https://codeforces.com/contest/1811/problem/D)
 
