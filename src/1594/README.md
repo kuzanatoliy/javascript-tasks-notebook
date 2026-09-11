@@ -4,7 +4,7 @@
 
 [A. Consecutive Sum Riddle](https://codeforces.com/contest/1594/problem/A) - Done
 
-[B. Special Numbers](https://codeforces.com/contest/1594/problem/B)
+[B. Special Numbers](https://codeforces.com/contest/1594/problem/B) - Done
 
 [C. Make Them Equal](https://codeforces.com/contest/1594/problem/C)
 
