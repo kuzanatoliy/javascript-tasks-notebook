@@ -6,7 +6,7 @@
 
 [B. Heapify 1](https://codeforces.com/contest/2195/problem/B) - Done
 
-[C. Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C)
+[C. Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) - Done
 
 [D. Absolute Cinema](https://codeforces.com/contest/2195/problem/D)
 
