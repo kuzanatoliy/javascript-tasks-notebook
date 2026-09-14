@@ -1,5 +1,5 @@
 ﻿module.exports = {
-  getOperationsCount: (k, arrA, arrB) => {
+  isItPossibleToTransform: (k, arrA, arrB) => {
     const tempA = arrA
       .map((item) => Math.min(item % k, k - (item % k)))
       .sort((a, b) => a - b);

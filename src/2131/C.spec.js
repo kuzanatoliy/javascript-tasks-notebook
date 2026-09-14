@@ -1,4 +1,4 @@
-﻿const { getOperationsCount } = require('./C');
+﻿const { isItPossibleToTransform } = require('./C');
 
 describe('2131C. Make it Equal', () => {
   it.each`
@@ -9,6 +9,6 @@ describe('2131C. Make it Equal', () => {
     ${4} | ${7} | ${[2, 8]}    | ${[2, 9]}     | ${'NO'}
     ${5} | ${2} | ${[0, 1, 0]} | ${[1, 0, 1]}  | ${'NO'}
   `('Base test: $n', ({ k, arrA, arrB, result }) => {
-    expect(getOperationsCount(k, arrA, arrB)).toStrictEqual(result);
+    expect(isItPossibleToTransform(k, arrA, arrB)).toStrictEqual(result);
   });
 });
