@@ -6,7 +6,7 @@
 
 [B. Beautiful String](https://codeforces.com/contest/2162/problem/B) - Done
 
-[C. Beautiful XOR](https://codeforces.com/contest/2162/problem/C)
+[C. Beautiful XOR](https://codeforces.com/contest/2162/problem/C) - Done
 
 [D. Beautiful Permutation](https://codeforces.com/contest/2162/problem/D)
 
