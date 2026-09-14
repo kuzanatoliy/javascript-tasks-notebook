@@ -6,7 +6,7 @@
 
 [B. The Third Side](https://codeforces.com/contest/2074/problem/B) - Done
 
-[C. XOR and Triangle](https://codeforces.com/contest/2074/problem/C)
+[C. XOR and Triangle](https://codeforces.com/contest/2074/problem/C) - Done
 
 [D. Counting Points](https://codeforces.com/contest/2074/problem/D)
 

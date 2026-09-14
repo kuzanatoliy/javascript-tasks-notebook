@@ -1,6 +1,6 @@
 ﻿const { getMaxValue } = require('./B');
 
-describe('2074A. Draw a Square', () => {
+describe('2074B. The Third Side', () => {
   it.each`
     n    | arr                            | result
     ${1} | ${[10]}                        | ${10}
