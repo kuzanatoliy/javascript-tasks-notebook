@@ -6,7 +6,7 @@
 
 [B. Alternating Series](https://codeforces.com/contest/2131/problem/B) - Done
 
-[C. Make it Equal](https://codeforces.com/contest/2131/problem/C)
+[C. Make it Equal](https://codeforces.com/contest/2131/problem/C) - Done
 
 [D. Arboris Contractio](https://codeforces.com/contest/2131/problem/D)
 
