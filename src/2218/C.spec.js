@@ -1,6 +1,6 @@
 ﻿const { getPermutation } = require('./C');
 
-describe('2218A. The 67th Integer Problem', () => {
+describe('2218C. The 67th Permutation Problem', () => {
   it.each`
     n    | num  | result
     ${1} | ${2} | ${[1, 3, 4, 2, 5, 6]}

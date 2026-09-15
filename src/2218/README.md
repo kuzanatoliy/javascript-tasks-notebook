@@ -8,7 +8,7 @@
 
 [C. The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) - Done
 
-[D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D)
+[D. The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) - Done
 
 [E. The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E)
 
