@@ -8,7 +8,7 @@
 
 [C. Shifted MEX](https://codeforces.com/contest/2185/problem/C) - Done
 
-[D. OutOfMemoryError](https://codeforces.com/contest/2185/problem/D)
+[D. OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) - Done
 
 [E. The Robotic Rush](https://codeforces.com/contest/2185/problem/E)
 
