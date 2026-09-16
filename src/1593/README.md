@@ -8,7 +8,7 @@
 
 [C. Save More Mice](https://codeforces.com/contest/1593/problem/C) - Done
 
-[D1. All are Same](https://codeforces.com/contest/1593/problem/D1)
+[D1. All are Same](https://codeforces.com/contest/1593/problem/D1) - Done
 
 [D2. Half of Same](https://codeforces.com/contest/1593/problem/D2)
 
