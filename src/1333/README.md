@@ -4,7 +4,7 @@
 
 [A. Little Artem](https://codeforces.com/contest/1333/problem/A) - Done
 
-[B. Kind Anton](https://codeforces.com/contest/1333/problem/B)
+[B. Kind Anton](https://codeforces.com/contest/1333/problem/B) - Done
 
 [C. Eugene and an array](https://codeforces.com/contest/1333/problem/C)
 
