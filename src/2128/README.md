@@ -4,7 +4,7 @@
 
 [A. Recycling Center](https://codeforces.com/contest/2128/problem/A) - Done
 
-[B. Deque Process](https://codeforces.com/contest/2128/problem/B)
+[B. Deque Process](https://codeforces.com/contest/2128/problem/B) - Done
 
 [C. Leftmost Below](https://codeforces.com/contest/2128/problem/C)
 
