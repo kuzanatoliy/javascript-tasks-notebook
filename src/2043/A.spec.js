@@ -1,6 +1,6 @@
 ﻿const { getCountOfCoins } = require('./A');
 
-describe('2043A. Game of Division', () => {
+describe('2043A. Coin Transformation', () => {
   it.each`
     n    | num                     | result
     ${1} | ${1n}                   | ${1n}

@@ -1,15 +1,17 @@
-# Codeforces Round 992 (Div. 2)
+# Educational Codeforces Round 173 (Rated for Div. 2)
 
 [Dashboard](https://codeforces.com/contest/2043)
 
-[A. Game of Division](https://codeforces.com/contest/2043/problem/A) - Done
+[A. Coin Transformation](https://codeforces.com/contest/2043/problem/A) - Done
 
-[B. Paint a Strip](https://codeforces.com/contest/2043/problem/B)
+[B. Digits](https://codeforces.com/contest/2043/problem/B) - Done
 
-[C. Ordered Permutations](https://codeforces.com/contest/2043/problem/C)
+[C. Sums on Segments](https://codeforces.com/contest/2043/problem/C)
 
-[D. Non Prime Tree](https://codeforces.com/contest/2043/problem/D)
+[D. Problem about GCD](https://codeforces.com/contest/2043/problem/D)
 
-[E. Control of Randomness](https://codeforces.com/contest/2043/problem/E)
+[E. Matrix Transformation](https://codeforces.com/contest/2043/problem/E)
 
-[F. Number of Cubes](https://codeforces.com/contest/2043/problem/F)
+[F. Nim](https://codeforces.com/contest/2043/problem/F)
+
+[G. Problem with Queries](https://codeforces.com/contest/2043/problem/G)
