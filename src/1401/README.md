@@ -4,7 +4,7 @@
 
 [A. Distance and Axis](https://codeforces.com/contest/1401/problem/A) - Done
 
-[B. Ternary Sequence](https://codeforces.com/contest/1401/problem/B)
+[B. Ternary Sequence](https://codeforces.com/contest/1401/problem/B) - Done
 
 [C. Mere Array](https://codeforces.com/contest/1401/problem/C)
 
