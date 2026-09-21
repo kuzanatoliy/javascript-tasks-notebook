@@ -4,7 +4,7 @@
 
 [A. Race](https://codeforces.com/contest/2112/problem/A) - Done
 
-[B. Shrinking Array](https://codeforces.com/contest/2112/problem/B)
+[B. Shrinking Array](https://codeforces.com/contest/2112/problem/B) - Done
 
 [C. Coloring Game](https://codeforces.com/contest/2112/problem/C)
 
