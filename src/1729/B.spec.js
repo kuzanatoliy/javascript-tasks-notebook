@@ -1,6 +1,6 @@
 ﻿const { getOriginalString } = require('./B');
 
-describe('1729A. Two Elevators', () => {
+describe('1729B. Decode String', () => {
   it.each`
     n    | string                  | result
     ${1} | ${'315045'}             | ${'code'}

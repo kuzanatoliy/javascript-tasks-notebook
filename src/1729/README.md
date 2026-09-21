@@ -6,7 +6,7 @@
 
 [B. Decode String](https://codeforces.com/contest/1729/problem/B) - Done
 
-[C. Jumping on Tiles](https://codeforces.com/contest/1729/problem/C)
+[C. Jumping on Tiles](https://codeforces.com/contest/1729/problem/C) - Done
 
 [D. Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D)
 
