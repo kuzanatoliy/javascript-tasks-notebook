@@ -6,7 +6,7 @@
 
 [B. Obtaining the String](https://codeforces.com/contest/1015/problem/B)
 
-[C. Songs Compression](https://codeforces.com/contest/1015/problem/C)
+[C. Songs Compression](https://codeforces.com/contest/1015/problem/C) - Done
 
 [D. Walking Between Houses](https://codeforces.com/contest/1015/problem/D)
 
