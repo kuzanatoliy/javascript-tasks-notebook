@@ -1,6 +1,6 @@
 ﻿const { transformArray } = require('./A');
 
-describe('1406A. Ahahahahahahahaha', () => {
+describe('1407A. Ahahahahahahahaha', () => {
   it.each`
     n    | arr             | result
     ${1} | ${[1, 0]}       | ${[0]}
