@@ -6,7 +6,7 @@
 
 [B. Woeful Permutation](https://codeforces.com/contest/1712/problem/B) - Done
 
-[C. Sort Zero](https://codeforces.com/contest/1712/problem/C)
+[C. Sort Zero](https://codeforces.com/contest/1712/problem/C) - Done
 
 [D. Empty Graph](https://codeforces.com/contest/1712/problem/D)
 
