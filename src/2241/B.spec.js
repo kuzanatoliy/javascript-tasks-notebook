@@ -1,13 +1,13 @@
-﻿const { getMinLengthAfterTransformation } = require('./B');
+﻿const { getGoodNumber } = require('./B');
 
 describe('2241B. Good times Good times', () => {
   it.each`
-    n    | str         | result
-    ${1} | ${'0000'}   | ${1}
-    ${2} | ${'110'}    | ${2}
-    ${3} | ${'110011'} | ${1}
-    ${4} | ${'101100'} | ${1}
-  `('Base test: $n', ({ str, result }) => {
-    expect(getMinLengthAfterTransformation(str)).toBe(result);
+    n    | num     | result
+    ${1} | ${8}    | ${11}
+    ${2} | ${73}   | ${101}
+    ${3} | ${299}  | ${1001}
+    ${4} | ${6767} | ${10001}
+  `('Base test: $n', ({ num, result }) => {
+    expect(getGoodNumber(num)).toBe(result);
   });
 });

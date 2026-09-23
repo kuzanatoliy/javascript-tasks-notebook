@@ -6,7 +6,7 @@
 
 [B. Good times Good times](https://codeforces.com/contest/2241/problem/B) - Done
 
-[C. RemovevomeR](https://codeforces.com/contest/2241/problem/C)
+[C. RemovevomeR](https://codeforces.com/contest/2241/problem/C) - Done
 
 [D. An Alternative Way](https://codeforces.com/contest/2241/problem/D)
 
