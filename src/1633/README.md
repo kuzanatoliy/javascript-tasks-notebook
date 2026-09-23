@@ -6,7 +6,7 @@
 
 [B. Minority](https://codeforces.com/contest/1633/problem/B) - Done
 
-[C. Kill the Monster](https://codeforces.com/contest/1633/problem/C)
+[C. Kill the Monster](https://codeforces.com/contest/1633/problem/C) - Done
 
 [D. Make Them Equal](https://codeforces.com/contest/1633/problem/D)
 
