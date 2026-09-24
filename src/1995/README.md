@@ -4,7 +4,7 @@
 
 [A. Diagonals](https://codeforces.com/contest/1995/problem/A) - Done
 
-[B1. Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1)
+[B1. Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1) - Done
 
 [B2. Bouquet (Hard Version)](https://codeforces.com/contest/1995/problem/B2)
 
