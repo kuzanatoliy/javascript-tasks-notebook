@@ -4,7 +4,7 @@
 
 [A. Strange Splitting](https://codeforces.com/contest/1984/problem/A) - Done
 
-[B. Large Addition](https://codeforces.com/contest/1984/problem/B)
+[B. Large Addition](https://codeforces.com/contest/1984/problem/B) - Done
 
 [C1. Magnitude (Easy Version)](https://codeforces.com/contest/1984/problem/C1)
 
