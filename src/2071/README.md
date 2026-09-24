@@ -4,7 +4,7 @@
 
 [A. The Play Never Ends](https://codeforces.com/contest/2071/problem/A) - Done
 
-[B. Perfecto](https://codeforces.com/contest/2071/problem/B)
+[B. Perfecto](https://codeforces.com/contest/2071/problem/B) - Done
 
 [C. Trapmigiano Reggiano](https://codeforces.com/contest/2071/problem/C)
 
