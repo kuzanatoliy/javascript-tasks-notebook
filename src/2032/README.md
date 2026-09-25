@@ -4,7 +4,7 @@
 
 [A. Circuit](https://codeforces.com/contest/2032/problem/A) - Done
 
-[B. Medians](https://codeforces.com/contest/2032/problem/B)
+[B. Medians](https://codeforces.com/contest/2032/problem/B) - Done
 
 [C. Trinity](https://codeforces.com/contest/2032/problem/C)
 
