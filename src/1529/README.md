@@ -4,7 +4,7 @@
 
 [A. Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) - Done
 
-[B. Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B)
+[B. Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B) - Done
 
 [C. Parsa's Humongous Tree](https://codeforces.com/contest/1529/problem/C)
 
