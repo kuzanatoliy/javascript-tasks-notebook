@@ -4,7 +4,7 @@
 
 [A. Three swimmers](https://codeforces.com/contest/1492/problem/A) - Done
 
-[B. Card Deck](https://codeforces.com/contest/1492/problem/B)
+[B. Card Deck](https://codeforces.com/contest/1492/problem/B) - Done
 
 [C. Maximum width](https://codeforces.com/contest/1492/problem/C)
 
