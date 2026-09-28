@@ -6,7 +6,7 @@
 
 [B. Permutation Value](https://codeforces.com/contest/1743/problem/B) - Done
 
-[C. Save the Magazines](https://codeforces.com/contest/1743/problem/C)
+[C. Save the Magazines](https://codeforces.com/contest/1743/problem/C) - Done
 
 [D. Problem with Random Tests](https://codeforces.com/contest/1743/problem/D)
 
