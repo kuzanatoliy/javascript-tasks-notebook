@@ -4,7 +4,7 @@
 
 [A. Football](https://codeforces.com/contest/43/problem/A) - Done
 
-[B. Letter](https://codeforces.com/contest/43/problem/B)
+[B. Letter](https://codeforces.com/contest/43/problem/B) - Done
 
 [C. Lucky Tickets](https://codeforces.com/contest/43/problem/C)
 
