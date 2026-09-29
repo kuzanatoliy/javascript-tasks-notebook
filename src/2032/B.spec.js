@@ -7,7 +7,7 @@ describe('2032B. Medians', () => {
     ${2} | ${3}  | ${2} | ${[3, [1, 2, 3]]}
     ${3} | ${3}  | ${3} | ${[-1]}
     ${4} | ${15} | ${8} | ${[3, [1, 2, 15]]}
-  `('Base test: $n', ({ num, result }) => {
-    expect(getMeta(num)).toStrictEqual(result);
+  `('Base test: $n', ({ num, k, result }) => {
+    expect(getMeta(num, k)).toStrictEqual(result);
   });
 });
