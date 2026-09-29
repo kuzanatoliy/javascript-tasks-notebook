@@ -4,7 +4,7 @@
 
 [A. Integer Diversity](https://codeforces.com/contest/1616/problem/A) - Done
 
-[B. Mirror in the String](https://codeforces.com/contest/1616/problem/B)
+[B. Mirror in the String](https://codeforces.com/contest/1616/problem/B) - Done
 
 [C. Representative Edges](https://codeforces.com/contest/1616/problem/C)
 
