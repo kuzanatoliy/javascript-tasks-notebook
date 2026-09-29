@@ -4,7 +4,7 @@
 
 [A. Stickogon](https://codeforces.com/contest/1957/problem/A) - Done
 
-[B. A BIT of a Construction](https://codeforces.com/contest/1957/problem/B)
+[B. A BIT of a Construction](https://codeforces.com/contest/1957/problem/B) - Done
 
 [C. How Does the Rook Move?](https://codeforces.com/contest/1957/problem/C)
 

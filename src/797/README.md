@@ -1,13 +1,15 @@
-# Codeforces Round 410 (Div. 2)
+# Educational Codeforces Round 19
 
 [Dashboard](https://codeforces.com/contest/797)
 
-[A. Mike and palindrome](https://codeforces.com/contest/797/problem/A) - Done
+[A. k-Factorization](https://codeforces.com/contest/797/problem/A) - Done
 
-[B. Mike and strings](https://codeforces.com/contest/797/problem/B)
+[B. Odd sum](https://codeforces.com/contest/797/problem/B)
 
-[C. Mike and gcd problem](https://codeforces.com/contest/797/problem/C)
+[C. Minimal string](https://codeforces.com/contest/797/problem/C)
 
-[D. Mike and distribution](https://codeforces.com/contest/797/problem/D)
+[D. Broken BST](https://codeforces.com/contest/797/problem/D)
 
-[E. Mike and code of a permutation](https://codeforces.com/contest/797/problem/E)
+[E. Array Queries](https://codeforces.com/contest/797/problem/E)
+
+[F. Mice and Holes](https://codeforces.com/contest/797/problem/F)

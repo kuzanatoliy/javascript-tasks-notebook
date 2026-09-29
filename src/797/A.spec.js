@@ -1,6 +1,6 @@
 ﻿const { getKFactorization } = require('./A');
 
-describe('797A. Mike and palindrome', () => {
+describe('797A. k-Factorization', () => {
   it.each`
     n    | num       | k     | result
     ${1} | ${100000} | ${2}  | ${[2, 50000]}
