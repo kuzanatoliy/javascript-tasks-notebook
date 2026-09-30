@@ -4,7 +4,7 @@
 
 [A. Diverse Team](https://codeforces.com/contest/988/problem/A) - Done
 
-[B. Substrings Sort](https://codeforces.com/contest/988/problem/B)
+[B. Substrings Sort](https://codeforces.com/contest/988/problem/B) - Done
 
 [C. Equal Sums](https://codeforces.com/contest/988/problem/C)
 
