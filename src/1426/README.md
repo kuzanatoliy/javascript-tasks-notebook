@@ -6,7 +6,7 @@
 
 [B. Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) - Done
 
-[C. Increase and Copy](https://codeforces.com/contest/1426/problem/C)
+[C. Increase and Copy](https://codeforces.com/contest/1426/problem/C) - Done
 
 [D. Non-zero Segments](https://codeforces.com/contest/1426/problem/D)
 
