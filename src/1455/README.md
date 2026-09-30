@@ -6,7 +6,7 @@
 
 [B. Jumps](https://codeforces.com/contest/1455/problem/B)
 
-[C. Ping-pong](https://codeforces.com/contest/1455/problem/C)
+[C. Ping-pong](https://codeforces.com/contest/1455/problem/C) - Done
 
 [D. Sequence and Swaps](https://codeforces.com/contest/1455/problem/D)
 
