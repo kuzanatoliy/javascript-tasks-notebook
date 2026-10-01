@@ -4,7 +4,7 @@
 
 [A. Moo Language School](https://codeforces.com/contest/2259/problem/A) - Done
 
-[B. Minus Two](https://codeforces.com/contest/2259/problem/B)
+[B. Minus Two](https://codeforces.com/contest/2259/problem/B) - Done
 
 [C. 101](https://codeforces.com/contest/2259/problem/C)
 
