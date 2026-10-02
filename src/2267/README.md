@@ -4,7 +4,7 @@
 
 [A. Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) - Done
 
-[B. Fashionable Array](https://codeforces.com/contest/2267/problem/B)
+[B. Fashionable Array](https://codeforces.com/contest/2267/problem/B) - Done
 
 [C. GCD Treasury](https://codeforces.com/contest/2267/problem/C)
 
