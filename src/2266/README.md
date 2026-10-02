@@ -4,7 +4,7 @@
 
 [A. Good Contest](https://codeforces.com/contest/2266/problem/A) - Done
 
-[B. Three Piles](https://codeforces.com/contest/2266/problem/B)
+[B. Three Piles](https://codeforces.com/contest/2266/problem/B) - Done
 
 [C. AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C)
 
