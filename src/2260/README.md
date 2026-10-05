@@ -4,7 +4,7 @@
 
 [A. Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) - Done
 
-[B. Monocarp and Projects](https://codeforces.com/contest/2260/problem/B)
+[B. Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) - Done
 
 [C. Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C)
 
