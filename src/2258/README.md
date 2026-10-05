@@ -4,7 +4,7 @@
 
 [A. Odd Eraser](https://codeforces.com/contest/2258/problem/A) - Done
 
-[B1. Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1)
+[B1. Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) - Done
 
 [B2. Carrot Chopdown (Hard Version)](https://codeforces.com/contest/2258/problem/B2)
 
