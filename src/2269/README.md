@@ -4,7 +4,7 @@
 
 [A. SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) - Done
 
-[B. KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B)
+[B. KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) - Done
 
 [C. K Is Important](https://codeforces.com/contest/2269/problem/C)
 
