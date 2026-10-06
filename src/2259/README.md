@@ -6,7 +6,7 @@
 
 [B. Minus Two](https://codeforces.com/contest/2259/problem/B) - Done
 
-[C. 101](https://codeforces.com/contest/2259/problem/C)
+[C. 101](https://codeforces.com/contest/2259/problem/C) - Done
 
 [D. MEX Multiset](https://codeforces.com/contest/2259/problem/D)
 
