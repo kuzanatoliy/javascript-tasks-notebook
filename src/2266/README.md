@@ -6,7 +6,7 @@
 
 [B. Three Piles](https://codeforces.com/contest/2266/problem/B) - Done
 
-[C. AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C)
+[C. AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) - Done
 
 [D. Falling Concrete](https://codeforces.com/contest/2266/problem/D)
 
