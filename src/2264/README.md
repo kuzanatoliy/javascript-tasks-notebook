@@ -4,7 +4,7 @@
 
 [A. Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) - Done
 
-[B. Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B)
+[B. Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) - Done
 
 [C. Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C)
 
