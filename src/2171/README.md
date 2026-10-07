@@ -6,7 +6,7 @@
 
 [B. Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) - Done
 
-[C1. Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1)
+[C1. Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) - Done
 
 [C2. Renako Amaori and XOR Game (hard version)](https://codeforces.com/contest/2171/problem/C2)
 
