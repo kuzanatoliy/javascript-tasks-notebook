@@ -4,7 +4,7 @@
 
 [A. Brogramming Contest](https://codeforces.com/contest/2064/problem/A) - Done
 
-[B. Variety is Discouraged](https://codeforces.com/contest/2064/problem/B)
+[B. Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) - Done
 
 [C. Remove the Ends](https://codeforces.com/contest/2064/problem/C)
 
