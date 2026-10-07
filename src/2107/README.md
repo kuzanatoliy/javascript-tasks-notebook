@@ -4,7 +4,7 @@
 
 [A. LRC and VIP](https://codeforces.com/contest/2107/problem/A) - Done
 
-[B. Apples in Boxes](https://codeforces.com/contest/2107/problem/B)
+[B. Apples in Boxes](https://codeforces.com/contest/2107/problem/B) - Done
 
 [C. Maximum Subarray Sum](https://codeforces.com/contest/2107/problem/C)
 
