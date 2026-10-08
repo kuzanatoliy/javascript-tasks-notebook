@@ -6,7 +6,7 @@
 
 [B. Minimise Oneness](https://codeforces.com/contest/2030/problem/B) - Done
 
-[C. A TRUE Battle](https://codeforces.com/contest/2030/problem/C)
+[C. A TRUE Battle](https://codeforces.com/contest/2030/problem/C) - Done
 
 [D. QED's Favorite Permutation](https://codeforces.com/contest/2030/problem/D)
 
