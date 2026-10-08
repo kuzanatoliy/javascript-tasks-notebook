@@ -4,7 +4,7 @@
 
 [A. Little Nikita](https://codeforces.com/contest/1977/problem/A) - Done
 
-[B. Binary Colouring](https://codeforces.com/contest/1977/problem/B)
+[B. Binary Colouring](https://codeforces.com/contest/1977/problem/B) - Done
 
 [C. Nikita and LCM](https://codeforces.com/contest/1977/problem/C)
 
