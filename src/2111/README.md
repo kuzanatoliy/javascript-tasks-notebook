@@ -6,7 +6,7 @@
 
 [B. Fibonacci Cubes](https://codeforces.com/contest/2111/problem/B)
 
-[C. Equal Values](https://codeforces.com/contest/2111/problem/C)
+[C. Equal Values](https://codeforces.com/contest/2111/problem/C) - Done
 
 [D. Creating a Schedule](https://codeforces.com/contest/2111/problem/D)
 
