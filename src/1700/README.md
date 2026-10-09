@@ -4,7 +4,7 @@
 
 [A. Optimal Path](https://codeforces.com/contest/1700/problem/A) - Done
 
-[B. Palindromic Numbers](https://codeforces.com/contest/1700/problem/B)
+[B. Palindromic Numbers](https://codeforces.com/contest/1700/problem/B) - Done
 
 [C. Helping the Nature](https://codeforces.com/contest/1700/problem/C)
 
