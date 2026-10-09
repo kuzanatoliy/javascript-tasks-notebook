@@ -4,7 +4,7 @@
 
 [A. FizzBuzz Remixed](https://codeforces.com/contest/2070/problem/A) - Done
 
-[B. Robot Program](https://codeforces.com/contest/2070/problem/B)
+[B. Robot Program](https://codeforces.com/contest/2070/problem/B) - Done
 
 [C. Limited Repainting](https://codeforces.com/contest/2070/problem/C)
 
