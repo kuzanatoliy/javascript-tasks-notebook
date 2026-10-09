@@ -4,7 +4,7 @@
 
 [A. Contest](https://codeforces.com/contest/501/problem/A) - Done
 
-[B. Misha and Changing Handles](https://codeforces.com/contest/501/problem/B)
+[B. Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) - Done
 
 [C. Misha and Forest](https://codeforces.com/contest/501/problem/C)
 
