@@ -4,7 +4,7 @@
 
 [A. Space Navigation](https://codeforces.com/contest/1481/problem/A) - Done
 
-[B. New Colony](https://codeforces.com/contest/1481/problem/B)
+[B. New Colony](https://codeforces.com/contest/1481/problem/B) - Done
 
 [C. Fence Painting](https://codeforces.com/contest/1481/problem/C)
 
