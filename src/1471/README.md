@@ -4,7 +4,7 @@
 
 [A. Strange Partition](https://codeforces.com/contest/1471/problem/A) - Done
 
-[B. Strange List](https://codeforces.com/contest/1471/problem/B)
+[B. Strange List](https://codeforces.com/contest/1471/problem/B) - Done
 
 [C. Strange Birthday Party](https://codeforces.com/contest/1471/problem/C)
 
