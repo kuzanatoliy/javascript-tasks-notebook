@@ -6,7 +6,7 @@
 
 [B. Strange List](https://codeforces.com/contest/1471/problem/B) - Done
 
-[C. Strange Birthday Party](https://codeforces.com/contest/1471/problem/C)
+[C. Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) - Done
 
 [D. Strange Definition](https://codeforces.com/contest/1471/problem/D)
 
