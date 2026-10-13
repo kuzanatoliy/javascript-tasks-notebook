@@ -4,7 +4,7 @@
 
 [A. Two Screens](https://codeforces.com/contest/2025/problem/A) - Done
 
-[B. Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B)
+[B. Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) - Done
 
 [C. New Game](https://codeforces.com/contest/2025/problem/C)
 
