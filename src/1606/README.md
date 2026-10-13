@@ -4,7 +4,7 @@
 
 [A. AB Balance](https://codeforces.com/contest/1606/problem/A) - Done
 
-[B. Update Files](https://codeforces.com/contest/1606/problem/B)
+[B. Update Files](https://codeforces.com/contest/1606/problem/B) - Done
 
 [C. Banknotes](https://codeforces.com/contest/1606/problem/C)
 
