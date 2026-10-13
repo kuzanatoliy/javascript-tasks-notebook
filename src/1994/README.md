@@ -4,7 +4,7 @@
 
 [A. Diverse Game](https://codeforces.com/contest/1994/problem/A) - Done
 
-[B. Fun Game](https://codeforces.com/contest/1994/problem/B)
+[B. Fun Game](https://codeforces.com/contest/1994/problem/B) - Done
 
 [C. Hungry Games](https://codeforces.com/contest/1994/problem/C)
 
