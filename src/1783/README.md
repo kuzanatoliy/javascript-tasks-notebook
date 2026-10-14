@@ -4,7 +4,7 @@
 
 [A. Make it Beautiful](https://codeforces.com/contest/1783/problem/A) - Done
 
-[B. Matrix of Differences](https://codeforces.com/contest/1783/problem/B)
+[B. Matrix of Differences](https://codeforces.com/contest/1783/problem/B) - Done
 
 [C. Yet Another Tournament](https://codeforces.com/contest/1783/problem/C)
 
