@@ -1,6 +1,6 @@
 ﻿const { isItPossibleToGetPermutation } = require('./B');
 
-describe('1759A. Yes-Yes?', () => {
+describe('1759B. Lost Permutation', () => {
   it.each`
     n    | sum   | array              | result
     ${1} | ${13} | ${[3, 1, 4]}       | ${'YES'}

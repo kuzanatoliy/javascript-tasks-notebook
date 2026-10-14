@@ -6,7 +6,7 @@
 
 [B. Lost Permutation](https://codeforces.com/contest/1759/problem/B) - Done
 
-[C. Thermostat](https://codeforces.com/contest/1759/problem/C)
+[C. Thermostat](https://codeforces.com/contest/1759/problem/C) - Done
 
 [D. Make It Round](https://codeforces.com/contest/1759/problem/D)
 
