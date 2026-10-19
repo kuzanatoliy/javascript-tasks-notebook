@@ -6,7 +6,7 @@
 
 [B. Make It Increasing](https://codeforces.com/contest/1675/problem/B) - Done
 
-[C. Detective Task](https://codeforces.com/contest/1675/problem/C)
+[C. Detective Task](https://codeforces.com/contest/1675/problem/C) - Done
 
 [D. Vertical Paths](https://codeforces.com/contest/1675/problem/D)
 
