@@ -4,7 +4,7 @@
 
 [A. Maximize the Last Element](https://codeforces.com/contest/1991/problem/A) - Done
 
-[B. AND Reconstruction](https://codeforces.com/contest/1991/problem/B)
+[B. AND Reconstruction](https://codeforces.com/contest/1991/problem/B) - Done
 
 [C. Absolute Zero](https://codeforces.com/contest/1991/problem/C)
 
