@@ -4,7 +4,7 @@
 
 [A. Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) - Done
 
-[B. Large Array and Segments](https://codeforces.com/contest/2086/problem/B)
+[B. Large Array and Segments](https://codeforces.com/contest/2086/problem/B) - Done
 
 [C. Disappearing Permutation](https://codeforces.com/contest/2086/problem/C)
 
