@@ -7,7 +7,7 @@ describe('1606B. Update Files', () => {
     ${2} | ${6n} | ${6n} | ${3n}
     ${3} | ${7n} | ${1n} | ${6n}
     ${4} | ${1n} | ${1n} | ${0n}
-  `('Base test: $n', ({ str, result }) => {
-    expect(getDelay(str)).toBe(result);
+  `('Base test: $n', ({ num, k, result }) => {
+    expect(getDelay(num, k)).toBe(result);
   });
 });
