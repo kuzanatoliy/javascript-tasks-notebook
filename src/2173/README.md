@@ -4,7 +4,7 @@
 
 [A. Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) - Done
 
-[B. Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B)
+[B. Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) - Done
 
 [C. Kanade's Perfect Multiples](https://codeforces.com/contest/2173/problem/C)
 
