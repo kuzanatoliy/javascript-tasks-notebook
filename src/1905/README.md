@@ -4,7 +4,7 @@
 
 [A. Constructive Problems](https://codeforces.com/contest/1905/problem/A) - Done
 
-[B. Begginer's Zelda](https://codeforces.com/contest/1905/problem/B)
+[B. Begginer's Zelda](https://codeforces.com/contest/1905/problem/B) - Done
 
 [C. Largest Subsequence](https://codeforces.com/contest/1905/problem/C)
 
