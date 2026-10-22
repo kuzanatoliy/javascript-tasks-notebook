@@ -4,7 +4,7 @@
 
 [A. Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) - Done
 
-[B. Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B)
+[B. Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) - Done
 
 [C. Nezzar and Symmetric Array](https://codeforces.com/contest/1478/problem/C)
 
