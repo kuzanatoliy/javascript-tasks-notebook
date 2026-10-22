@@ -4,7 +4,7 @@
 
 [A. Two Rabbits](https://codeforces.com/contest/1304/problem/A) - Done
 
-[B. Longest Palindrome](https://codeforces.com/contest/1304/problem/B)
+[B. Longest Palindrome](https://codeforces.com/contest/1304/problem/B) - Done
 
 [C. Air Conditioner](https://codeforces.com/contest/1304/problem/C)
 
