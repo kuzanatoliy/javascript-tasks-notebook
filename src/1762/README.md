@@ -4,7 +4,7 @@
 
 [A. Divide and Conquer](https://codeforces.com/contest/1762/problem/A) - Done
 
-[B. Make Array Good](https://codeforces.com/contest/1762/problem/B)
+[B. Make Array Good](https://codeforces.com/contest/1762/problem/B) - Done
 
 [C. Binary Strings are Fun](https://codeforces.com/contest/1762/problem/C)
 
