@@ -4,7 +4,7 @@
 
 [A. green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) - Done
 
-[B. XOR Palindromes](https://codeforces.com/contest/1867/problem/B)
+[B. XOR Palindromes](https://codeforces.com/contest/1867/problem/B) - Done
 
 [C. Salyg1n and the MEX Game](https://codeforces.com/contest/1867/problem/C)
 
