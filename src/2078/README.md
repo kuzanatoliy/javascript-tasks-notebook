@@ -4,7 +4,7 @@
 
 [A. Final Verdict](https://codeforces.com/contest/2078/problem/A) - Done
 
-[B. Vicious Labyrinth](https://codeforces.com/contest/2078/problem/B)
+[B. Vicious Labyrinth](https://codeforces.com/contest/2078/problem/B) - Done
 
 [C. Breach of Faith](https://codeforces.com/contest/2078/problem/C)
 
