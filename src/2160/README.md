@@ -4,7 +4,7 @@
 
 [A. MEX Partition](https://codeforces.com/contest/2160/problem/A) - Done
 
-[B. Distinct Elements](https://codeforces.com/contest/2160/problem/B)
+[B. Distinct Elements](https://codeforces.com/contest/2160/problem/B) - Done
 
 [C. Reverse XOR](https://codeforces.com/contest/2160/problem/C)
 
