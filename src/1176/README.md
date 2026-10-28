@@ -4,7 +4,7 @@
 
 [A. Divide it!](https://codeforces.com/contest/1176/problem/A) - Done
 
-[B. Merge it!](https://codeforces.com/contest/1176/problem/B)
+[B. Merge it!](https://codeforces.com/contest/1176/problem/B) - Done
 
 [C. Lose it!](https://codeforces.com/contest/1176/problem/C)
 
