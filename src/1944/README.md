@@ -4,7 +4,7 @@
 
 [A. Destroying Bridges](https://codeforces.com/contest/1944/problem/A) - Done
 
-[B. Equal XOR](https://codeforces.com/contest/1944/problem/B)
+[B. Equal XOR](https://codeforces.com/contest/1944/problem/B) - Done
 
 [C. MEX Game 1](https://codeforces.com/contest/1944/problem/C)
 
