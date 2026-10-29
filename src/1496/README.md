@@ -4,7 +4,7 @@
 
 [A. Split it!](https://codeforces.com/contest/1496/problem/A) - Done
 
-[B. Max and Mex](https://codeforces.com/contest/1496/problem/B)
+[B. Max and Mex](https://codeforces.com/contest/1496/problem/B) - Done
 
 [C. Diamond Miner](https://codeforces.com/contest/1496/problem/C)
 
