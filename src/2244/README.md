@@ -6,7 +6,7 @@
 
 [B. Nikita and Books](https://codeforces.com/contest/2244/problem/B) - Done
 
-[C. Stepan and Permutation](https://codeforces.com/contest/2244/problem/C)
+[C. Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) - Done
 
 [D. Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D)
 
