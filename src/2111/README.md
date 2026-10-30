@@ -4,7 +4,7 @@
 
 [A. Energy Crystals](https://codeforces.com/contest/2111/problem/A) - Done
 
-[B. Fibonacci Cubes](https://codeforces.com/contest/2111/problem/B)
+[B. Fibonacci Cubes](https://codeforces.com/contest/2111/problem/B) - Done
 
 [C. Equal Values](https://codeforces.com/contest/2111/problem/C) - Done
 
