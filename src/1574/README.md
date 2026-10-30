@@ -4,7 +4,7 @@
 
 [A. Regular Bracket Sequences](https://codeforces.com/contest/1574/problem/A) - Done
 
-[B. Combinatorics Homework](https://codeforces.com/contest/1574/problem/B)
+[B. Combinatorics Homework](https://codeforces.com/contest/1574/problem/B) - Done
 
 [C. Slay the Dragon](https://codeforces.com/contest/1574/problem/C)
 
