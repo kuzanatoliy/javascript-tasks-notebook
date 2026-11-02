@@ -4,7 +4,7 @@
 
 [A. In Search of Convenience](https://codeforces.com/contest/2275/problem/A) - Done
 
-[B. Did Not Go to Print](https://codeforces.com/contest/2275/problem/B)
+[B. Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) - Done
 
 [C. Unrequited Love](https://codeforces.com/contest/2275/problem/C)
 
