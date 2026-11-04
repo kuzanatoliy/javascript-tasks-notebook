@@ -6,7 +6,7 @@
 
 [B. Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) - Done
 
-[C. Unrequited Love](https://codeforces.com/contest/2275/problem/C)
+[C. Unrequited Love](https://codeforces.com/contest/2275/problem/C) - Done
 
 [D. Precision Alignment](https://codeforces.com/contest/2275/problem/D)
 
