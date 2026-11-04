@@ -4,7 +4,7 @@
 
 [A. Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) - Done
 
-[B. MEX Game](https://codeforces.com/contest/2271/problem/B)
+[B. MEX Game](https://codeforces.com/contest/2271/problem/B) - Done
 
 [C. XOR Problem](https://codeforces.com/contest/2271/problem/C)
 
