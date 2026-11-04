@@ -4,7 +4,7 @@
 
 [A. Hey, It's Me, Souvlakity](https://codeforces.com/contest/2271/problem/A) - Done
 
-[B. What's the Capital of France?](https://codeforces.com/contest/2271/problem/B)
+[B. What's the Capital of France?](https://codeforces.com/contest/2271/problem/B) - Done
 
 [C. I Know About a Million Things](https://codeforces.com/contest/2271/problem/C) - Done
 
