@@ -6,7 +6,7 @@
 
 [B. What's the Capital of France?](https://codeforces.com/contest/2271/problem/B)
 
-[C. I Know About a Million Things](https://codeforces.com/contest/2271/problem/C)
+[C. I Know About a Million Things](https://codeforces.com/contest/2271/problem/C) - Done
 
 [D1. Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2271/problem/D1)
 
