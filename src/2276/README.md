@@ -4,7 +4,7 @@
 
 [A. Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) - Done
 
-[B. Replace and Compress](https://codeforces.com/contest/2276/problem/B)
+[B. Replace and Compress](https://codeforces.com/contest/2276/problem/B) - Done
 
 [C. Subarrays](https://codeforces.com/contest/2276/problem/C)
 
