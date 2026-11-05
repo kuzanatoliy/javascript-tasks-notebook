@@ -4,7 +4,7 @@
 
 [A. El fucho](https://codeforces.com/contest/2155/problem/A) - Done
 
-[B. Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B)
+[B. Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) - Done
 
 [C. The Ancient Wizards' Capes](https://codeforces.com/contest/2155/problem/C)
 
