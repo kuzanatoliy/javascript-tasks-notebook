@@ -4,7 +4,7 @@
 
 [A. Common Multiple](https://codeforces.com/contest/2103/problem/A) - Done
 
-[B. Binary Typewriter](https://codeforces.com/contest/2103/problem/B)
+[B. Binary Typewriter](https://codeforces.com/contest/2103/problem/B) - Done
 
 [C. Median Splits](https://codeforces.com/contest/2103/problem/C)
 
