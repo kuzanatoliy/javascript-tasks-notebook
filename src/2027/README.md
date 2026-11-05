@@ -4,7 +4,7 @@
 
 [A. Rectangle Arrangement](https://codeforces.com/contest/2027/problem/A) - Done
 
-[B. Stalin Sort](https://codeforces.com/contest/2027/problem/B)
+[B. Stalin Sort](https://codeforces.com/contest/2027/problem/B) - Done
 
 [C. Add Zeros](https://codeforces.com/contest/2027/problem/C)
 
