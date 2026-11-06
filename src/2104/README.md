@@ -6,7 +6,7 @@
 
 [B. Move to the End](https://codeforces.com/contest/2104/problem/B) - Done
 
-[C. Card Game](https://codeforces.com/contest/2104/problem/C)
+[C. Card Game](https://codeforces.com/contest/2104/problem/C) - Done
 
 [D. Array and GCD](https://codeforces.com/contest/2104/problem/D)
 
