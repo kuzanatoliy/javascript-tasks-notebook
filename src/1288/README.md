@@ -4,7 +4,7 @@
 
 [A. Deadline](https://codeforces.com/contest/1287/problem/A) - Done
 
-[B. Yet Another Meme Problem](https://codeforces.com/contest/1287/problem/B)
+[B. Yet Another Meme Problem](https://codeforces.com/contest/1287/problem/B) - Done
 
 [C. Two Arrays](https://codeforces.com/contest/1287/problem/C)
 
