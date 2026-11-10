@@ -6,7 +6,7 @@
 
 [B. Replace and Compress](https://codeforces.com/contest/2276/problem/B) - Done
 
-[C. Subarrays](https://codeforces.com/contest/2276/problem/C)
+[C. Subarrays](https://codeforces.com/contest/2276/problem/C) - Done
 
 [D. Caveman](https://codeforces.com/contest/2276/problem/D)
 
