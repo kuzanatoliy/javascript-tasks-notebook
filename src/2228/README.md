@@ -4,7 +4,7 @@
 
 [A. Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) - Done
 
-[B. Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B)
+[B. Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) - Done
 
 [C1. Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1)
 
