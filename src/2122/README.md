@@ -4,7 +4,7 @@
 
 [A. Greedy Grid](https://codeforces.com/contest/2122/problem/A) - Done
 
-[B. Pile Shuffling](https://codeforces.com/contest/2122/problem/B)
+[B. Pile Shuffling](https://codeforces.com/contest/2122/problem/B) - Done
 
 [C. Manhattan Pairs](https://codeforces.com/contest/2122/problem/C)
 
